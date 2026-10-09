@@ -1,0 +1,233 @@
+[Cites 27, Cited by 201]
+Supreme Court of India
+Gujarat Urja Vikash Nigam Ltd vs Essar Power Ltd on 13 March, 2008
+Equivalent citations: AIR 2008 SUPREME COURT 1921, 2008 AIR SCW 2169, 2008 (4) SRJ 50, (2008) 4 CTC 539 (SC), 2008 (4) CTC 539, 2008 (3) SCALE 469, 2008 (4) SCC 755, 2008 (2) ARBI LR 1, (2008) 1 WLC(SC)CVL 751, (2008) 3 GUJ LR 2246, (2008) 4 MAD LJ 573, (2008) 2 ARBILR 1, (2008) 3 SCALE 469, (2008) 2 UC 1039, (2008) 2 ALL WC 1238
+Author: Markandey Katju
+Bench: H.K. Sema, Markandey Katju
+           CASE NO.:
+Appeal (civil)  1940 of 2008
+
+PETITIONER:
+Gujarat Urja Vikash Nigam Ltd
+
+RESPONDENT:
+Essar Power Ltd
+
+DATE OF JUDGMENT: 13/03/2008
+
+BENCH:
+H.K. Sema & Markandey Katju
+
+JUDGMENT:
+
+J U D G M E N T CIVIL APPEAL NO 1940 OF 2008 [Arising out of S.L.P(C) No.2700 of 2007] WITH CIVIL APPEAL NO. 1941 OF 2008 [Arising out of S.L.P(C) No.675 of 2007] MARKANDEY KATJU, J.
+
+1. Leave granted.
+
+2. This appeal by special leave has been filed against the judgment of the learned Single Judge of the Gujarat High Court dated 15.6.2006 which was passed on a petition under Section 11(5) and (6) of The Arbitration and Conciliation Act, 1996 (hereinafter in short "the 1996 Act"). By that judgment the High Court has appointed Hon'ble Mr. Justice A.M. Ahmadi, retired Chief Justice of India, as the sole arbitrator for deciding certain disputes between the parties.
+
+3. Heard learned counsel for the parties and perused the record.
+
+4. The appellant-company is engaged in the business of generation of electrical energy. The appellant-company has its generation station at Hazira, Surat. On 30th May, 1996 the appellant-company entered into a power purchase agreement (hereinafter in short "the aforesaid agreement") with the Gujarat Electricity Board. Under the aforesaid agreement the parties agreed, inter alia, that out of the total generating capacity of 515MW electricity the appellant-company would allocate 300MW electricity to the Board and 215MW electricity to the Essar Group of Companies. Under Clause 11 of the agreement the parties agreed that in the event any dispute arose the same may be resolved by the parties by mutual agreement as envisaged by Clause 11(1) of the aforesaid agreement. In the event of failure to resolve the dispute by amicable settlement, the parties agreed that such dispute be submitted to arbitration vide Clause 11(2).
+
+5. In the meantime, under the Gujarat Electricity Industry (Reorganization and Regulation) Act, 2003 published in the Gujarat Government Gazette on 12th May, 2003 the assets and liabilities of the Board were transferred to the appellant Nigam.
+
+6. It appears that certain disputes had arisen between the parties mainly in connection with the allocation of power to the Essar Group of Companies. It is not in dispute that the respondent-company did not utilize its total generating capacity to generate 515MW electricity. It also did not supply 300MW electricity to the Board as agreed. According to the Board, in the event of the respondent-company generating less than its total generating capacity of 515MW electricity under the aforesaid agreement, the respondent-company was required to maintain a ratio of 300MW:215MW in allocation of electrical energy to the Board and the Essar Group of Companies respectively. The respondent-company, allegedly, did not maintain the said ratio, and supplied more electricity to the Essar Group than in accordance with the ratio of 300MW:215MW.
+
+7. The respondent-company and the Board tried to settle the above dispute amicably. The State Government also intervened in the matter but to no avail. After protracted correspondence, on 14th November, 2005 the respondent-company called upon the appellant-Nigam to refer the disputes arising from the aforesaid agreement to the arbitrator Mr. Justice A.M. Ahmadi, retired Chief Justice of India. On the other hand, the Nigam approached the Gujarat Electricity Regulatory Commission, Ahmedabad (hereinafter in short "the Commission") by Application No.873 of 2005 made under Section 86(1)(f) of the Electricity Act, 2003 (hereinafter in short "the Act of 2003").
+
+8. Since the Nigam did not send its approval for appointment of Mr. Justice A.M. Ahmadi as arbitrator, the respondent-company approached the Gujarat High Court by filing an application under Section 11(5) and (6) of the 1996 Act, and by the impugned judgment dated 15.6.2006 the learned Single Judge, Gujarat High Court, has appointed Mr. Justice A.M. Ahmadi, retired Chief Justice of India, as the sole arbitrator for resolving the disputes. Aggrieved, this appeal by special leave has been filed by the Nigam before us.
+
+9. Mr. K.K. Venugopal, learned senior counsel for the appellant, has relied on Section 174 of the Act of 2003 which states :
+
+"174. Act to have overriding effect  Save as otherwise provided in section 173, the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act."
+
+10. He has also invited our attention to Section 173 of the Act of 2003 which states :
+
+"173. Inconsistency in laws  Nothing contained in this Act or any rule or regulation made thereunder or any instrument having effect by virtue of this Act, rule or regulation shall have effect in so far as it is inconsistent with any other provisions of the Consumer Protection Act, 1986 (68 of 1986) or the Atomic Energy Act, 1962 (33 of 1962) or the Railways Act, 1989 (24 of 1989)."
+
+11. Mr. K.K. Venugopal submitted that a joint reading of these provisions indicates that ordinarily the Act of 2003 will prevail over all other laws or instruments, but the said Act will have to give way only to the Consumer Protection Act, the Atomic Energy Act, or the Railways Act. In other words, except for the aforementioned three Acts, the Act of 2003 will prevail over all other laws and instruments.
+
+12. Mr. K.K. Venugopal then invited our attention to Section 86(1) of the Act of 2003 which states :
+
+"86. Functions of State Commission (1) The State Commission shall discharge the following function, namely 
+(a) determine the tariff for generation, supply, transmission and wheeling of electricity, wholesale, bulk or retail, as the case may be, within the State:
+Provided that where open access has been permitted to a category of consumers under section 42, the State Commission shall determine only the wheeling charges and surcharge thereon, if any, for the said category of consumers;
+(b) regulate electricity purchase and procurement process of distribution licensees including the price at which electricity shall be procured from the generating companies or licensees or from other sources through agreements for purchase of power for distribution and supply within the State;
+(c) facilitate intra-State transmission and wheeling of electricity;
+(d) issue licences to persons seeking to act as transmission licensees, distribution licensees and electricity traders with respect to their operations within the State;
+(e) promote cogeneration and generation of electricity from renewable sources of energy by providing suitable measures for connectivity with the grid and sale of electricity to any person, and also specify, for purchase of electricity from such sources, a percentage of the total consumption of electricity in the area of a distribution licensee;
+(f) adjudicate upon the disputes between the licensees and generating companies and to refer any dispute for arbitration;
+(g) levy fee for the purposes of this Act;
+(h) specify State Grid Code consistent with the Grid Code specified under clause (h) of sub-
+
+section (1) of section 79;
+
+(i) specify or enforce standards with respect to quality, continuity and reliability of service by licensees;
+
+(j) fix the trading margin in the intra-
+
+State trading of electricity, if considered, necessary;
+
+(k) discharge such other functions as may be assigned to it under this Act."
+
+13. Learned counsel for the appellant submitted that Section 86(1)(f) of the Act of 2003 clearly indicates that the disputes between the licensees and generating companies can only be adjudicated upon by the State Commission, either itself or by an arbitrator to whom the Commission refers the dispute. Hence he submitted that the High Court cannot refer disputes between licensees and generating companies to an arbitrator since such power of adjudication or reference to an arbitrator has been specifically given to the State Commission.
+
+14. Shri K.K. Venugopal also relied on Section 158 of the Act of 2003 which states :
+
+"158. Arbitration  Where any matter is, by or under this Act, directed to be determined by arbitration, the matter shall, unless it is otherwise expressly provided in the licence of a licensee, be determined by such person or persons as the Appropriate Commission may nominate in that behalf on the application of either party; but in all other respects the arbitration shall be subject to the provisions of the Arbitration and Conciliation Act, 1996 (26 of 1996)."
+
+15. Shri K.K. Venugopal also relied on Section 2(3) of the 1996 Act which states :
+
+"2(3)  This part shall not affect any other law for the time being in force by virtue of which certain disputes may not be submitted to arbitration."
+
+16. Shri Venugopal submitted that Section 11 of the 1996 Act has no application because the Act of 2003 has provided for arbitration of disputes between licensees and generating companies by the Commission or its nominated arbitrator. Since the Electricity Act is a special law dealing with arbitrations of disputes between licensees and the generating companies, he submitted that the general provision in Section 11 of the Arbitration and Conciliation Act, 1996 will not apply for appointing an arbitrator for such disputes in view of the maxim Generalia specialibus non derogant (vide G.P. Singh's `Principles of Statutory Interpretation', 9th Edition, 2004 page 133).
+
+17. Shri K.K. Venugopal submitted that in view of Section 86(1)(f) of the Act of 2003 it is only the State Commission or its nominee which can adjudicate upon disputes between licensees and generating companies. Hence he submitted that the impugned judgment of the High Court referring the dispute to an arbitrator was illegal, since the High Court has no such power.
+
+18. On the other hand Shri F.S. Nariman, learned senior counsel for the respondent, has invited our attention to the agreement between the parties dated 30.5.1996. The relevant part of the agreement is Article 11 which states:
+
+"ARTICLE 11 ARBITRATION 11.1 RESOLUTION OF DISPUTES :
+Except as otherwise provided in this Agreement, any disagreement dispute controversy or claim (the "Dispute") between the Board and the Company in connection with or arising out of this Agreement, the Parties shall attempt to settle such Dispute in the first instance within thirty days by discussion between the Com[any and the Board in the following manner :
+(a) Each Party shall designate in writing to the other Party a representative who shall be authorized to resolve any dispute arising under this Agreement in an equitable manner.
+(b) If the designated representatives are unable to resolve the dispute under this Agreement within 15 days, such dispute shall be referred by such representatives to a senior officer designated by the Company and a senior officer designated by the Board respectively, who shall attempt to resolve the Dispute within a further period of 15 days.
+(c) The Parties hereto agree to use their best efforts to attempt to resolve all Disputes arising hereunder promptly equitably and in good faith and further agree to, provide each other with reasonable access during normal business hours to any records, information and data pertaining to any such Dispute.
+
+11.2 ARBITRATION In the event that any Dispute is not resolved between the Parties pursuant to Article 11.1 then such Dispute shall be settled exclusively and finally by Arbitration. It is specifically understood and agreed that any Dispute that cannot be resolved between the Parties, including any matter relating to the interpretation of this Agreement, shall be submitted to Arbitration irrespective of the magnitude thereof and the amount in dispute or whether such Dispute would otherwise be considered justifiable or ripe for resolution by any Court. This Agreement and the rights and obligations of the Parties hereunder shall remain in full force and effect pending the award in such Arbitration proceedings. The award shall determine whether and when Termination of this Agreement, if relevant, shall become effective.
+
+The Arbitration shall be in accordance with the Indian Arbitration and Conciliation Ordinance, 1996 or such modifications or re-enactment thereof.
+
+11.3 NUMBER OF ARBITRATORS The arbitral tribunal shall consist either (a) of sole Arbitrator mutually agreed upon or (b) of three (3) (Arbitrators  One each to be chosen by each Party and third person to be selected by two Arbitrators so chosen before commencement of arbitration proceedings to act as an Umpire/third Arbitrator.
+
+11.4 PLACE OF ARBITRATION The arbitration shall be conducted at Baroda.
+
+11.5 FINALITY AND ENFORCEMENT OF AWARD The arbitral tribunal shall give reasoned decision or award which shall be final and binding upon the Parties. The Parties hereto agree that the arbitral award may be enforced against the Parties to the arbitration proceeding or their assets wherever they may be found and that a judgment upon the arbitral award may be entered in any Court which shall have jurisdiction over the matter."
+
+19. Shri F.S. Nariman invited our attention to Section 175 of the Act of 2003 which states :
+
+"175. Provisions of this Act to be in addition to and not in derogation of other laws  The provisions of this Act are in addition to and not in derogation of any other law for the time being in force."
+
+20. In view of the above provision, Shri Nariman submitted that the Act of 2003 does not prohibit the application of the provisions of the Act of 1996 including Section 11 thereof. Hence he submitted that a reference can be made by the Court under Section 11(5) and (6) of the said Act of disputes between licensees and generating companies. Accordingly he submitted, the High Court order was valid.
+
+21. It appears that the respondent Essar Power limited was obliged under its agreement with the Gujarat Electricity Board to supply power to the Board and the Essar Steel Limited in the ratio of 300MW:215MW. The grievance of the Board (now the Nigam) was that the Essar Power Limited has diverted energy which was to be supplied to the Board to the Essar Steel Limited. Hence the Board vide its letter dated 29.10.2003 raised a demand of Rs.537 crores upon Essar Power Limited for diverting the said energy. On the other hand, Essar Power Limited disputed the said claim by its reply dated 1.11.2003 and stated that the Board had not honoured its commitment under the agreement regarding payment to it. The Board, thereafter, raised further claims against Essar Power Limited.
+
+22. The appellant company then approached the Gujarat Electricity Regulatory Commission under Section 86(1)(f) of the Electricity Act, 2003 whereas Essar Power Limited filed a petition in the Gujarat High Court under Section 11(5) and (6) of the Arbitration and Conciliation Act, 1996 in which the impugned order was passed.
+
+23. It may be mentioned that before filing the petition in the High Court the respondent Essar Power Limited sent a notice dated 14.11.2005 invoking the arbitration clause and nominating Mr. Justice A.M. Ahmadi as the sole Arbitrator in terms of Article 11 of the agreement, and called upon the Nigam to concur to the said nomination or suggest its own nominee within thirty days. Instead of concurring to the nominee suggested by the company or suggesting its own nominee, the Nigam vide its letter dated 5.12.2005 denied that the dispute can be resolved by appointing an Arbitrator under Section 11 of the Act of 1996. The Nigam contended that only the State Commission can adjudicate the dispute under Section 86(1)(f) of the Act of 2003, or refer the matter to an arbitrator.
+
+24. The main question before us is whether the application under Section 11 of the Act of 1996 is maintainable in view of the statutory specific provisions contained in the Electricity Act of 2003 providing for adjudication of disputes between the licensee and the generating companies.
+
+25. In our opinion, the submission of Mr. K.K. Venugopal has to be accepted.
+
+26. It may be noted that Section 86(1)(f) of the Act of 2003 is a special provision for adjudication of disputes between the licensee and the generating companies. Such disputes can be adjudicated upon either by the State Commission or the person or persons to whom it is referred for arbitration. In our opinion the word `and' in Section 86(1)(f) between the words 'generating companies' and `to refer any dispute for arbitration' means `or'. It is well settled that sometimes `and' can mean `or' and sometimes `or' can mean `and' (vide G.P. Singh's `Principle of Statutory Interpretation' 9th Edition, 2004 page 404.)
+
+27. In our opinion in Section 86(1)(f) of the Electricity Act, 2003 the word `and' between the words `generating companies' and the words `refer any dispute' means `or', otherwise it will lead to an anomalous situation because obviously the State Commission cannot both decide a dispute itself and also refer it to some Arbitrator. Hence the word `and' in Section 86(1)(f) means `or'.
+
+28. Section 86(1)(f) is a special provision and hence will override the general provision in Section 11 of the Arbitration and Conciliation Act, 1996 for arbitration of disputes between the licensee and generating companies. It is well settled that the special law overrides the general law. Hence, in our opinion, Section 11 of the Arbitration and Conciliation Act, 1996 has no application to the question who can adjudicate/arbitrate disputes between licensees and generating companies, and only Section 86(1)(f) shall apply in such a situation.
+
+29. This is also evident from Section 158 of the Electricity Act, 2003 which has been quoted above. We may clarify that the agreement dated 30.5.1996 is not a part of the licence of the licensee. An agreement is something prior to the issuance of a licence. Hence any provision for arbitration in the agreement cannot be deemed to be a provision for arbitration in the licence. Hence also it is the State Commission which alone has power to arbitrate/adjudicate the dispute either itself or by appointing an arbitrator.
+
+30. Shri Jayant Bhushan, learned counsel for one of the parties in the connected case submitted that Section 86(1)(f) is violative of Article 14 of the Constitution of India because it does not specify when the State Commission shall itself decide a dispute and when it will refer the matter to arbitration by some arbitrator. In our opinion there is no violation of Article 14 at all. It is in the discretion of the State Commission whether the dispute should be decided itself or it should be referred to an arbitrator. Some leeway has to be given to the legislature in such matters and there has to be judicial restraint in the matter of judicial review of constitutionality of a statute vide Government of Andhra Pradesh & Ors. vs. Smt. P. Laxmi Devi JT 2008(2) 8 SC 639. There are various reasons why the State Commission may not decide the dispute itself and may refer it for arbitration by an arbitrator appointed by it. For example, the State Commission may be overburdened and may not have the time to decide certain disputes itself, and hence such cases can be referred to an arbitrator. Alternatively, the dispute may involve some highly technical point which even the State Commission may not have the expertise to decide, and such dispute in such a situation can be referred to an expert arbitrator. There may be various other considerations for which the State Commission may refer the dispute to an arbitrator instead of deciding it itself. Hence there is no violation of Article 14 of the Constitution of India.
+
+31. We may now deal with the submission of Mr. Fali S. Nariman that in view of Section 175 of the Electricity Act, 2003, Section 11 of the Arbitration and Conciliation Act, 1996 is also available for arbitrating disputes between licensees and generating companies.
+
+32. Section 175 of the Electricity Act, 2003 states that the provisions of the Act are in addition to and not in derogation of any other law. This would apparently imply that the Arbitration and Conciliation Act, 1996 will also apply to disputes such as the one with which we are concerned. However, in our opinion Section 175 has to be read along with Section 174 and not in isolation.
+
+33. Section 174 provides that the Electricity Act, 2003 will prevail over anything inconsistent in any other law. In our opinion the inconsistency may be express or implied. Since Section 86(1)(f) is a special provision for adjudicating disputes between licensees and generating companies, in our opinion by implication Section 11 of the Arbitration and Conciliation Act, 1996 will not apply to such disputes i.e. disputes between licensees and generating companies. This is because of the principle that the special law overrides the general law. For adjudication of disputes between the licensees and generating companies there is a special law namely 86(1)(f) of the Electricity Act, 2003. Hence the general law in Section 11 of the Arbitration and Conciliation Act, 1996 will not apply to such disputes.
+
+34. It is well settled that where a statute provides for a thing to be done in a particular manner, then it has to be done in that manner, and in no other manner, vide Chandra Kishore Jha vs. Mahavir Prasad, AIR 1999 SC 3558 (para 12), Dhananjaya Reddy vs. State of Karnataka, AIR 2001 SC 1512 (para 22), etc. Section 86(1)(f) provides a special manner of making references to an arbitrator in disputes between a licensee and a generating company. Hence by implication all other methods are barred.
+
+35. At first glance there is an apparent inconsistency between Section 175 and Section 174 of the Electricity Act, 2003. While Section 174 says that the said Act will prevail over other laws, Section 175 says that the said Act is in addition and not in derogation of any other law (which would include Section 11 of the Arbitration and Conciliation Act, 1996.)
+
+36. In our opinion to resolve this conflict the Mimansa principles of Interpretation would of great utility.
+
+37. It is deeply regrettable that in our Courts of law, lawyers quote Maxwell and Craies but nobody refers to the Mimansa Principles of Interpretation. Today many of our educated people are largely unaware about the great intellectual achievements of our ancestors and the intellectual treasury they have bequeathed us. The Mimansa Principles of Interpretation is part of that intellectual treasury but it is distressing to note that apart from a reference to these principles in the judgment of Sir John Edge, the then Chief Justice of Allahabad High Court in Beni Prasad vs. Hardai Devi, (1892) ILR 14 All 67 (FB), and some judgments by one of us (M. Katju, J.) there has been almost no utilization of these principles even in our own country.
+
+38. It may be mentioned that the Mimansa Rules of Interpretation were our traditional principles of interpretation laid down by Jaimini, whose Sutras were explained by Shabar, Kumarila Bhatta, Prabhakar, etc. These Mimansa Principles were regularly used by our great jurists like Vijnaneshwara (author of Mitakshara), Jimutvahana (author of Dayabhaga), Nanda Pandit, etc. whenever they found any conflict between the various Smritis or any ambiguity, incongruity, or casus omissus therein. There is no reason why we cannot use these principles on appropriate occasions. However, it is a matter of deep regret that these principles have rarely been used in our law Courts. It is nowhere mentioned in our Constitution or any other law that only Maxwell's Principles of Interpretation can be used by the Court. We can use any system of interpretation which helps us resolve a difficulty. In certain situations Maxwell's principles would be more appropriate, while in other situations the Mimansa principles may be more suitable.
+
+39. The Mimansa principles of interpretation were created for resolving the practical difficulties in performing the yagyas. The rules for performing the various yagyas were given in books called the Brahmanas (all inSanskrit) e.g. Shatapath Brahmana, Aitareya Brahmana, Taitareya Brahmana, etc. There were many ambiguities, obscurities, conflicts etc. in the Brahmana texts, and hence the Mimansa Principles of Interpretation were created for resolving these difficulties.
+
+40. Although the Mimansa principles were created for religious purpose, they were so rational and logical that they subsequently began to be used in law, grammar, logic, philosophy, etc. i.e. they became of universal application. The books on Mimansa are all in Sanskrit, but there is a good book in English by Prof. Kishori Lal Sarkar called `The Mimansa Rules of Interpretation' published in the Tagore Law Lecture Series, which may be seen by anyone who wishes to go deeper into the subject.
+
+41. In the Mimansa system there are three ways of dealing with conflicts which have been fully discussed by Shabar Swami in his commentary on Sutra 14, Chapter III, Book III of Jaimini.
+
+(1) Where two texts which are apparently conflicting are capable of being reconciled, then by the Principle of Harmonious Construction (which is called the Samanjasya Principle in Mimansa) they should be reconciled. The Samanjasya Principle has been laid down by Jaimini in Chapter II, Sutra 9 which states :
+
+"The inconsistencies asserted are not actually found. The conflicts consist in difference of application. The real intention is not affected by application. Therefore, there is consistency."
+
+42. The Samanjasya axiom is illustrated in the Dayabhag. Jimutvahana found that there were two apparently conflicting texts of Manu and Yajnavalkya. The first stated "a son born after a division shall alone take the paternal wealth". The second text stated "sons, with whom the father has made a partition, should give a share to the son born after the distribution". Jimutvahana, utilizing the Samanjasya principle of Mimansa, reconciled these two texts by holding that the former applies to the case of property which is the self-acquired property of the father, and the latter applies to the property descended from the grand-father.
+
+43. One of the illustrations of the Samanjasya principle is the maxim of lost horses and burnt chariot (Nashtashvadaghda Ratha Nyaya). This is based on the story of two men traveling in their respective chariots and one of them losing his horses and the other having his chariot burnt through the outbreak of fire in the village in which they were putting up for the night. The horses that were left were harnessed to the remaining chariot and the two men pursued their journey together. Its teaching is union for mutual advantage, which has been quoted in the 16th Vartika to Panini, and is explained by Patanjali. It is referred to in Kumarila Bhatta's Tantra Vartika.
+
+(2) The second situation is a conflict where it is impossible to reconcile the two conflicting texts despite all efforts. In this situation the Vikalpa principle applies, which says that whichever law is more in consonance with reason and justice should be preferred. However, conflict should not be readily assumed and every effort should be made to reconcile conflicting texts. It is only when all efforts of reconciliation fail that the Vikalpa principle is to be resorted to.
+
+(3) There is a third situation of a conflict and this is where there are two conflicting irreconciliable texts but one overrides the other because of its greater force. This is called a Badha in the Mimansa system (similar to the doctrine of ultra vires). The great Mimansa scholar Sree Bhatta Sankara in his book `Mimansa Valaprakasha' has given several illustrations of Badha as follows :
+
+"A Shruti of a doubtful character is barred by a Shruti which is free from doubt. A Linga which is more cogent bars that which is less cogent. Similarly a Shruti bars a Smriti. A Shruti bars Achara (custom) also. An absolute Smriti without reference to any popular reason bars one that is based upon a popular reason. An approved Achara bars an unapproved Achara. An unobjectionable Achara bars an objectionable Achara. A Smriti of the character of a Vidhi bars one of the character of an Arthavada. A Smriti of a doubtful character is barred by one free from doubts. That which serves a purpose immediately bars that which is of a remote service. That which is multifarious in meaning is barred by that which has a single meaning. The application of a general text is barred by a special text. A rule of procedure is barred by a mandatory rule. A manifest sense bars a sense by context. A primary sense bars a secondary sense. That which has a single indication is preferable to what has many indications. An indication of an inherent nature bars one which is not so. That which indicates an action is to be preferred to what merely indicates a capacity. If you can fill up an ellipse by an expression which occurs in a passage, you cannot go beyond it."
+
+(emphasis supplied)
+
+44. The principle of Badha is discussed by Jaimini in the tenth chapter of his work. Badha primarily means barring a thing owing to inconsistency. Jaimini uses the principle of Badha mainly with reference to cases where Angas or sub-ceremonies are to be introduced from the Prakriti Yagya (i.e. a yagya whose rules for performance are given in detail in the Brahmanas) into a Vikriti (i.e. a yagya whose rules of performance are not mentioned anywhere, or are incompletely mentioned). In such a case, though the Angas or the sub-ceremonies are to be borrowed from the Prakriti Yagya, those of the sub-ceremonies which prove themselves to be inconsistent with or out of place in the Vikriti Yagya, are to be omitted.
+
+45. For example, in the Rajsuya Yagya, certain homas are prescribed, for the proper performance of which one must borrow details from the Darshapaurnamasi Yagya. In the Rajsuya Yagya, plain ground is directed to be selected as the Vedi for the homas, while in the case of the Darshapaurnamasi, the Vedi should be erected by digging the ground with spade etc. Such an act would be out of place in constructing the Vedi for the homas in the Rajsuya Yagya. Here, there is a Badha (bar) of the particular rule regarding the erection of the Vedi in the Darshapaurnamasi Yagya, being extended to the Rajsuya Yagya. This is the case of Badha by reason of express text.
+
+46. There are other instances in which the inconsistency arises incidentally. For example, in the Sadyaska there is no need of cutting the peg with which the animal is to be tied. But, in the Agni-Somiya Yagya which is the Prakriti of the Sadyaska Yagya, reciting of certain Mantras is prescribed in connection with the cutting of the peg. This recital being out of place in the former Yagya is barred in carrying the Atidesha process. Numerous other illustrations can be given. For example, in the Satra Yagya the selection of Rittik is out of place and so omitted, though this is done in the Soma Yagya of which the Satra is the Vikriti. The Krishnala Nyaya (black bean maxim) is another instance. In cases where Atidesha is to be made by implication, it is altogether barred, if there is an express text against making the implication.
+
+47. When there is a negative ordinance prohibiting a thing, it is to prevail notwithstanding that there is an Atidesha which by implication enjoins the thing. For instance, there is a rule that all sacrifices partake of the character of Darsha and Paurnamasi Yagyas. The result is that all the rules of Darsha and Paurnamasi Yagyas are applicable to the Pasu Yagya also. But there is a text which says that the Aghara and the Ajyabhaga homas need not be made in the Pasu Yagya. Therefore, these homas need not be made in the Pasu Yagya, though in the absence of the prohibitory text they would have to be made on account of the rule which lays down that all Yagyas must partake of the character of Darsha and paurnamasi.
+
+48. One of the Mimansa principles is the Gunapradhan Axiom, and since we are utilizing it in this judgment (apart from the badha and samanjasya principles) we may describe it in some detail.
+
+49. `Guna' means subordinate or accessory, while `Pradhan' means principal. The Gunapradhan Axiom states :
+
+"If a word or sentence purporting to express a subordinate idea clashes with the principal idea, the former must be adjusted to the latter or must be disregarded altogether."
+
+This principle is also expressed by the popular maxim known as matsya nyaya i.e. `the bigger fish eats the smaller fish'.
+
+According to Jaimini, acts are of two kind, principal and subordinate (see Jaimini 2 : 1 : 6).
+
+In Sutra 3 : 3 : 9 Jaimini states :
+
+xq.keq[;O;frdzes rnFkZRokr eq[;su osn la;ksx% Kumarila Bhatta, in his Tantravartika (See Ganganath Jha's English Translation Vol.3, page 1141) explains this Sutra as follows :
+"When the Primary and the Accessory belong to two different Vedas, the Vedic characteristic of the Accessory is determined by the Primary, as the Accessory is subservient to the purpose of the primary."
+
+It is necessary to explain this Sutra in some detail. The peculiar quality of the Rigveda and Samaveda is that the mantras belonging to them are read aloud, whereas the mantras in the Yajurveda are read in a low voice.
+
+Now the difficulty arose about certain ceremonies, e.g. Agnyadhana, which belong to the Yajurveda but in which verses of the Samveda are to be recited. Are these Samaveda verses to be recited in a low voice or loud voice? The answer, as given in the above Sutra, is that they are to be recited in low voice, for although they are Samavedi verses, yet since they are being recited in a Yajurveda ceremony their attribute must be altered to make it in accordance with the Yajurveda.
+
+Commenting on Jaimini 3 : 3 : 9 Kumarila Bhatta says :
+
+"The Siddhanta (principle) laid down by this Sutra is that in a case where there is one qualification pertaining to the Accessory by itself and another pertaining to it through the Primary, the former qualification is always to be taken as set aside by the latter. This is because the proper fulfillment of the Primary is the business of the Accessory also as the latter operates solely for the sake of the former. Consequently if, in consideration of its own qualification it were to deprive the Primary of its natural accomplishment then there would be a disruption of that action (the Primary) for the sake of which it was meant to operate. Though in such a case the proper fulfillment of the Primary with all its accompaniments would mean the deprival of the Accessory of its own natural accompaniment, yet, as the fact of the Accessory being equipped with all its accompaniments is not so very necessary (as that of the primary), there would be nothing incongruous in the said deprival". See Ganganath Jha's English translation of the Tantravartika, Vol.3 page 1141.
+
+50. In our opinion the gunapradhan axiom applies to this case. Section 174 is the pradhan whereas Section 175 is the guna (or subordinate). If we read Section 175 in isolation then of course we would have to agree to Mr. Nariman's submission that Section 11 of the Arbitration and Conciliation Act, 1996 applies. But we cannot read Section 175 in isolation, we have to read it along with Section 174, and reading them together, we have to adjust Section 175 (the guna or subordinate) to make it in accordance with Section 174 (the pradhan or principal). For doing so we will have to add the following words at the end of Section 175 "except where there is a conflict, express or implied, between a provision in this Act and any other law, in which case the former will prevail".
+
+51. No doubt ordinarily the literal rule of interpretation should be followed, and hence the Court should neither add nor delete words in a statute. However, in exceptional cases this can be done where not doing so would deprive certain existing words in a statute of all meaning, or some part of the statute may become absurd.
+
+52. In the chapter on `Exceptional Construction' in his book on `Interpretation of Statutes' Maxwell writes :
+
+"Where the language of a statute, in its ordinary meaning and grammatical construction leads to a manifest contradiction of the apparent purpose of the enactment, or to some inconvenience or absurdity, hardship or injustice, presumably not intended, a construction may be put upon it which modifies the meaning of the words, and even the structure of the sentence. This may be done by departing from the rules of grammar, by giving an unusual meaning to particular words, by altering their collocation, by rejecting them altogether, or by interpolating other words, under the influence, no doubt, of an irresistible conviction that the legislature could not possibly have intended what the words signify, and that the modifications thus made are mere corrections of careless language and really give the true intention."
+
+53. Thus, in S.S. Kalra vs. Union of India 1991(2) SCC 87, this Court has observed that sometimes courts can supply words which have been accidentally omitted.
+
+54. In G.P. Singh's `Principles of Statutory Interpretation' Ninth Edition, 2004 at pages 71-74 several decisions of this Court and foreign Courts have been referred to where the Court has added words to a statute (though cautioning that normally this should not be done).
+
+55. Hence we have to add the aforementioned words at the end of Section 175 otherwise there will be an irreconciliable conflict between Section 174 and Section 175.
+
+56. In our opinion the principle laid down in Section 174 of the Electricity Act, 2003 is the principal or primary whereas the principle laid down in Section 175 is the accessory or subordinate to the principal. Hence Section 174 will prevail over Section 175 in matters where there is any conflict (but no further).
+
+57. In our opinion Section 174 and Section 175 of the Electricity Act, 2003 can be read harmoniously by utilizing the Samanjasya, Badha and Gunapradhana principles of Mimansa. This can be done by holding that when there is any express or implied conflict between the provisions of the Electricity Act, 2003 and any other Act then the provisions of the Electricity Act, 2003 will prevail, but when there is no conflict, express or implied, both the Acts are to be read together.
+
+58. In the present case we have already noted that there an implied conflict between Section 86(1)(f) of the Electricity Act, 2003 and Section 11 of the Arbitration and Conciliation Act, 1996 since under Section 86(1)(f) the dispute between licensees and generating companies is to be decided by the State Commission or the arbitrator nominated by it, whereas under
+
+Section 11 of the Arbitrary and Conciliation Act, 1996, the Court can refer such disputes to an arbitrator appointed by it. Hence on harmonious construction of the provisions of the Electricity Act, 2003 and the Arbitration and Conciliation Act, 1996 we are of the opinion that whenever there is a dispute between a licensee and the generating companies only the State Commission or Central Commission (as the case may be) or arbitrator (or arbitrators) nominated by it can resolve such a dispute, whereas all other disputes (unless there is some other provision in the Electricity Act, 2003) would be decided in accordance with Section 11 of the Arbitration and Conciliation Act, 1996. This is also evident from Section 158 of the Electricity Act, 2003. However, except for Section 11 all other provisions of the Arbitration and Conciliation Act, 1996 will apply to arbitrations under Section 86(1)(f) of the Electricity Act, 2003 (unless there is a conflicting provision in the Electricity Act, 2003, in which case such provision will prevail.)
+
+59. In the present case, it is true that there is a provision for arbitration in the agreement between the parties dtd. 30.5.1996. Had the Electricity Act, 2003 not been enacted, there could be no doubt that the arbitration would have to be done in accordance with the Arbitration and Conciliation Act, 1996. However, since the Electricity Act, 2003 has come into force w.e.f. 10.6.2003, after this date all adjudication of disputes between licensees and generating companies can only be done by the State Commission or the arbitrator (or arbitrators) appointed by it. After 10.6.2003 there can be no adjudication of dispute between licensees and generating companies by anyone other than the State Commission or the arbitrator (or arbitrators) nominated by it. We further clarify that all disputes, and not merely those pertaining to matters referred to in clauses (a) to (e) and (g) to (k) in Section 86(1), between the licensee and generating companies can only be resolved by the Commission or an arbitrator appointed by it. This is because there is no restriction in Section 86(1)(f) about the nature of the dispute.
+
+60. We make it clear that it is only with regard to the authority which can adjudicate or arbitrate disputes that the Electricity Act, 2003 will prevail over Section 11 of the Arbitration and Conciliation Act, 1996. However, as regards, the procedure to be followed by the State Commission (or the arbitrator nominated by it) and other matters related to arbitration (other than appointment of the arbitrator) the Arbitration and Conciliation Act, 1996 will apply (except if there is a conflicting provision in the Act of 2003). In other words, Section 86(1)(f) is only restricted to the authority which is to adjudicate or arbitrate between licensees and generating companies. Procedural and other matters relating to such proceedings will of course be governed by Arbitration and Conciliation Act, 1996, unless there is a conflicting provision in the Act of 2003.
+
+61. Since the High Court has appointed an arbitrator for deciding the dispute between the licensee and the generating company, in our opinion, the judgment of the High Court has to be set aside. Only the State Commission or the arbitrator (or arbitrators) appointed by it could resolve such a dispute. We, therefore, set aside the impugned judgment of the High Court but leave it open to the State Commission or the Arbitrator (or Arbitrators) nominated by it to adjudicate/arbitrate the dispute between the parties expeditiously. Appeal allowed. The impugned judgment set aside.
+
+62. Case No.873 of 2005 filed by the appellant under Section 86(1)(f) of the Electricity Act, 2003 before the Gujarat Electricity Regulatory Commission, is still pending. Since the matter is pending from 2005, we direct the Gujarat Electricity Regulatory Commission to dispose of the petition as expeditiously as possible preferably within six months.
+
+C.A. No........../2008 [Arising out of S.L.P(C) No.675/2007]
+
+63. This appeal is filed regarding the deduction of Rs.5 crores. The appellant may file application under Section 94(2) of the Electricity Act, 2003 before the appropriate Commission, to pass such an interim order, as may consider appropriate. This appeal is, accordingly, dismissed.

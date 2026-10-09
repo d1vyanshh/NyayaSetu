@@ -1,0 +1,15 @@
+AFFIDAVIT
+Date: {{date}}
+Place: {{city}}, {{state}}
+BETWEEN:
+1. {{deponent_name}}, aged {{age}} years, {{relationship}} of {{father_or_husband_name}}, residing at {{address}}.
+I, {{deponent_name}}, do hereby solemnly affirm and state on oath as follows:
+1. That I am a citizen of {{nationality}} and a permanent resident of {{{residence}}.
+2. The tenant has failed to pay rent for the past three months, which is in direct violation of our lease agreement dated {{lease_date}}. This failure constitutes non-payment as defined under Section 13(a) of the Residential Tenancies Act {{state}} and amounts to a breach of contract.
+3. The tenant has caused significant damage to the property, including broken windows and water stains on walls due to neglected maintenance responsibilities outlined in Paragraph 5 under Section II(b) of our lease agreement dated {{lease_date}}. This constitutes willful destruction as defined by Sections 13(a)(ii) and (iii) of the Residential Tenancies Act {{state}}.
+4. The tenant has repeatedly violated noise ordinances, disturbing neighbors in adjacent units on multiple occasions during weekends over the past two months. This constitutes a breach under Section II(c) of our lease agreement dated {{lease_date}}.
+5. No additional facts are required to be stated hereinabove as per clause (e).
+VERIFICATION:
+I, {{deponent_name}}, do hereby verify and confirm that the contents of this Affidavit are true and correct to my knowledge and belief, with nothing material concealed therefrom.
+IN WITNESS WHEREOF, both parties have executed this agreement on {{date}}.
+Signature: {{full_name}} Date: {{date}}

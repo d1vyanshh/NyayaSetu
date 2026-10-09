@@ -1,0 +1,144 @@
+[Cites 25, Cited by 2207]
+Supreme Court of India
+Bir Singh vs Mukesh Kumar on 6 February, 2019
+Equivalent citations: AIR 2019 SUPREME COURT 2446, 2019 (4) SCC 197, AIRONLINE 2019 SC 577, 2019 CRI LJ 3227, 2019 CRILR(SC MAH GUJ) 187, (2019) 195 ALLINDCAS 155 (SC), (2019) 106 ALLCRIC 923, (2019) 195 ALLINDCAS 155, (2019) 1 ALLCRILR 1064, (2019) 1 ALLCRIR 937, (2019) 1 BANKCAS 563, (2019) 1 CIVILCOURTC 580, (2019) 1 CRILR(RAJ) 187, (2019) 1 GUJ LH 338, (2019) 1 ICC 1129, (2019) 1 KER LT 598, (2019) 1 NIJ 145, (2019) 1 ORISSA LR 447, (2019) 1 PAT LJR 614, (2019) 1 PUN LR 812, (2019) 1 UC 369, (2019) 2 ALD(CRL) 767, (2019) 2 BOMCR(CRI) 311, (2019) 2 KER LJ 205, (2019) 2 MAD LJ(CRI) 565, (2019) 2 RECCRIR 1, (2019) 2 SCALE 698, 2019 (2) SCC (CRI) 40, (2019) 4 CRIMES 149, (2019) 4 CURCC 74, (2019) 74 OCR 87, 2019 ACD 729 (SC), 2019 CALCRILR 1 241, 2019 CRILR(SC&MP) 187, AIR 2019 SC( CRI) 1361
+Author: Indira Banerjee
+Bench: N.V. Ramana, Deepak Gupta, Indira Banerjee
+                                                                  1
+
+
+                                                REPORTABLE
+
+
+
+              THE SUPREME COURT OF INDIA
+            CRIMINAL APPELLATE JURISDICTION
+
+
+
+        CRIMINAL APPEAL NOS.230-231 OF 2019
+          (@ SLP(CRL ) NOS. 9334-35 OF 2018)
+
+
+
+Bir Singh                                          … Appellant
+
+
+                           VERSUS
+
+Mukesh Kumar                                     …Respondent
+
+
+
+
+                       JUDGMENT
+
+
+Indira Banerjee, J.
+
+Leave granted.
+
+2. These appeals are against a Judgment and order dated 21-11- 2017 passed by the High Court of Punjab and Haryana at Chandigarh allowing the Criminal Revisional Application being Criminal Revision Petition No.849 of 2016 filed by the respondent- accused, challenging a judgment and order dated 20-2-2016 passed by the Additional Sessions Judge, Palwal in Criminal Appeal No.13/2015 filed by the respondent-accused, inter alia, affirming a judgment and order of conviction of the respondent-accused, passed by the Judicial Magistrate, 1 st Class, Palwal under Section 138 of the Negotiable Instruments Act, 1881.
+
+3. It is the case of the appellant-complainant, that the respondent-accused issued a cheque being Cheque No.034212 dated 4-3-2012 drawn on Axis Bank, Branch, Palwal in the name of the appellant towards repayment of a “friendly loan” of Rs.15 lakhs advanced by the appellant-complainant to the respondent- accused.
+
+4. On 11-4-2012, the appellant-complainant deposited the said cheque in his bank, but the cheque was returned unpaid with the endorsement “Insufficient Fund”.
+
+5. The appellant-complainant has alleged that, on the assurance of the respondent-accused, that there would be sufficient funds in his bank account to cover the amount of the cheque, the appellant-complainant again presented the cheque to his bank on 23-5-2012, but it was again returned unpaid with the remark “Insufficient Fund”.
+
+6. On 15-6-2012, the appellant-complainant issued a legal notice to the respondent-accused through his lawyer, calling upon the respondent-accused to pay the cheque amount. The said notice, sent by registered post, was according to the appellant- complainant, duly served on the respondent-accused. The respondent-accused, however, did not reply to the notice. Nor did he pay the cheque amount to the appellant-complainant.
+
+7. The appellant-complainant filed a Criminal Complaint against the respondent-accused, being Case No.106 of 2012 before the Judicial Magistrate 1st Class, Palwal, under Section 138 of the Negotiable Instruments Act.
+
+8. Sections 138 and 139 of the Negotiable Instruments Act are set out herein below for convenience:-
+
+“138 Dishonour of cheque for insufficiency, etc., of funds in the account. —Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provisions of this Act, be punished with imprisonment for a term which may be extended to two years, or with fine which may extend to twice the amount of the cheque, or with both:
+Provided that nothing contained in this section shall apply unless—
+(a) the cheque has been presented to the bank within a period of six months from the date on which it is drawn or within the period of its validity, whichever is earlier;
+(b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for the payment of the said amount of money by giving a notice in writing, to the drawer of the cheque,within thirty days of the receipt of information by him from the bank regarding the return of the cheque as unpaid; and
+(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or, as the case may be, to the holder in due course of the cheque, within fifteen days of the receipt of the said notice.
+
+Explanation.— For the purposes of this section, “debt or other liability” means a legally enforceable debt or other liability.]
+
+139. Presumption in favour of holder.—It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.”
+
+9. The object of Section 138 of the Negotiable Instruments Act is to infuse credibility to negotiable instruments including cheques and to encourage and promote the use of negotiable instruments including cheques in financial transactions. The penal provision of Section 138 of the Negotiable Instruments Act is intended to be a deterrent to callous issuance of negotiable instruments such as cheques without serious intention to honour the promise implicit in the issuance of the same.
+
+10. Having regard to the object of Section 138 of the Negotiable Instruments Act, a prosecution based on a second or successive default in payment of the cheque amount is not impermissible simply because no statutory notice had been issued after the first default and no proceeding for prosecution had been initiated. As held by this Court in MSR Leathers vs. S. Palaniappan & Anr 1, there is no real or qualitative difference between a case where default is committed and prosecution immediately launched and another where the prosecution is deferred till the cheque presented again gets dishonoured for the second time or successive times. 1 (2013) 1 SCC 177
+
+11. By a judgment and order dated 9-2-2015, the Judicial Magistrate I Class, Palwal convicted the respondent-accused under Section 138 of the Negotiable Instruments Act and sentenced him to undergo simple imprisonment for a period of one year and further directed him to pay compensation of Rs.15 lakhs to the appellant-complainant within one month from the date of the said Judgment and order. Being aggrieved, the respondent-accused filed a criminal appeal No.13/2015 dated 9-3-2015 in the court of Additional Sessions Judge, Palwal.
+
+12. By a judgment and order dated 20-2-2016, the Appellate Court upheld the conviction of the respondent-accused under Section 138 of the Negotiable Instruments Act and confirmed the compensation of Rs.15 lakhs directed to be paid to the appellant- complainant. The sentence of imprisonment was however reduced to six months from one year.
+
+13. The respondent-accused filed a Criminal Revision Petition being CRR No.849 of 2016 in the High Court challenging the Judgment and order of the Appellate Court. The appellant- complainant also filed a Criminal Revision Petition being CRR No.2017 of 2016 challenging the reduction of the sentence from one year to six months.
+
+14. By a common final Judgment and order dated 21-11-2017 which is impugned before us, the High Court has reversed the concurrent factual findings of the Trial Court and the Appellate Court and acquitted the respondent of the charge under Section 138 of the Negotiable Instruments Act, observing, inter alia, that there was fiduciary relationship between the appellant- complainant, an Income Tax practitioner, and the respondent- accused who was his client.
+
+15. The High Court observed and held:-
+
+“The complainant had fiduciary relationship with the accused-petitioner. Therefore, heavy burden was on the complainant to prove that he had advanced the loan and that blank cheque for the same was given to him. The complainant is an income tax practitioner and he knows that whenever loan is advanced to anybody, receipt has to be obtained and that such heavy amount is to be advanced only through a cheque or demand draft or RTGS. The accused-petitioner was the client of the complainant and they were having professional relationship. The accused-petitioner was no so thick and thin with the complainant. There is no reason why the complainant, who is an income tax practitioner, will advance such a heavy loan to his client without any close relationship and without obtaining any writing to this effect. There was heavy burden on the complainant. In such circumstances, the accused- petitioner is successful in raising reasonable doubts that the complainant might have misused one of the blank cheques given to him for payment of income tax for depositing the same in the Treasury.
+In order to support his case, the accused- petitioner took a risk by stepping himself into the witness box and offered himself for cross- examination. He asserted in his cross-examination that the tax return was deposited in cash and the complainant used to take cash from him. His version was also supported by one Praveen Kumar, DW2. From the abovenoted discussions, it is clear that the parties were in fiduciary relationship and heavy burden was on the complainant to prove that he had advanced a loan of Rs.15,00,000/- to his client without obtaining any writing and that he has not misused any blank cheque of his client. Such loan was not shown in the income tax return of the complainant.
+For the reasons mentioned above, the case of the complainant becomes highly doubtful and is not beyond all reasonable doubts. Therefore, no presumption under Section 138 of the Negotiable Instruments Act, 1881 can be raised. Both the courts below erred in holding the accused-petitioner guilty for the commission of offence punishable under Section 138 of the Negotiable Instruments Act, 1881.
+In view of the foregoing discussions, CRR No. 849 of 2016 is allowed and CRR No.2017 of 2016 is dismissed. The accused- petitioner stands acquitted of the notice of accusation served upon him.”
+
+16. The short question before us is whether the High Court was right in reversing the concurrent factual findings of the Trial Court and of the Appellate court in exercise of its revisional jurisdiction. The questions of law which rise in this appeal are, (i) whether a revisional Court can, in exercise of its discretionary jurisdiction, interfere with an order of conviction in the absence of any jurisdictional error or error of law and (ii) whether the payee of a cheque is disentitled to the benefit of the presumption under Section 139 of the Negotiable Instruments Act, of a cheque duly drawn, having been issued in discharge of a debt or other liability, only because he is in a fiduciary relationship with the person who has drawn the cheque.
+
+17. The Trial Court, on analysis of the evidence adduced by the respective parties arrived at the factual finding that the respondent-accused had duly issued the cheque in question for Rs.15 lakhs in favour of the appellant-complainant, in discharge of a debt or liability, the cheque was presented to the bank for payment within the period of its validity, but the cheque had been returned unpaid for want of sufficient funds in the account of the respondent-accused in the bank on which the cheque was drawn. Statutory Notice of dishonour was duly issued to which there was no response from the respondent-accused.
+
+18. The Appellate Court affirmed the aforesaid factual findings. The Trial Court and the Appellate Court arrived at the specific concurrent factual finding that the cheque had admittedly been signed by the respondent-accused. The Trial Court and the Appellate Court rejected the plea of the respondent-accused that the appellant-complainant had misused a blank signed cheque made over by the respondent-accused to the appellant- complainant for deposit of Income Tax, in view of the admission of the respondent-accused that taxes were paid in cash for which the appellant-complainant used to take payment from the respondent in cash.
+
+19. It is well settled that in exercise of revisional jurisdiction under Section 482 of the Criminal Procedure Code, the High Court does not, in the absence of perversity, upset concurrent factual findings. It is not for the Revisional Court to re-analyse and re-interpret the evidence on record.
+
+20. As held by this Court in Southern Sales and Services and Others vs. Sauermilch Design and Handels GMBH 2, it is a well established principle of law that the Revisional Court will not interfere even if a wrong order is passed by a court having jurisdiction, in the absence of a jurisdictional error. The answer to the first question is therefore, in the negative.
+
+21. In passing the impugned judgment and order dated 21-11- 2017, the High Court mis-construed Section 139 of Negotiable Instruments Act, which mandates that unless the contrary is proved, it is to be presumed that the holder of a cheque received the cheque of the nature referred to in Section 138, for the discharge, in whole or in part, of any debt or other liability. Needless to mention that the presumption contemplated under Section 139 of the Negotiable Instruments Act, is a rebuttable presumption. However, the onus of proving that the cheque was not in discharge of any debt or other liability is on the accused drawer of the cheque.
+
+22. In Hiten P. Dalal vs. Bratindranath Banerjee3, this Court held that both Section 138 and 139 require that the Court shall presume the liability of the drawer of the cheques for the amounts for which the cheques are drawn. Following the judgment of this Court in State of Madras vs. Vaidyanatha Iyer4, this Court held 2 (2008) 14 SCC 457 3 (2001) 6 SCC 16 4 AIR 1958 SC 61 that it was obligatory on the Court to raise this presumption.
+
+23. Section 139 introduces an exception to the general rule as to the burden of proof and shifts the onus on the accused. The presumption under Section 139 of the Negotiable Instruments Act is a presumption of law, as distinguished from presumption of facts. Presumptions are rules of evidence and do not conflict with the presumption of innocence, which requires the prosecution to prove the case against the accused beyond reasonable doubt. The obligation on the prosecution may be discharged with the help of presumptions of law and presumptions of fact unless the accused adduces evidence showing the reasonable possibility of the non- existence of the presumed fact as held in Hiten P. Dalal (supra).
+
+24. Presumption of innocence is undoubtedly a human right as contended on behalf of the respondent-accused, relying on the judgments of this Court in Ranjitsing Brahmajeetsing Sharma vs. State of Maharashtra and Anr5 and Rajesh Ranjan Yada @ Pappu Yadav vs. CBI through its Director 6. However the guilt may be established by recourse to presumptions in law and presumptions in facts, as observed above.
+
+25. In Laxmi Dyechem vs. State of Gujarat & Ors. 7, this Court reiterated that in view of Section 139, it has to be presumed that a cheque was issued in discharge of a debt or other liability but the 5 (2005) 5 SCC 294 6 (2007) 1 SCC 70 7 (2012) 13 SCC 375 presumption could be rebutted by adducing evidence. The burden of proof was however on the person who wanted to rebut the presumption. This Court held “however, this presumption coupled with the object of Chapter XVII of the Act leads to the conclusion that by countermanding payment of a post dated cheque, a party should not be allowed to get away from the penal provision of Section 138 of the Act”.
+
+26. In Kumar Exports vs. Sharma Carpets8, this Court reiterated that there is a presumption that every negotiable instrument duly executed, is for discharge of a debt or liability, but the presumption is rebuttable by proving the contrary. In the facts and circumstances of the case it was found that the cheque in question was towards advance for purchase of carpets, which were in fact not sold by the payee of the cheque to the drawer, as proved from the deposition of an official of the Sales Tax Department, who stated that the payee had admitted that he had not sold the carpets.
+
+27. In K.N. Beena vs. Muniyappan and Another 9, this Court held that in view of the provisions of Section 139 of the Negotiable Instruments Act read with Section 118 thereof, the Court had to presume that the cheque had been issued for discharging a debt or liability. The said presumption was rebuttable and could be rebutted by the accused by proving the 8 (2009) 2 SCC 513 9(2001) 8 SCC 458 contrary. But mere denial or rebuttal by the accused was not enough. The accused had to prove by cogent evidence that there was no debt or liability. This Court clearly held that the High Court had erroneously set aside the conviction, by proceeding on the basis that denials/averments in the reply of the accused were sufficient to shift the burden of proof on the complainant to prove that the cheque had been issued for discharge of a debt or a liability. This was an entirely erroneous approach. The accused had to prove in the trial by leading cogent evidence that there was no debt or liability.
+
+28. In R. Vijayan vs. Baby and Another 10 this Court observed that the object of Chapter XVII of the Negotiable Instruments Act is both punitive as also compensatory and restitutive. It provides a single forum and single proceeding for enforcement of criminal liability by reason of dishonour of cheque and for enforcement of the civil liability for realization of the cheque amount, thereby obviating the need for the creditor to move two different fora for relief. This Court expressed its anguish that some Magistrates went by the traditional view, that the criminal proceedings were for imposing punishment and did not exercise discretion to direct payment of compensation, causing considerable difficulty to the complainant, as invariably the limitation for filing civil cases would expire by the time the criminal case was decided. 10 (2012) 1 SCC 260
+
+29. In R. Vijayan vs. Baby and another (supra) this Court observed that unless there were special circumstances, in all cases of conviction, the Court should uniformly exercise the power to levy fine up to twice the cheque amount and keeping in view the cheque amount and the simple interest thereon at 9% per annum as the reasonable quantum of loss, direct payment of such amount as compensation. This Court rightly observed that uniformity and consistency in deciding similar cases by different courts not only increases the credibility of the cheque as a Negotiable Instrument but also the credibility of the Courts of Justice.
+
+30. The judgment of this Court in Raj Kumar Khurana vs. State of (NCT of Delhi) & Anr.11 was rendered in the particular facts of the case where the drawer of the cheque had reported to the police and the bank that two unfilled cheques signed by him had been stolen.
+
+31. The proposition as re-enunciated in John K John vs. Tom Varghese & Anr.12 cited on behalf of the respondent-accused that if two views are possible, this Court, in exercise of its jurisdiction under Article 136 of the Constitution would ordinarily not interfere with a judgment of acquittal, is well settled.
+
+32. In the aforesaid case this Court affirmed an acquittal under Section 138 of the Negotiable Instrument Act, in the 11 (2009) 6 SCC 72 12 (2007) 12 SCC 714 peculiar facts and circumstances of the case where several civil suits between the parties were pending.
+
+33. In Krishna Janardhan Bhat vs. Dattatraya G. Hegde 13, cited on behalf of the respondent-accused, this Court reaffirmed that Section 139 of the Act raises a presumption that a cheque duly drawn was towards a debt or liability. However, keeping in view the peculiar facts and circumstances of the case, this Court was of the opinion that the courts below had approached the case from a wholly different angle by wrong application of legal principles.
+
+34. It is well settled that a judgment is a precedent for the issue of law which is raised and decided. It is the ratio decidendi of the case which operates as a binding precedent. As observed by this Court in State of Punjab & Ors. vs. Surinder Kumar & Ors. 14, what is binding on all courts is what the Supreme Court says under Article 141 of the Constitution, which is declaration of the law and not what it does under Article 142 to do complete justice.
+
+35. Furthermore, to quote V. Sudhish Pai from his book “Constitutional Supremacy - A Revisit”:-
+
+“Judgments and observations in judgments are not to be read as Euclid’s theorems or as provisions of statute. Judicial utterances/pronouncements are in the setting of the facts of a particular case. To interpret words and provisions of a statute it may become necessary for judges to embark upon lengthy discussions, but such discussion is meant to explain not define, Judges interpret statutes, their words are 13 (2008) 4 SCC 54 14 (1992) 1 SCC 489 not to be interpreted as statutes. Thus, precedents are not to be read as statutes.”
+
+36. The proposition of law which emerges from the judgments referred to above is that the onus to rebut the presumption under Section 139 that the cheque has been issued in discharge of a debt or liability is on the accused and the fact that the cheque might be post dated does not absolve the drawer of a cheque of the penal consequences of Section 138 of the Negotiable Instruments Act.
+
+37. A meaningful reading of the provisions of the Negotiable Instruments Act including, in particular, Sections 20, 87 and 139, makes it amply clear that a person who signs a cheque and makes it over to the payee remains liable unless he adduces evidence to rebut the presumption that the cheque had been issued for payment of a debt or in discharge of a liability. It is immaterial that the cheque may have been filled in by any person other than the drawer, if the cheque is duly signed by the drawer. If the cheque is otherwise valid, the penal provisions of Section 138 would be attracted.
+
+38. If a signed blank cheque is voluntarily presented to a payee, towards some payment, the payee may fill up the amount and other particulars. This in itself would not invalidate the cheque. The onus would still be on the accused to prove that the cheque was not in discharge of a debt or liability by adducing evidence.
+
+39. It is not the case of the respondent-accused that he either signed the cheque or parted with it under any threat or coercion. Nor is it the case of the respondent-accused that the unfilled signed cheque had been stolen. The existence of a fiduciary relationship between the payee of a cheque and its drawer, would not disentitle the payee to the benefit of the presumption under Section 139 of the Negotiable Instruments Act, in the absence of evidence of exercise of undue influence or coercion. The second question is also answered in the negative.
+
+40. Even a blank cheque leaf, voluntarily signed and handed over by the accused, which is towards some payment, would attract presumption under Section 139 of the Negotiable Instruments Act, in the absence of any cogent evidence to show that the cheque was not issued in discharge of a debt.
+
+41. The fact that the appellant-complainant might have been an Income Tax practitioner conversant with knowledge of law does not make any difference to the law relating to the dishonour of a cheque. The fact that the loan may not have been advanced by a cheque or demand draft or a receipt might not have been obtained would make no difference. In this context, it would, perhaps, not be out of context to note that the fact that the respondent-accused should have given or signed blank cheque to the appellant- complainant, as claimed by the respondent-accused, shows that initially there was mutual trust and faith between them.
+
+42. In the absence of any finding that the cheque in question was not signed by the respondent-accused or not voluntarily made over to the payee and in the absence of any evidence with regard to the circumstances in which a blank signed cheque had been given to the appellant-complainant, it may reasonably be presumed that the cheque was filled in by the appellant-complainant being the payee in the presence of the respondent-accused being the drawer, at his request and/or with his acquiescence. The subsequent filling in of an unfilled signed cheque is not an alteration. There was no change in the amount of the cheque, its date or the name of the payee. The High Court ought not to have acquitted the respondent-accused of the charge under Section 138 of the Negotiable Instruments Act.
+
+43. In our considered opinion, the High Court patently erred in holding that the burden was on the appellant-complainant to prove that he had advanced the loan and the blank signed cheque was given to him in repayment of the same. The finding of the High Court that the case of the appellant-complainant became highly doubtful or not beyond reasonable doubt is patently erroneous for the reasons discussed above.
+
+44. The appeals are allowed. The judgment and order of the High Court is set aside. The conviction of the respondent under Section 138 of the Negotiable Instruments Act is confirmed. However, the respondent-accused is sentenced only to fine, which is enhanced to Rs.16 lakhs and shall be paid as compensation to the appellant- complainant. The fine shall be deposited in the Trial Court within eight weeks from the date, failing which the sentence of imprisonment of one year as imposed by the Trial Court shall revive. There shall be no order as to costs.
+
+.................................J. (R. BANUMATHI) .................................J. (INDIRA BANERJEE) FEBRUARY 06, 2019 NEW DELHI 

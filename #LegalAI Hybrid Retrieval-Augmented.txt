@@ -1,0 +1,156 @@
+#LegalAI: Hybrid Retrieval-Augmented Generation (RAG) Architecture Context
+
+This document provides the technical, mathematical, and algorithmic context of the LegalAI project's retrieval engine. You can pass this entire document to Claude or any other LLM to help draft your research paper.
+
+## 1. System Architecture & Motivation
+
+**Motivation:** Traditional RAG pipelines heavily rely on external embedding APIs (like OpenAI embeddings) and vector databases. LegalAI implements a **custom, locally computed Hybrid RAG Engine** that completely eliminates the dependency on external APIs for embeddings. This ensures absolute data privacy for sensitive legal documents and enables offline capability.
+
+**Architecture Overview:**
+The system uses a two-pronged approach for document retrieval:
+1.  **Dense-lite Retrieval:** A lightweight term frequency-inverse document frequency (TF-IDF) vectorization using Cosine Similarity.
+2.  **Sparse Retrieval:** A probabilistic information retrieval model based on Okapi BM25.
+These two scores are combined with a deterministic "Title Boost" to form the final hybrid score.
+
+---
+
+## 2. Mathematical Formulations
+
+### 2.1. TF-IDF Cosine Similarity (Dense-lite Scoring)
+Instead of neural embeddings, we compute a lightweight TF-IDF representation.
+
+Let $Q$ be the set of query terms and $D$ be a document chunk.
+The TF-IDF weight for a term $t$ in a document $D$ is:
+$$w_{t,D} = \left( \frac{tf_{t,D}}{|D|} \right) \times IDF_t$$
+
+The TF-IDF weight for a term $t$ in the query $Q$ is:
+$$w_{t,Q} = \left( \frac{tf_{t,Q}}{|Q|} \right) \times IDF_t$$
+
+Where:
+*   $tf_{t,D}$ is the raw frequency of term $t$ in chunk $D$.
+*   $|D|$ is the total number of tokens in the chunk.
+*   $IDF_t = \log\left( \frac{N - df_t + 0.5}{df_t + 0.5} + 1 \right)$ (Smoothed Inverse Document Frequency).
+    *   $N$ is the total number of chunks.
+    *   $df_t$ is the number of chunks containing term $t$.
+
+The Cosine Similarity Score is calculated as:
+$$Score_{Cosine}(Q, D) = \frac{\sum_{t \in Q \cap D} w_{t,Q} \cdot w_{t,D}}{\sqrt{\sum_{t \in Q} w_{t,Q}^2} \times \sqrt{\sum_{t \in D} w_{t,D}^2}}$$
+
+### 2.2. Okapi BM25 (Sparse Scoring)
+BM25 handles term saturation and length normalization better than standard TF-IDF.
+
+The BM25 score of a document chunk $D$ for a query $Q$ is:
+$$Score_{BM25}(Q, D) = \sum_{t \in Q} IDF_t \cdot \frac{tf_{t,D} \cdot (k_1 + 1)}{tf_{t,D} + k_1 \cdot \left(1 - b + b \cdot \frac{|D|}{avg\_dl}\right)}$$
+
+Where:
+*   $k_1 = 1.5$ (Term frequency saturation parameter)
+*   $b = 0.75$ (Length normalization parameter)
+*   $avg\_dl$ is the average document length across the entire corpus.
+
+### 2.3. Final Hybrid Scoring Function
+The final relevance score linearly interpolates BM25 and scaled Cosine Similarity, while applying a heuristic boost if query terms appear in the constitutional article title.
+
+$$Score_{Hybrid}(Q, D) = \alpha \cdot Score_{BM25}(Q, D) + \beta \cdot (Score_{Cosine}(Q, D) \cdot 10) + \gamma \cdot Boost(Q, Title_D)$$
+
+Where:
+*   $\alpha = 0.6$ (Weight for BM25)
+*   $\beta = 0.4$ (Weight for TF-IDF Cosine)
+*   $Boost(Q, Title_D) = \sum_{t \in Q} \begin{cases} 2 & \text{if } t \in Title_D \\ 0 & \text{otherwise} \end{cases}$
+*   $\gamma = 1.0$ (Implicit weight for title boost)
+
+---
+
+## 3. Pseudocode Algorithms
+
+### Algorithm 1: Index Building Pipeline
+```pascal
+Procedure BuildHybridIndex(CorpusText, ChunkSize=2000, Overlap=400):
+    // 1. Semantic Chunking
+    Splits = RegexSplit(CorpusText, pattern="ARTICLE|PART|SCHEDULE")
+    Chunks = []
+    
+    For each Segment in Splits:
+        If Length(Segment) > ChunkSize:
+            SubChunks = SlidingWindowSplit(Segment, size=ChunkSize, stride=ChunkSize-Overlap)
+            Chunks.Append(SubChunks)
+        Else:
+            Chunks.Append(Segment)
+            
+    // 2. Tokenization and Metadata Extraction
+    DocumentFrequencies = HashMap()
+    TotalTokens = 0
+    
+    For each Chunk in Chunks:
+        Title = ExtractRegex(Chunk, pattern="^ARTICLE \d+")
+        Tokens = TokenizeAndRemoveStopwords(Chunk)
+        TermFrequencies = CountFrequencies(Tokens)
+        
+        For each unique Term in Tokens:
+            DocumentFrequencies[Term] += 1
+            
+        TotalTokens += Length(Tokens)
+        SaveToMemory(Chunk, Title, Tokens, TermFrequencies)
+        
+    // 3. Corpus Statistics
+    N = Length(Chunks)
+    AvgDL = TotalTokens / N
+    
+    For each Term, DF in DocumentFrequencies:
+        IDF[Term] = Log(((N - DF + 0.5) / (DF + 0.5)) + 1)
+        
+    Return IDF, AvgDL
+```
+
+### Algorithm 2: Hybrid Retrieval and Query Expansion Pipeline
+```pascal
+Procedure RetrieveRelevantChunks(RawQuery, TopK=5):
+    // 1. Query Expansion (Domain-Specific Synonym Mapping)
+    QueryTokens = TokenizeAndRemoveStopwords(RawQuery)
+    ExpandedTokens = Copy(QueryTokens)
+    
+    For each (LegalTerm, Synonyms) in LegalDictionary:
+        If RawQuery contains LegalTerm OR RawQuery contains Synonyms[0..1]:
+            ExpandedTokens.Append(Synonyms)
+            
+    ExpandedTokens = RemoveDuplicates(ExpandedTokens)
+    
+    // 2. Scoring
+    ScoredChunks = []
+    For each Chunk in IndexedChunks:
+        // Compute Sparse Score
+        ScoreBM25 = ComputeBM25(ExpandedTokens, Chunk, IDF, AvgDL, k1=1.5, b=0.75)
+        
+        // Compute Dense-lite Score
+        ScoreCosine = ComputeTFIDFCosine(ExpandedTokens, Chunk, IDF)
+        
+        // Compute Metadata Boost
+        TitleBoost = 0
+        For each Term in ExpandedTokens:
+            If Term in Lowercase(Chunk.Title):
+                TitleBoost += 2
+                
+        // Combine Scores
+        HybridScore = (0.6 * ScoreBM25) + (0.4 * ScoreCosine * 10) + TitleBoost
+        
+        If HybridScore > 0:
+            ScoredChunks.Append( (HybridScore, Chunk) )
+            
+    // 3. Ranking and Entity Extraction
+    SortDescending(ScoredChunks, by=HybridScore)
+    TopResults = ScoredChunks[0..TopK]
+    
+    // Post-processing
+    For each Result in TopResults:
+        Result.ExtractedArticles = RegexFindAll("Article \d+[A-Z]?", Result.Text)
+        
+    Return TopResults
+```
+
+---
+
+## 4. Key Innovations to Highlight in the Paper
+
+1.  **Resource Efficiency:** By avoiding massive Transformer-based embedding models (like BERT or OpenAI), the RAG engine requires negligible memory and compute, making it highly suitable for edge deployments or low-resource servers.
+2.  **Domain-Specific Query Expansion:** The `LEGAL_SYNONYMS` dictionary artificially bridges the vocabulary gap between a layman's terms (e.g., "accident", "police") and constitutional/legal terminology without requiring a neural semantic router.
+3.  **Resilience (Fallback Mechanism):** The architecture guarantees a response. If the Generative AI component (Gemini) hits rate limits or is unavailable, the system gracefully degrades to an extractive QA mode, directly presenting the highest-scoring constitutional chunks using the Hybrid RAG index.
+4.  **Deterministic Title Boosting:** Recognizing that legal documents are highly structured, boosting scores when query terms match the extracted `Article` or `Part` titles significantly increases the precision of the top-1 result.

@@ -1,0 +1,12 @@
+NO OBJECTION CERTIFICATE
+Date: {{date}}
+Place: {{city}}, {{state}}
+BETWEEN:
+1. {{issuing_party_name}}, having its office at {{address}} (hereinafter referred to as the 'Issuer')
+TO WHOM IT MAY CONCERN,
+This is to certify that {{issuing_party_name}} has No Objection to {{name_of_person}}, son/daughter of {{parent_name}}, bearing ID Type No. {{id_number}}, for the purpose of {{state specific purpose}}.
+We confirm that he/she has no pending obligations, dues, or liabilities with us that would prevent him/her from said purpose.
+This No Objection Certificate is issued at the request of the above-named individual for the specific purpose mentioned herein.
+VALIDITY: This certificate is valid for a period of {{months}} months from the date of issuance.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+Signature of Deponent: {{full_name}} Date: {{date}}

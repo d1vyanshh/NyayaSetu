@@ -1,0 +1,216 @@
+[Cites 25, Cited by 27]
+Supreme Court of India
+Balammal & Ors. Etc vs State Of Madras & Ors.Etc on 23 April, 1968
+Equivalent citations: 1968 AIR 1425, 1969 SCR (1) 90, AIR 1968 SUPREME COURT 1425
+Author: J.C. Shah
+Bench: J.C. Shah, V. Ramaswami
+           PETITIONER:
+BALAMMAL & ORS. ETC.
+
+	Vs.
+
+RESPONDENT:
+STATE OF MADRAS & ORS.ETC.
+
+DATE OF JUDGMENT:
+23/04/1968
+
+BENCH:
+SHAH, J.C.
+BENCH:
+SHAH, J.C.
+RAMASWAMI, V.
+
+CITATION:
+ 1968 AIR 1425		  1969 SCR  (1)	 90
+ CITATOR INFO :
+ F	    1973 SC 689	 (37)
+ RF	    1980 SC1789	 (36)
+
+
+ACT:
+Madras	City Improvement Trust Act 16 of 1945--Repealed	 and
+replaced by Act 37 of 1950-Cl. 6(2) of Schedule deleting the
+provision  for	statutory  solatium  in	 s.  23(2)  of	Land
+Acquisition  Act  1894 whether	valid--Whether	contravenes,
+Art.  14  of  Constitution--Compensation  on  the  basis  of
+market-value  of  property as on the  date  of	notification
+under s.47 of the Act whether "just equivalent".
+
+
+
+HEADNOTE:
+Under  the  Madras City Improvement Trust Act 16 of  1945  a
+Board  of Trustees was created with powers to carry out	 the
+provisions of the Act.	Section 73 of the Act provided	that
+for  purpose of acquiring land for the Board under the	Land
+Acquisition Act, 1894 the latter Act shall be subject to the
+modifications  specified in the; Schedule.. By cl.  6(2)  of
+the Schedule the 15% solatium payable under s. 23(2) of	 the
+Land  Acquisition  Act would not be payable  in	 respect  of
+certain	 types	of land.  Act 16 of 1945  was  repealed	 and
+replaced  by  Madras  Act 37 of 1950  and  under  s.  173(2)
+thereof all proceedings taken under the 1945 Act were to  be
+deemed	to have been taken under the new Act.  But cl.	6(2)
+of..  the Schedule to the 1950 Act deleted s. 23(2)  of	 the
+1894 Act and substituted for it a new provision, the  result
+of which was that under the new Act 15% solatium would	not,
+be  payable to those whose land was acquired.  The Board  of
+Trustees  framed two schemes for improvement of the town  of
+Madras	and in pursuance of the schemes notifications  under
+s. 47 of the 1945 Act (corresponding to a notification under
+s. 4(1) of the Land Acquisition Act) were issued in 1948 and
+notifications  under s. 53 (corresponding to a	notification
+under s. 6 of the Land Acquisition Act) were issued in 1950.
+The Land Acquisition Officer declined to award 15%  solatium
+to  the appellants and after valuing the lands according  to
+the  scheme framed by the Board awarded	 compensation.	 The
+Chief  Judge  of the Court of Small Causes  Madras  to	whom
+references under s. 18 of the Land Acquisition Act were made
+awarded enhanced compensation and also solatium at 15%.	 The
+High Court in appeals filed before it determined the market-
+value of the lands at rates in excess of those fixed by	 the
+Chief Judge but set aside the order awarding 15% solatium on
+the market-value.  In appeal to this Court against the order
+of the High Court among others the following questions arose
+for  determination  : (i) whether the notices  under  s.  47
+having	been issued under the Act of 1945, the	solatium  of
+15%  provided  for  under that Act would  still	 be  payable
+despite	 the passage of the 1950 Act; (ii) whether cl.	6(2)
+of the Schedule to the 1950 Act was ultra vires as violative
+of  Art.  14;  (iii) whether compensation on  the  basis  of
+marketvalue as on the date of issue of notification under s.
+47  was	 a  'just  equivalent' of the  value  of  the  lands
+expropriated  when there was a timelag between the issue  of
+the aforesaid notification and the date on which  possession
+was taken; (iv) whether the High Court was right in  raising
+the  rates of compensation alone those fixed by	 the,  Chief
+Judge.
+HELD  : (i) Although by cl. 6 of the Schedule to Act  16  of
+1945  solatium	was  awardable to the  owners  of  the	land
+acquired for the Improvement Trust yet since by s. 173(2) of
+Act  37	 of 1950 all the proceedings  which  were  commenced
+under the Act of 1945 were to be
+91
+deemed	to  be	taken  under Act  37  of  1950	compensation
+awardable by virtue of cl. 6 of the Schedule to the new	 Act
+read  with  s.	173(2) of that Act  could  not	include	 the
+statutory  solatium.  The Legislature has  thereby  deprived
+the  owners of the lands of a right to compensation even  in
+proceedings  for acquisition commenced before Act  37  1945.
+[95 F-G]
+(ii) However sub-cl. (2) of cl. 6 of the Schedule to Act  37
+of  1950 insofar as it deprived the owners of the  lands  of
+the  statutory	addition to the market-value  of  the  lands
+under  s. 23(2) of the Land Acquisition Act is violative  of
+the  equality  clause  of the Constitution and	is  on	that
+account	 void.	An owner of land is ordinarily	entitled  to
+receive	 the solatium in addition to the  market-value,	 for
+compulsory acquisition of his land, if it is acquired  under
+the Land Acquisition Act but not if it is acquired under the
+Madras	City  Improvement  Trust  Act.	 A  clear  case	  of
+discrimination thus arises. [95H-96-C]
+On the above finding the owners of land in the present	case
+were  entitled	to receive the statutory solatium  under  s.
+23(2) of the Land Acquisition Act. [98 B-C]
+State  of  West Bengal v. Mrs. Bela Banerjee &	Ors.  [1954]
+S.C.R.	558, State of Madras v. D. Namasiva Mudaliar &	Ors.
+[1964] 6 S.C.R. 614, P. Vajravelu Mudaliar v. Special Deputy
+Collector,  Madras  &  Anr.  [1965] 1  S.C,.R.	614,  N.  B.
+Jeejabhoy v. Assistant Collector Thana Prant, Thana,  [1965]
+1  S.C.R.  636 and Dalchand and Ors.  v.  Delhi	 Improvement
+Trust  (Now Delhi Development Authority) New  Delhi,  [1966]
+Supp.  S.C.R. 27, referred to.
+(iii)  In  view	 of the decision  in  Vajravelu's  case	 the
+contention that compensation payable on the basis of market-
+value  as on the date of notification under s. 47 of Act  37
+of  1950 was not a 'just equivalent' could not be  accepted.
+[101 F]
+P.  Vajravelu v. Special Deputy Collector, Madras and  Anr.,
+[1965] I S.C.R. 614, relied on.
+(iv) The  High Court had committed no error of principle  in
+fixing	the  value  of the, lands in question,	nor  had  it
+failed to apply its mind to any important piece of evidence.
+This  Court  could  not therefore interfere  with  the	High
+Court's order in this respect. [100 H]
+Nowroji	 Rustomji Wadia v. Bombay Government, L.R.  52	I.A.
+367,  Prag  Narain v. Collector of Agra, L.R. 59  I.A.	155,
+Narsingh  Das v. Secretary of State for India, L.R. 52	I.A.
+133  and Special Land Acquisition Officer, Bangalore  v.  T.
+Adinarayan Setty, [1959] Supp. 1 S.C.R. 404, referred to.
+
+
+
+JUDGMENT:
+
+CIVIL APPELLATE JURISDICTION : Civil Appeals Nos. 489, 513, 514, 645-648, 650, 651, 960-967 and 989-993 of 1965 and 2109 and 2228 of 1966.
+
+Appeals from the judgments and decrees dated November 5. 1953 of the Madras High Court in Civil Appeals Suits Nos. 116 of 1953 etc. etc. R. Ramamurthy Iyer, T. S. Rangarajan and R. Gopalakrishnan. for the appellants (in C.As. Nos. 489, 514, 645-647 of 1965 and 2109 and 2228 of 1966) and for respondents (in C.As. Nos. 513 and 648 of 1965) for respondents Nos. 5 and 6 (in C.As. Nos.
+
+960-962, 967 and 989-993 of 1965) and for respondents Nos.
+
+R. Thiagarajan, for the appellants (in C.As. Nos. 650-651 of 1965).
+
+P. Ram Reddy and A. V. V. Nair, for the appellants (in C.As. Nos. 989-993 of 1965) and for respondent No. 2 (in C.As. Nos. 960-962, 964 and 967 of 1965).
+
+K. N. Mudaliyar, Advocate-General for the State of Madras and A. V. Rangam, for the respondents (in C.As. Nos. 489, 514,Respondent No. 1 (in C.A. Nos. 989-993 of 1965) and for appellants (in C.As. Nos. 513, 648, 960 to 967 of 1965). The Judgment of the Court was delivered by Shah,J.In this group of appeals arising out of land acquisition references, two questions fall to be determined:
+
+(1) Whether the owners are entitled to get 15% solatium in addition to the market value for compulsory acquisition of the lands; and (2) Whether the rate at which compensation has been awarded to the claimants for compulsory acquisition of the lands is justified by the evidence.
+
+The Legislature of the Province of Madras enacted the Madras ,City Improvement Trust Act 16 of 1945, to provide, inter alia. for improvement and expansion of the City of Madras by opening up congested areas. Under s. 3 of the Act a Board of Trustees. with power to carry out the provisions of the Act, is to be constituted. The Board is empowered by the Act to frame a scheme to be called "Town Expansion Scheme", and to notify the scheme and also to publish it in the Government Gazette. After considering the objections raised by persons affected by the scheme tile Government may sanction the improvement scheme with or with ,out modifications and announce the fact by notification. Publication of the notification is conclusive evidence that the scheme has been duly framed and sanctioned. The Board shall then proceed with the execution of the scheme. The Board is by virtue of s. 71 authorised, with the previous sanction of the Government, to acquire land under the provisions of the Land Acquisition Act. 1894, for carrying out any of the purposes of the Act. Section 72 authorises the Government to constitute a Tribunal for performing the functions of the Court in reference to the acquisition ,of land for the Board under the Land Acquisition Act, 1894. By s.73 it is provided "For the purpose of acquiring land for the Board under the Land Acquisition Act, 1894-
+
+(a) the said Act shall be subjected to the modications specified in the Schedule; and
+
+(b) ....................................... The Schedule to the Act provided for modifications in the Land Acquisition Act, 1894, for certain specific purposes. By cl. 6(2) of the Schedule the acquiring authority is not liable to pay the additional 15% of the market value under s. 23(2) of the Land Acquisition Act "where the land acquired is situated in an area which is declared by the Provincial Government to be a congested or slum area and the land is not in the actual possession of the owner". It may suffice to state that the land in the cases out of which these appeals arise did not fall within the proviso and in addition to the market value fifteen per cent, on the market-value in consideration of the compulsory nature of the acquisition was payable for acquisition of land made under Act 16 of 1945.
+
+Madras Act 16 of 1945 was repealed and was replaced by Madras Act 37 of 1950. The scheme of the new Act remained. with some modifications, substantially the same as the scheme of the repealed Act. By s. 173(2) it was provided that :
+
+"Notwithstanding such repeal, all action taken, all notifications published, all rules and orders issued and all things done under that Act (Act 16 of 1945) shall be deemed to have been taken, published, issued and done under this Act, and may be continued thereunder."
+
+All the proceedings commenced under Act 16 of 1945 were therefore to be deemed to have been taken under Act 37 of 1950. An important change, however, was made in the Schedule to Act 37 of 1950 which modified the provisions of the Land Acquisition Act, 1894, in its application to the acquisition of lands under that Act. By cl. 6(2) of the Schedule it was provided that sub-s. (2) of s. 23 shall be omitted, and in lieu thereof the following sub-section shall be deemed to have been substituted. namely "(2) For the purpose of clause first of sub- section (1) of this section-
+
+(a) if the market value of the land has been increased or decreased owing to the land falling within or near to the alignment of a projected public street, so much of the increase or decrease as may be due to such cause shall be disregarded;
+
+(b) if any person, otherwise than in accordance with the provisions of this Act, erects, re-erects, adds to, or alters any wall or building so as to make the same project into the street alingment or beyond the building line prescribed by any scheme made under this Act, then, any increase in the market value resulting from such erection, re-erection, addition or alteration shall be disregarded." By that amendment persons whose lands were compulsorily ac- quired under the Madras City Improvement Trust Act 37 of 1950 were deprived of the right to the solatium which would be awarded if the lands were acquired under the Land Acquisition Act.
+
+The Board of Trustees framed two schemes for improvement ,of the town of Madras-"the Mandavalli Scheme" and "the Mowbrays Road Scheme". For the Mandavalli Scheme a notification under s. 47 of Act 16 of 1945 which operates as a notification under s. 4(1) of the Land Acquisition Act, 1894, was issued on August 24, 1948. A notification under s. 53 which is effective ,is a notification under s. 6 of the Land Acquisition Act was issued on May 23, 1950, and the Land Acquisition Officer made his award of compensation on November 22, 1951. Under that scheme 14000 "grounds" (each ground is equal to 2400 sq. ft.) of land were notified for acquisition. For the Nowbrays Road Scheme which was to cover 689 grounds, the notification under s. 47 of the Act of 1945 was issued on October 26, 1948, the notification under s. 53 was issued on May 23, 1950, and the award was made on April 17, 1952. The notifications under ss. 47 and 53 in respect of the two schemes published in exercise of the powers under Act 16 of 1945 and all actions and proceed- ings taken thereunder were by virtue of s. 173(2) of Act 37 of 1950 to be deemed to have been issued, and taken under the repealing Act.
+
+The Land Acquisition Officer declined to award 15% solatium to the owners of the lands. He valued the lands according to a scheme of classification of lands to which we will presently refer, and determined the compensation awardable to the owners on that basis. References were then made at the instance of the owners under s. 18 of the Land Acquisition Act to the Chief Judge of the Court of Small Causes, Madras, for enhanced compensation. The Chief Judge awarded enhanced compensation and in addition thereto awarded 15% solatium on the market value of the land. Against the awards made by the Chief Judge. appeals were preferred by the State of Madras and by the owners of the lands. The High Court modified the awards made by the Chief Judge and determined the market value of the lands at rates in excess of the rates at which the Chief Judge had awarded compensation, but set aside the order awarding 15% solatium on the market value. Against the awards made by the High Court, these appeals are preferred by the State and by the owners of the lands. In appeals Nos. 513, 648 and 960-967 of 1965 filed by the State, modification in the rates of market value made by the High Court for determining the compensation has been challenged. In Appeals Nos. 489, 514, 645-647, 650-651, 989-993 of 1965 and 2109 and 2228 of 1966 filed by the owners of the lands the claimants have claimed 15% solatium which has been denied to them by the High Court and have also claimed additional compensation. We may first deal with the claim of the owners to be awarded solatium at the rate of 15% on the market-value of the lands. If the lands of the owners were notified for acquisition under the Land Acquisition Act, the acquiring authority was bound to award in addition to the market-value of the land a sum of fifteen per centum on the "market-value in consideration of be compulsory nature of the acquisition"
+
+vide s. 23 (2) of the Land Acquisition Act. But since the lands were notified for acquisition for the purpose of Town Expansion Scheme, it is claimed that the owners were, by virtue of Act 37 of 1950, deprived of the right to additional compensation. It was urged by counsel for the owners of the lands that proceedings for acquisition were commenced by the issue of notification under ss. 47 & 53 of Act 16 of 1945, and the owners acquired a vested right to compensation inclusive of 15% solatium, and that right could not be taken away by repeal of the Act and enactment of a new Act when proceedings for assessment of compensation were pending before the Land Acquisition Officer. It is true that by cl. 6 of the Schedule to Act 16 of 1945 solatium was awardable to the owners of the lands acquired for the Improvement Trusts, but since by s. 173(2) of Act 37 of 1950 all the proceedings which were commenced under the Act of 1945 were to be deemed to be taken tinder Act 37 of 1950, compensation awardable by virtue of cl. 6 of he Schedule to the new Act read with S. 173(2) of that Act could not include the statutory solatium. The Legislature has thereby deprived the owners of the lands of a right to compensation even in proceedings for acquisition commenced before Act 37 of 1945.
+But, in our judgment, counsel for the owners is right in contending that sub-cl. (2) of cl. 6 of the Schedule to Act 37 of 1950, insofar as it deprived the owners of the lands of the statutory addition to the market-value of the lands under S. 23(2) of the Land Acquisition Act is violative of the equality clause of the Constitution, and is on that account void. If the State had acquired the land,, for improvement of the town under the Land Acquisition Act, the acquiring authority was bound to award in addition to the market-value 1501,, statutory under s. 23(2) of the Land Acquisition Act. But by acquiring the lands under the Land Acquisition Act as modified by the Schedule to the Madras City Improvement Trust Act 37 of 1950 for the Improvement Trust which also is a public purpose, the owners are, it is claimed, deprived of the right to that statutory addition. An owner of land is ordinarily entitled to receive the solarium in addition to the market-value, for compulsory acquisition of his land, if it is acquired under the Land Acquisition Act, but not if it is acquired under the Madras City Improvement Trust Act. A clear case of discrimination which infringes the guarantee of equal protection of the law arises, and the provision which is more prejudicial to the owners of the lands which are compulsorily acquired must on the decisions of this Court, be- deemed invalid. In The State of West Bengal v. Mrs. Bela Banerjee and others(1) the West Bengal Land Development and Planning Act 21 of 1948 passed primarily for the settlement of immigrants who had migrated into West Bengal provided for compulsory acquisition of land for public purposes, but the amount of compensation was not to exceed the market value of the land on December 31 , 1946. It was held by this Court that the provision fixing the market-value of the land on December 31, 1946, as the ceiling on compensation without reference to the value of the land at the time of acquisition, was arbitrary and could not be regarded as due compliance in letter and spirit with the requirements of Art. 31 (2) of the Constitution.
+In State of Madras v. D. Namasivya Mudaliar and others 2 ,his Court struck down the Madras Lignite (Acquisition of Land) Act 11 of 1953, which provided, inter alia, that compensation for acquisition of lignite bearing lands under the Land Acquisition Act shall be assessed on the market-
+
+value of the land prevailing on August 28, 1947, and not on the date on which the notification was issued under s. 4(1) of the Land Acquisition Act.
+
+In P. Vajravelu Mudaliar v. Special Deputy Collector Madras and Another(3), it was held that the Land Acquisition (Madras Amendment) Act, 1961, which inter alia, provided that for the compulsory acquisition of land, the owner will be entitled to the market-value of the land at the date of the publication of the notification under s. 4 sub-s. (1) of the Land Acquisition Act or in amount equal to the average market-value of the land during the five years immediately preceding such date, whichever is less, and also that he shall be entitled to solatium at the rate of "five per centum", was pro tanto void as infringing Art. 14 of the Constitution. This Court observed that discrimination between (1) [1954] S.C.R. 558. (2) [1964] 6 S.C.R. 614. (3) [1965] 1 S.C.R. 614.
+
+persons whose lands were acquired for housing schemes and those whose lands were acquired for other public purposes was not sustained on the principle of any reasonable classification founded on intelligible differentia which had a rational relation to the object sought to be achieved. In N. B. Jeejeebhoy v. Assistant Collector, Thana Prant, Thana(1), this Court struck down as violative of Art. 14 of the Constitution a provision made by the Land Acquisition (Bombay Amendment) Act, 1948, which enjoined the acquiring authority to assess compensation for the lands compulsorily acquired for the purpose of "a housing scheme' in the State of Bombay at the market rate prevailing not on the date of the issue of the notification under S. 4 of the Land Acquisition Act, 1894, but on January 1, 1948. Compensation awardable for compulsory acquisition of pro- perty must be a just equivalent of the value of the land of which a person is deprived. When compensation payable to the owner is to be based on the market value prevailing on different dates, according as it is awardable under the Land Acquisition Act or tinder some special provision, or when the compensation awardable to the owners of the lands, under the Land Acquisition Act is reduced by a special provision unless the distinction is supported by any rational classification having reasonable relation to tile subject matter or to the object sought to be achieved by the special provision and is founded on some intelligible differentia, the special provision must be held void, as infringing the guarantee tinder Art. 14.
+
+The judgment of this Court in Dalchand and others v. Delhi Improvement Trust (New Delhi Development Authority) New Delhi (2) , on which reliance, was placed by the Advocate- General has no application to that principle. In Dalchand's case ( 2 ) under the U.P. Town Improvement Act 8 of 1908 as extended to the territory of Delhi, (he Delhi Improvement Trust brought into force a scheme for industrial development under which lands were acquired. The Trust paid compensation based on the market value, but without the statutory solatium. It was observed in that case, that if the land had been acquired under the, Land Acquisition Act the claimants would have been entitled to statutory solatium, but not when they were acquired for the Delhi Improvement Trust. In Dalchand's case (2) the validity of the Act was not open to challenge. The notification for acquisition of 'and was issued many years before the date of the commencement of the Constitution and the land had vested in the Trust also before the commencement of the Constitution. No question of deprivation of a fundamental right of equality could (1) [1965] 1 S.C.R.636.
+
+(2) [1966] Supp.S.C.R.27.
+
+therefore be set up in that case and this Court held that the claimants were not entitled to plead that if the land had been acquired under the Land Acquisition Act, they might have become entitled to a statutory solatium in addition to the market-value, whereas under the U.P. Town Improvement Act they were not so entitled.
+
+We, therefore, hold that el. 6 sub-cl. (2) of the Schedule read with S. 73 of Madras Act 37 of 1950 which deprives the owners of the statutory right to solatium at the rate of 15% on the market-value of the lands is invalid, and the owners of the lands are entitled to the statutory solatium under S. 23(2) of the Land Acquisition Act in consideration of compulsory acquisition of their lands.
+
+We may now turn to the argument that rates at which com- pensation was awarded to the owners of the lands was not justified by 'the evidence. Two schemes were framed by the Board of Trustees-(1) Mandavalli Scheme; and (2) Mowbrays Road Scheme. The Land Acquisition Officer classified the lands in the Mandavalli Scheme into two groups-'the developed group' and 'the undeveloped group'. He designated small sites requiring no further improvement and which were ready for being built upon as 'developed lands' and the rest as 'undeveloped lands' and fixed the market value of the developed lands at Rs. 1,550 per ground. In determining the value of undeveloped lands he reduced an amount of Rs. 500 per ground being the estimated proportionate share of the cost for setting apart land for roads and for providing amenities and fixed the market value at Rs. 1,050 per ground. Further adjustments were made in that rate for lands 1 individual cases in the light of their situation. The Chief Judge adopted the classification made by the Land Acquisition Officer, and assessed the land value of developed plots at Rs. 2,000 ground. For arriving at the value for undeveloped lands, he reduced the value by Rs. 500 per ground for roads and cost of development and awarded compensation at the rate of Rs. 1,500 per around. The High Court also accepted the grouping of the lands into two broad groups as adopted by the Chief Judge and the Land Ac- quisition Officer, and further sub-divided the developed plots into "nice desirable plots exceeding one ground and below three grounds, and facing well-known, convenient and already formed roads" and "standard developed plots". The former were Group K-A lands which were valued at Rs. 2,250 per ground, and the latter which were called Group I-B lands were valued at Rs. 2,000 per ground. In the view of the High Court a reduction of Rs. 400 per ground for the value of standard developed lands was adequate to meet the expenses for providing amenities. The basic value of undeveloped plots was assessed at Rs. 1,600 per ground. Having regard. however, to the superior situation of some of the undeveloped plots they grouped them into Group 2-A and awarded compensation at the rate of Rs. 1,750 per ground, and for one plot which in view of its "desirable situation"
+
+was awarded the rate of Rs. 1,850 per ground. The remaining lands which were called Group 2-B lands were awarded compensation at the rate of Rs. 1,600 per ground. The Mowbrays Road Scheme plots were classified by the Land Acquisition Officer into four groups Group I-A, I-B, I-C and Group-II. For groups I-A, I-B, and I-C lands the determined the basic rate of compensation per ground at Rs. 2,500, Rs. 2,400 and Rs. 2,000 respectively, and on the footing that these three groups were undeveloped plots he reduced the rate by Rs. 800 per ground for expenses of laying out roads and providing other amenities. He valued the Group-II lands at Rs. 1,600 and reduced it by 25% for expenses for laying out roads and providing other amenities. The Chief Judge substantially adopted the same classification. He designated the lands as Group 1, Group 11, Group III and Group IV. After considering the situation of the lands, the Chief Judge estimated the basic compensation for Group I at the rate of Rs. 2,400, for Group 11 at Rs. 2,300 and for Group III at Rs. 1,900 and declined to make any deduction for development on the footing that lands were developed lands and no expenditure was required to be incurred and no deduction had to be made. For the interior lands forming Group he estimated the basic price at Rs. 1,900 per ground and made a deduction of Rs. 550 per ground for providing amenities and for meeting the expenses incidental to the development of their lands. In the view of the High Court the rate of compensation per around should be respectively Rs. 2,500, Rs. 2,400 and Rs. 2,250 for lands in Groups I, II and III. For Group IV the High Court assessed compensation at the rate of Rs. 1,630 per ground. In arriving at that valuation they took into consideration the situation of the land, the stage of development the lands bad reached, the size of the plots and the estimated cost of raising the level of the land and providing other amenities which would make them similar to developed lands.
+On behalf of the State it is urged that the High Court erred in increasing the value of the lands in the Mowbrays Road Scheme and that the, High Court should have maintained the order of the Chief Judge relating to those lands. On behalf of the owners of the lands it is urged, especially for the lands in the Mandavalli Scheme, that there were transactions of sale proximate in time to the date on which the notification under S. 47 of Act 16 of 1945 was issued, which disclosed a rate of market-value varying between Rs. 2,000 and Rs. 3,000 per ground, and the Chief Judge and the High Court were not justified in accepting the lowest rate as determinative of the market-value of the lands in the neighbour-
+hood. But the instances relied upon by the owners are of sales of very. small pieces of land approximately of one- half of a ground or less, and we do not think that the High Court has committed any error of principle in rejecting the higher rates furnished by instances of sale of tiny pieces of land. Again no evidence was led before the Chief Judge that the sale transactions reflected the Current rate of market value of lands in the locality, and that the prices paid were not affected by special considerations. In Nowroji Rustomji Wadia v. Bombay Government(1), the Judicial Committee held that in appeals involving the valuation of property, the Judicial Committee will not entertain an appeal as to the value of property compulsorily acquired, except upon questions of principle, including errors in appreciating or applying the rules of evidence, or the judicial methods of weighing evidence. In Prag Narain v. Collector of Agra(2), the Judicial Com- mittee observed that "it is well settled that this Board will not review the decree of an Indian Appellate Court merely upon questions of value", and reiterated the observations made in Narsingh Das v. Secretary of State for India(2) that the Board will not interfere with judgments of the Courts in India as to matters involving valuation of property and similar questions where knowledge of the circumstances and of the district may have an important bearing on the conclusion reached, unless there is something to show, not merely that on the balance of evidence -it would be possible to reach a different conclusion, but that the judgment cannot be supported as it stands, either by reason of a wrong application of principle or because some important point in the evidence has been overlooked or misapplied.
+This Court has adopted a similar approach in appeals which raise disputes relating to valuation of lands compulsorily acquired. In The Special Land Acquisition Officer, Bangalore v. T. Adinarayan Setty (1). S. K. Das, J., speaking for the Court observed "We are content to proceed in this case on the footing that we should not interfere unless there is something to show, not merely that on the balance of evidence it is possible to reach a different conclusion, but that the judgment cannot be supported by reason of a wrong application of principle or because some important point affecting valuation has been overlooked or misapplied."
+
+The learned Advocate-General appearing on behalf of the State of Madras has not invited our attention to any such error of, (1) L.R. 52 I.A. 367.
+
+(3) L.R. 52 I.A, 133.
+
+(2) L.R. 59 I.A. 155.
+
+(4) [1959] Supp. 1 S.C.R. 404.
+
+principle or non-application of mind to any important piece of evidence which may have a bearing on the valuation. The learned Advocates appearing on behalf of the owners of the lands also have not been able to invite our attention to any such error in the judgment of the High Court. Mr. P. Rama Reddy appearing on behalf of respondents in Appeals Nos. 960-962, 964 and 967 and the appellants in Appeals Nos. 989-993 of 1965 raised a special argument which we may now consider. Counsel contended that the provisions of the Land Acquisition Act which are made applicable by S. 73 read with the Schedule to the Madras City Improvement Trust Act and which require the market-value to be awarded to the owners of the land as on the date on which the notification under s. 47 of the Act is issued deprive the owner of the true compensation which is a just equivalent of the value of the lands expropriated. Counsel says that in all cases after the notification is issued, there is a considerable time-lag and the title to the land is ex- tinguished only when the land vests absolutely in the Government under S. 16 of the Land Acquisition Act free from all encumbrances. He says that whereas the compensation payable is the market value prevailing on the date of the issue of the notification under S. 4 of the Lana Acquisition Act the title of the owners to the land is extinguished on the date on which possession is taken, and on that account compensation is determined with reference to a date which in some cases may be years before the date on which the title is extinguished. Counsel invited our attention to the observations made by Subha Rao, J., in Vajravelu Mudaliar's case(1) that under Art. 31 (2) a person whose land was acquired was entitled to compensation i.e. a "just equivalent" of the land of which he was deprived. He contended that if the just equivalent of the land is to be awarded, it must be based on the market value of the land on the date on which the title is extinguished and not the market value at some date anterior thereto. But in P. Vajravelu Mudaliar's case(1) it was decided that the law which determines the market value as at the date of the notification under s. 4(1) of the Land Acquisition Act does not offend Art. 31(2) of the Constitution. Mr. Thiagarajan appearing on behalf of the appellants in Appeals Nos. 650 & 651 of 1954 contended that no adequate compensation was awarded to the owners in respect of charges for severance. Counsel submitted that a part of the compound of a cinema Theatre was acquired compulsorily and that deprived the owner of the land of the facility of providing additional amenities to the patrons of the theatre and also of making constructions on the land expanding the business, and on that account the owners were entitled to compensation either under "Thirdly" or (1) [1965] 1 S.C.R. 614.
+
+"Fourthly" or "Sixthly" of S. 23(1) of the Land Acquisition Act. Under these clauses the damage sustained by the person interested by reason of severing such land from his other land, or by reason of the acquisition injuriously affecting his other property movable or immovable in any other manner, or his earnings, or the damage bona fide resulting from diminution of the profits of the land between the time of the publication of the declaration under s. 6 and the time of the Collectors taking possession of the land may be awarded to the owners. But there is no evidence on the record to which our attention was invited which supported the case of the appellants to compensation under any of the clauses. There is nothing to prove that the owners had sustained any loss by reason of the severance of the land from ,their other lands, nor is there any evidence to prove that by reason of the acquisition the remaining lands were injuriously affected or the earnings of the owners were affected, nor is there any evidence to show that there was any damage resulting from diminution of the profits of the land between the time of the publication of the declaration and the time of taking possession of the land. The High Court has awarded Rs. 2,500 as compensation for severance, and we see no reason to interfere with that order. The appeals filed by the State therefore fail and are dismissed with costs. The appeals filed by the owners are allowed 15% solatium under s. 23 (2) of the Land Acquisition Act on the market-value of the land in addition to the compensation awarded to them. Appellants in each of these appeals will be entitled to their costs in this Court. Parties appearing through the same counsel will be entitled to one hearing fee only.
+G.C. Appeals Allowed.

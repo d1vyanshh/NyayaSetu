@@ -1,0 +1,26 @@
+[Cites 9, Cited by 24]
+Supreme Court of India
+Arvind Mills Ltd. vs Associated Roadways on 12 March, 2004
+Equivalent citations: 2006ACJ441, AIR2004SC5147, II(2007)CPJ1(SC), 2004(3)CTC127, (2004)4MLJ109(SC), (2004)11SCC545, (2006) 1 ACJ 441, AIR 2004 SUPREME COURT 5147, 2004 AIR SCW 5915, 2007 (6) ALL LJ NOC 1092, (2005) 1 ALLMR 58 (SC), 2005 (1) ALL MR 58, 2005 (7) SCALE 319, 2004 (11) SCC 545, (2004) 3 CTC 127 (SC), (2007) 2 CPR 47, (2004) 4 MAD LJ 109, (2005) 7 SCALE 319, (2007) 4 ALL WC 4(15), (2007) 2 CPJ 1
+Bench: Ruma Pal, P. Venkatarama Reddi
+ORDER
+
+1. Delay condoned.
+
+2. Appeal admitted.
+
+3. A complaint was filed for recovery of Rs. 21,04,835.83 p. by the appellant against the respondent under the Consumer Protection Act, 1986, before the National Consumer Disputes Redressal Commission (for short, 'the National Commission'). According to the complaint, the respondent was a common carrier and was liable to compensate the appellant for the loss suffered because the appellant had effected delivery of goods entrusted to it by the appellant without obtaining the original lorry receipts from the consignee.
+
+4. The National Commission followed its earlier decision in the case of Delhi Assam Roadways Corporation v. B.L. Sharma (First Appeal No. 107 of 2001) decided on 12th December, 2002 and held that in the absence of a notice under Section 10 of the Carriers Act, 1865, the complaint cannot be entertained under the Consumer Protection Act against a common carrier. The special leave petition filed against the decision in the case of B.L. Sharma (supra) was dismissed by recording that the Court saw no reason to interfere with the reasoning of the National Commission.
+
+5. Before us, the learned counsel for the appellant has contended that the order of this Court in B.L. Sharma (supra) should not be followed as it was not in fact, a decision on an appeal. The earlier decisions of this Court relied upon by the National Commission, all pertained to Section 9 and not Section 10 of the Carriers Act. It is further submitted that the National Commission had wrongly extended the principles which this Court had applied to Section 9 of the Carriers Act to Section 10 thereof without noticing that Section 9 created substantive rights whereas Section 10 was merely procedural. According to the appellant, because the right available under Section 9 of the Carriers Act to a consignor was also available under the common law, this Court had held that Section 9 of the Carriers Act applied to the Consumer Protection Act. It is further submitted that to make a proceeding under the Consumer Protection Act subject to the precondition of notice under Section 10 of the Carriers Act would be to place an unnecessary impediment on the rights of consumers to have expeditious and summary disposal of their complaints which was the object of the framing of the Consumer Protection Act. It is pointed out that Section 3 of the Consumer Protection Act clarifies that the remedy available under the Consumer Protection, Act was an additional remedy and not in derogation of any other law.
+
+6. The decision of this Court, which has been relied upon by the National Commission in B.L. Sharma (supra) and which is sought to be distinguished by the appellant, is Patel Roadways Limited v. Birla Yamaha Limited, . That case is an authority for two propositions; one, that the law relating to common carriers was crystallised under the statute and second, that the word 'suit' in Section 9 of the Carriers Act would have to be defined to include proceedings under the Consumer Protection Act.
+
+7. Since the word 'suit' has been used both in Section 9 and Section 10 of the Carriers Act, there is no reason why we should not construe the said word as far as Section 10 is concerned in the same manner as it was done in Patel Roadways Limited (supra) qua Section 9. The distinction that has been sought to be drawn between Section 9 and Section 10, namely, that the former creates a substantive right whereas the latter only provides for procedure is unacceptable. Section 9 deals with the rule of evidence to be followed in dealing with cases under the Carriers Act and rules of evidence are the rules of procedure. Besides, the construction of the word 'suit' in Patel Roadways Limited (supra) did not turn on whether Section 9 was either procedural or substantive.
+
+8. The fact that the remedies under the Consumer Protection Act are in addition to and not in derogation of any other law does not mean that the rights under the Carriers Act can be exercised, except in accordance with the manner provided under the Act. Sections 9 and 10 form an integral scheme by which a common carrier is fastened with liability irrespective of proof of negligence. Merely because the procedure under the Consumer Protection Act is summary in nature does not in any way warrant the abrogation of the requirement to serve notice under Section 10 of the Carriers Act before fastening any liability under that Act on the carriers.
+
+9. This civil appeal is, accordingly, dismissed.
+
+10. No costs.

@@ -1,0 +1,93 @@
+[Cites 3, Cited by 10]
+Supreme Court of India
+Vinod Jain vs Santokba Durlabhji Memorial Hospital on 25 February, 2019
+Equivalent citations: AIR 2019 SUPREME COURT 1143, 2019 (12) SCC 229, 2019 (3) ADR 247, (2019) 198 ALLINDCAS 97 (SC), (2019) 128 CUT LT 299, (2019) 135 ALL LR 305, (2019) 198 ALLINDCAS 97, (2019) 2 ALL WC 1660, (2019) 2 CAL HN 78, (2019) 2 ICC 700, 2019 (2) KCCR SN 120 (SC), (2019) 2 RECCIVR 300, (2019) 3 ACJ 1614, (2019) 3 ANDHLD 17, (2019) 3 SCALE 794, (2019) 4 MPLJ 578, (2019) 6 MAH LJ 818, AIR 2019 SC (CIV) 1525, AIRONLINE 2019 SC 111
+Author: Sanjay Kishan Kaul
+Bench: Sanjay Kishan Kaul, L. Nageswara Rao
+                                                                                 REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+                                         CIVIL APPELLATE JURISDICTION
+
+                                          CIVIL APPEAL NO.2024 of 2019
+                                        {Arising out of SLP(C) No.32721/2017}
+
+
+                         VINOD JAIN                                            ….Appellant
+
+                                                         versus
+
+
+                         SANTOKBA DURLABHJI
+                         MEMORIAL HOSPITAL & ANR.                              ….Respondents
+
+
+                                                    JUDGMENT
+
+
+SANJAY KISHAN KAUL, J.
+
+1. Leave granted.
+
+2. The sad demise of the wife of the appellant on 31.10.2011 has resulted in the legal proceedings being initiated by the appellant on a belief that the cause of her death was medical negligence. The State Consumer Disputes Redressal Commission, Rajasthan (for short ‘State Commission’) found in favour of the appellant vide order dated Consumer Disputes Redressal Commission, New Delhi (for short ‘NCDRC’) vide order dated 1.8.2017. We are, thus, faced with the present appeal.
+
+3. Late Mrs. Sudha Jain was the wife of the appellant, who was suffering from various diseases – oesophageal cancer (past history of colon and breast cancer), hypertension and type 2 diabetes. The occasion to be admitted to respondent No.1-Hospital and being treated by respondent No.2-Doctor on 15.10.2011 was chills and fever as also for re-insertion of nasal feed tube, stated to be dislodged due to severe dysphagia. She was attended to by respondent No.2-Doctor for the chill and fever, and nasal feed tube was inserted on the same day by Dr. Anurag Govil, with some allied tests prescribed to be carried out. One of the tests was a Complete Blood Count Report, which found that the WBC count was high, indicative of infection. She had also running temperature of 104 degrees Fahrenheit, and her medical treatment commenced with intravenous administration of injection Magnex of 1.5 mg. As per the medical reports, the cannula used for intravenous treatment stopped functioning and respondent No.2-Doctor prescribed a further antibiotic tablet, Polypod (Cefpodoxime) to be orally administered through the nasal tube. The patient was discharged from respondent No.1-Hospital on 18.10.2011, at which stage also her WBC count was high and she was prescribed to continue taking her medicines for a period of 5 days post discharge, which apparently was administered to her, as per the appellant.
+
+4. The appellant claimed that on 23.10.2011, his wife went into coma and had to be admitted to a nearby Heart and General Hospital, where she was put on life-support ventilation system. The WBC count of the wife of the appellant had risen even further and the systolic BP was only
+
+40. Her health continued to deteriorate and she was required to be shifted to the Fortis Escorts Hospital, where she finally succumbed to her illness on 31.10.2011.
+
+5. The appellant, after the initial period of mourning, is stated to have consulted various doctors, including his son, who is stated to be a doctor practicing in USA. It is his belief, on the basis of such discussion, that the respondents were guilty of medical negligence in the manner in which medical treatment was administered to his wife and her subsequent discharge from respondent No.1-Hospital. The appellant filed a complaint with the Medical Council of Rajasthan, a statutory body constituted under the Rajasthan Medical Act, 1952, but that endeavour proved to be unsuccessful as no case of medical negligence was found in the given facts of the case, in terms of the order passed on 13.7.2012. The process of coming to this conclusion included the response of respondent No.2-Doctor to a panel of eleven doctors, which scrutinised the complaint and the material placed before the panel, by the appellant. The further appeal of the appellant, before the Medical Council of India was rejected as time barred on 8.3.2013. The next legal journey of the appellant began by approaching the State Commission, by filing a consumer complaint. The appellant sought to make out a case of: (a) inappropriate and ineffective medication; (b) failure to restart the cannula for IV medication; (c) premature discharge of the deceased despite her condition warranting treatment in the ICU; (d) oral administration of Polypod antibiotic, despite her critical condition, which actually required intravenous administration of the medicine.
+
+6. On the other hand, the stand of the respondents was that when the patient was discharged, she was afebrile, her vitals were normal and she was well-hydrated, with no infection in her chest or urinary tract. She was stated to be clinically stable from 15.10.2011 to 17.10.2011 and that  is why she was so discharged on 18.10.2011, with proper medical prescriptions for the next 5 days. However, the State Commission found in favour of the appellant and directed a compensation of Rs.15 lakh and costs of Rs.51,000/- to be paid to the appellant. Aggrieved by the said order of the State Commission, the respondents preferred an appeal before the NCDRC, which exonerated the respondents of any medical negligence vide impugned order dated 1.8.2017. It was opined that at the highest, it could be termed as a case of wrong diagnosis and certainly not one of medical negligence.
+
+7. In order to appreciate the opinion of the NCDRC, it would be appropriate to lay down the legal principles which would apply in cases of medical negligence.
+
+8. ‘Negligence’ has been defined in the Halsbury’s Laws of England, 4th Edn., Vol. 26 pp.17-18 and extracted in Kusum Sharma & Ors. v. Batra Hospital & Medical Research Centre & Ors.1 as under:
+
+“22. Negligence. – Duties owed to patient. A person who holds himself out as ready to give medical advice or treatment impliedly undertakes that he is possessed of skill and knowledge for the purpose. Such a person, whether he is a registered medical practitioner or not, who is consulted by a patient, owes him certain duties, namely, a duty of care in deciding whether to undertake the case; a duty of care in 1 (2010) 3 SCC 480  deciding what treatment to give; and a duty of care in his administration of that treatment. A breach of any of these duties will support an action for negligence by the patient”
+
+9. A fundamental aspect, which has to be kept in mind is that a doctor cannot be said to be negligent if he is acting in accordance with a practice accepted as proper by a reasonable body of medical men skilled in that particular art, merely because there is a body of such opinion that takes a contrary view (Bolam v. Friern Hospital Management Committee2). In the same opinion, it was emphasised that the test of negligence cannot be the test of the man on the top of a Clapham omnibus. In cases of medical negligence, where a special skill or competence is attributed to a doctor, a doctor need not possess the highest expert skill, at the risk of being found negligent, and it would suffice if he exercises the ordinary skill of an ordinary competent man exercising that particular art. A situation, thus, cannot be countenanced, which would be a disservice to the community at large, by making doctors think more of their own safety than of the good of their patients.
+
+10. This Court in another judgment in Jacob Mathew v. State of 2 (1957) 1 WLR 582 :: (1957) 2 All ER 118  Punjab3 dealt with the law of negligence in respect of professionals professing some special skills. Thus, any individual approaching such a skilled person would have a reasonable expectation of a degree of care and caution, but there could be no assurance of the result. A physician, thus, would not assure a full recovery in every case, and the only assurance given, by implication, is that he possesses the requisite skills in the branch of the profession, and while undertaking the performance of his task, he would exercise his skills with reasonable competence. Thus, a liability would only come, if (a) either the person (doctor) did not possess the requisite skills, which he professed to have possessed; or (b) he did not exercise, with reasonable competence in a given case, the skill which he did possess. It was held not to be necessary for every professional to possess the highest level of expertise in that branch in which he practices. In the said opinion, a reference was, once again, made to the Halsbury’s Laws of England as under:
+
+“To establish liability on that basis it must be shown (1) that there is a usual and normal practice; (2) that the defendant has not adopted it; and (3) that the course in fact adopted is one no professional man of ordinary skill would have taken had he been acting with ordinary care.”
+
+3 (2005) 6 SCC 1
+
+ 11. In Hucks v. Cole4, Lord Denning speaking for the Court observed as under:
+
+“A medical practitioner was not to be held liable simply because things went wrong from mischance or misadventure or through an error of judgment in choosing one reasonable course of treatment in preference of another. A medical practitioner would be liable only where his conduct fell below that of the standards of a reasonably competent practitioner in his field.”
+
+12. In para 89 of the judgment in Kusum Sharma & Ors.5 the test had been laid down as under:
+
+“89. On scrutiny of the leading cases of medical negligence both in our country and other countries specially the United Kingdom, some basic principles emerge in dealing with the cases of medical negligence. While deciding whether the medical professional is guilty of medical negligence following well known principles must be kept in view:
+I. Negligence is the breach of a duty exercised by omission to do something which a reasonable man, guided by those considerations which ordinarily regulate the conduct of human affairs, would do, or doing something which a prudent and reasonable man would not do.
+II. Negligence is an essential ingredient of the offence. The negligence to be established by the prosecution must be culpable or gross and not the negligence merely based upon an error of judgment.
+III. The medical professional is expected to bring a reasonable degree of skill and knowledge and must exercise 4 (1968) 118 New LJ 469 5 (supra) a reasonable degree of care. Neither the very highest nor a very low degree of care and competence judged in the light of the particular circumstances of each case is what the law requires.
+
+IV. A medical practitioner would be liable only where his conduct fell below that of the standard so far reasonably competent practitioner in his field.
+
+V. In the realm of diagnosis and treatment there is scope for genuine difference of opinion and one professional doctor is clearly not negligent merely because his conclusion differs from that of other professional doctor. VI. The medical professional is often called upon to adopt a procedure which involves higher element of risk, but which he honestly believes as providing greater chances of success for the patient rather than a procedure involving lesser risk but higher chances of failure. Just because a professional looking to the gravity of illness has taken higher element of risk to redeem the patient out of his/her suffering which did not yield the desired result may not amount to negligence. VII. Negligence cannot be attributed to a doctor so long as he performs his duties with reasonable skill and competence. Merely because the doctor chooses one course of action in preference to the other one available, he would not be liable if the course of action chosen by him was acceptable to the medical profession.
+
+VIII. It would not be conducive to the efficiency of the medical profession if no doctor could administer medicine without a halter round his neck.
+
+IX. It is our bounden duty and obligation of the civil society to ensure that the medical professionals are not unnecessarily harassed or humiliated so that they can perform their professional duties without fear and  apprehension.
+
+X. The medical practitioners at times also have to be saved from such a class of complainants who use criminal process as a tool for pressurizing the medical professionals/hospitals particularly private hospitals or clinics for extracting uncalled for compensation. Such malicious proceedings deserve to be discarded against the medical practitioners. XI. The medical professionals are entitled to get protection so long as they perform their duties with reasonable skill and competence and in the interest of the patients. The interest and welfare of the patients have to be paramount for the medical professionals.”
+
+13. Now turning to the application of the aforesaid principles to the facts at hand. It is material to note that the respondent No.1-Hospital promptly attended to the wife of the appellant. Respondent No.2, physician, once again, attended to her promptly, and started her on antibiotic treatment. The nasal feed tube was re-inserted promptly. However, in the early hours on the next day, on 16.10.2011, the cannula stopped functioning and instead of re-cannulating the patient, oral administration of the antibiotic Polypod was found justified. It is this aspect, which according to the appellant, amounts to medical negligence. The explanation offered by respondent No.2-Doctor was that when he attended the patient at 11:00 a.m. on 16.10.2011, he found that the drip had been disconnected, on account of all peripheral veins being blocked due to past chemotherapies, and that the drip had been stopped, the night before itself, at the instance of the appellant. Taking into consideration the fact that the patient was normal, afebrile, well-hydrated and displayed normal vitals, the oral administration of the tablet was prescribed. This, according to the NCDRC was the professional and medical assessment by respondent No.2-Doctor, arrived at on the basis of a medical condition of the patient, and could not constitute medical negligence.
+
+14. We see no reason to differ from the view expressed by the NCDRC, keeping in mind the test enunciated aforesaid. Respondent No.2-Doctor, who was expected to bring a reasonable degree of skill, knowledge and care, based on his assessment of the patient, prescribed oral administration of the antibiotic in that scenario, especially on account of the past medical treatments of the wife of the appellant, because of which the veins for administration of IV could not be located. Her physical condition was found to be one where the oral administration of the drug was possible.
+
+15. The appellant has also sought to make out a case that the blood culture report required his wife to be kept in the hospital. This was again a judgment best arrived at by respondent No.2-Doctor, based on her other stable conditions, with only the WBC count being higher, which, as per the views of the respondent No.2-Doctor, could be treated by administration of the antibiotic drug orally, which was prescribed for 5 days, and as per the appellant, was so administered. In the perception of the doctor, the increase in lymphocytes in the blood count was the result of the patient displaying an improved immune response to the infection. It is in this context that the NCDRC opined that at best, it could be categorised as a possible case of wrong diagnosis.
+
+16. In our opinion the approach adopted by the NCDRC cannot be said to be faulty, while dealing with the role of the State Commission, which granted damages on a premise that respondent No.2-Doctor could have pursued an alternative mode of treatment. Such a course of action, as a super-appellate medical authority, could not have been performed by the State Commission. There was no evidence to show any unexplained deviation from standard protocol. It is also relevant to note that the deceased was medically compromised by the reason of her past illnesses. The deceased was admitted to two other hospitals, post her discharge from respondent No.1-Hospital. The moot point was whether her  admittance and discharge from respondent No.1-Hospital was the sole, or even the most likely cause of her death. The death had been caused by a multiplicity of factors. In the end, we may also note that the medical certificate issued for the cause of death by Fortis Escorts Hospital cited septic shock due to multiple organ failure as the immediate cause of death, with her diabetic condition being an antecedent cause, as also the multiple malignancies, post chemotherapy and radiotherapy all contributing to her passing away.
+
+17. We appreciate the pain of the appellant, but then, that by itself cannot be a cause for awarding damages for the passing away of his wife. We have sympathy for the appellant, but sympathy cannot translate into a legal remedy.
+
+18. We cannot fault the reasoning of the NCDRC. Thus, the result is that the appeal is dismissed, leaving the parties to bear their own costs.
+
+..….….…………………….J. [L. Nageswara Rao] ...……………………………J. [Sanjay Kishan Kaul] New Delhi.
+
+February 25, 2019.

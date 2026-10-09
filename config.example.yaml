@@ -1,0 +1,6 @@
+llm_provider: "ollama"
+ollama_model: "phi3:mini"
+ollama_host: "http://localhost:11434"
+ollama_timeout: 20
+ollama_num_predict: 220
+gemini_model: "gemini-1.5-flash"

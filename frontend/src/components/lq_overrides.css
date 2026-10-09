@@ -1,0 +1,71 @@
+
+/* --- PREMIUM UI OVERRIDES FOR LEGAL QUERY --- */
+
+.lq-root {
+  --lq-bg: #0f172a;
+  --lq-surface: rgba(30, 41, 59, 0.45);
+  --lq-surface-2: rgba(30, 41, 59, 0.65);
+  --lq-surface-3: rgba(51, 65, 85, 0.75);
+  --lq-border: rgba(255, 255, 255, 0.08);
+  --lq-border-strong: rgba(14, 165, 233, 0.3);
+  --lq-text: #f8fafc;
+  --lq-text-soft: #cbd5e1;
+  --lq-text-faint: #94a3b8;
+  --lq-cyan: #38bdf8;
+  --lq-cyan-strong: #0ea5e9;
+  --lq-gold: #fbbf24;
+  --lq-amber: #f59e0b;
+  --lq-success: #10b981;
+  --lq-danger: #ef4444;
+  --lq-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  --lq-radius-xl: 32px;
+  --lq-radius-lg: 24px;
+  --lq-radius-md: 16px;
+}
+
+.welcome-hero-panel,
+.chat-panel,
+.result-panel,
+.analysis-panel,
+.law-card,
+.checklist-item,
+.key-point-card {
+  background: var(--lq-surface) !important;
+  backdrop-filter: blur(24px) !important;
+  border: 1px solid var(--lq-border) !important;
+  box-shadow: var(--lq-shadow) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.law-card:hover,
+.checklist-item:hover,
+.key-point-card:hover {
+  transform: translateY(-4px) !important;
+  border-color: var(--lq-border-strong) !important;
+  background: var(--lq-surface-2) !important;
+}
+
+.lq-kicker,
+.pill-badge {
+  background: rgba(14, 165, 233, 0.15) !important;
+  border: 1px solid rgba(14, 165, 233, 0.3) !important;
+  color: var(--lq-cyan) !important;
+}
+
+.result-tabs-list {
+  background: rgba(0, 0, 0, 0.2) !important;
+  padding: 4px !important;
+  border-radius: 999px !important;
+  border: 1px solid var(--lq-border) !important;
+}
+
+.result-tab-trigger[data-state='active'] {
+  background: linear-gradient(135deg, var(--lq-cyan-strong), #0369a1) !important;
+  color: #fff !important;
+  box-shadow: 0 4px 12px rgba(14, 165, 233, 0.3) !important;
+}
+
+.confidence-ring-circle {
+  stroke: var(--lq-cyan) !important;
+  filter: drop-shadow(0 0 8px var(--lq-cyan)) !important;
+}

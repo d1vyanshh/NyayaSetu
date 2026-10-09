@@ -1,0 +1,300 @@
+[Cites 17, Cited by 97]
+Supreme Court of India
+M/S. Afcons Infra. Ltd. & Anr vs M/S Cherian Varkey Constn Co.P.Ltd.& ... on 26 July, 2010
+Author: R.V.Raveendran
+Bench: J M Panchal, R V Raveendran
+                                                  1
+
+
+                  IN THE SUPREME COURT OF INDIA                    Reportable
+
+                    CIVIL APPELLATE JURISDICTION
+
+                     CIVIL APPEAL NO.6000 OF 2010
+                   (Arising out of SLP (C) No.760 of 2007)
+
+Afcons Infrastructure Ltd. & Anr.                           ... Appellants
+                                      Vs.
+
+Cherian Varkey Construction Co. (P)
+Ltd. & Ors.                                                 ... Respondents
+
+
+                              JUDGMENT
+
+
+R.V.RAVEENDRAN, J.
+
+Leave granted. The general scope of Section 89 of the Code of Civil Procedure (`Code' for short) and the question whether the said section empowers the court to refer the parties to a suit to arbitration without the consent of both parties, arise for consideration in this appeal.
+
+2. The second respondent (Cochin Port Trust) entrusted the work of construction of certain bridges and roads to the appellants under an agreement dated 20.4.2001. The appellants sub-contracted a part of the said work to the first respondent under an agreement dated 1.8.2001. It is not in dispute that the agreement between the appellants and the first respondent did not contain any provision for reference of the disputes to arbitration.
+
+3. The first respondent filed a suit against the appellants for recovery of Rs.210,70,881 from the appellants and their assets and/or the amounts due to the appellants from the employer, with interest at 18% per annum. In the said suit an order of attachment was made on 15.9.2004 in regard to a sum of Rs.2.25 crores. Thereafter in March 2005, the first respondent filed an application under section 89 of the Code before the trial court praying that the court may formulate the terms of settlement and refer the matter to arbitration. The appellants filed a counter dated 24.10.2005 to the application submitting that they were not agreeable for referring the matter to arbitration or any of the other ADR processes under section 89 of the Code. In the meanwhile, the High Court of Kerala by order dated 8.9.2005, allowed the appeal filed by the appellants against the order of attachment and raised the attachment granted by the trial court subject to certain conditions. While doing so, the High Court also directed the trial court to consider and dispose of the application filed by the first respondent under section 89 of the Code.
+
+4. The trial court heard the said application under section 89. It recorded the fact that first respondent (plaintiff) was agreeable for arbitration and appellants (defendants 1 and 2) were not agreeable for arbitration. The trial court allowed the said application under section 89 by a reasoned order dated 26.10.2005 and held that as the claim of the plaintiff in the suit related to a work contract, it was appropriate that the dispute should be settled by arbitration. It formulated sixteen issues and referred the matter to arbitration. The appellants filed a revision against the order of the trial court. The High Court by the impugned order dated 11.10.2006 dismissed the revision petition holding that the apparent tenor of section 89 of the Code permitted the court, in appropriate cases, to refer even unwilling parties to arbitration. The High Court also held that the concept of pre existing arbitration agreement which was necessary for reference to arbitration under the provisions of the Arbitration & Conciliation Act, 1996 (`AC Act' for short) was inapplicable to references under section 89 of the Code, having regard to the decision in Sukanya Holdings (P) Ltd. v. Jayesh H. Pandya & Anr. [2003 (5) SCC 531]. The said order is challenged in this appeal.
+
+5. On the contentions urged, two questions arise for consideration :
+
+(i) What is the procedure to be followed by a court in implementing section 89 and Order 10 Rule 1A of the Code?
+(ii) Whether consent of all parties to the suit is necessary for reference to arbitration under section 89 of the Code?
+
+6. To find answers to the said questions, we have to analyse the object, purpose, scope and tenor of the said provisions. The said provisions are extracted below :
+
+"89. Settlement of disputes outside the court. - (1) Where it appears to the Court that there exist elements of a settlement which may be acceptable to the parties, the Court shall formulate the terms of settlement and give them to the parties for their observations and after receiving the observations of the parties, the Court may reformulate the terms of a possible settlement and refer the same for -
+      (a)    arbitration;
+      (b)    conciliation;
+      (c)    judicial settlement including settlement through Lok Adalat; or
+      (d)    mediation.
+
+      (2)    where a dispute has been referred -
+
+      (a)    for arbitration or conciliation, the provisions of the Arbitration
+
+and Conciliation Act, 1996 (26 of 1996) shall apply as if the proceedings for arbitration or conciliation were referred for settlement under the provisions of that Act;
+(b) to Lok Adalat, the Court shall refer the same to the Lok Adalat in accordance with the provisions of sub-section (1) of section 20 of the Legal Services Authority Act, 1987 (39 of 1987) and all other provisions of that Act shall apply in respect of the dispute so referred to the Lok Adalat;
+(c) for judicial settlement, the Court shall refer the same to a suitable institution or person and such institution or person shall be deemed to be a Lok Adalat and all the provisions of the Legal Services Authority Act, 1987 (39 of 1987) shall apply as if the dispute were referred to a Lok Adalat under the provisions of that Act;
+(d) for mediation, the Court shall effect a compromise between the parties and shall follow such procedure as may be prescribed."
+
+Order 10 Rule 1A. Direction of the Court to opt for any one mode of alternative dispute resolution.--After recording the admissions and denials, the Court shall direct the parties to the suit to opt either mode of the settlement outside the Court as specified in sub-section (1) of section
+
+89. On the option of the parties, the Court shall fix the date of appearance before such forum or authority as may be opted by the parties. Order 10 Rule 1B. Appearance before the conciliatory forum or authority.--Where a suit is referred under rule 1A, the parties shall appear before such forum or authority for conciliation of the suit. Order 10 Rule 1C. Appearance before the Court consequent to the failure of efforts of conciliation.--Where a suit is referred under rule 1A and the presiding officer of conciliation forum or authority is satisfied that it would not be proper in the interest of justice to proceed with the matter further, then, it shall refer the matter again to the Court and direct the parties to appear before the Court on the date fixed by it."
+
+7. If section 89 is to be read and required to be implemented in its literal sense, it will be a Trial Judge's nightmare. It puts the cart before the horse and lays down an impractical, if not impossible, procedure in sub-section (1). It has mixed up the definitions in sub-section (2). In spite of these defects, the object behind section 89 is laudable and sound. Resort to alternative disputes resolution (for short `ADR') processes is necessary to give speedy and effective relief to the litigants and to reduce the pendency in and burden upon the courts. As ADR processes were not being resorted to with the desired frequency, Parliament thought it fit to introduce Section 89 and Rules 1-A to 1-C in Order X in the Code, to ensure that ADR process was resorted to before the commencement of trial in suits. In view of its laudable object, the validity of section 89, with all its imperfections, was upheld in Salem Advocate Bar Association v. Union of India reported in [2003 (1) SCC 49 - for short, Salem Bar - (I)] but referred to a Committee, as it was hoped that section 89 could be implemented by ironing the creases. In Salem Advocate Bar Association v. Union of India [2005 (6) SCC 344 - for short, Salem Bar-(II)], this Court applied the principle of purposive construction in an attempt to make it workable.
+
+What is wrong with section 89 of the Code?
+
+8. The first anomaly is the mixing up of the definitions of `mediation' and `judicial settlement' under clauses (c) and (d) of sub-section (2) of section 89 of the Code. Clause (c) says that for "judicial settlement", the court shall refer the same to a suitable institution or person who shall be deemed to be a Lok Adalat. Clause (d) provides that where the reference is to "mediation", the court shall effect a compromise between the parties by following such procedure as may be prescribed. It makes no sense to call a compromise effected by a court, as "mediation", as is done in clause (d). Nor does it make any sense to describe a reference made by a court to a suitable institution or person for arriving at a settlement as "judicial settlement", as is done in clause (c). "Judicial settlement" is a term in vogue in USA referring to a settlement of a civil case with the help of a judge who is not assigned to adjudicate upon the dispute. "Mediation" is also a well known term and it refers to a method of non-binding dispute resolution with the assistance of a neutral third party who tries to help the disputing parties to arrive at a negotiated settlement. It is also synonym of the term `conciliation'. (See :
+
+Black's Law Dictionary, 7th Edition, Pages 1377 and 996). When words are universally understood in a particular sense, and assigned a particular meaning in common parlance, the definitions of those words in section 89 with interchanged meanings has led to confusion, complications and difficulties in implementation. The mix-up of definitions of the terms "judicial settlement" and "mediation" in Section 89 is apparently due to a clerical or typographical error in drafting, resulting in the two words being interchanged in clauses (c) and (d) of Section 89(2). If the word "mediation"
+in clause (d) and the words "judicial settlement" in clause (c) are interchanged, we find that the said clauses make perfect sense.
+
+9. The second anomaly is that sub-section (1) of section 89 imports the final stage of conciliation referred to in section 73(1) of the AC Act into the pre-ADR reference stage under section 89 of the Code. Sub-section (1) of section 89 requires the court to formulate the terms of settlement and give them to the parties for their observation and then reformulate the terms of a possible settlement and then refer the same for any one of the ADR processes. If sub-section (1) of Section 89 is to be literally followed, every Trial Judge before framing issues, is required to ascertain whether there exists any elements of settlement which may be acceptable to the parties, formulate the terms of settlement, give them to parties for observations and then reformulate the terms of a possible settlement before referring it to arbitration, conciliation, judicial settlement, Lok Adalat or mediation. There is nothing that is left to be done by the alternative dispute resolution forum. If all these have to be done by the trial court before referring the parties to alternative dispute resolution processes, the court itself may as well proceed to record the settlement as nothing more is required to be done, as a Judge cannot do these unless he acts as a conciliator or mediator and holds detailed discussions and negotiations running into hours.
+
+10. Section 73 of AC Act shows that formulation and reformulation of terms of settlement is a process carried out at the final stage of a conciliation process, when the settlement is being arrived at. What is required to be done at the final stage of conciliation by a conciliator is borrowed lock, stock and barrel into section 89 and the court is wrongly required to formulate the terms of settlement and reformulate them at a stage prior to reference to an ADR process. This becomes evident by a comparison of the wording of the two provisions.
+
+Section 73(1) of Arbitration and Conciliation Section 89(1) of Code of Civil Procedure Act, 1996 relating to the final stage of relating to a stage before reference to an settlement process in conciliation. ADR process.
+
+When it appears to the conciliator that there Where it appears to the Court that there exist elements of a settlement which may exist elements of a settlement which may be acceptable to the parties, he shall be acceptable to the parties, the Court shall formulate the terms of a possible settlement formulate the terms of settlement and give and submit them to the parties for their them to the parties for their observations observations. After receiving the and after receiving the observations of the observations of the parties, the conciliator parties, the Court may reformulate the may reformulate the terms of a possible terms of a possible settlement and refer the settlement in the light of such observations. same for (a) arbitration; (b) conciliation;
+
+                                                (c)       judicial settlement including
+                                                settlement through Lok Adalat; or (d)
+                                                mediation.
+
+
+
+
+
+
+Formulation and re-formulation of terms of settlement by the court is therefore wholly out of place at the stage of pre ADR reference. It is not possible for courts to perform these acts at a preliminary hearing to decide whether a case should be referred to an ADR process and, if so, which ADR process.
+
+11. If the reference is to be made to arbitration, the terms of settlement formulated by the court will be of no use, as what is referred to arbitration is the dispute and not the terms of settlement; and the Arbitrator will adjudicate upon the dispute and give his decision by way of award. If the reference is to conciliation/mediation/Lok Adalat, then drawing up the terms of the settlement or reformulating them is the job of the conciliator or the mediator or the Lok Adalat, after going through the entire process of conciliation/ mediation. Thus, the terms of settlement drawn up by the court will be totally useless in any subsequent ADR process. Why then the courts should be burdened with the onerous and virtually impossible, but redundant, task of formulating terms of settlement at pre-reference stage?
+
+12. It will not be possible for a court to formulate the terms of the settlement, unless the judge discusses the matter in detail with both parties. The court formulating the terms of settlement merely on the basis of pleadings is neither feasible nor possible. The requirement that the court should formulate the terms of settlement is therefore a great hindrance to courts in implementing section 89 of the Code. This Court therefore diluted this anomaly in Salem Bar (II) by equating "terms of settlement" to a "summary of disputes" meaning thereby that the court is only required to formulate a `summary of disputes' and not `terms of settlement'. How should section 89 be interpreted?
+
+13. The principles of statutory interpretation are well settled. Where the words of the statute are clear and unambiguous, the provision should be given its plain and normal meaning, without adding or rejecting any words. Departure from the literal rule, by making structural changes or substituting words in a clear statutory provision, under the guise of interpretation will pose a great risk as the changes may not be what the Legislature intended or desired. Legislative wisdom cannot be replaced by the Judge's views. As observed by this Court in somewhat different context : "When a procedure is prescribed by the Legislature, it is not for the court to substitute a different one according to its notion of justice. When the Legislature has spoken, the Judges cannot afford to be wiser." (See : Shri Mandir Sita Ramji vs. Lt. Governor of Delhi - (1975) 4 SCC 298). There is however an exception to this general rule. Where the words used in the statutory provision are vague and ambiguous or where the plain and normal meaning of its words or grammatical construction thereof would lead to confusion, absurdity, repugnancy with other provisions, the courts may, instead of adopting the plain and grammatical construction, use the interpretative tools to set right the situation, by adding or omitting or substituting the words in the Statute. When faced with an apparently defective provision in a statute, courts prefer to assume that the draftsman had committed a mistake rather than concluding that the Legislature has deliberately introduced an absurd or irrational statutory provision. Departure from the literal rule of plain and straight reading can however be only in exceptional cases, where the anomalies make the literal compliance of a provision impossible, or absurd or so impractical as to defeat the very object of the provision. We may also mention purposive interpretation to avoid absurdity and irrationality is more readily and easily employed in relation to procedural provisions than with reference to substantive provisions.
+
+13.1) Maxwell on Interpretation of Statutes (12th Edn., page 228), under the caption `modification of the language to meet the intention' in the chapter dealing with `Exceptional Construction' states the position succinctly:
+
+"Where the language of a statute, in its ordinary meaning and grammatical construction, leads to a manifest contradiction of the apparent purpose of the enactment, or to some inconvenience or absurdity, hardship or injustice, which can hardly have been intended, a construction may be put upon it which modifies the meaning of the words, and even the structure of the sentence. This may be done by departing from the rules of grammar, by giving an unusual meaning to particular words, or by rejecting them altogether, on the ground that the legislature could not possibly have intended what its words signify, and that the modifications made are mere corrections of careless language and really give the true meaning. Where the main object and intention of a statute are clear, it must not be reduced to a nullity by the draftman's unskilfulness or ignorance of the law, except in a case of necessity, or the absolute intractability of the language used."
+
+This Court in Tirath Singh v. Bachittar Singh [AIR 1955 SC 830] approved and adopted the said approach.
+
+13.2) In Shamrao V.Parulekar v. District Magistrate, Thana, Bombay [AIR 1952 SC 324], this Court reiterated the principle from Maxwell:
+
+".....if one construction will lead to an absurdity while another will give effect to what commonsense would show was obviously intended, the construction which would defeat the ends of the Act must be rejected even if the same words used in the same section, and even the same sentence, have to be construed differently. Indeed, the law goes so far as to require the Courts sometimes even to modify the grammatical and ordinary sense of the words if by doing so absurdity and inconsistency can be avoided."
+
+13.3) In Molar Mal vs. Kay Iron Works (P) Ltd. - 2004 (4) SCC 285, this Court while reiterating that courts will have to follow the rule of literal construction, which enjoins the court to take the words as used by the Legislature and to give it the meaning which naturally implies, held that there is an exception to that rule. This Court observed :
+
+"That exception comes into play when application of literal construction of the words in the statute leads to absurdity, inconsistency or when it is shown that the legal context in which the words are used or by reading the statute as a whole, it requires a different meaning."
+
+13.4) In Mangin v. Inland Revenue Commission [1971 (1) All.ER 179], the Privy Council held:
+
+"......The object of the construction of a statute, be it to ascertain the will of the legislature, it may be presumed that neither injustice nor absurdity was intended. If, therefore a literal interpretation would produce such a result, and the language admits of an interpretation which would avoid it, then such an interpretation may be adopted."
+
+13.5) A classic example of correcting an error committed by the draftsman in legislative drafting is the substitution of the words `defendant's witnesses' by this Court for the words `plaintiff's witnesses' occurring in Order VII Rule 14(4) of the Code, in Salem Bar-II. We extract below the relevant portion of the said decision :
+
+"Order VII relates to the production of documents by the plaintiff whereas Order VIII relates to production of documents by the defendant. Under Order VIII Rule 1A(4) a document not produced by defendant can be confronted to the plaintiff's witness during cross-examination. Similarly, the plaintiff can also confront the defendant's witness with a document during cross-examination. By mistake, instead of 'defendant's witnesses', the words 'plaintiff's witnesses' have been mentioned in Order VII Rule (4). To avoid any confusion, we direct that till the legislature corrects the mistake, the words 'plaintiff's witnesses, would be read as 'defendant's witnesses' in Order VII Rule 4. We, however, hope that the mistake would be expeditiously corrected by the legislature."
+
+13.6) Justice G.P. Singh extracts four conditions that should be present to justify departure from the plain words of the Statute, in his treatise "Principles of Statutory Interpretation" (12th Edn. - 2010, Lexis Nexis - page 144) from the decision of the House of Lords in Stock v. Frank Jones (Tipton) Ltd., [1978 (1) All ER 948] :
+
+"......a court would only be justified in departing from the plain words of the statute when it is satisfied that (1) there is clear and gross balance of anomaly; (2) Parliament, the legislative promoters and the draftsman could not have envisaged such anomaly and could not have been prepared to accept it in the interest of a supervening legislative objective; (3) the anomaly can be obviated without detriment to such a legislative objective; and (4) the language of the statute is susceptible of the modification required to obviate the anomaly."
+
+14. All the aforesaid four conditions justifying departure from the literal rule, exist with reference to section 89 of the Code. Therefore, in Salem Bar
+
+-II, by judicial interpretation the entire process of formulating the terms of settlement, giving them to the parties for their observation and reformulating the terms of possible settlement after receiving the observations, contained in sub-section (1) of section 89, is excluded or done away with by stating that the said provision merely requires formulating a summary of disputes. Further, this Court in Salem Bar-II, adopted the following definition of `mediation' suggested in the model mediation rules, in spite of a different definition in section 89(2)(d) :
+
+"Settlement by `mediation' means the process by which a mediator appointed by parties or by the Court, as the case may be, mediates the dispute between the parties to the suit by the application of the provisions of the Mediation Rules, 2003 in Part II, and in particular, by facilitating discussion between parties directly or by communicating with each other through the mediator, by assisting parties in identifying issues, reducing misunderstandings, clarifying priorities, exploring areas of compromise, generating options in an attempt to solve the dispute and emphasizing that it is the parties' own responsibility for making decisions which affect them."
+
+All over the country the courts have been referring cases under section 89 to mediation by assuming and understanding `mediation' to mean a dispute resolution process by negotiated settlement with the assistance of a neutral third party. Judicial settlement is understood as referring to a compromise entered by the parties with the assistance of the court adjudicating the matter, or another Judge to whom the court had referred the dispute.
+
+15. Section 89 has to be read with Rule 1-A of Order 10 which requires the court to direct the parties to opt for any of the five modes of alternative dispute resolution processes and on their option refer the matter. The said rule does not require the court to either formulate the terms of settlement or make available such terms of settlement to the parties to reformulate the terms of possible settlement after receiving the observations of the parties. Therefore the only practical way of reading Section 89 and Order 10, Rule 1-A is that after the pleadings are complete and after seeking admission/denials wherever required, and before framing issues, the court will have recourse to section 89 of the Code. Such recourse requires the court to consider and record the nature of the dispute, inform the parties about the five options available and take note of their preferences and then refer them to one of the alternative dispute resolution processes.
+
+16. In view of the foregoing, it has to be concluded that proper interpretation of section 89 of the Code requires two changes from a plain and literal reading of the section. Firstly, it is not necessary for the court, before referring the parties to an ADR process to formulate or re-formulate the terms of a possible settlement. It is sufficient if the court merely describes the nature of dispute (in a sentence or two) and makes the reference. Secondly, the definitions of `judicial settlement' and `mediation' in clauses (c) and (d) of section 89(2) shall have to be interchanged to correct the draftsman's error. Clauses (c) and (d) of section 89(2) of the Code will read as under when the two terms are interchanged:
+
+(c) for "mediation", the court shall refer the same to a suitable institution or person and such institution or person shall be deemed to be a Lok Adalat and all the provisions of the Legal Services Authority Act, 1987 (39 of 1987) shall apply as if the dispute were referred to a Lok Adalat under the provisions of that Act;
+(d) for "judicial settlement", the court shall effect a compromise between the parties and shall follow such procedure as may be prescribed.
+
+The above changes made by interpretative process shall remain in force till the legislature corrects the mistakes, so that section 89 is not rendered meaningless and infructuous.
+
+Whether the reference to ADR Process is mandatory?
+
+17. Section 89 starts with the words "where it appears to the court that there exist elements of a settlement". This clearly shows that cases which are not suited for ADR process should not be referred under section 89 of the Code. The court has to form an opinion that a case is one that is capable of being referred to and settled through ADR process. Having regard to the tenor of the provisions of Rule 1A of Order 10 of the Code, the civil court should invariably refer cases to ADR process. Only in certain recognized excluded categories of cases, it may choose not to refer to an ADR process. Where the case is unsuited for reference to any of the ADR process, the court will have to briefly record the reasons for not resorting to any of the settlement procedures prescribed under section 89 of the Code. Therefore, having a hearing after completion of pleadings, to consider recourse to ADR process under section 89 of the Code, is mandatory. But actual reference to an ADR process in all cases is not mandatory. Where the case falls under an excluded category there need not be reference to ADR process. In all other case reference to ADR process is a must.
+
+18. The following categories of cases are normally considered to be not suitable for ADR process having regard to their nature :
+
+(i) Representative suits under Order 1 Rule 8 CPC which involve public interest or interest of numerous persons who are not parties before the court.
+
+(In fact, even a compromise in such a suit is a difficult process requiring notice to the persons interested in the suit, before its acceptance).
+
+(ii) Disputes relating to election to public offices (as contrasted from disputes between two groups trying to get control over the management of societies, clubs, association etc.).
+
+(iii) Cases involving grant of authority by the court after enquiry, as for example, suits for grant of probate or letters of administration.
+
+(iv) Cases involving serious and specific allegations of fraud, fabrication of documents, forgery, impersonation, coercion etc.
+
+(v) Cases requiring protection of courts, as for example, claims against minors, deities and mentally challenged and suits for declaration of title against government.
+
+(vi) Cases involving prosecution for criminal offences.
+
+19. All other suits and cases of civil nature in particular the following categories of cases (whether pending in civil courts or other special Tribunals/Forums) are normally suitable for ADR processes :
+
+(i) All cases relating to trade, commerce and contracts, including
+- disputes arising out of contracts (including all money claims);
+        -     disputes relating to specific performance;
+        -     disputes between suppliers and customers;
+        -     disputes between bankers and customers;
+        -     disputes between developers/builders and customers;
+        -     disputes between landlords and tenants/licensor and licensees;
+        -     disputes between insurer and insured;
+
+(ii)    All cases arising from strained or soured relationships, including
+
+        -     disputes relating to matrimonial causes, maintenance, custody of
+              children;
+        -     disputes relating to partition/division among family members/co-
+              parceners/co-owners; and
+
+
+
+        -     disputes relating to partnership among partners.
+
+
+(iii) All cases where there is a need for continuation of the pre-existing relationship in spite of the disputes, including
+- disputes between neighbours (relating to easementary rights, encroachments, nuisance etc.);
+        -     disputes between employers and employees;
+        -     disputes among members of societies/associations/Apartment
+              owners Associations;
+
+(iv)    All cases relating to tortious liability including
+
+        -     claims for compensation in motor accidents/other accidents; and
+
+(v)     All consumer disputes including
+
+        -     disputes where a trader/supplier/manufacturer/service provider is
+
+keen to maintain his business/professional reputation and credibility or `product popularity.
+
+The above enumeration of `suitable' and `unsuitable' categorization of cases is not intended to be exhaustive or rigid. They are illustrative, which can be subjected to just exceptions or additions by the court/Tribunal exercising its jurisdiction/discretion in referring a dispute/case to an ADR process. How to decide the appropriate ADR process under section 89?
+
+20. Section 89 refers to five types of ADR procedures, made up of one adjudicatory process (arbitration) and four negotiatory (non adjudicatory) processes - conciliation, mediation, judicial settlement and Lok Adalat settlement. The object of section 89 of the Code is that settlement should be attempted by adopting an appropriate ADR process before the case proceeds to trial. Neither section 89 nor Rule 1A of Order 10 of the Code is intended to supersede or modify the provisions of the Arbitration and Conciliation Act, 1996 or the Legal Services Authorities Act, 1987. On the other hand, section 89 of the Code makes it clear that two of the ADR processes - Arbitration and Conciliation, will be governed by the provisions of the AC Act and two other ADR Processes - Lok Adalat Settlement and Mediation (See : amended definition in para 18 above), will be governed by the Legal Services Authorities Act. As for the last of the ADR processes - judicial settlement (See : amended definition in para 18 above), section 89 makes it clear that it is not governed by any enactment and the court will follow such procedure as may be prescribed (by appropriate rules).
+
+21. Rule 1A of Order 10 requires the court to give the option to the parties, to choose any of the ADR processes. This does not mean an individual option, but a joint option or consensus about the choice of the ADR process. On the other hand, section 89 vests the choice of reference to the court. There is of course no inconsistency. Section 89 of the Code gives the jurisdiction to refer to ADR process and Rules 1A to IC of Order 10 lay down the manner in which the said jurisdiction is to be exercised. The scheme is that the court explains the choices available regarding ADR process to the parties, permits them to opt for a process by consensus, and if there is no consensus, proceeds to choose the process.
+
+22. Let us next consider which of the ADR processes require mutual consent of the parties and which of them do not require the consent of parties.
+
+Arbitration
+
+23. Arbitration is an adjudicatory dispute resolution process by a private forum, governed by the provisions of the AC Act. The said Act makes it clear that there can be reference to arbitration only if there is an `arbitration agreement' between the parties. If there was a pre-existing arbitration agreement between the parties, in all probability, even before the suit reaches the stage governed by Order 10 of the Code, the matter would have stood referred to arbitration either by invoking section 8 or section 11 of the AC Act, and there would be no need to have recourse to arbitration under section 89 of the Code. Section 89 therefore pre-supposes that there is no pre-existing arbitration agreement. Even if there was no pre-existing arbitration agreement, the parties to the suit can agree for arbitration when the choice of ADR processes is offered to them by the court under section 89 of the Code. Such agreement can be by means of a joint memo or joint application or a joint affidavit before the court, or by record of the agreement by the court in the ordersheet signed by the parties. Once there is such an agreement in writing signed by parties, the matter can be referred to arbitration under section 89 of the Code; and on such reference, the provisions of AC Act will apply to the arbitration, and as noticed in Salem Bar-I, the case will go outside the stream of the court permanently and will not come back to the court.
+
+24. If there is no agreement between the parties for reference to arbitration, the court cannot refer the matter to arbitration under section 89 of the Code. This is evident from the provisions of AC Act. A court has no power, authority or jurisdiction to refer unwilling parties to arbitration, if there is no arbitration agreement. This Court has consistently held that though section 89 of the Code mandates reference to ADR processes, reference to arbitration under section 89 of the Code could only be with the consent of both sides and not otherwise.
+
+24.1) In Salem Bar (I), this Court held :
+
+"It is quite obvious that the reason why Section 89 has been inserted is to try and see that all the cases which are filed in court need not necessarily be decided by the court itself. Keeping in mind the law's delays and the limited number of Judges which are available, it has now become imperative that resort should be had to alternative dispute resolution mechanism with a view to bring to an end litigation between the parties at an early date. The alternative dispute resolution (ADR) mechanism as contemplated by Section 89 is arbitration or conciliation or judicial settlement including settlement through Lok Adalat or mediation. x x x x x If the parties agree to arbitration, then the provisions of the Arbitration and Conciliation Act, 1996 will apply and that case will go outside the stream of the court but resorting to conciliation or judicial settlement or mediation with a view to settle the dispute would not ipso facto take the case outside the judicial system. All that this means is that effort has to be made to bring about an amicable settlement between the parties but if conciliation or mediation or judicial settlement is not possible, despite efforts being made, the case will ultimately go to trial."
+
+(Emphasis supplied) 24.2) In Salem Bar - (II), this Court held :
+
+"Some doubt as to a possible conflict has been expressed in view of used of the word "may" in Section 89 when it stipulates that "the court may reformulate the terms of a possible settlement and refer the same for" and use of the word "shall" in Order 10 Rule 1-A when it states that "the court shall direct the parties to the suit to opt either mode of the settlement outside the court as specified in sub-section (1) of Section 89".
+
+The intention of the legislature behind enacting Section 89 is that where it appears to the court that there exists an element of a settlement which may be acceptable to the parties, they, at the instance of the court, shall be made to apply their mind so as to opt for one or the other of the four ADR methods mentioned in the section and if the parties do not agree, the court shall refer them to one or the other of the said modes. Section 89 uses both the words "shall" and "may" whereas Order 10 Rule 1-A uses the word "shall" but on harmonious reading of these provisions it becomes clear that the use of the word "may" in Section 89 only governs the aspect of reformulation of the terms of a possible settlement and its reference to one of ADR methods. There is no conflict. It is evident that what is referred to one of the ADR modes is the dispute which is summarized in the terms of settlement formulated or reformulated in terms of Section 89. One of the modes to which the dispute can be referred is "arbitration". Section 89(2) provides that where a dispute has been referred for arbitration or conciliation, the provisions of the Arbitration and Conciliation Act, 1996 (for short "the 1996 Act") shall apply as if the proceedings for arbitration or conciliation were referred for settlement under the provisions of the 1996 Act. Section 8 of the 1996 Act deals with the power to refer parties to arbitration where there is arbitration agreement. As held in P.Anand Gajapathi Raju v. P.V.G. Raju [2000 (4) SCC 539] the 1996 Act governs a case where arbitration is agreed upon before or pending a suit by all the parties. The 1996 Act, however, does not contemplate a situation as in Section 89 of the Code where the court asks the parties to choose one or other ADRs including arbitration and the parties choose arbitration as their option. Of course, the parties have to agree for arbitration."
+
+(Emphasis supplied) 24.3) The position was reiterated by this Court in Jagdish Chander v. Ramesh Chander [2007 (5) SCC 719] thus :
+
+"It should not also be overlooked that even though Section 89 mandates courts to refer pending suits to any of the several alternative dispute resolution processes mentioned therein, there cannot be a reference to arbitration even under Section 89 CPC, unless there is a mutual consent of all parties, for such reference."
+
+(Emphasis supplied) 24.4) Therefore, where there is no pre-existing arbitration agreement between the parties, the consent of all the parties to the suit will be necessary, for referring the subject matter of the suit to arbitration under section 89 of the Code.
+
+Conciliation
+
+25. Conciliation is a non-adjudicatory ADR process, which is also governed by the provisions of AC Act. There can be a valid reference to conciliation only if both parties to the dispute agree to have negotiations with the help of a third party or third parties either by an agreement or by the process of invitation and acceptance provided in section 62 of AC Act followed by appointment of conciliator/s as provided in section 64 of AC Act. If both parties do not agree for conciliation, there can be no `conciliation'. As a consequence, as in the case of arbitration, the court cannot refer the parties to conciliation under section 89, in the absence of consent by all parties. As contrasted from arbitration, when a matter is referred to conciliation, the matter does not go out of the stream of court process permanently. If there is no settlement, the matter is returned to the court for framing issues and proceeding with the trial. The other three ADR Processes
+
+26. If the parties are not agreeable for either arbitration or conciliation, both of which require consent of all parties, the court has to consider which of the other three ADR processes (Lok Adalat, Mediation and Judicial Settlement) which do not require the consent of parties for reference, is suitable and appropriate and refer the parties to such ADR process. If mediation process is not available (for want of a mediation centre or qualified mediators), necessarily the court will have to choose between reference to Lok Adalat or judicial settlement. If facility of mediation is available, then the choice becomes wider. It the suit is complicated or lengthy, mediation will be the recognized choice. If the suit is not complicated and the disputes are easily sortable or could be settled by applying clear cut legal principles, Lok Adalat will be the preferred choice. If the court feels that a suggestion or guidance by a Judge would be appropriate, it can refer it to another Judge for dispute resolution. The court has used its discretion in choosing the ADR process judiciously, keeping in view the nature of disputes, interests of parties and expedition in dispute resolution.
+
+Whether the settlement in an ADR process is binding in itself ?
+
+27. When the court refers the matter to arbitration under Section 89 of the Act, as already noticed, the case goes out of the stream of the court and becomes an independent proceeding before the arbitral tribunal. Arbitration being an adjudicatory process, it always ends in a decision. There is also no question of failure of ADR process or the matter being returned to the court with a failure report. The award of the arbitrators is binding on the parties and is executable/enforceable as if a decree of a court, having regard to Section 36 of the AC Act. If any settlement is reached in the arbitration proceedings, then the award passed by the Arbitral Tribunal on such settlement, will also be binding and executable/enforceable as if a decree of a court, under Section 30 of the AC Act.
+
+28. The other four ADR processes are non-adjudicatory and the case does not go out of the stream of the court when a reference is made to such a non- adjudicatory ADR forum. The court retains its control and jurisdiction over the case, even when the matter is before the ADR forum. When a matter is settled through conciliation, the Settlement Agreement is enforceable as if it is a decree of the court having regard to Section 74 read with Section 30 of the AC Act. Similarly, when a settlement takes place before the Lok Adalat, the Lok Adalat award is also deemed to be a decree of the civil court and executable as such under Section 21 of the Legal Services Authorities Act, 1987. Though the settlement agreement in a conciliation or a settlement award of a Lok Adalat may not require the seal of approval of the court for its enforcement when they are made in a direct reference by parties without the intervention of court, the position will be different if they are made on a reference by a court in a pending suit/proceedings. As the court continues to retain control and jurisdiction over the cases which it refers to conciliations, or Lok Adalats, the settlement agreement in conciliation or the Lok Adalat award will have to be placed before the court for recording it and disposal in its terms. Where the reference is to a neutral third party (`mediation' as defined above) on a court reference, though it will be deemed to be reference to Lok Adalat, as court retains its control and jurisdiction over the matter, the mediation settlement will have to be placed before the court for recording the settlement and disposal. Where the matter is referred to another Judge and settlement is arrived at before him, such settlement agreement will also have to be placed before the court which referred the matter and that court will make a decree in terms of it. Whenever such settlements reached before non-adjudicatory ADR Fora are placed before the court, the court should apply the principles of Order 23 Rule 3 of the Code and make a decree/order in terms of the settlement, in regard to the subject matter of the suit/proceeding. In regard to matters/disputes which are not the subject matter of the suit/proceedings, the court will have to direct that the settlement shall be governed by Section 74 of AC Act (in respect of conciliation settlements) or Section 21 of the Legal Services Authorities Act, 1987 (in respect of settlements by a Lok Adalat or a Mediator). Only then such settlements will be effective. Summation
+
+29. Having regard to the provisions of Section 89 and Rule 1-A of Order 10, the stage at which the court should explore whether the matter should be referred to ADR processes, is after the pleadings are complete, and before framing the issues, when the matter is taken up for preliminary hearing for examination of parties under Order 10 of the Code. However, if for any reason, the court had missed the opportunity to consider and refer the matter to ADR processes under Section 89 before framing issues, nothing prevents the court from resorting to Section 89 even after framing issues. But once evidence is commenced, the court will be reluctant to refer the matter to the ADR processes lest it becomes a tool for protracting the trial.
+
+30. Though in civil suits, the appropriate stage for considering reference to ADR processes is after the completion of pleadings, in family disputes or matrimonial cases, the position can be slightly different. In those cases, the relationship becomes hostile on account of the various allegations in the petition against the spouse. The hostility will be further aggravated by the counter-allegations made by the respondent in his or her written statement or objections. Therefore, as far as Family Courts are concerned, the ideal stage for mediation will be immediately after service of respondent and before the respondent files objections/written statements. Be that as it may.
+
+31. We may summarize the procedure to be adopted by a court under section 89 of the Code as under :
+
+a) When the pleadings are complete, before framing issues, the court shall fix a preliminary hearing for appearance of parties. The court should acquaint itself with the facts of the case and the nature of the dispute between the parties.
+b) The court should first consider whether the case falls under any of the category of the cases which are required to be tried by courts and not fit to be referred to any ADR processes. If it finds the case falls under any excluded category, it should record a brief order referring to the nature of the case and why it is not fit for reference to ADR processes. It will then proceed with the framing of issues and trial.
+c) In other cases (that is, in cases which can be referred to ADR processes) the court should explain the choice of five ADR processes to the parties to enable them to exercise their option.
+d) The court should first ascertain whether the parties are willing for arbitration. The court should inform the parties that arbitration is an adjudicatory process by a chosen private forum and reference to arbitration will permanently take the suit outside the ambit of the court. The parties should also be informed that the cost of arbitration will have to be borne by them. Only if both parties agree for arbitration, and also agree upon the arbitrator, the matter should be referred to arbitration.
+e) If the parties are not agreeable for arbitration, the court should ascertain whether the parties are agreeble for reference to conciliation which will be governed by the provisions of the AC Act. If all the parties agree for reference to conciliation and agree upon the conciliator/s, the court can refer the matter to conciliation in accordance with section 64 of the AC Act.
+f) If parties are not agreeable for arbitration and conciliation, which is likely to happen in most of the cases for want of consensus, the court should, keeping in view the preferences/options of parties, refer the matter to any one of the other three other ADR processes :
+(a) Lok Adalat; (b) mediation by a neutral third party facilitator or mediator; and (c) a judicial settlement, where a Judge assists the parties to arrive at a settlement.
+(g) If the case is simple which may be completed in a single sitting, or cases relating to a matter where the legal principles are clearly settled and there is no personal animosity between the parties (as in the case of motor accident claims), the court may refer the matter to Lok Adalat. In case where the questions are complicated or cases which may require several rounds of negotiations, the court may refer the matter to mediation. Where the facility of mediation is not available or where the parties opt for the guidance of a Judge to arrive at a settlement, the court may refer the matter to another Judge for attempting settlement.
+(h) If the reference to the ADR process fails, on receipt of the Report of the ADR Forum, the court shall proceed with hearing of the suit.
+
+If there is a settlement, the court shall examine the settlement and make a decree in terms of it, keeping the principles of Order 23 Rule 3 of the Code in mind.
+
+(i) If the settlement includes disputes which are not the subject matter of the suit, the court may direct that the same will be governed by Section 74 of the AC Act (if it is a Conciliation Settlement) or Section 21 of the Legal Services Authorities Act, 1987 (if it is a settlement by a Lok Adalat or by mediation which is a deemed Lok Adalat). This will be necessary as many settlement agreements deal with not only the disputes which are the subject matter of the suit or proceeding in which the reference is made, but also other disputes which are not the subject matter of the suit.
+
+(j) If any term of the settlement is ex facie illegal or unforceable, the court should draw the attention of parties thereto to avoid further litigations and disputes about executability.
+
+32. The Court should also bear in mind the following consequential aspects, while giving effect to Section 89 of the Code :
+
+(i) If the reference is to arbitration or conciliation, the court has to record that the reference is by mutual consent. Nothing further need be stated in the order sheet.
+(ii) If the reference is to any other ADR process, the court should briefly record that having regard to the nature of dispute, the case deserves to be referred to Lok Adalat, or mediation or judicial settlement, as the case may be. There is no need for an elaborate order for making the reference.
+(iii) The requirement in Section 89(1) that the court should formulate or reformulate the terms of settlement would only mean that court has to briefly refer to the nature of dispute and decide upon the appropriate ADR process.
+(iv) If the Judge in charge of the case assists the parties and if settlement negotiations fail, he should not deal with the adjudication of the matter, to avoid apprehensions of bias and prejudice. It is therefore advisable to refer cases proposed for Judicial Settlement to another Judge.
+(v) If the court refers the matter to an ADR process (other than Arbitration), it should keep track of the matter by fixing a hearing date for the ADR Report. The period allotted for the ADR process can normally vary from a week to two months (which may be extended in exceptional cases, depending upon the availability of the alternative forum, the nature of case etc.). Under no circumstances the court should allow the ADR process to become a tool in the hands of an unscrupulous litigant intent upon dragging on the proceedings.
+(vi) Normally the court should not send the original record of the case when referring the matter for an ADR forum. It should make available only copies of relevant papers to the ADR forum. (For this purpose, when pleadings are filed the court may insist upon filing of an extra copy).
+
+However if the case is referred to a Court annexed Mediation Centre which is under the exclusive control and supervision of a Judicial Officer, the original file may be made available wherever necessary.
+
+33. The procedure and consequential aspects referred to in the earlier two paragraphs are intended to be general guidelines subject to such changes as the concerned court may deem fit with reference to the special circumstances of a case. We have referred to the procedure and process rather elaborately as we find that section 89 has been a non-starter with many courts. Though the process under Section 89 appears to be lengthy and complicated, in practice the process is simple: know the dispute; exclude `unfit' cases; ascertain consent for arbitration or conciliation; if there is no consent, select Lok Adalat for simple cases and mediation for all other cases, reserving reference to a Judge assisted settlement only in exceptional or special cases. Conclusion
+
+34. Coming back to this case, we may refer to the decision in Sukanya Holdings relied upon by the respondents, to contend that for a reference to arbitration under section 89 of the Code, consent of parties is not required. The High Court assumed that Sukanya Holdings has held that section 89 enables the civil court to refer a case to arbitration even in the absence of an arbitration agreement. Sukanya Holdings does not lay down any such proposition. In that decision, this Court was considering the question as to whether an application under section 8 of the AC Act could be maintained even where a part of the subject matter of the suit was not covered by an arbitration agreement. The only observations in the decision relating to Section 89 are as under:
+
+"Reliance was placed on Section 89 CPC in support of the argument that the matter should have been referred to arbitration. In our view, Section 89 CPC cannot be resorted to for interpreting Section 8 of the Act as it stands on a different footing and it would be applicable even in cases where there is no arbitration agreement for referring the dispute for arbitration. Further, for that purpose, the court has to apply its mind to the condition contemplated under Section 89 CPC and even if application under Section 8 of the Act is rejected, the court is required to follow the procedure prescribed under the said section."
+
+The observations only mean that even when there is no existing arbitration agreement enabling filing of an application under section 8 of the Act, there can be a reference under section 89 to arbitration if parties agree to arbitration. The observations in Sukanya Holdings do not assist the first respondent as they were made in the context of considering a question as to whether section 89 of the Code could be invoked for seeking a reference under section 8 of the AC Act in a suit, where only a part of the subject- matter of the suit was covered by arbitration agreement and other parts were not covered by arbitration agreement. The first respondent next contended that the effect of the decision in Sukanya Holdings is that "section 89 of CPC would be applicable even in cases where there is no arbitration agreement for referring the dispute to arbitration." There can be no dispute in regard to the said proposition as Section 89 deals, not only with arbitration but also four other modes of non-adjudicatory resolution processes and existence of an arbitration agreement is not a condition precedent for exercising power under Section 89 of the Code in regard to the said four ADR processes.
+
+35. In the light of the above discussion, we answer the questions as follows :
+
+(i) The trial court did not adopt the proper procedure while enforcing Section 89 of the Code. Failure to invoke Section 89 suo moto after completion of pleadings and considering it only after an application under Section 89 was filed, is erroneous.
+(ii) A civil court exercising power under Section 89 of the Code cannot refer a suit to arbitration unless all the parties to the suit agree for such reference.
+
+36. Consequently, this appeal is allowed and the order of the trial court referring the matter to arbitration and the order of the High Court affirming the said reference are set aside. The Trial Court will now consider and decide upon a non-adjudicatory ADR process.
+
+
+
+
+
+                                                   .............................J.
+                                                   (R V Raveendran)
+
+
+
+
+New Delhi;                                         ............................J.
+July 26, 2010.                                     (J M Panchal)
+

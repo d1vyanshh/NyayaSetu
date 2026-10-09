@@ -1,0 +1,181 @@
+[Cites 22, Cited by 0]
+Supreme Court of India
+Saumya Chaurasia vs Directorate Of Enforcement on 14 December, 2023
+Author: Bela M. Trivedi
+Bench: Bela M. Trivedi, Aniruddha Bose
+ 2023 INSC 1073                                                                  REPORTABLE
+
+
+                                       IN THE SUPREME COURT OF INDIA
+                                      CRIMINAL APPELLATE JURISDICTION
+
+                                      CRIMINAL APPEAL NO.3840 OF 2023
+                                @SPECIAL LEAVE PETITION (Crl.) No. 8847/2023
+
+
+          SAUMYA CHAURASIA                                                    …APPELLANT(S)
+
+
+                                                     VERSUS
+
+
+          DIRECTORATE OF ENFORCEMENT                                        …RESPONDENT(S)
+
+
+                                                     JUDGMENT
+
+
+BELA M. TRIVEDI, J.
+
+1. Leave granted.
+
+2. The order dated 23.06.2023 passed by the High Court of Chhattisgarh at Bilaspur in Miscellaneous Criminal Case No. 1258/2023 is assailed by way of present Appeal, whereby the High Court has dismissed the bail application filed by the appellant under Section 439 of Cr.P.C. The appellant was arrested on 02.12.2022 in connection with the Crime No. ECIR/RPZ0/09/2022 dated  29.09.2022, registered at the Police Station/Investigating Agency -
+
+Directorate of Enforcement, Zonal Office Raipur, Chhattisgarh, for the offences punishable under Sections 186, 204, 353, 384, 120-B of IPC read with Sections 3 and 4 of Prevention of Money Laundering Act, 2002 (for short “PML Act”).
+
+3. Shorn of unnecessary details, facts in brief as emerging from the record, may be stated as under:
+
+ Dates                             Particulars
+ 30.06.2022      A search and seizure action under Section 132 of
+
+                 the Income Tax Act was carried out against an
+
+
+
+individual named Suryakant Tiwari, who was at the time of search and seizure found at Room No. 664, Hotel Sheraton Grand, Whitefield, Bengaluru. 12.07.2022 Shri Pakkiresh Badami, Deputy Director of Income Tax Investigation, lodged an FIR being FIR No. 129/2022 at Kadugodi Police Station, Bengaluru city, against the said Suryakant Tiwari for the offences under Sections 186, 204, 120-B and 353 of the Indian Penal Code, 1860.
+
+Later Section 384 of IPC was added on 03.09.2022. 29.09.2022 Directorate of Enforcement (hereinafter referred to as the “ED”) registered an ECIR bearing No. RPZO/09/2022 on the basis of the said FIR registered against the said accused – Suryakant Tiwari.
+
+02.12.2022 The appellant- Saumya Chaurasia, who happened to be the Deputy Secretary, in the office of the Chief Minister, Chhattisgarh, came to be arrested under the said ECIR. She was remanded to ED custody till 06.12.2022, which came to be extended till 10.12.2022 by the Special Court.
+
+09.12.2022 ED filed the Prosecution Complaint against the accused- Suryakant Tiwari for the offence under Section 3 punishable under Section 4 of the PMLA. 14.12.2022 The ED sought judicial custody of the appellant for fourteen days, however, the Special Court granted the judicial custody initially for five days, which subsequently came to be extended from time to time at the instance of the ED till 27.01.2023. 13.01.2023 The appellant filed an application under Section 437 of Cr.P.C. read with Sections 45 & 65 of the PMLA in the court of IVth Additional Sessions Judge  (Special Judge, PMLA) at Raipur, Chhattisgarh (hereinafter referred to as the ‘Special Court’). 20.01.2023 The Special Court rejected the bail application of the appellant.
+
+30.01.2023 ED filed a supplementary complaint naming the appellant amongst others as the accused.
+
+10.02.2023 The appellant filed a Bail Application being No. 1258 of 2023 before the High Court of Chhattisgarh at Bilaspur.
+
+17.04.2023 The arguments were advanced by the learned counsels for the parties, and the bail application was reserved for orders by the High Court.
+
+08.06.2023 When the judgment in the bail application was awaited in the High Court, the Karnataka Police filed the charge-sheet against the accused – Suryakant Tiwari in respect of the FIR No. 129/2022 for the offence under Sections 204 and 353 of IPC, clarifying therein that “accused found to have committed offence under Section 384 of IPC with his henchmen at Chhattisgarh State for which the report would be prayed to Chhattisgarh Police through proper channel……..”.
+
+16.06.2023 The Additional Chief Judicial Magistrate, Bengaluru,  took cognizance under Sections 204 and 353 of the IPC on the charge-sheet submitted against the Suryakant Tiwari by the Karnataka Police.
+
+23.06.2023 The High Court of Chhattisgarh at Bilaspur rejected the bail application of the appellant.
+
+27.06.2023 The complainant- Mr. Badami of the FIR No. 129/2022 filed a protest petition under Section 173(8) of the Cr.P.C. against the final report submitted by the Karnataka State Police through Kadugodi Police Station and prayed for the completion of the investigation of offences under Sections 120-B and 384 of the IPC seeking permission to further investigate the matter and file supplementary charge-sheet under the scheduled offences of PMLA.
+
+4. The appellant being aggrieved by the impugned order dated 23.06.2023 passed by the High Court of Chhattisgarh, has preferred this appeal under Article 136 of the Constitution of India.
+
+5. Curiously, the appellant at various places in the synopsis of the list of dates and events and in the memorandum of SLP has raised a grievance that the High Court in the impugned order had failed to appreciate that there was no scheduled offence which was made out  against the appellant, as the scheduled offences under Section 384 and 120-B of IPC were already dropped from the Chargesheet dated 08.06.2023 filed by the Investigating Officer against the accused- Suryakant Tiwari, and the Additional Chief Judicial Magistrate, Bengaluru, also had taken cognizance of the offences under Sections 204 and 353, IPC only vide order dated 16.06.2023. The appellant also had framed the questions of law ‘C’ & ‘E’ and had raised the grounds ‘C’ & ‘D’ in that regard in the SLP for assailing the impugned order, emphasizing that the High Court had committed gross error in not considering the said Chargesheet dated 08.06.2023 and the Cognizance order dated 16.06.2023.
+
+6. As it was apparent from the record that the judgment was reserved on 17.04.2023 and delivered on 23.06.2023 by the High Court and that the chargesheet in the predicate offence was submitted on 08.06.2023 and the Cognizance order thereon was passed on 16.06.2023, that is during the period when the judgment was awaited after the arguments were concluded, this Court on 09.10.2023, when the SLP (instant appeal) was being heard, put a query to the learned senior counsel appearing for the appellant as to whether the said Chargesheet dated 08.06.2023 and the  Cognizance order dated 16.06.2023 were produced and brought to the notice of the High Court. The Court at that time also brought to the notice of the learned counsel about the Certificate given by the Advocate-on-Record appearing for the appellant and the affidavit filed on behalf of the appellant at the end of the SLP. Since, the learned senior counsel stated that the said charge-sheet and the cognizance order were produced and were also brought to the notice of the High Court, this Court had directed that the appellant or her concerned advocate on her behalf may file an affidavit in that regard, by passing the order on 09.10.2023.
+
+7. The appellant in compliance with the said order dated 09.10.2023 filed an affidavit stating inter-alia as under: -
+
+“4. Since, as stated above these facts had a bearing on the Petitioner’s bail application, the same were sought to be placed before the Hon’ble High Court by way of a covering memo dated 19.06.2023.
+5. The said covering memorandum annexed the following documents: -
+A. Medical report of Myra Modi.
+B. Order sheets of the subsequent development which took place in the matter.
+A certified copy of the covering memo filed before the Hon’ble High Court of Chhattisgarh at Bilaspur in MCrC No. 1258/2023 is annexed herewith and marked as ANNEXURE A.
+6. After serving the said covering memo and the attached documents upon the Ld. Counsel appearing on behalf of ED, the same was filed with the registry of the Hon’ble  High Court on 19.06.2023 and was thereafter, mentioned before the Ld. Single Judge of the Hon’ble High Court by the Petitioner’s counsel, and these facts were orally brought to the knowledge of the Ld. Single Judge of Hon’ble High Court.…
+7. While the matter was mentioned and Hon’ble High Court was orally informed about the contents of the documents that were filed including the cognizance order dated 16.06.2023, detailed arguments were neither called upon by the Hon’ble High Court, nor the same were advanced.
+
+……”
+
+8. Since, the appellant had conveniently remained silent in the above affidavit as to whether the Chargesheet dated 08.06.2023 was in fact produced before the High Court or not, the Court again raised the query as to when the said Chargesheet dated 08.06.2023 was produced before the High Court. In reply thereto, the learned senior counsel submitted that the Chargesheet dated 08.06.2023 was in itself not produced as the same was not available with the appellant. The Court, therefore, asked the learned senior counsel about the sanctity attached to the Certificate given by the Advocate-on-Record at the end of the SLP which stated that “the SLP is confined only to the pleadings before the Court/Tribunal whose order is challenged and the other documents relied upon in those proceedings. No additional facts/documents or grounds have been taken therein or relied upon in the SLP.” The learned Senior Advocate replied that  “we regret for that.”
+
+9. The reason for elaborately stating the above facts is that Order XXI of the Supreme Court Rules 2013 framed under Article 145 of the Constitution of India, deals with the provisions regarding Special Leave Petitions under Article 136 of the Constitution. Rule 3 of the said Order XXI mandates inter alia that the SLPs shall be confined only to the pleadings before the court/tribunal whose order is challenged and that the petitioner may produce copies of such petition/documents which are part of the record in the case before the court/tribunal below, if and to the extent necessary to answer, the question of law arising for consideration in the petition, or to make out the grounds urged in the SLP, as Annexures to the petition.
+
+10. In the instant Appeal, as demonstrated hereinabove, though the documents, particularly the Chargesheet dated 08.06.2023 and the Cognizance order dated 16.06.2023 were neither part of pleadings nor were produced during the course of arguments before the High Court, the Certificate at the end of the SLP appears to have been given by the Advocate-on-Record appearing for the Appellant without verifying the facts which were otherwise very apparent from  the record. The affidavit by the husband and pairokar of the petitioner Shri Saurabh also appears to have been filed at the bottom of the SLP without verifying the said facts. Even the affidavit sought to be filed pursuant to the query raised by the court was also not filed answering the query, rather was filed making vague statements.
+
+11. Though the said Chargesheet and the Cognizance order were neither pleaded nor argued before the High Court, an impudent attempt was sought to be made by alleging all throughout in the synopsis, list of dates, questions of law and the grounds in the SLP that the High Court had grossly erred in not appreciating the said documents.
+
+12. Having regard to the above state of affairs, the Court has a reason to believe that there was a bold attempt made by and on behalf of the appellant to misrepresent the facts for challenging the impugned order.
+
+13. The Certificate to be issued by the Advocate-on-Record and the Affidavit to be filed by or on behalf of the petitioner/appellant at the end of the SLP as per the provisions contained in the Supreme Court Rules, do carry sanctity in the eyes of law. It is unbelievable  that the battery of lawyers appearing for the appellant did not notice the apparent fact that when the chargesheet and cognizance order were not in existence before the High Court when the arguments were concluded and the judgment was reserved, non-consideration of the same by the High Court could not be made the basis for challenging the said order in the SLP before this Court.
+
+14. It cannot be gainsaid that every party approaching the court seeking justice is expected to make full and correct disclosure of material facts and that every advocate being an officer of the court, though appearing for a particular party, is expected to assist the court fairly in carrying out its function to administer the justice. It hardly needs to be emphasized that a very high standard of professionalism and legal acumen is expected from the advocates particularly designated Senior advocates appearing in the highest court of the country so that their professionalism may be followed and emulated by the advocates practicing in the High Courts and the District Courts. Though it is true that the advocates would settle the pleadings and argue in the courts on instructions given by their clients, however their duty to diligently verify the facts from the record of the case, using their legal acumen for which they are engaged, cannot be  obliviated.
+
+15. In the instant case, though the Court had specifically drawn the attention of all the learned counsels appearing for the appellant with regard to the ex-facie inconsistencies appearing in the grounds mentioned in the SLP and in the certificate and affidavit filed at the bottom of the SLP, as per the order dated 09.10.2023, again an attempt was sought to be made by filing a smartly drafted affidavit, avoiding to answer the query raised by the court. Such an attempt made by and on behalf of the appellant is strongly deprecated. As such, the appeal deserves to be dismissed on that ground alone. However, since the learned counsels for the parties have made their submissions at length, the Court deems it proper to deal with the appeal independently and on merits also.
+
+16. Learned senior counsel, Mr. Siddharth Aggarwal, for the appellant made following submissions: -
+
+(i) The appellant was not named in the FIR dated 12.07.2022 nor in the ECIR dated 29.09.2022 registered against the accused-
+
+Suryakant Tiwari, yet the appellant was arrested on 02.12.2022, though she had co-operated during the course of interrogation by the ED.
+
+ (ii) The charge-sheet in the FIR No. 129/2022 filed against the accused-Suryakant Tiwari having been filed by the Karnataka Police for the offence under Sections 204 and 353 only, the proceedings in relation to Sections 384 and 120-B, IPC could not be said to have survived as regards the said charge-sheet.
+
+(iii) The proceedings under the PMLA are contingent on the existence of the scheduled offence, and no proceedings under the PMLA can be continued against the person in absence or in isolation of scheduled offence, in view of the decision of this Court in Vijay Madanlal Choudhary & Ors. v. Union of India & Ors.1 (SLP(Crl.) No. 4634 of 2014).
+
+(iv) Pressing into service the proviso to Section 45, the submission was made that the appellant being a lady, she should be released on bail more particularly when she is in custody for more than one year and when the continued custody is not required.
+
+(v) There was no substantive evidence except the bare allegations made in the prosecution complaint lodged against her, and therefore the questions rebutting the presumption 1 2022 SCC Online SC 929  contained in Section 45 did not arise.
+
+(vi) There was no prima facie connection or relationship between the appellant and the co-accused- Suryakant Tiwari, Manish Upadhyay or Nikhil Chandrakar in the prosecution complaint filed by the ED, nor any evidence legally maintainable has been produced by the ED.
+
+17. The learned ASG Mr. S.V. Raju appearing for the respondent-ED made following submissions:
+
+(i) The prosecution during the course of investigation has collected substantive evidence showing strong nexus between the appellant and the other accused, and the documents produced in the Court indicate prima facie material establishing money laundering at the hands of the appellant.
+(ii) The prosecution has collected the documents showing incriminating evidence which disclose numerous cash transactions and other illegal transactions including purchase of immoveable properties in the name of the mother and other relatives of the appellant, showing involvement of the accused-
+
+Suryakant Tiwari and others, as to how Mr. Suryakant Tiwari used to extort money against the coal delivery orders, at the  connivance of the senior bureaucrats in Chhattisgarh including the appellant, and how the said money extorted was being utilized towards the payment of bribes and acquisition of immovable properties for the bureaucrats including the appellant.
+
+(iii) The appellant, the Deputy Secretary attached as an OSD to the CMO, though was relatively a junior officer, she used to exercise considerable influence and control because of her access to higher political powers, and the accused- Suryakant Tiwari was able to operate the syndicate and the extortion racket only because he had the backing of the appellant.
+
+(iv) Investigation has revealed that the appellant was one of the key persons in the creation of extortion racket run by Suryakant Tiwari and that approximately Rs.540 crores were extorted by Mr. Suryakant Tiwari. Further, Mr. Manish Upadhyay who was a relative of the Suryakant Tiwari, and who was a close associate of the appellant, was used as a layer of protection for the cash dealings between Suryakant Tiwari and the appellant.
+
+ (v) The appellant had allegedly utilized the monies received from the extortion racket towards the purchase of properties in the names of her mother (Shanti Devi Chaurasia), her cousin (Anurag Chaurasia) and her husband (Sourabh Modi), the details of which have been given in the prosecution complaint.
+
+(vi) The use of the expression “may be” in the proviso to Section 45 of PMLA indicates that the benefit of the proviso cannot be extended mandatorily or automatically, and the discretion has to be exercised by the Courts depending upon the facts of each case.
+
+ANALYSIS
+
+18. The object of the PMLA hardly needs to be delineated. The said Act has been enacted to prevent money laundering and to provide for confiscation of property derived from, or involved in, money laundering and for the matters connected therewith and incidental thereto. As per Section 2(1)(p), “Money Laundering” has the meaning assigned to it in Section 3. The offence of Money Laundering has been defined in Section 3, which is punishable under Section 4 of the said Act. Section 45 makes the offences under the PMLA to be cognizable and non bailable. As regards the twin conditions for the grant of bail contained  in Section 45(1), it has been held by the Three-Judge Bench in Vijay Madanlal (supra) that the underlying principles and rigours of Section 45 of the Act must come into play and without exception ought to be reckoned to uphold the objectives of the Act, which is a special legislation providing for stringent regulatory measures for combating the menace of money laundering.
+
+19. Though it is true that the Court while considering an application seeking bail is not required to weigh the evidence collected by the investigating agency meticulously, nonetheless the Court should keep in mind the nature of accusation, the nature of evidence collected in support thereof, the severity of the punishment prescribed for the alleged offences, the character of the accused, the circumstances which are peculiar to the accused, reasonable possibility of securing the presence of the accused at the time of trial, reasonable apprehension of the witness being tempered with, the large interest of the public/ state etc. Though the findings recorded by the Court while granting or refusing to grant bail would be tentative in nature, nonetheless the Court is expected to express prima facie opinion while granting or refusing to grant bail which would demonstrate an application of mind, particularly dealing with the serious economic  offences.
+
+20. As stated hereinabove, the supplementary complaint was filed against the appellant along with the other accused on 30.01.2023, in which the summary of investigative findings against each of the accused persons have been recorded in Para 8 thereof. The details of the investigation conducted by the respondent - ED have been stated in Para 9 and the role of each accused including the appellant in the commission of alleged offence of money laundering has been stated in Para-10 thereof, which reads as under: -
+
+“10. Role of accused in the Offence of Money laundering.
+A. Evidences of Offence of Money Laundering Against Smt. Saumya Chaurasia – Mrs. Saumya Chaurasia is an officer of the Chhattisgarh State Civil Services who was posted as the Deputy Secretary in the Office of Chief Minister of Chhattisgarh and was working as an OSD to CM. Despite being relatively very junior in the bureaucratic hierarchy, she enjoyed unprecedented power & control because of her direct access to higher political powers.
+Information shared by the Income Tax Department and analysis of documents and digital devices seized during the searches conducted u/s 17 of PMLA, 2002 revealed that Smt. Saumya Chaurasia, Deputy Secretary working in the Chief Minister's Office, is one of the key persons in creation of the syndicate headed by Shri Suryakant Tiwari. An extortion racket of this magnitude & nature was possible only when multiple State agencies fell in place and everyone supported the illegal acts of Suryakant Tiwari. This was made possible by Saumya Chaurasia so that pliant officers were posted in the coal mining districts who would listen to Suryakant Tiwari. Also, it was an unwritten rule that instructions of Suryakant Tiwari meant the voice of Saumya Chaurasia and the powers to be. The fact that Suryakant Tiwari had personal & close official dealings with her and was carrying her instructions to the Officers, made it possible for Suryakant Tiwari to also command senior District level officers. This illegal authority was essential for him to run his empire of illegal extortion from Coal & Iron Pellet transportation. Without his concurrence, no NOG was issued by the district machinery. All this was made possible by the fact that he was in the good books of Mrs. Saumya Chaurasia. Therefore, she has directly indulged in the offence of Money Laundering as defined under section 3 of the PMLA, 2002 being actually involved in the process of Money Laundering by way of possession, concealment, use, acquisition and projecting the Proceeds of Crime as untainted property.
+As per the findings of the investigation, it can be inferred that Saumya Chaurasia has directly acquired proceeds of crime as defined under section 2(l)(u) of the PMLA, 2002 to an extent of more than Rs. 30 crores. ED's investigation makes it evident that although all the money of extortion on Coal & Iron Pellet transportation was collected by the syndicate of Suryakant Tiwari, he was not the final beneficiary of this scam. He did utilize large amounts of money for purchasing benami assets, but big chunks of the money was transferred to Saumya Chaurasia, spent on political funding and transferred as per the instructions of higher powers.
+Mr. Manish Upadhyay, a relative of Mr. Suryakant Tiwari, is a close associate of both Mrs. Saumya Chaurasia & Mr. Suryakant Tiwari. ED investigation has established that Mr. Manish Upadhyay was inserted in as an extra layer of protection for cash dealings between Mr. Suryakant Tiwari and Mrs. Saumya Chaurasia. He used to transport cash from Mr. Suryakant Tiwari to Mrs. Saumya Chaurasia. ED investigation has established that Mrs. Saumya Chaurasia and her family went on a spree of acquiring immovable assets during the period which coincided with the Coal levy scam. These assets of which she is the real beneficial owner were identified and attached by issuance  of Provisional Attachment Orders(s) as detailed in succeeding paras.”
+
+21. The evidence relating to strong relations between the Appellant and Mr. Suryakant Tiwari, between the Appellant and Mr. Manish Upadhyay, and between the Appellant and Mr. Anurag Chaurasia; the evidences of movement of funds acquired out of extortion syndicate run by Mr. Suryakant Tiwari to Manish Upadhyay, proxy of the appellant; the utilization of proceeds of crime and acquisition of properties by the appellant in the name of her mother Shanti Devi and cousin Mr. Anurag Chaurasia along with the details of the said properties etc. have been detailed in the said prosecution complaint, which leave no doubt in the mind of the Court that prima facie the appellant has been found involved in the commission of the offence of money laundering as defined in Section 3 of the said Act.
+
+22. The next question that falls for consideration before the Court is whether the appellant being a woman should be granted the benefit of the first proviso to Section 45 of the PMLA, which reads as under: -
+
+“45. Offences to be cognizable and non-bailable. -
+(1) …………………………..
+
+Provided that a person who is under the age of sixteen years or is a woman or is sick or infirm [or is accused either on his own or along with other co-accused of money-laundering a sum of less than one crore rupees], may be released on bail, if the special court so directs:
+
+(2) ……………………………”
+
+23. Recently, a Three-Judge Bench of this Court in Enforcement Directorate vs. Preeti Chandra observed in the order dated 04.08.2023 in SLP (Crl.) No. 7409 of 2023 as under: -
+
+“The proviso to Section 45 of the Prevention of Money Laundering Act, 2002 confers a discretion on the Court to grant bail where the accused is a woman. Similar provisions of Section 437 of the Code of Criminal Procedure, 1973 have been interpreted by this Court to mean that the statutory provision does not mean that person specified in the first proviso to sub-section (1) of Section 437 should necessarily be released on bail. (See Prahlad Singh Bhati vs. NCT, Delhi and Another (2001) 4 SCC 280).”
+24. The use of the expression “may be” in the first proviso to Section 45 clearly indicates that the benefit of the said proviso to the category of persons mentioned therein may be extended at the discretion of the Court considering the facts and circumstances of each case, and could not be construed as a mandatory or obligatory on the part of the Court to release them. Similar benevolent provision for granting bail to the category of persons below the age of sixteen years, women, sick or infirm has been made in Section 437 Cr.P.C. and many other special enactments also, however by no stretch of imagination could such provision be construed as obligatory or mandatory in nature, otherwise all serious offences under such special Acts would be committed  involving women and persons of tender age below 16 years. No doubt the courts need to be more sensitive and sympathetic towards the category of persons included in the first proviso to Section 45 and similar provisions in the other Acts, as the persons of tender age and women who are likely to be more vulnerable, may sometimes be misused by the unscrupulous elements and made scapegoats for committing such Crimes, nonetheless, the courts also should not be oblivious to the fact that nowadays the educated and well placed women in the society engage themselves in the commercial ventures and enterprises, and advertently or inadvertently engage themselves in the illegal activities. In essence, the courts should exercise the discretion judiciously using their prudence, while granting the benefit of the first proviso to Section 45 PMLA to the category of persons mentioned therein. The extent of involvement of the persons falling in such category in the alleged offences, the nature of evidence collected by the investigating agency etc., would be material considerations.
+25. In the instant case as discussed hereinabove, there is sufficient evidence collected by the respondent Enforcement Directorate to prima facie come to the conclusion that the appellant who was Deputy Secretary and OSD in the Office of the Chief Minister, was actively  involved in the offence of Money Laundering as defined in Section 3 of the PMLA. As against that there is nothing on record to satisfy the conscience of the Court that the appellant is not guilty of the said offence and the special benefit as contemplated in the proviso to Section 45 should be granted to the appellant who is a lady.
+26. The Court also does not find any substance in the submission of the learned Senior Counsel Mr. Siddharth Aggarwal for the Appellant that the scheduled offences i.e. Section 384 and 120 B having been dropped from the chargesheet submitted against the accused Suryakant Tiwari in connection with the FIR No. 129 of 2022 registered at Kadugodi Police Station Bengaluru, and the ACJM Bengaluru vide the order dated 16.06.2023 having taken cognizance for the offence punishable under Section 204 and 353 IPC only, which are not the scheduled offences under the PMLA Act, no scheduled offence survived at the time of passing of the impugned order and that the proceedings were/are without jurisdiction.
+27. Apart from the fact that neither the Chargesheet dated 08.06.2023 nor the cognizance order 16.06.2023 were placed on record during the course of arguments before the High Court as they never existed at that time, the I.O. in the Chargesheet filed in connection with the said  FIR no. 129 of 2022 against Suryakant Tiwari has categorically mentioned that “as the accused (Suryakant Tiwari) found to be committed offence under Section 384 of IPC with his henchmen at Chhattisgarh State for which the report would be prayed to Chhattisgarh Police through proper channel.” Hence, the offence under Section 384 could not be said to have been dropped by the I.O.
+
+while submitting the chargesheet in respect of the said FIR.
+
+28. That apart, it is very much pertinent to note that when the FIR is registered under particular offences which include the offences mentioned in the Schedule to the PMLA, it is the court of competent jurisdiction, which would decide whether the Charge is required to be framed against the accused for the scheduled offence or not. The offences mentioned in the chargesheet by the I.O. could never be said to be the final conclusion as to whether the offences scheduled in PMLA existed or not, more particularly when the same were mentioned in the FIR registered against the accused. As held by the Three-Judge Bench in Vijay Madanlal (supra), it is only in the event the person named in the criminal activity relating to a scheduled offence is finally absolved by a Court of competent jurisdiction owing to an order of discharge, acquittal or because of quashing of the criminal case  (scheduled offence) against him/ her, there can be no action for money laundering against such a person or person claiming through him in relation to the property linked to the stated scheduled offence.
+
+29. In the instant case, there is neither discharge nor acquittal nor quashing of the criminal case by the court of competent jurisdiction against Suryakant Tiwari in the predicate/ scheduled offence.
+
+30. In that view of the matter the Court does not find any merit in the instant appeal. Since the Court has found that there was an attempt made by and on behalf of the Appellant to misrepresent the facts by making incorrect statements in the appeal for assailing the impugned order passed by the High Court, the appeal deserves to be dismissed and is accordingly dismissed with cost of Rs.1 Lakh, which shall be deposited by the Appellant before the Supreme Court Legal Services Authority within two weeks from today.
+
+31. Appeal stands dismissed accordingly.
+
+…………………………. J.
+
+[ANIRUDDHA BOSE] …………………………. J.
+
+[BELA M. TRIVEDI] NEW DELHI;
+
+DECEMBER 14th, 2023

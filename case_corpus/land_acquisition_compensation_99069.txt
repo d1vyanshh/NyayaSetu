@@ -1,0 +1,73 @@
+[Cites 19, Cited by 94]
+Supreme Court of India
+Bikram Singh & Ors vs The Land Acquisition Collector & Ors on 11 September, 1996
+Author: K. Ramaswamy
+Bench: K. Ramaswamy
+           PETITIONER:
+BIKRAM SINGH & ORS.
+
+	Vs.
+
+RESPONDENT:
+THE LAND ACQUISITION COLLECTOR & ORS.
+
+DATE OF JUDGMENT:	11/09/1996
+
+BENCH:
+K. RAMASWAMY, G.B. PATTANAIK
+
+
+
+
+ACT:
+
+
+
+HEADNOTE:
+
+
+
+JUDGMENT:
+
+O R D E R Leave granted.
+
+We have heard learned counsel on both sides. This appeal by special leave arises from the judgment of the High Court of Punjab & Haryana made in CWP Nos. 1558/91 for payment of income-tax on the delayed interest amount recovered under the Land Acquisition Act, 1894 [for short, the "LA Act"]. Calling that notice in question, they filed writ petitions. The High Court relying upon decisions of this Court dismissed the petitions with a finding as under:
+
+"This now leads us to the consideration of the question whether interest paid on the amount of compensation for compulsory acquisition of land is "income"
+
+and, therefore, taxable under the Act. Matters which have to be considered for awarding compensation for compulsory acquisition of land are enumerated in section 23 of the Land Acquisition Act. While sub-section (2) of that section provides for payment of certain solatium for acquisition of compulsory nature, interest is not included as an item of compensation. Instead, interest is payable by force of section 34 of the Act, if compensation is not paid or depositor before taking possession of the land. By force of section 28 also provides that the court, on a reference, shall award interest on the amount of enhanced compensation. It will thus appear from the text of section 34 of the Land Acquisition Act that interest is not payable as compensation but is paid if the compensation is not paid before taking possession of the land. Interest is thus payable because of the deprivation of the possession of the land before compensation for compulsory acquisition of that land is paid. This position is now well-settled. In Dr. Shamlal Narula V. CIT (1964) 53 ITR 151 SC ; AIR 1964 SC 1878, the observation is that interest has to be paid on the amount awarded from the time the Collector takes possession until the amount is paid deposited. Interest is not an item of compensation. Nor is it consideration for acquisition. Nor is it consideration for acquisition of land, Payment of interest has been provided for separately under section 34 of the Land Acquisition Act. This is so because interest is paid after the compensation has been determined. It is something in addition to the capital amount thought it arises out of it. It has expressly been held that interest under section 34 of the Land Acquisition Act is not compensation paid to the owner for depriving him of his right to possession of the land acquired, but is given to him for the deprivation of the use of the money representing the compensation for the land acquired. This interest under section 34 of the Land Acquisition Act is thus paid for the delayed payment of the compensation amount and, therefore, a revenue receipt liable to tax under the Income-tax Act. The Supreme Court expressly distinguished the decision of the Privy Council in Inglewood Pulp and Paper Co.Ltd. v. New Brunswick Electric Power Commission, AIR 1928 PC 287. This decision of the Privy Council as also the decision in Abhay Singh Surana v. Secretary, Ministry of Communication, AIR 1987 SC 2177 are authorities only for the proposition that interest is payable on the amount of compensation determined either under the Land Acquisition Act of under the Requisition and Acquisition of immovable Property Act, 1952. Neither of these authorities considered the question of eligibility of such interest to income-tax. This principle in Narula's case (1964) 53 ITR 151 (SC) has subsequently been applied by the Supreme Court in a later decision in T.N.K. Govindaraju Chetty v. CIT (1967) 66 ITR 465 also, where the property was acquired under the Requisition and Acquisition of Immovable Property Act which did not make any specific provision for the award of interest on the amount of compensation, the application of sections 28 and 34 of the Land Acquisition Act, 1894, dealing with the payment of interest on the amount awarded as compensation could not be deemed to be excluded. When the owner of property was dispossessed pursuant to an order for compulsory acquisition, an agreement that the acquiring authority will pay interest on the amount of compensation was implied. It has been expressly held that the view in Shamlal Narula's case (1964) 53 ITR 151 (SC), that the interest received is chargeable to tax as income, will apply if interest is payable under the terms of an agreement, express or implied, and the court or the arbitrator gives effect to the terms of the agreement and awards interest which has been agreed to bee paid. It has, therefore, to e held that the amount received as interest on the amount of compensation assessed under the Land Acquisition Act or under the Requisition and Acquisition of Immovable Property Act is income taxable under the Income Tax Act. Certainly, it is not agricultural income since it is neither rent nor revenue derived from the land used for agricultural purposes. It is, therefore, not exempt from income-
+
+     tax  under	 section  10(1)	 of  the
+     Income-tax Act  as	    agricultural
+     income.   The    Land   Acquisition
+
+
+Collector is, therefore, perfectly justified in retaining the amount of interest payable to the holders of agricultural lands compulsorily acquired in terms of section 194A of the Act. The Land Acquisition Collector is also justified in demanding the sum paid on account of interest under section 194A of the Act. The notices issued and challenged in these petitions are, therefore, valid and perfectly justified." The question for consideration is: whether the delayed interest on the compensation paid under the Land Acquisition Act is chargeable to income tax under Section 4 & 5 of the Income Tax Act, 1961 (for short the "Act"). It is contended for the appellants that "interest" has been defined under Section 2 [28A] as:
+
+"Interest" means interest payable in any manner in respect of any moneys borrowed or debt incurred (including a deposit, claim or other similar right or obligation) and includes any service fee or other charge in respect of the moneys borrowed or debt incurred or in respect of any credit facility which has not been utilised."
+
+Under Section 194A dealing with "interest on securities"
+
+provides as under:
+"194.(1) Any person, not being an individual or a Hindu undivided family, who is responsible for paying to a resident any income by way of interest on securities) shall, at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rates in force.
+Explanation-For the purposes of this section, where any income by way of interest as aforesaid is credited to any account, whether called "Interest payable account"
+
+or "Suspense account" or by any other name, in the books of account of the p liable to pay such income, such crediting shall be deemed to be credit of such income to the account of the payee and the provisions of this section shall apply accordingly."
+
+In the circular issued by the Board of Direct Taxes, the concept of "interest" defined under Section 2(28A) has been explained with the added explanation as under:-
+
+"The term "interest has been defined 1 new clause (28A) inserted in Section 2 of the Income-Tax Act with a view to removing doubts about the true character of fees or other charges paid in respect of moneys borrowed or in respect of the credit facilities which have not been utilised. The definition is very wide and covers interest payable in any manner in respect of loans, debts, deposits, claims and other similar rights or obligations. It is also includes any service fees or other charges in respect of such loans, debts, deposits, etc. as also fees in the nature of commitment charges on unutilised portion of credit facilities. This definition will be applicable for all purposes of the Income-tax Act."
+
+Relying upon these three provision, it is contended that the definition of "interest" is confined only to money- lending business between debtor and the creditor and if the creditor receives any amount by way of interest from the debtor, it is in the nature of a receipt of income on a charge paid in respect of money borrowed or in respect of the credit facility given which have been utilised and, therefore, the definition would be applicable only when the money is lent by a creditor and received by the debtor. Then only interest is chargeable to income-tax. When interest is paid either under Section 34 or Section 28 of the LA Act, it in only a payment in consideration of loss of enjoyment of the possession by the owner. It is not by way of any charge on compensation determined under Section 23(1). Therefore, it is not eligible to income tax. We find no force in the contention.
+
+The controversy is no longer res integra. This question was considered elaborately by this Court in Dr. Shamlal Narula vs. Commissioner of Income-tax, Jammu [51 ITR 151]. Therein, K. Subba Rao, J., as he then was, considered the earlier case law on the concept of "interest" laid down by the Privy Council and all other cases and had held at page 158 as under:
+
+"In a case where title passes to the State, the statutory interest provided thereafter can only be regarded either as representing the profit which the owner of the land might have made if he had the use of the money or the loss he suffered because he had not that use. In no sense of the term can it be described as damages or compensation for the owner's right to retain possession, for he has no right to retain possession after possession was taken under Section 16 or Section 17 of the Act. We, therefore, hold that the statutory interest paid under Section 34 of the Act is interest paid for the delayed payment of the compensation amount and, therefore, is a revenue receipt liable to tax under the Income-tax Act."
+
+This position of law has been consistently reiterated by this Court in the case of TMK Govindaraju Chetty vs. Commissioner of Income-tax, Madras [66 ITR 465], Rama Rai & Ors. vs. CIT, Andhra Pradesh [181 ITR 400] and K.S. Krishna Rao vs. CIT, A.P. [181 ITR 408]. Thus by a catena of judicial pronouncements, it is settled law that the interest received on delayed payment of the compensation is a revenue receipt eligible to income tax. It is true that in amending the definition of "interest" in Section 2(28A) interest was defined to mean interest payable in any manner in respect of any money borrowed or debt incurred including a deposit, claim or other similar right or obligation and includes any service, fee or other charges in respect of the moneys borrowed or debt incurred or in respect of any credit facility which has not been utilised. It is seen that the word "interest" for the purpose of the Act was interpreted by the inclusive definition. A literal construction may lead to the conclusion that the interest received or payable in any manner in respect of any moneys borrowed or a debt incurred or enumerated analogous transaction would be deemed interest. That was explained by the Board in the circular referred to hereinbefore.
+
+But the question is: whether the interest on delayed payment on the acquisition of the immovable property under the Acquisition Act would not be eligible to income-tax? It is seen that this Court has consistently taken the view that it is a revenue receipt, The amended definition of "interest" was not intended to exclude the revenue receipt of interest on delayed payment of compensation from taxability. Once it is construed to be a revenue receipt, necessarily, unless there is an exemption under the appropriate provisions of the Act, the revenue receipt is eligible to tax. The amendment is only to bring within its tax net, income received from the transaction covered under the definition of interest. It would mean that the interest received as income on the delayed payment of the compensation determined under Section 28 or 31 of the Acquisition Act is a taxable event. Therefore, we hold that it is a revenue receipt eligible to tax under Section 4 of the Income-Tax Act. Section 194A of the Act has no application for the purpose of this case as it encompasses deduction of the income at thee source. However the appellants are entitled to spread over the income for the period for which payment came to be made so as to compute the income for assessing tax for the relevant accounting year.
+
+Under these circumstances, we do not think that there is any error of law committed by the High Court in the judgment under appeal warranting interference.
+
+The appeals are accordingly dismissed. But in the circumstances without costs.

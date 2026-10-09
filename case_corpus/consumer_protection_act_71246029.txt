@@ -1,0 +1,222 @@
+[Cites 26, Cited by 21]
+Supreme Court of India
+Experion Developers Private Ltd. vs Sushma Ashok Shiroor on 7 April, 2022
+Author: Uday Umesh Lalit
+Bench: Pamidighantam Sri Narasimha, S. Ravindra Bhat, Uday Umesh Lalit
+                                                                              REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+                                         CIVIL APPELLATE JURISDICTION
+
+                                          CIVIL APPEAL NO. 6044 of 2019
+
+
+          EXPERION DEVELOPERS PVT. LTD.                                     ...APPELLANT(S)
+
+
+                                                          VERSUS
+
+
+          SUSHMA ASHOK SHIROOR                                            …RESPONDENT(S)
+
+                                                            WITH
+
+                                          CIVIL APPEAL NO. 7149 of 2019
+
+
+                                                    JUDGMENT
+
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. These appeals under Section 23 of the Consumer Protection Act, 1986 1, arise out of the judgment dated 19.06.2019 passed by the National Consumer Disputes Redressal Commission2. The Commission directed the Appellant- Developer to refund an amount of Rs. 2,06,41,379 with interest @ 9% p.a. to the Respondent-Consumer3 for its failure to deliver possession of the apartment within the time stipulated as per the Apartment Buyers Agreement. In these hereinafter referred to as the “Act”.
+
+hereinafter referred to as “Commission”.
+
+hereinafter referred to as the “Consumer”.
+
+appeals, we have upheld the Commission’s order insofar as it directed the Developer to refund the amounts paid by the Consumer with interest for the unjustifiable delay in delivering the apartment. On law, we have considered the interplay between the judicial remedies under the Act and the Real Estate (Regulation and Development) Act, 2016 and have explained the remedial choices of a consumer under these statutes. We have held that the Commission created under the Act has the power to direct refund under Section 14 of the Act. We conclude that the Act and the RERA Act neither exclude nor contradict each other and they must be read harmoniously to subserve their common purpose.
+
+2. The brief facts of the case are that the Developer, M/s Experion Developers Private Ltd., is the promoter of apartment units, Windchants, in Sector 112, Gurgaon, Haryana. The Consumer booked an apartment measuring 3525 sq. ft. for a total consideration of Rs. 2,36,15,726/- in the Windchants and agreed for construction linked payment plan, which led to the execution of the Apartment Buyer’s Agreement dated 26.12.2012. As per Clause 10.1 of the Agreement, possession was to be given within 42 months from the date of approval of the building plan or the date of receipt of the approval of the Ministry of Environment and Forests, Government of India for the Project or date of the execution of the agreement whichever is later. Clause 13 of the Agreement provided for Delay Compensation. Under this clause, if the Developer did not offer possession within the period stipulated in the Agreement, it shall pay liquidated damages of Rs. 7.50 per square foot per month till possession is offered to the Consumer. 3.1 The Consumer approached the National Disputes Redressal Commission by filing an original complaint being, Consumer Case No. 2648/2017, alleging that he has paid a total consideration of Rs. 2,06,41,379/- and possession was not granted even till the filing of the complaint. He, therefore, sought a refund of Rs. 2,06,41,379/- along with interest @ 24% p.a. 3.2 The Developer filed its Written Statement before the Commission stating that though the 42 months period expires on 26-6-20164, the purchaser will only be entitled to delay compensation under Clause 13, for a sum of Rs. 4,54,052/-. Justification for the delay is given by pleading that the Occupation Certificate for Phase-I of the project had already been obtained on 06.12.2017, and application for Occupation Certificate for Phase-2, had already been made. In the affidavit of evidence, the Developer contended that it secured the Occupation Certificate on 23.07.2018 and a notice of possession was issued to the Consumer on 24.07.2018. It was claimed that since possession can be handed over, the complaint must be dismissed.
+
+4. The Commission, in its judgment dated 19.06.2019, allowed the complaint after referring to Clause 10 (relating to the project completion period), Clause 11 (relating to the possession and conveyance of the apartment), as well as Clause 13 (relating to delay in possession). The Commission found that the agreement The Commission in impugned order has recorded the statement of the Developer in the reply dated 16.02.2018 raising preliminary objections where it admitted that the “The trigger date for clause 10.1 is 26.12.2012 which is the date of execution of the apartment buyer’s agreement.” is one-sided, heavily loaded against the allottee and entirely in favour of the Developers. Following the decisions of this Court in Pioneer Urban Land and Infrastructure Ltd. v. Govind Raghvan,5 (“Pioneer”), the Commission directed the Developer to refund the amount of Rs.2,36,15,726/- with interest @ 9% p.a. 5.1 It is against these findings and the consequential directions of the Commission that the Developer filed the present Civil Appeal No. 6044/2019. The Consumer also filed an appeal being Civil Appeal No. 7149/2019, challenging the Commission's judgment to a limited extent for grant of an enhanced interest @ 24% p.a. 5.2 Assailing the judgment of the Commission, Shri Gagan Gupta, on behalf of the Developer submitted that the decision of this Court in Pioneer has no application to the facts of the present case, as in Pioneer, the Court did not have to deal with Delay Compensation Clause like in the present case. Terms of the Apartment Buyer’s Agreement alone, according to him, would govern the relations between the parties. He argued that no prejudice would be caused to the Consumer if he is asked to take possession of the property. Referring to the provisions of the Real Estate (Regulation and Development) Act, 20166 and particularly to the Regulations made by Haryana Real Estate Regulatory Authority, which were relied on in Pioneer case, he submitted that the Consumer Pioneer Urban Land and Infrastructure Ltd. v. Govindan Raghvan (2019) 5 SCC hereinafter referred to as “RERA Act”.
+
+has elected to proceed under the Consumer Protection Act, 1986 and therefore the provisions of RERA Act will not apply and the Pioneer cannot be followed as a precedent. In the alternative, he argued that the interest granted by the Commission is excessive in both the period of the grant and the rate of interest. 5.3 Shri Jitendra Chaudhary, learned counsel on behalf of the Consumer, supported the decision of the Commission on all counts and also relied on the judgment of this Court in Pioneer. In his appeal, he argued that the rate of interest granted by the Commission is far too low and urged for enhancement of the rate of interest to @ 24% p.a. as demanded by her in the petition before the Commission.
+
+6. Having heard the parties the following issues arise for consideration:
+
+I. Whether the terms of the Apartment Buyers Agreement amount to an ‘unfair trade practice’ and whether the Commission is justified in not giving effect to the terms of Apartment Buyer’s Agreement as laid down in the Pioneer case?
+II. Whether the Commission has the power under the Consumer Protection Act, 1986 to direct refund of the amount deposited by the Consumer with interest?
+III. Whether the relief granted by the Commission require any modification to serve ends of justice?
+RE: Issue No. I
+
+7. Clauses 10.1 and 13.1 of the Apartment Buyers Agreement relating to project completion period and delay compensation may be noticed:
+
+“10 PROJECT COMPLETION PERIOD 10.1 “Subject to Force Majeure, timely payment of the Total Sale Consideration and other provisions of this Agreement, based upon the Company’s estimates as per present Project plans, the Company intends to hand over possession of the Apartment within a period of 42 (forty two) months from the date of approval of the Building Plans or the date of receipt of the approval of the Ministry of Environment and Forests, Government of India for the Project or execution of this Agreement, whichever is later (‘Commitment Period’). The Buyer further agrees that the Company shall additionally be entitled to a time period of 180 (one hundred and eighty) days (‘Grace Period’), after expiry of the Commitment Period for unforeseen and unplanned Project realities. However, in case of any default under this Agreement that is not rectified or remedied by the Buyer within the time period as may be stipulated, the Company shall not be bound by such Commitment Period.
+
+13 DELAY COMPENSATION:
+
+13.1 If the Company fails to offer the possession of the Apartment to the Buyer by the end of the Grace Period (or an alternate apartment within the meaning of this Agreement), it shall be liable to pay to the Buyer liquidated damages calculated at the rate of Rs. 7.50/- (Rupees Seven and Fifty Paise only) per sq. ft. of Sale Area as full and final settlement of any loss of whatsoever nature (‘Delay Compensation’) for every month of delay or part thereof until the date of Notice of Possession. The Buyer shall be entitled to payment/adjustment of the Delay Compensation only at the time of payment of the final installment and other dues and charges payable to the Company before assuming the possession of the Apartment. No other claim of any description shall be raised against the Company”.
+8.1. On the question of reckoning the date for handing over of possession of the apartment, the Commission recorded the fact admitted by the Developer in Para 2 of its reply that “the trigger date for clause 10.1 is 26.12.2012, which is the date of execution of the apartment buyer’s agreement”. The Commission calculated 42 months from this period, which turns out to be 26.06.2016. Further, adding the grace period of 180 days, the time for delivery would expire on 26.12.2016. It is again an admitted fact that the occupancy certificated was obtained only on 23.07.2018 and notice for possession was issued to the Consumer on 24.07.2018. Given the factual position and having examined the terms of the Agreement, the Commission found the judgment of this Court in Pioneer is a relevant and conclusive precedent.
+8.2. In somewhat similar factual as well as legal context, this Court in Pioneer held as under:
+“6.1 In the present case, admittedly the appellant builder obtained the occupancy certificate almost 2 years after the date stipulated in the apartment buyer’s agreement. As a consequence, there was a failure to hand over possession of the flat to the respondent flat purchaser within a reasonable period. The occupancy certificate was obtained after a delay of more than 2 years on 28-8-2018 during the pendency of the proceedings before the National Commission. In LDA v. M.K. Gupta, this Court held that when a person hires the services of a builder, or a contractor, for the construction of a house or a flat, and the same is for a consideration, it is a “service” as defined by Section 2(o) of the Consumer Protection Act, 1986. The inordinate delay in handing over possession of the flat clearly amounts to deficiency of service. In Fortune Infrastructure v. Trevor D’Lima, this Court held that a  person cannot be made to wait indefinitely for possession of the flat allotted to him, and is entitled to seek refund of the amount paid by him, along with compensation. 6.2 The respondent flat purchaser has made out a clear case of deficiency of service on the part of the appellant builder. The respondent flat purchaser was justified in terminating the apartment buyer’s agreement by filing the consumer complaint, and cannot be compelled to accept the possession whenever it is offered by the builder. The respondent purchaser was legally entitled to seek refund of the money deposited by him along with appropriate compensation.
+6.3 The National Commission in the impugned order dated 23-10-2018 held that the clauses relied upon by the builder were wholly one-sided, unfair and unreasonable, and could not be relied upon……...
+6.8 A term of a contract will not be final and binding if it is shown that the flat purchasers had no option but to sign on the dotted line, on a contract framed by the builder. The contractual terms of the agreement dated 8-5-2012 are ex facie one-sided, unfair and unreasonable. The incorporation of such one-sided clauses in an agreement constitutes an unfair trade practice as per Section 2(r) of the Consumer Protection Act, 1986 since it adopts unfair methods or practices for the purpose of selling the flats by the builder.
+7. In view of the above discussion, we have no hesitation in holding that the terms of the apartment buyer’s agreement dated 8-5-2012 were wholly one-sided and unfair to the respondent flat purchaser. The appellant builder could not seek to bind the respondent with such one-sided contractual terms.” 9.1 The principle laid down in Pioneer’s case has been followed consistently in many cases where the terms of the Apartment Buyer’s Agreement were found to be one-sided and entirely loaded in favour of the Developer, and against the allottee at every step. The following are instances where the terms of the Apartment Buyer’s Agreement were found to be oppressive, constituting unfair trade practice and the Court has not given effect to such terms of the Agreement:
+9.2 In Arifur Rahman Khan v DLF Southern Homes Pvt. Ltd.7, this Court held that there is no embargo on the award of compensation beyond the rate stipulated in the Apartment Buyer’s Agreement where handing over the possession of the flat has been delayed. The Court observed that the Consumer Forums must take a robust and a common-sense approach by taking judicial notice of the fact that flat purchasers obtained loans and are required to pay EMIs to financial institutions for subserving their debts. The Delay Compensation Clause provided for Rs. 5 per square foot per month. This Court found that this stipulation is clearly one-sided and does not maintain a level platform or even reflect a bargain between the parties. The Court granted additional compensation @ 6% p.a. simple interest to each buyer therein, over and above the Delay Compensation Clause.
+9.3 In NBCC v Shri Ram Trivedi8, the Court found that the agreement fastening liability on the purchaser to pay simple interest @ 12% p.a. if he failed to pay instalments on time and at the same time, if the seller failed to hand over the possession on time, he would have to pay compensation only @ of Rs. 2 per square feet would constitute an unfair trade practice. The Court held that a term Wing Commander Arifur Rahman Khan and Aleya Sultana & Ors. v. DLF Southern Homes Private Limited (2020) 16 SCC 512 NBCC (India) Ltd. v. Shri Ram Trivedi (2021) 5 SCC 273 of a contract would not be final and binding if it is shown that the flat purchasers have no option but to sign on the dotted line of a contract framed by the builders.
+
+The Court further held that Consumer Forums were empowered to award just and reasonable compensation as an incident of its power to direct removal of a deficiency in service; they are not constrained by the rate prescribed in the agreement. The Court held that the compensation could be granted even if possession had been delivered. The same principle followed in a subsequent decision in DLF Home Developers Ltd. v. Capital Greens Flat Buyers9. 9.4 A three-judge bench of this Court in IREO Grace Realtech (P) Ltd. V. Abhishek Khanna10 noticed the delay compensation clause, which is similar to the clause in the present case, which provided that the Developer would be liable to pay delay compensation @ Rs 7.5 per square foot which works out to approximately 0.9 to 1% p.a. The Court held that this Clause is one-sided and entirely loaded in favour of the Developer and against the allottee. The Court concluded that the powers of the Consumer Court were in no manner constrained to declare a contractual term as unfair and one-sided as an incident of the power to discontinue unfair or restrictive trade practices. It was held:
+
+“34. We are of the view that the incorporation of such one-sided and unreasonable clauses in the apartment buyer’s Agreement constitutes an unfair trade practice under Section 2(1)(r) of the Consumer Protection Act. Even under the1986 Act, the powers of the consumer fora DLF Home Developers Ltd. v. Capital Greens Flat Buyers Association & Ors. (2021) 5 SCC 537 IREO Grace Realtech (P) Ltd. v. Abhishek Khanna & Ors. (2021) 3 SCC 241  were in no manner constrained to declare a contractual term as unfair or one-sided as an incident of the power to discontinue unfair or restrictive trade practices. An “unfair contract” has been defined under the 2019 Act, and powers have been conferred on the State Consumer Fora and the National Commission to declare contractual terms which are unfair, as null and void. This is a statutory recognition of a power which was implicit under the 1986 Act.
+35. In view of the above, we hold that the Developer cannot compel the apartment buyers to be bound by the one-sided contractual terms contained in the apartment buyer’s Agreement.”
+
+10. Having examined various decisions of this Court which considered similar clauses in Apartment Buyer’s Agreement and following the ratio laid down in Pioneer case, the submission made on behalf of the Developer has to be rejected. We hold that the Commission is correct in its approach in holding that the clauses of the agreement are one-sided and that the Consumer is not bound to accept the possession of the apartment and can seek refund of the amount deposited by her with interest.
+
+Re : Issue No. II
+
+11. Shri Gagan Gupta, submitted that the Consumer, having elected to proceed under the Act, the provisions of the RERA Act will have no application. The submission is made to distinguish the facts of the present case from the facts of Pioneer, which is relied on by the Commission.
+
+12. This question is no more res integra. In Imperia Structures Ltd v. Anil Patni11, this Court speaking through Justice Uday Umesh Lalit, examined the jurisdiction of Consumer Forums vis-a-vis the specific remedies created under the RERA Act. This judgment comprehensively deals with all aspects of parallel remedies available to the consumers under the Consumer Protection Act, 1986, and the RERA Act, 2016. In Imperia Structures, also, like in the present case, the proceedings arose out of the decision of the Commission under the Consumer Protection Act, 1986. After a comparative analysis of both the statutes, this Court held as under:
+
+“23. It has consistently been held by this Court that the remedies available under the provisions of the CP Act are additional remedies over and above the other remedies including those made available under any special statutes; and that the availability of an alternate remedy is no bar in entertaining a complaint under the CP Act.
+24. Before we consider whether the provisions of the RERA Act have made any change in the legal position stated in the preceding paragraph, we may note that an allottee placed in circumstances similar to that of the Complainants, could have initiated the following proceedings before the RERA Act came into force:
+A) If he satisfied the requirements of being a “consumer” under the CP Act, he could have initiated proceedings under the CP Act in addition to normal civil remedies. B) However, if he did not fulfil the requirements of being a “consumer”, he could initiate and avail only normal civil remedies.
+C) If the agreement with the Developer or the builder provided for arbitration:-
+i) in cases covered under Clause (B) hereinabove, he could initiate or could be called upon to invoke the remedies in arbitration.
+
+11 13 Imperia Structures Ltd v. Anil Patni & Anr. (2020) 10 SCC 783
+
+ii) in cases covered under Clause (A) hereinabove, in accordance with law laid down in Emaar MGF Land Ltd. Vs. Aftab Singh, he could still choose to proceed under the CP Act.
+
+25. In terms of Section 18 of the RERA Act, if a promoter fails to complete or is unable to give possession of an apartment duly completed by the date specified in the agreement, the promoter would be liable, on demand, to return the amount received by him in respect of that apartment if the allottee wishes to withdraw from the Project. Such right of an allottee is specifically made “without prejudice to any other remedy available to him”. The right so given to the allottee is unqualified and if availed, the money deposited by the allottee has to be refunded with interest at such rate as may be prescribed. The proviso to Section 18(1) contemplates a situation where the allottee does not intend to withdraw from the Project. In that case he is entitled to and must be paid interest for every month of delay till the handing over of the possession. It is up to the allottee to proceed either under Section 18(1) or under proviso to Section 18(1). The case of Himanshu Giri came under the latter category. The RERA Act thus definitely provides a remedy to an allottee who wishes to withdraw from the Project or claim return on his investment.
+
+26. It is, therefore, required to be considered whether the remedy so provided under the RERA Act to an allottee is the only and exclusive modality to raise a grievance and whether the provisions of the RERA Act bar consideration of the grievance of an allottee by other fora.
+
+30. On the strength of the law so declared, Section 79 of the RERA Act does not in any way bar the Commission or Forum under the provisions of the CP Act to entertain any complaint.
+
+34. It is true that some special authorities are created under the RERA Act for the regulation and promotion of the real estate sector and the issues concerning a registered project are specifically entrusted to functionaries under the RERA Act. But for the present  purposes, we must go by the purport of Section 18 of the RERA Act. Since it gives a right “without prejudice to any other remedy available”, in effect, such other remedy is acknowledged and saved subject always to the applicability of Section 79.
+
+37. We may now consider the effect of the registration of the Project under the RERA Act. In the present case the apartments were booked by the Complainants in 2011- 2012 and the Builder Buyer Agreements were entered into in November, 2013. As promised, the construction should have been completed in 42 months. The period had expired well before the Project was registered under the provisions of the RERA Act. Merely because the registration under the RERA Act is valid till 31.12.2020 does not mean that the entitlement of the allottees concerned to maintain an action stands deferred. It is relevant to note that even for the purposes of Section 18, the period has to be reckoned in terms of the agreement and not the registration.
+
+Condition (x) of the letter dated 17.11.2017 also entitles an allottee in same fashion. Therefore, the entitlement of the Complainants must be considered in the light of the terms of the builder buyer agreements and was rightly dealt with by the Commission”.
+
+13.1 In view of the clear and categorical principles laid down in Imperia, the submissions made on behalf of the Developer have to be rejected. This position has also been affirmed in IREO Grace (supra). In IREO Grace (supra) this Court had an occasion to consider the question as to whether, the provisions of the RERA Act, must be given primacy over the Consumer Protection Act, 1986. After re-examining the provisions of Consumer Protection Act, 1986 and the RERA Act, and following the principles laid down in Imperia the Court held as under :-
+
+“37. We will now consider the provisions of the RERA Act, which was brought into force on 01.05.2016. The  Statement of Objects and Reasons of the RERA Act, 2016 read as follows:-
+“The Statement of Objects and Reasons – The real estate sector plays a catalytic role in fulfilling the need and demand for housing and infrastructure in the country. While this sector has grown significantly in recent years, it has been largely unregulated, with absence of professionalism and standardization and lack of adequate consumer protection. Though the Consumer Protection Act, 1986 is available as a forum to the buyers in the real estate market, the recourse is only curative and is not adequate to address all the concerns of buyers and promoters in that sector. The lack of standardization has been a constrained to the healthy and orderly growth of industry. Therefore, the need for regulating the sector has been emphasized in various forums.
+In view of the above, it becomes necessary to have a Central legislation, namely, the Real Estate (Regulation and Development) Bill, 2013 in the interests of effective consumer protection, uniformity and standardization of business practices and the transactions in the real estate sector. The proposed Bill provides for the establishment of the Real Estate Regulatory Authority (the Authority) for regulation and promotion of real estate sector and to ensure sale of plot, apartment or building, as the case may be, in an efficient and transparent manner and to protect the interest of consumers in real estate sector and establish the Real Estate Appellate Tribunal to hear appeals from the decisions, directions or orders of the Authority. 37.1. Section 18 of the RERA Act, 2016 provides the remedy of refund with interest and compensation to allottees, when a developer fails to complete the construction or give possession as per the agreement of sale. The remedies under Section 18 are “without prejudice to any other remedy available.” 13.2 In coming to its conclusions, the three-Judge bench relied on the judgment of Imperia which clarified and declared that Section 18 of the RERA Act imposed a liability on the promoter to return the amount with interest to the allottee upon its failure to give possession in accordance with the terms of the agreement. The expression “without prejudice to any other remedy” available in Section 18 of the RERA Act is very important and while noting the same the Court observed as under:
+“42. In a recent judgment delivered by this Court in Imperia Structures Ltd. v. Anil Patni, it was held that remedies under the Consumer Protection Act were in addition to the remedies available under special statutes. The absence of a bar under Section 79 of the r to the initiation of proceedings before a fora which is not a civil court, read with Section 88 of the RERA Act makes the position clear. Section 18 of the RERA Act specifies that the remedies are “without prejudice to any other remedy available”. We place reliance on this judgment..…”
+
+14.1 From the two decisions referred to by us, it is crystal clear that the Consumer Protection Act and the RERA Act neither exclude nor contradict each other. In fact, this Court has held that they are concurrent remedies operating independently and without primacy. When Statutes provisioning judicial remedies fall for construction, the choice of the interpretative outcomes should also depend on the constitutional duty to create effective judicial remedies in furtherance of access to justice. A meaningful interpretation that effectuates access to justice is a constitutional imperative and it is this duty that must inform the interpretative criterion.
+
+14.2 When Statutes provide more than one judicial fora for effectuating a right or to enforce a duty-obligation, it is a feature of remedial choices offered by the State for an effective access to justice. Therefore, while interpreting statutes provisioning plurality of remedies, it is necessary for Courts to harmonise the provisions in a constructive manner. It is beneficial to juxtapose the preambular objects of the Consumer Protection Act and the RERA Act to appreciate the commonality of the objects that both these statutes are to sub-serve:
+
+The Consumer Protection Act, 1986 The Real Estate (Regulation and Development) Act, 2016 An Act to provide for the better An Act to establish the Real Estate protection of the interests of Regulatory Authority for regulation consumers and for that purpose to and promotion of the real estate sector make provision for the establishment and to ensure sale of plot, apartment or of consumer councils and other building, as the case may be, or sale of authorities for the settlement of real estate project, in an efficient and consumers’ disputes and for matter transparent manner and to protect the connected herewith. interest of consumers in the real estate sector and to establish an adjudicating mechanism for speedy dispute redressal and also to establish the Appellate Tribunal to hear appeals from the decisions, directions or orders of the Real Estate Regulatory Authority and the adjudicating officer and for matters connected therewith or incidental thereto.
+14.3 In this context, the observation of this Court in Pioneer Urban Land Infrastructure Ltd v. Union of India12 where the Court was called upon to consider the provisions of Insolvency and Bankruptcy Code, 2016, the RERA Act, 2016 and the Consumer Protection Act, 1986 is noteworthy:
+Pioneer Urban Land Infrastructure Ltd. & Anr. v. Union of India & Ors. (2019) 8 SCC 416  “100. RERA is to be read harmoniously with the Code, as amended by the Amendment Act. It is only in the event of conflict that the code will prevail over RERA. Remedies that are given to allottees of flats/apartments are therefore concurrent remedies, such allottees of flats/apartments being in a position to avail of remedies under the Consumer Protection Act, 1986, RERA as well as the triggering of the Code.”
+
+15. We may hasten to clarify that the power to direct refund of the amount and to compensate a consumer for the deficiency in not delivering the apartment as per the terms of Agreement is within the jurisdiction of the Consumer Courts. Under Section 14 of the Consumer Protection Act, if the Commission is satisfied …that any of the allegations contained in the complaint about the services are proved, it shall issue an order to the opposite party directing him to, return to the complainant the price or as the case may be, the charges paid by the complainant. ‘Deficiency’ is defined under Section 2(g) to include any shortcoming or inadequacy in performance which has been undertaken by a person in pursuance of a contract or otherwise relating to any service. These two provisions are reproduced hereinbelow for ready reference.13 It is clear from the statutory “14. Finding of the District Forum. – (1) If, after the proceedings conducted under section 13, the District Forum is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services are proved, it shall issue an order to the opposite party directing him to [do] one or more of the following things namely:-
+
+(a)……
+(b)….
+(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant;
+
+…….
+
+position that the Commission is empowered to direct refund of the price or the charges paid by the consumer.
+
+16. A consumer invoking the jurisdiction of the Commission can seek such reliefs as he/she considers appropriate. A consumer can pray for refund of the money with interest and compensation. The consumer could also ask for possession of the apartment with compensation. The consumer can also make a prayer for both in the alternative. If a consumer prays for refund of the amount, without an alternative prayer, the Commission will recognize such a right and grant it, of course subject to the merits of the case. If a consumer seeks alternative reliefs, the Commission will consider the matter in the facts and circumstances of the case and will pass appropriate orders as justice demands. This position is similar to the mandate under Section 18 of the RERA Act14 with respect to which (hb) to pay such sum as may be determined by it, if it is of the opinion that loss or injury has been suffered by a large number of consumers who are not identifiable conveniently:
+
+Provided that the minimum amount of sum so payable shall not be less than five per cent of the value of such defective goods sold or services provided, as the case may be, to such consumers:
+Provided further that the amount so obtained shall be credited in favour of such person and utilized in such manner as may be prescribed.
+        ……
+(i)     to provide for adequate costs to parties.
+
+
+2. Definitions. – (1) In this Act, unless the context otherwise requires,-
+
+…………
+
+(g) “deficiency” means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service;”
+
+18. Return of amount and compensation. - (1) If the promoter fails to complete or is unable to give possession of an apartment, plot or building,— the Court clarified the position in Para 25 of Imperia case referred to herein above.
+
+17. We have referred to the legal regime under the Consumer Protection Act, only to show that the Commission has the power and jurisdiction to direct return of money under Section 14 of the Consumer Protection Act, if a consumer so chooses. The freedom to choose the necessary relief is of the Consumer and it is the duty of the Courts to honour it.
+
+18. The Consumer in present case prayed for the solitary relief for return of the amount paid towards purchase of the apartment without a prayer for alternate relief. 15 Recognizing the right of the Consumer for return of the amount with
+
+(a) in accordance with the terms of the agreement for sale or, as the case may be, duly completed by the date specified therein; or
+
+(b) due to discontinuance of his business as a developer on account of suspension or revocation of the registration under this Act or for any other reason, he shall be liable on demand to the allottees, in case the allottee wishes to withdraw from the project, without prejudice to any other remedy available, to return the amount received by him in respect of that apartment, plot, building, as the case may be, with interest at such rate as may be prescribed in this behalf including compensation in the manner as provided under this Act:
+
+Provided that where an allottee does not intend to withdraw from the project, he shall be paid, by the promoter, interest for every month of delay, till the handing over of the possession, at such rate as may be prescribed.
+(2) The promoter shall compensate the allottees in case of any loss caused to him due to defective title of the land, on which the project is being developed or has been developed, in the manner as provided under this Act, and the claim for compensation under this sub-section shall not be barred by limitation provided under any law for the time being in force.
+(3) If the promoter fails to discharge any other obligations imposed on him under this Act or the rules or regulations made thereunder or in accordance with the terms and conditions of the agreement for sale, he shall be liable to pay such compensation to the allottees, in the manner as provided under this Act.” The prayer made by the Consumer before the Commission is extracted herein for ready reference:
+interest and compensation, the Commission passed an order directing the Developer as under:
+“The opposite party shall refund an amount of Rs.2,06,41,379/- paid by the complainant along with interest @ 9% p.a. from the date of last deposit before the due date of possession till actual payment on the amount paid before due date of possession and after this date if any amount is deposited, then from the date of deposit till actual payment.”
+
+19. For the reasons stated above, we are of the opinion that the Commission has correctly exercises its power and jurisdiction in passing the above directions for refund of the amount with interest.
+
+Re : Issue No. III
+
+20. In the appeal filed by the Consumer, the learned counsel prayed that: (i) the payment of interest must be from the date of payment of each instalment and
+
+(ii) the rate of interest must be 24% p.a. He has referred to the dates on which he has made payments, and sought interest from the said dates:
+
+“PRAYER: It is, therefore, most respectfully prayed that This Hon’ble Forum may be graciously be pleased to; (a) Hold the Opposite Party guilty of unfair and restrictive trade practice as despite taking more than Rs. 2,06,41,379/- they have not completed the construction in 42 months as promised in the apartment buyer’s agreement. (b) Hold the Opposite Party guilty of cheating, misleading and responsible for deficiency in service as on one hand they failed to complete the construction in terms of the agreement and on the other hand they have charged the Complainant more than Rs.2,06,41,379/-. (c) direct the Opposite Party to refund the amount of Rs. 2,06,41,379/- paid to the Opposite Party along with interest @ 24 % p.a. totalling to Rs. 3,68,32,815/- (rupees Three Crores Sixty-Eight Lacs Thirty Two Thousand Eight Hundred and Fifteen Only); (d) the Complainant be awarded future as well as pendentelite interest @ 24 % p.a. (e) Pay a sum of Rs. 5,00,000/- towards cost of the complaint.
+(f) Pass such other and further order(s) as this Hon’ble Forum may deem fit and proper under the facts and circumstances of the case in favour of the Complainant and against the Opposite Party.”  Details of payment made to the respondent: -
+      Date           Particulars         Cheque          TDS          Total Amount
+                                         Amount         Amount
+ 09.06.2012      State Bank of India   11,00,000.00     Nil/NA         11,00,000.00
+                   Ch. No. 976226
+ 08.08.2012      State Bank of India    11,98,457.00    Nil/NA         11,98,457.00
+                  Ch. No. 976245
+ 16.01.2013      State Bank of India    17,81,531.00    Nil/NA         17,81,531.00
+                  Ch. No. 976251
+ 02.09.2013      State Bank of India    17,74,289.00   17,923.00       17,92,212.00
+                  Ch. No. 602777
+ 16.01.2014      State Bank of India    17,74,290.00   17,923.00       17,92,213.00
+                  Ch. No. 506049
+ 19.04.2014      State Bank of India    17,74,290.00   17,923.00       17,92,213.00
+                  Ch. No. 506055
+ 24.07.2014    Punjab National Bank     14,56,709.00   14,714.00       14,71,423.00
+                  Ch. No. 806197
+ 22.09.2014    Punjab National Bank     14,56,709.00   14,715.00       14,71,424.00
+                  Ch. No. 806204
+ 15.12.2014    Punjab National Bank     14,56,706.00   14,715.00       14,71,421.00
+                  Ch. No. 883394
+ 09.02.2015    Punjab National Bank     24,14,594.00   24,390.00       24,38,984.00
+                  Ch. No. 212657
+ 16.02.2015            EFT No.             9,819.00     100.00            9,919.00
+                BKIDN15045404506
+ 04.04.2015            EFT No.          12,04,780.00   12,169.00       12,16,949.00
+              SBINR520150404130637
+ 15.07.2015           EFT No.            6,44,134.00   10,135.00        6,54,269.00
+                SBIN615196779388
+ 14.08.2015           EFT No.           12,21,122.00   11,735.00       12,32,857.00
+                SBIN815226374771
+ 31.10.2015           EFT No.           11,92,402.00   11,735.00       12,04,137.00
+                SBIN415304825817
+ 08.06.2016           EFT No.             13,370.00     Nil/NA           13,370.00
+                   616019949933
+
+TOTAL: Rs. 2,06,41,379/- (Rupees Two Crore Six Lacs Forty One Thousand Three Hundred and Seventy Nine Only)
+
+21. On the other hand, the Appellant-Developer submitted that (i) period for interest should be linked to the estimated date of possession and not the date of payments and (ii) the rate of interest must be the rate provided in the Interest Act, 1978.
+
+22.1 We are of the opinion that for the interest payable on the amount deposited to be restitutionary and also compensatory, interest has to be paid from the date of the deposit of the amounts. The Commission in the order impugned has granted interest from the date of last deposit. We find that this does not amount to restitution. Following the decision in DLF Homes Panchkula Pvt Ltd v. DS Dhanda16 and in modification of the direction issued by the Commission, we direct that the interest on the refund shall be payable from the dates of deposit. Therefore, the appeal filed by purchaser deserves to be partly allowed. The interests shall be payable from the dates of such deposits. 22.2 At the same time, we are of the opinion that the interest of 9 per cent granted by the Commission is fair and just and we find no reason to interfere in the appeal filed by the Consumer for enhancement of interest.
+
+23. We were informed that the Appellant-Developer deposited a sum of Rs. 50,000/- in the registry of this Court as per proviso to Section 23 of the Act. This amount shall be made over to the Respondent-Consumer, to be adjusted against the final amount payable by the Developer to the Consumer.
+
+DLF Homes Panchkula Pvt. Ltd. v. DS Dhanda and Ors. (2020) 16 SCC 318 (at para
+
+21).
+
+24. In view of the above, the Civil Appeal No. 6044 of 2019 filed by the Appellant Developer is dismissed and the appeal filed by the Consumer being Civil Appeal No.7149 of 2019 is allowed in part as indicated above.
+
+25. Parties shall bear their own costs.
+
+……………………………….J. [UDAY UMESH LALIT] ……………………………….J. [S. RAVINDRA BHAT] ……………………………….J. [PAMIDIGHANTAM SRI NARASIMHA] NEW DELHI;
+
+APRIL 07, 2022

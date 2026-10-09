@@ -1,0 +1,31 @@
+SERVICE AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{client_name}} / {{company_name}}, having its office at {{address}} (hereinafter referred to as the 'Client')
+2. {{service_provider_name}}, having its office at {{address}} (hereinafter referred to as the 'Service Provider')
+WHEREAS:
+The Client requires certain professional services as described herein.
+The Service Provider has the expertise, skills, and resources to provide such services and has agreed to do so on the terms set out below.
+NOW, THEREFORE, the parties agree as follows:
+1. SCOPE OF SERVICES
+The Service Provider shall provide the following services: {{detailed_description_of_services_and_deliverables}}. The scope shall not be expanded without written agreement.
+2. TERM
+This Agreement shall be effective from {{start_date}} to {{end_date}}, unless terminated earlier in accordance with Clause 7.
+3. COMPENSATION
+The Client shall pay the Service Provider a fee of Rs. {{amount}}/- for the services. Payment shall be made as per {{payment_schedule}}. TDS shall be deducted at source as applicable under Section 194J of the Income Tax Act.
+4. INTELLECTUAL PROPERTY
+All work product, deliverables, and intellectual property created under this Agreement shall be the exclusive property of the Client upon full payment.
+5. INDEPENDENT CONTRACTOR
+The Service Provider is an independent contractor and not an employee of the Client. The Service Provider shall be responsible for their own taxes, insurance, and statutory obligations.
+6. CONFIDENTIALITY
+The Service Provider shall maintain confidentiality of all Client information and shall not disclose it to third parties.
+7. TERMINATION
+Either party may terminate this Agreement by giving {{notice_period}} days written notice. Upon termination, the Client shall pay for services rendered up to the date of termination.
+8. GOVERNING LAW
+This Agreement shall be governed by the Indian Contract Act, 1872 and the laws of India. Courts at {{city}} shall have exclusive jurisdiction.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+Name: {{full_name}} Name: {{full_name}}
+Date: {{date}} Date: {{date}}
+Witnesses:
+1. Name: ________________ Signature: ________________
+2. Name: ________________ Signature: ________________

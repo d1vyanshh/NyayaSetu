@@ -1,0 +1,26 @@
+INTERNSHIP AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{company_name}}, having its office at {{ADDRESS}} (hereinafter referred to as the 'Company')
+2. {{intern_name}}, studying at {INSTITUTION NAME} (hereinafter referred to as the 'Intern')
+WHEREAS:
+The Company offers an internship opportunity and the Intern accepts the same subject to the terms herein.
+NOW, THEREFORE, the parties agree as follows:
+1. INTERNSHIP PERIOD
+The internship shall commence on {{start_date}} and end on {{end_date}}, for a total duration of {WEEKS/MONTHS}.
+2. STIPEND
+The Intern shall receive a monthly stipend of Rs. {{stipend_amount}} (if applicable). This is an unpaid internship focused on learning and skill development.
+3. LEARNING OBJECTIVES
+The internship is designed to provide exposure to {DESCRIBE LEARNING AREAS}. The Intern shall work under the guidance of {{mentor_name}}.
+4. WORKING HOURS
+The Intern shall work {{hours}} hours per day on weekdays, excluding public holidays and days when they are not required to be at their place of study or employment.
+5. CONFIDENTIALITY
+The Intern shall maintain confidentiality of all proprietary information encountered during the internship. This includes but is not limited to trade secrets, business strategies, client lists, financial data and other sensitive company-related materials that are shared with them in confidence for work purposes only. The Intern agrees they will not disclose or use such confidential material outside of their assigned tasks without prior written consent from the Company's legal representative.
+6. CERTIFICATE
+Upon successful completion, the Company shall issue an Internship Completion Certificate to {{intern_name}}. This certificate serves as a testament and acknowledgment for successfully completing this internship program with our company during {{start_date}} - {END DATE}. The issuance of such certification is contingent upon meeting all learning objectives, maintaining professionalism throughout the duration of their assignment, adherence to confidentiality requirements as stated in Section 5 and satisfactory performance.
+7. TERMINATION
+Either party may terminate this arrangement with {{days}} days written notice. In case either Party wishes to end its obligations under this Agreement prior to the agreed-upon Internship Period, it must provide a minimum of {{notice_period}} day's advance notification in writing and for unpaid internships only after providing appropriate repayment or compensation as per Section 2.
+WITNESSES:
+1. Name: ________________ Signature: ________________
+2. Name: ________________ Signature: ________________
+Template from SignSetu (signsetu.in) — India's first pay-per-use Aadhaar eSign platform

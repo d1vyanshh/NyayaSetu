@@ -1,0 +1,22 @@
+{
+  "arrest_rights": {
+    "domain": "criminal",
+    "seed_query": "rights of a person during arrest Article 22 detention custody lawyer magistrate"
+  },
+  "employment_rights": {
+    "domain": "employment",
+    "seed_query": "rights of employee wages overtime termination notice labour employment"
+  },
+  "consumer_rights": {
+    "domain": "consumer",
+    "seed_query": "consumer rights refund defective product unfair trade practice complaint"
+  },
+  "tenant_rights": {
+    "domain": "civil",
+    "seed_query": "tenant rights eviction rent deposit landlord notice"
+  },
+  "education_rights": {
+    "domain": "constitutional",
+    "seed_query": "right to education Article 21A school admission child education"
+  }
+}

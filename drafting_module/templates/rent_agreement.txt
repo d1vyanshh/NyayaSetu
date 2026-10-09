@@ -1,0 +1,28 @@
+LEAVE AND LICENCE AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{licensor_full_name}}, aged {{{{licensor_age}}}} years, residing at {{{{licensor_address}}}} (hereinafter referred to as the 'LICENSOR')
+2. {{licensee_full_name}}, aged {{{{licensee_age}}}} years, residing at {{{{licensee_address}}}} (hereinafter referred to as the 'LICENSEE')
+WHEREAS:
+The Licensor is the absolute owner of the property situated at {{complete_property_address}} (hereinafter referred to as the 'Licensed Premises').
+The Licensee has approached the Licensor for granting licence to use the Licensed Premises for residential purposes, and the Licensor has agreed to grant such licence on the terms and conditions set out herein.
+NOW, THEREFORE, the parties agree as follows:
+1. LICENCE PERIOD
+This Agreement shall commence on {{start_date}} and shall remain valid for a period of Eleven (11) months, ending on {{end_date}}, unless terminated earlier in accordance with the terms herein.
+2. LICENSE FEE
+The Licensee shall pay a monthly licence fee of Rs. {{license_fee}} only per Rupees {{amount_in_words}}, each calendar month, on or before {{date}}th day of that month.
+3. SECURITY DEPOSIT
+The Licensee shall pay an initial security deposit of Rs. {{security_deposit}} only in Rupees {{initial_amount_in_words}}, at the time of execution of this Agreement. The deposit shall be refunded without interest upon termination, after deducting any dues or damages.
+4. PURPOSE OF USE
+The Licensed Premises shall be used exclusively for residential purposes by the Licensee and their family members. No commercial activity shall be carried out.
+5. MAINTENANCE
+Minor repairs and day-to-day maintenance shall be the responsibility of the Licensee. Major structural repairs shall be the responsibility of the Licensor.
+6. TERMINATION
+Either party may terminate this Agreement by giving {{notice_period}} month(s) written notice to the other party. Upon termination, the Licensee shall vacate the premises and return possession.
+7. SUBLETTING
+The Licensee shall not sublet, assign, or transfer the licence or any part thereof to any third party without prior written consent of the Licensor.
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of India, and the courts at {{city}} shall have exclusive jurisdiction.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+Name: {{licensor_full_name}} Date: {{date}} Name: {{licensee_fulliname}} Date: {{date}}
+Witnesses: 1. Name: ________________ Signature: ________________ Witnessed by: ___________________ and ___________________ (Date) Witness Number: __

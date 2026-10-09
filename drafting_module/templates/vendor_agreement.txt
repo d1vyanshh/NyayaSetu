@@ -1,0 +1,27 @@
+VENDOR AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{buyer_company_name}}, having its office at {{{{address}}}} (hereinafter referred to as the 'Buyer')
+2. {{vendor_company_name}}, having its office at {{{{address}}}} (hereinaforthreferred to as the 
+'Vendor')
+WHEREAS:
+The Buyere wishes to procure goods/services from the Vendor and the Vendor agrees to supply the same.
+NOW, THEREFORE, the parties agree as follows:
+1. GOODS/SERVICES
+The Vendor shall supply the following goods/services: {detailed_description_with specifications}.
+2. PRICING
+The total price shall be Rs. {{{amount}}}/- {{inclusive/exclusive}} of GST. The vendor's GSTIN is {{gstin}}.
+3. DELIVERY
+Delivery shall be made to {{location}} by {{date}}. Delay penalties: {{specify_penalty}}.
+4. PAYMENT TERMS
+Payment shall be made within {{{{days}}}} days of delivery and acceptance. GST deducted as applicable, Tax Deduction at Source (TDS) will also apply if required by law or agreement terms.
+5. QUALITY & WARRANTIES
+The Vendor warrants that goods/services shall meet the agreed specifications and be free from defects for {{warranty_period}}. The Buyer may inspect upon delivery to ensure compliance with this clause before acceptance of any shipment or service. If a claim is made, it must include proof such as photographs showing damage beyond normal wear and tear at the time of inspection by an authorized representative from either party within 14 days after receipt of goods/services.
+6. INDEMNIFICATION
+The Vendor shall indemnify the Buyer against all claims arising from defective goods/services, including but not limited to negligence or breach of contract by any third parties involved during production and delivery processes leading directly back into faults found within supplied items upon inspection. This includes legal costs associated with defending such actions taken in good faith should they arise after the expiration date specified herein as {{notice_period}}.
+7. TERMINATION
+Either party may terminate this agreement by providing written notice to each other no later than {{{{days}}}} days prior termination, stating reasons for doing so and any compensation due under clause 6 above should apply upon such a decision being made mutually agreed between both parties beforehand or as per the terms outlined herein.
+IN WITNESS WHEREOF, this agreement has been executed by {{buyer_name}} on behalf of their company {{company_name}} and acknowledged in writing below: 
+Name: {{{{full_name}}}} Date: {{{{date}}}} Witnesses:
+1. Name: ________________ Signature: ________________
+2. Name: ________________ Signature: ________________

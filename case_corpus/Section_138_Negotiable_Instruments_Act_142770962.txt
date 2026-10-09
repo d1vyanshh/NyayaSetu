@@ -1,0 +1,162 @@
+[Cites 8, Cited by 164]
+Supreme Court of India
+M/S.Shree Daneshwari Traders vs Sanjay Jain on 21 August, 2019
+Equivalent citations: AIR 2019 SUPREME COURT 4003, AIRONLINE 2019 SC 882, 2019 CRI LJ 4722, (2019) 109 ALLCRIC 985, (2019) 11 SCALE 190, (2019) 128 CUT LT 1072, (2019) 204 ALLINDCAS 110, (2019) 2 NIJ 293, (2019) 2 UC 1404, 2019 (3) ABR(CRI) 614, (2019) 3 ALLCRILR 921, (2019) 3 CRILR(RAJ) 980, (2019) 3 PUN LR 724, (2019) 4 BANKCAS 20, (2019) 4 CIVILCOURTC 241, (2019) 4 CRIMES 449, (2019) 4 ICC 119, (2019) 4 RECCRIR 130, (2019) 76 OCR 170, 2019 ACD 1139 (SC), 2019 CRILR(SC MAH GUJ) 980, 2020 (1) KCCR SN 1 (SC)
+Author: R. Banumathi
+Bench: A.S. Bopanna, R. Banumathi
+                                                                           REPORTABLE
+
+                                     IN THE SUPREME COURT OF INDIA
+                                    CRIMINAL APPELLATE JURISDICTION
+
+                                   CRIMINAL APPEAL NOS.61-62 OF 2011
+
+                         M/S SHREE DANESHWARI TRADERS                       …..Appellant
+
+                                                   VERSUS
+
+                         SANJAY JAIN AND ANOTHER                          ….Respondents
+
+
+                                                JUDGMENT
+
+
+R. BANUMATHI, J.
+
+These appeals arise out of the judgment dated 28.07.2008 in Criminal Appeal Nos.53 and 54 of 2006 passed by the High Court of Bombay in and by which the High Court dismissed the appeals filed by the appellant-complainant thereby upholding the acquittal of the respondent-accused Sanjay Jain under Section 138 of the Negotiable Instruments Act.
+
+under:-
+
+ The appellant-complainant had been supplying the commodities and rice bags to the respondent-accused on his request. In this regard, the respondent-accused issued various cheques which when presented for collection were dishonoured. The appellant had filed two complaints under Section 138 of the Negotiable Instruments Act - complaint No.339/OA/NI/2004/A and complaint No.499/OA/NI/2004/A against the respondent-accused alleging that the cheques issued by the respondent-accused in lieu of payment owed to the appellant were dishonoured on presentation. It was averred that despite issuance of legal notice, the respondent did not make payments.
+3. In case No.339/OA/NI/2004/A, the respondent-accused issued three cheques drawn on UTI Bank details of which are as under:-
+-------------------------------------------------------------------------------------------
+Date Number Amount
+-------------------------------------------------------------------------------------------
+1. 08.08.2003 002497 Rs.17,540.00
+2. 18.08.2003 002463 Rs.17,871.00
+3. 25.08.2003 002480 Rs.17,760.00
+-------------------------------
+
+Total = Rs.53,171.00
+
+4. In case No.499/OA/NI/2004/A, the respondent-accused issued nine cheques, details of which are as under:-
+
+Date Number Amount
+
+-------------------------------------------------------------------------------------------
+
+1. 01.09.2003 002481 Rs.18,000.00
+
+2. 15.09.2003 633427 Rs.20,000.00
+
+3. 22.09.2003 633428 Rs.20,000.00
+
+4. 29.09.2003 633429 Rs.20,000.00
+
+5. 03.10.2003 531977 Rs.25,000.00
+
+6. 06.10.2003 633430 Rs.20,979.00
+
+7. 13.10.2003 531975 Rs.20,000.00
+
+8. 27.10.2003 531976 Rs.25,000.00
+
+9. 10.11.2003 531978 Rs.25,000.00
+
+-------------------------------
+
+Total = Rs.1,93,979.00
+
+5. When the above said cheques were presented to United Western Bank, Margao Branch for encashment, cheques were returned by the bank unpaid on 04.02.2004 and 20.02.2004 with the endorsement “not arranged for/funds insufficient” and “funds insufficient”. The appellant thereafter issued legal notices to the respondent-accused dated 05.02.2004 and 23.02.2004 respectively making a demand for the payment of the cheque amount. The said notices were received by the respondent-accused; though respondent acknowledged the receipt of the notices, he did not make the payment nor arranged that amount in satisfaction of the cheques issued by him. Hence, the complainant filed two complaints under Section 138 of the Negotiable Instruments Act as noted above.
+
+6. Taking into account the receipts produced by the respondent-accused, the trial court acquitted the respondent- accused in both the cases. The trial court rejected the case of the appellant that the respondent sometimes used to purchase rice bags on credit and sometimes used to purchase rice bags on payment of cash and the same being inconsistent with the documents produced by the appellant. The trial court held that in the written complaint, the appellant-complainant has not alleged anywhere that the respondent used to make credit as well as cash purchases. The trial court held that the respondent left blank cheques with the appellant as security whenever he used to make credit purchases and therefore, the presumption under Section 139 of the Act is not available to the appellant.
+
+7. In appeal, the High Court affirmed the acquittal of the respondent-accused and held that the respondent had taken the defence that the subject cheques were issued as security towards the goods supplied for which payment was subsequently made by cash. The High Court held that by producing the relevant receipts, the respondent has rebutted the presumption and that the respondent was able to prove that the cheques were issued by way of security towards the goods supplied to him for which he made the payment by cash. The High Court further held that it was incumbent upon the complainant to have explained in the complaint that the cash payments made by the respondent were related to other commodities and the cheques were made for payment of rice bags. Holding that the case of the appellant was not consistent, the High Court affirmed the order of acquittal and dismissed the appeals filed by the complainant-appellant.
+
+8. The learned counsel for the appellant submitted that the transaction between the parties was a mercantile transaction and during the course of the business, running accounts were maintained when purchases were made at different times and payments were made by both modes i.e. cash and cheques. It was submitted that both the courts below overlooked the fact that the transactions were mercantile transactions mixed up with cash payments and also payments made by cheques. It was submitted that the courts below erred in not keeping in view the statutory presumption available under Section 139 of the Negotiable Instruments Act to the appellant and that the respondent-accused failed to rebut the presumption by leading cogent and consistent evidence. The learned counsel urged that the impugned judgment is contrary to the object of Section 138 and Section 139 of the Negotiable Instruments Act and is liable to be set aside.
+
+9. The learned counsel appearing for the respondent submitted that the respondent used to leave the cheques with the complainant when he purchased the commodities – rice bags and used to make cash payment towards those commodities for which complainant issued receipts. It was submitted that even though the complainant received the money for the rice bags, he failed to return the cheques and had misused those cheques and filed false complaints against the respondent. It was submitted that the respondent has rebutted the statutory presumption by producing twenty receipts-Ex.-22/C (colly) ranging from 02.09.2003 to 17.11.2003 as also receipts-Ex.16/C (colly). The total amount of the receipts issued by the complainant is Rs.1,94,000/- and taking into consideration that the amount has been paid, the courts below rightly held that the presumption under Section 139 of the Negotiable Instruments Act was rebutted by the respondent-accused.
+
+10. We have carefully considered the submissions and perused the impugned judgment and other materials on record. The point falling for consideration is whether the courts below were right in acquitting the respondent-accused by holding that the appellant-complainant has failed to prove that the respondent owed him debt and that the cheques were issued for the discharge of the said debt.
+
+11. The appellant is a commission agent/merchant conducting his business and he used to supply rice bags to the respondent-accused on his request. Admittedly, the transaction between the appellant-complainant and the respondent- accused was a mercantile transaction. During the course of business, running accounts were maintained by the parties. Case of the appellant is that the respondent used to purchase rice bags sometimes on credit and sometimes on cash. In his evidence, PW-1-complainant stated that the cheques were issued for the credit transaction payable to the appellant by the respondent. Per contra, case of the respondent is that Ex.- 16/C (colly) and Ex.-22/C (colly) were issued against the cash payment made by the respondent-accused and though the payments were made, the cheques issued by the respondent- accused were not returned to him. The respondent-accused relies upon the various receipts-Ex.-22/C (colly) which are as under:-
+
+     Sr.No.   Receipt No.       Date            Amount
+       1.        1276        02.09.2003        Rs.16,000/-
+       2.        1291        04.09.2003        Rs.2,000/-
+       3.        1340        08.09.2003        Rs.16,000/-
+       4.        1489        27.09.2003        Rs.20,000/-
+       5.        1556        03.10.2003        Rs.20,000/-
+       6.        1615        06.10.2003        Rs.14,500/-
+       7.        1621        08.10.2003        Rs.5,000/-
+       8.        1682        13.10.2003        Rs.15,500/-
+       9.        1689        13.10.2003        Rs.3,300/-
+      10.        1746        20.10.2003        Rs.17,000/-
+      11.        1763        23.10.2003        Rs.1,500/-
+      12.        1760        23.10.2003        Rs.2,300/-
+      13.        1808        27.10.2003        Rs.16,000/-
+      14.        1828        01.11.2003        Rs.3,000/-
+      15.        1882        05.11.2003        Rs.20,000/-
+      16.        1942        11.11.2003        Rs.15,000/-
+      17.        1941        11.11.2003        Rs.3,000/-
+      18.        1953        15.11.2003        Rs.3,000/-
+      19.        1958        17.11.2003        Rs.12,000/-
+      20.        2001        17.11.2003        Rs.3,000/-
+
+
+
+
+12. Case of the complainant is that whenever the respondent used to make cash purchases, cash memos/receipts were issued to the respondent and the above twenty receipts Ex.- 22/C (colly) pertain to cash sale. Complainant-PW-1 further stated that the cheques issued by the respondent-accused are subject matter of the complaints and pertain to the credit purchases made by the respondent-accused and the respondent has not made the payment or cleared the dues of the purchases made by him on credit. On the other hand, case of the respondent is that he always used to make credit purchase and used to leave blank cheques with the complainant-appellant and thereafter, he used to make payment for which the complainant used to issue receipts to the respondent; however, the appellant did not return the blank cheques left by the respondent with the appellant though the respondent made the payments and those cheques were misused by the appellant-complainant.
+
+13. As seen from the receipts-Ex.-16/C (colly) and Ex.-22/C (colly), though the amount said to have been credited to the account of the respondent, the receipts contain the expression “cheques are subject to realisation”. The format of the receipt- Ex.-16 (colly) is as under:-
+
+M (CST) 4265 dt 4.9.91                                    Tel: ………
+M (ST) 6104 dt 4.9.91                                     Res: ……..
+
+
+                  M/s SHREE DANESHWARI TRADERS
+                     General Merchant & Commission Agent
+                       Shop No.8, Masjid Building
+                        Malbhar, MARGAO-GOA
+
+   No.1145                                                  Date: 18.8.03
+                                 RECEIPT
+
+
+
+Credited to the account of M/s Shantadurga Stores, Margao, the amount of Rs. Fifteen Thousand only, by Cash/Cheque/Draft Rs.15,000/-.
+
+For M/s. Shree Daneshwari Traders L/F ____________________________ Cheques are subject to realisation.
+
+Case of the appellant is that the receipts-Ex.-22/C (colly) were issued by the appellant to the respondent towards cash payment made by the respondent during the course of business. The courts below failed to consider that Ex.-22/C (colly) were issued by the appellant to the respondent as against the cash payment made by respondent. Whereas the cheques were issued towards the credit purchases of commodities from the complainant which is a legally enforceable debt.
+
+14. DW-2 is the father of respondent-accused. In his evidence, DW-2 stated that the respondent used to leave blank cheques with him in order to carry out the business transaction. DW-2 has stated that they used to purchase rice bags from the complainant and had left the cheques with the complainant. Admittedly, the cheques are in the handwriting of DW-2. In his evidence, DW-2 stated that though the amount pertaining to the purchase of rice has already paid, the complainant did not return the cheques in spite of having received the amount pertaining to the purchase of rice. It is quite unbelievable that in a business/mercantile transaction, the accused even after making payment towards the purchase of rice bags, did not insist for the return of the cheques. It is quite improbable that the respondent-accused did not take any steps to get back the cheques and continued with the business transaction even though the complainant has not returned the cheques after payment of the money.
+
+15. The trial court in its judgment referred to the three cheques and observed that the three cheques bearing Nos.2463, dated 18.08.2003; 2480 dated 25.08.2003 and 2497 dated 08.08.2003 go to suggest that the later cheque bearing No.2497 was given much more earlier to 18.08.2003 or 25.08.2003 which seems inconsistent and it would not have been in the normal course of business. The trial court held that the date of issuance of the three cheques suggests that the cheques were already with the complainant and they were utilised by the complainant thereafter. On this aspect, PW-1 was cross-examined as to why cheque bearing No.2497 was issued on 08.08.2003 while it ought to have been issued after 25.08.2003 to which PW-1 stated that he does not know about the same. After referring to the above three cheques, the trial court held that in view of inconsistency, the presumption available under Section 139 of the Negotiable Instruments Act is not available to the complainant which was affirmed by the High Court. It was further held that the blank cheques left by the accused were with the complainant and they have been used to file the complaint. The courts below did not keep in view that the appellant has no control over the manner of issuance of cheques by the respondent and how it was issued. Merely because, later cheque No.2497 was said to have been issued by the respondent at an earlier date i.e. 08.08.2003, it cannot be held that the complainant had used the blank cheques issued by the respondent.
+
+16. Under Section 138 of the Negotiable Instruments Act, once the cheque is issued by the drawer, a presumption under Section 139 of the Negotiable Instruments Act in favour of the holder would be attracted. Section 139 creates a statutory presumption that a cheque received in the nature referred to under Section 138 of the Negotiable Instruments Act is for the discharge in whole or in part of any debt or other liability. The initial burden lies upon the complainant to prove the circumstances under which the cheque was issued in his favour and that the same was issued in discharge of a legally enforceable debt.
+
+17. It is for the accused to adduce evidence of such facts and circumstances to rebut the presumption that such debt does not exist or that the cheques are not supported by consideration. Considering the scope of the presumption to be raised under Section 139 of the Act and the nature of evidence to be adduced by the accused to rebut the presumption, in Kumar Exports v. Sharma Carpets (2009) 2 SCC 513, the Supreme Court in paras (14-15) and paras (18-20) held as under:-
+
+“14. Section 139 of the Act provides that it shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in Section 138 for the discharge, in whole or in part, of any debt or other liability.
+15. Presumptions are devices by use of which the courts are enabled and entitled to pronounce on an issue notwithstanding that there is no evidence or insufficient evidence. Under the Evidence Act all presumptions must come under one or the other class of the three classes mentioned in the Act, namely, (1) “may presume” (rebuttable), (2) “shall presume” (rebuttable), and (3) “conclusive presumptions” (irrebuttable). The term “presumption” is used to designate an inference, affirmative or disaffirmative of the existence of a fact, conveniently called the “presumed fact” drawn by a judicial tribunal, by a process of probable reasoning from some matter of fact, either judicially noticed or admitted or established by legal evidence to the satisfaction of the tribunal.
+
+Presumption literally means “taking as true without examination or proof”.
+
+……..
+
+18. Applying the definition of the word “proved” in Section 3 of the Evidence Act to the provisions of Sections 118 and 139 of the Act, it becomes evident that in a trial under Section 138 of the Act a presumption will have to be made that every negotiable instrument was made or drawn for consideration and that it was executed for discharge of debt or liability once the execution of negotiable instrument is either proved or admitted. As soon as the complainant discharges the burden to prove that the instrument, say a note, was executed by the accused, the rules of presumptions under Sections 118 and 139 of the Act help him shift the burden on the accused. The presumptions will live, exist and survive and shall end only when the contrary is proved by the accused, that is, the cheque was not issued for consideration and in discharge of any debt or liability. A presumption is not in itself evidence, but only makes a prima facie case for a party for whose benefit it exists.
+
+19. The use of the phrase “until the contrary is proved” in Section 118 of the Act and use of the words “unless the contrary is proved” in Section 139 of the Act read with definitions of “may presume” and “shall presume” as given in Section 4 of the Evidence Act, makes it at once clear that presumptions to be raised under both the provisions are rebuttable. When a presumption is rebuttable, it only points out that the party on whom lies the duty of going forward with evidence, on the fact presumed and when that party has produced evidence fairly and reasonably tending to show that the real fact is not as presumed, the purpose of the presumption is over.
+
+20. The accused in a trial under Section 138 of the Act has two options. He can either show that consideration and debt did not exist or that under the particular circumstances of the case the non-existence of consideration and debt is so probable that a prudent man ought to suppose that no consideration and debt existed. To rebut the statutory presumptions an accused is not expected to prove his defence beyond reasonable doubt as is expected of the complainant in a criminal trial. The accused may adduce direct evidence to prove that the note in question was not supported by consideration and that there was no debt or liability to be discharged by him. However, the court need not insist in every case that the accused should disprove the non- existence of consideration and debt by leading direct evidence because the existence of negative evidence is neither possible nor contemplated. At the same time, it is clear that bare denial of the passing of the consideration and existence of debt, apparently would not serve the purpose of the accused. Something which is probable has to be brought on record for getting the burden of proof shifted to the complainant. To disprove the presumptions, the accused should bring on record such facts and circumstances, upon consideration of which, the court may either believe that the consideration and debt did not exist or their non-existence was so probable that a prudent man would under the circumstances of the case, act upon the plea  that they did not exist. Apart from adducing direct evidence to prove that the note in question was not supported by consideration or that he had not incurred any debt or liability, the accused may also rely upon circumstantial evidence and if the circumstances so relied upon are compelling, the burden may likewise shift again on to the complainant. The accused may also rely upon presumptions of fact, for instance, those mentioned in Section 114 of the Evidence Act to rebut the presumptions arising under Sections 118 and 139 of the Act.” [underlining added].
+
+18. In the present case, by examining himself as PW-1, the complainant has discharged the initial burden cast upon him that the cheques were issued for the rice bags purchased on credit. With the examination of PW-1, the statutory presumption under Section 139 of the Act arises that the cheques were issued by the respondent-accused for the discharge of any debt or other liability in whole or in part. The courts below disbelieved the evidence of the complainant on the ground that there are no averments in the complaint that the commodities were sold for cash and that the rice bags were sold on credit and the cheques were issued for the goods sold on credit. Though the complaint contains no specific averments that the cheques were issued for the purchase made on credit, in his evidence, PW-1 clearly stated that the cheques were issued for the commodities purchased on credit. The courts below erred in brushing aside the evidence of PW-1 on the ground that there were no averments in the complaint as to the purchases made by cash and purchase. The courts below also erred in not raising the statutory presumption under Section 139 of the Act that the complainant received the cheques to discharge the debt or other liability in whole or in part.
+
+19. It is for the respondent-accused to adduce evidence to prove that the cheques were not supported by consideration and that there was no debt or liability to be discharged by him. The receipts-Ex.-22/C (colly) relied upon by the respondent- accused do not create doubt about the purchases made on credit and the existence of a legally enforceable debt for which the cheques were issued. The courts below erred in saying that by the receipts-Ex.22/C (colly), the respondent-accused has rebutted the statutory presumption raised under Section 139 of the Negotiable Instruments Act. The oral and the documentary evidence adduced by the complainant are sufficient to prove that it was a legally enforceable debt and that the cheques were issued to discharge the legally enforceable debt. With the evidence adduced by the complainant, the courts below ought to have raised the presumption under Section 139 of the Act. The evidence adduced by the respondent-accused is not sufficient to rebut the presumption raised under Section 139 of the Act. The defence of the respondent that though he made payment for the commodities/rice bags, the blank cheques were not returned by the appellant-complainant is quite unbelievable and unacceptable. The impugned judgment of the High Court cannot be sustained and is liable to be set aside. The respondent-accused is convicted under Section 138 of the Negotiable Instruments Act in both the complaints; however, considering that the cheque transaction was of the year 2003, at this distant point of time, we do not deem it appropriate to impose any sentence of imprisonment on the accused.
+
+20. In the result, the impugned judgment of the High Court in Criminal Appeal Nos.53 and 54 of 2006 is set aside and these appeals are allowed. The respondent-accused is convicted under Section 138 of Negotiable Instruments Act and a fine of Rs.2,97,150/- (Rs.53,171/- + Rs.1,93,979/- + compensation of Rs.50,000/-) is imposed on the respondent in default of which, the respondent shall undergo imprisonment for six months. The fine amount of Rs.2,97,150/- is to be deposited before the trial court within twelve weeks from today, failing which the respondent shall be taken into custody to serve the default sentence. On deposit of fine amount, the amount of Rs.2,97,150/- shall be paid to the appellant-complainant.
+
+………………………….J. [R. BANUMATHI] ………………………….J. [A.S. BOPANNA] New Delhi;
+
+August 21, 2019.

@@ -1,0 +1,48 @@
+<link rel="stylesheet" href="/static/bot/bot_styles.css">
+
+<button id="ns-toggle" class="ns-trigger-btn" aria-label="Open NyayaSetu Bot">
+  <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#f0d080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 8V4H8"/>
+    <rect width="16" height="12" x="4" y="8" rx="2"/>
+    <path d="M2 14h2"/>
+    <path d="M20 14h2"/>
+    <path d="M15 13v2"/>
+    <path d="M9 13v2"/>
+  </svg>
+  <div id="ns-badge" class="ns-unread-badge" style="display:none;"></div>
+</button>
+
+<div id="ns-window" class="ns-window" role="dialog" aria-label="NyayaSetu Bot" style="display:none;">
+  <div class="ns-header">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#f0d080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 8V4H8"/>
+      <rect width="16" height="12" x="4" y="8" rx="2"/>
+      <path d="M2 14h2"/>
+      <path d="M20 14h2"/>
+      <path d="M15 13v2"/>
+      <path d="M9 13v2"/>
+    </svg>
+    <div class="ns-header-text">
+      <span class="ns-header-title">NyayaBot</span>
+      <span id="ns-mode-label" class="ns-mode ns-mode-guide">Site Guide</span>
+    </div>
+    <button id="ns-close" class="ns-close-btn" aria-label="Close bot" onclick="NyayaSetuBot.close()">&#x2715;</button>
+  </div>
+
+  <div id="ns-msgs" class="ns-messages" role="log" aria-live="polite"></div>
+
+  <div class="ns-footer">
+    <input id="ns-input" type="text" class="ns-input" placeholder="Ask a legal question or 'how do I use this?'" aria-label="Message input" autocomplete="off" />
+    <button id="ns-send" class="ns-send-btn" aria-label="Send message">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <path d="M2 8l12-6-5 6 5 6-12-6z" fill="#f0d080"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script src="/static/bot/bot_site_knowledge.js"></script>
+<script src="/static/bot/bot_intent_classifier.js"></script>
+<script src="/static/bot/bot_api_client.js"></script>
+<script src="/static/bot/bot_ui.js"></script>
+<script src="/static/bot/nyayasetu_bot.js"></script>

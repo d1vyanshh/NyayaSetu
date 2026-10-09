@@ -1,0 +1,2 @@
+"""PrecedentForecaster module for NyayaSetu."""
+

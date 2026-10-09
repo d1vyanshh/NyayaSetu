@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Source+Sans+3:wght@400;500&display=swap');
+
+.ns-trigger-btn,
+.ns-window {
+  --ns-navy: #1a2744;
+  --ns-gold: #c9a84c;
+  --ns-gold-light: #f0d080;
+  --ns-surface: #f8f7f4;
+  --ns-white: #ffffff;
+  --ns-text: #1a1a2e;
+  --ns-muted: #6b7280;
+  --ns-success: #16a34a;
+  --ns-warning: #d97706;
+  --ns-danger: #dc2626;
+  --ns-border: rgba(0,0,0,0.10);
+}
+
+.ns-trigger-btn,
+.ns-window,
+.ns-window * {
+  box-sizing: border-box;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.ns-trigger-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9998;
+  width: 56px;
+  height: 56px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ns-navy);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 8px 28px rgba(0,0,0,0.18);
+  transition: transform 200ms ease;
+}
+
+.ns-trigger-btn:hover,
+.ns-send-btn:hover {
+  transform: scale(1.08);
+}
+
+.ns-pulse {
+  animation: nsPulse 2s infinite;
+}
+
+@keyframes nsPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(201,168,76,0.55), 0 8px 28px rgba(0,0,0,0.18); }
+  50% { box-shadow: 0 0 0 12px rgba(201,168,76,0), 0 8px 28px rgba(0,0,0,0.18); }
+}
+
+.ns-unread-badge {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  top: 5px;
+  right: 5px;
+  border-radius: 50%;
+  background: var(--ns-danger);
+}
+
+.ns-window {
+  position: fixed;
+  bottom: 88px;
+  right: 24px;
+  z-index: 9999;
+  width: 360px;
+  max-height: 580px;
+  border-radius: 16px;
+  border: 1px solid var(--ns-border);
+  background: var(--ns-white);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+  color: var(--ns-text);
+}
+
+.ns-header {
+  background: var(--ns-navy);
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ns-header-text {
+  display: grid;
+  flex: 1;
+}
+
+.ns-header-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 15px;
+  color: var(--ns-gold-light);
+}
+
+.ns-mode {
+  font-size: 12px;
+  color: #9ba8c0;
+}
+
+.ns-close-btn {
+  border: 0;
+  background: transparent;
+  color: #9ba8c0;
+  cursor: pointer;
+  min-width: 36px;
+  min-height: 36px;
+  font-size: 18px;
+}
+
+.ns-close-btn:hover {
+  color: white;
+}
+
+.ns-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 12px;
+  max-height: 380px;
+  min-height: 200px;
+  background: var(--ns-white);
+}
+
+.ns-messages::-webkit-scrollbar {
+  width: 4px;
+}
+
+.ns-messages::-webkit-scrollbar-thumb {
+  background: #d3d1c7;
+  border-radius: 10px;
+}
+
+.ns-msg-row {
+  display: flex;
+  gap: 8px;
+  margin: 9px 0;
+}
+
+.ns-msg-row.ns-user {
+  justify-content: flex-end;
+}
+
+.ns-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--ns-navy);
+  display: grid;
+  place-items: center;
+  flex: 0 0 24px;
+}
+
+.ns-avatar svg {
+  width: 18px;
+  height: 18px;
+}
+
+.ns-bubble {
+  max-width: 82%;
+  padding: 10px 13px;
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+.ns-bot .ns-bubble {
+  background: #f1f0ed;
+  color: var(--ns-text);
+  border-radius: 14px 14px 14px 4px;
+}
+
+.ns-user .ns-bubble {
+  background: var(--ns-navy);
+  color: white;
+  border-radius: 14px 14px 4px 14px;
+}
+
+.ns-typing {
+  display: inline-flex;
+  gap: 5px;
+  padding: 10px 13px;
+  background: #f1f0ed;
+  border-radius: 14px 14px 14px 4px;
+}
+
+.ns-typing span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #9ba8c0;
+  animation: nsBounce 0.8s infinite ease-in-out;
+}
+
+.ns-typing span:nth-child(2) { animation-delay: 0.15s; }
+.ns-typing span:nth-child(3) { animation-delay: 0.3s; }
+
+@keyframes nsBounce {
+  0%, 80%, 100% { transform: translateY(0); opacity: .5; }
+  40% { transform: translateY(-5px); opacity: 1; }
+}
+
+.ns-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  padding-left: 34px;
+  margin: 6px 0 12px;
+}
+
+.ns-chip,
+.ns-nav-btn {
+  border: 1px solid var(--ns-gold);
+  color: var(--ns-navy);
+  font-size: 12px;
+  border-radius: 20px;
+  padding: 5px 11px;
+  background: transparent;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ns-chip:hover,
+.ns-nav-btn:hover {
+  background: #f0d08022;
+}
+
+.ns-confidence {
+  display: inline-block;
+  margin-top: 6px;
+  border-radius: 999px;
+  padding: 4px 8px;
+  font-size: 11.5px;
+  font-weight: 700;
+}
+
+.ns-confidence.ns-high { background: #dcfce7; color: #15803d; }
+.ns-confidence.ns-med { background: #fef3c7; color: #b45309; }
+.ns-confidence.ns-low { background: #fee2e2; color: #b91c1c; }
+
+.ns-source {
+  margin-top: 8px;
+  font-size: 11.5px;
+  color: var(--ns-muted);
+  border-left: 2px solid var(--ns-gold);
+  padding: 5px 8px;
+  background: #fafaf8;
+  border-radius: 0 6px 6px 0;
+  cursor: pointer;
+}
+
+.ns-source-text {
+  display: none;
+  margin-top: 5px;
+}
+
+.ns-source-text.ns-open {
+  display: block;
+}
+
+.ns-steps-block {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.ns-step {
+  display: flex;
+  gap: 8px;
+}
+
+.ns-step-num {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 20px;
+  background: var(--ns-gold-light);
+  color: var(--ns-navy);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.ns-muted-text {
+  color: var(--ns-muted);
+}
+
+.ns-mini-card {
+  border: 1px solid var(--ns-border);
+  border-radius: 10px;
+  padding: 8px;
+  margin-top: 8px;
+}
+
+.ns-footer {
+  padding: 10px 12px;
+  border-top: 1px solid var(--ns-border);
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.ns-input {
+  flex: 1;
+  border: 1px solid var(--ns-border);
+  border-radius: 20px;
+  padding: 9px 15px;
+  font-size: 13.5px;
+  outline: none;
+  min-width: 0;
+}
+
+.ns-input:focus {
+  border-color: var(--ns-gold);
+}
+
+.ns-send-btn {
+  width: 36px;
+  height: 36px;
+  border: 0;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--ns-navy);
+  cursor: pointer;
+  transition: transform 200ms ease;
+}
+
+.ns-trigger-btn:focus-visible,
+.ns-close-btn:focus-visible,
+.ns-chip:focus-visible,
+.ns-input:focus-visible,
+.ns-send-btn:focus-visible {
+  outline: 2px solid var(--ns-gold);
+  outline-offset: 2px;
+}
+
+@media (max-width: 480px) {
+  .ns-window {
+    width: calc(100vw - 32px);
+    right: 16px;
+    max-height: 70vh;
+  }
+  .ns-trigger-btn {
+    right: 16px;
+    bottom: 16px;
+  }
+}

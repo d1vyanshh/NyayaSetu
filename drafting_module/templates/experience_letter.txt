@@ -1,0 +1,15 @@
+EXPERIENCE CERTIFICATE
+Date: {{date}}
+Place: {{city}}, {{state}}
+BETWEEN:
+1. {{company_name}}, {{company_address}}
+TO WHOM IT MAY CONCERN
+This is to certify that {{employee_name}} was employed with {{company_name}} from {{joining_date}} to {{last_working_date}} as {{designation}} in the {{department}} department.
+During {{his/her}} tenure with us, {{he/she}} was responsible for {{{{brief_description_of_responsibilities}}}}.
+{{he/she}} has demonstrated {{{{qualities}}}} and has been a valuable member of our team.
+We wish {{him/her}} all the best in {{his/her}} future endeavours.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+_______________________________
+Signature of Deponent
+Name: {{full_name}}
+Date: {{date}}

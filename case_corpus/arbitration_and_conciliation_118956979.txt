@@ -1,0 +1,313 @@
+[Cites 65, Cited by 175]
+Supreme Court of India
+Bharat Sanchar Nigam Limited vs M/S Nortel Networks India Pvt. Ltd. on 10 March, 2021
+Equivalent citations: AIR 2021 SUPREME COURT 2849, AIRONLINE 2021 SC 279
+Author: Indu Malhotra
+Bench: Ajay Rastogi, Indu Malhotra
+                                                                                    REPORTABLE
+                                      IN THE SUPREME COURT OF INDIA
+                                        CIVIL APPELLATE JURISDICTION
+                                      CIVIL APPEAL Nos. 843-844 OF 2021
+                                    (Arising out of SLP (C) No. 1531-32/ 2021)
+
+
+          BHARAT SANCHAR NIGAM LTD. & ANR.                                        …APPELLANTS
+
+
+                                                      Versus
+
+
+          M/S NORTEL NETWORKS INDIA PVT. LTD.                                    …RESPONDENT
+
+
+                                               J U D G M E N T
+
+
+INDU MALHOTRA, J.
+
+Leave granted.
+
+1. The present Appeals raise two important issues for our consideration : (i) the period of limitation for filing an application under Section 11 of the Arbitration and Conciliation Act, 1996 (“the 1996 Act”); and (ii) whether the Court may refuse to make the reference under Section 11 where the claims are ex facie time-barred?
+
+2. (a) The factual matrix in which the present issues have arisen for our consideration is the issuance of a tender notification by the Appellant- Company [hereinafter referred to as “BSNL”] inviting bids for planning, engineering, supply, insulation, testing and commissioning of GSM based cellular mobile network in the southern region covering the Kerala, Karnataka, Tamil Nadu, Andhra Pradesh Circles, and the Chennai telephone district. In the tender process, the Respondent-Company [hereinafter referred to as “Nortel”] was awarded the purchase order. On completion of the Works under  the purchase order, BSNL deducted / withheld an amount of Rs.99,70,93,031 towards liquidated damages and other levies.
+
+(b) Nortel vide communication dated 13.05.2014 raised a claim for payment of the said amount.
+
+BSNL vide letter dated 04.08.2014 rejected the claim of Nortel.
+
+(c) After a period of over 5 ½ years, Nortel vide letter dated 29.04.2020 invoked the arbitration clause, and requested for appointment of an independent arbitrator, wherein it was contended that the dispute of withholding the aforesaid amounts, would fall within the ambit of arbitrable disputes under the agreement.
+
+(d) BSNL vide reply dated 09.06.2020 contended that the request for appointment of an arbitrator could not be entertained, since the case had already been closed on 04.08.2014, and as per Section 43 of the 1996 Act, the notice invoking arbitration was time barred.
+
+(e) Nortel filed an application under Section 11 of the 1996 Act before the Kerala High Court for appointment of an arbitrator. The High Court vide Order dated 13.10.2020 referred the disputes to arbitration.
+
+(f) BSNL filed a review petition before the High Court, which was dismissed vide Order dated 14.01.2021.
+
+(g) The present Civil Appeal has been filed by BSNL to challenge the Orders dated 13.10.2020 and 14.01.2021 respectively.
+
+(h) This Court appointed Mr. Arvind Datar, Senior Advocate as Amicus Curiae to assist the Court on the legal issues which have arisen for consideration.
+
+3. We have heard Mr. R.D. Agrawala, Senior Advocate for the Appellants, Mr. Neeraj Kumar Jain, Senior Advocate for the Respondent, and the learned Amicus Curiae, Mr. Arvind Datar, Senior Advocate.
+
+4. Submissions on behalf of BSNL BSNL submitted that the cause of action for invoking arbitration arose on 04.08.2014 when the claim made by Nortel was rejected by making deductions from the Final Bill. It was contended that Nortel had slept over its alleged rights for over 5 ½ years, before issuing the notice of arbitration on 29.04.2020. From 04.08.2014 till 29.04.2020, Nortel did not take any action whatsoever. Consequently, the notice invoking arbitration had become legally stale, non-arbitrable and unenforceable. The High Court had erroneously proceeded on the premise of mere existence of a valid arbitration agreement, without considering that such an agreement was inextricably connected with the existence of a live dispute.
+
+Even though limitation was a mixed question of fact and law, and is ordinarily to be decided by the arbitral tribunal, in cases where the invocation of the arbitration agreement is ex facie time barred, the Court must reject the request for appointment of an arbitrator. The limitation for invoking arbitration, and seeking appointment of an arbitrator is at par with a civil action, and would be covered by Article 137 of the Schedule to the Limitation Act, 1963. An action taken by a claimant must necessarily fall within the statutory period of 3 years from the date on which the right to apply accrues. Section 11(6A) uses the phrase “examination of the existence of an arbitration agreement”, which would imply that the power conferred upon the Court is not a formal exercise, but requires a certain degree of examination before making the reference.
+
+5. Submissions on behalf of Nortel  It was submitted that the amendment to Section 11 by the Arbitration and Conciliation (Amendment) Act, 2015 provides for a limited scope of enquiry at the pre-reference stage which is restricted only to the “existence” of an arbitration agreement under sub-section (6A) of Section 11. In view of the doctrine of kompetenz-kompetenz, the objection with respect to the claims being allegedly time barred, could be decided by the arbitral tribunal. The High Court rightly limited the enquiry at the pre-reference stage to the “existence” of the arbitration agreement.
+
+The distinction between the limitation for filing an application u/S. 11, and with respect to the underlying claims does not survive post the 2015 Amendment, since the role of the Court is only limited to examine the existence of the arbitration agreement between the parties. The starting point of limitation for initiating a proceeding under Section 11 is the expiry of 30 days’ from the date of issuing notice of arbitration on 29.04.2020. The cause of action was, therefore, a continuing one. The High Court had rightly held that the issue of limitation must be decided by the arbitral tribunal.
+
+6. Discussion on First issue The 1996 Act has been framed for expeditious resolution of disputes, and various provisions have been incorporated in the Act to ensure that the arbitral proceedings are conducted in a time-bound manner. Various time lines have been provided in the 1996 Act such as :
+
+(i) Section 8 provides that an application for reference of disputes to arbitration, shall be filed not later than submitting the first statement on the substance of the dispute;
+ (ii) Section 9(2) provides that where a Court passes an order for any interim measure of protection, the arbitral proceedings shall be commenced within a period of 90 days’ from the date of such order;
+(iii) Section 13 provides that where a challenge is made against an arbitrator, the same must be raised within 15 days’ from the constitution of the tribunal, or after becoming aware of any circumstances mentioned in sub-section (3) of Section 12;
+(iv) Section 16 (2) provides that a plea that the tribunal does not have jurisdiction, shall be raised not later than the submission of the statement of defence;
+(v) Section 34(3) provides a maximum period of 120 days’ after the receipt of the signed award, to file objections before the Court 1
+
+7. The 1996 Act was amended by the Arbitration and Conciliation (Amendment) Act, 2015 to incorporate further provisions for expeditious disposal of arbitral proceedings : (i) Section 11 has been amended to insert sub-section (13) which provides that an application made either before the Supreme Court, or the High Court, or person or institution designated by such Court, shall be disposed of as expeditiously as possible, and an endeavour shall be made to dispose of the petition within a period of 60 days’ from the date of service of the notice on the opposite party; (ii) Section 29A mandates that the arbitral proceedings must be completed within a period of 12 months from the date of completion of pleadings; (iii) Section 34 was amended to insert sub-section (6) which provides that an application under Section 34 shall be disposed of expeditiously within a period of 1 year from the date on which the notice of filing objections is served upon the other party. 1 Dakshin Haryana Bijli Vitran Nigam Ltd. v. M/s Navigant Technologies Pvt. Ltd., C.A. No. 791 / 2021 decided on 02.03.2021.
+
+ Some of these provisions have been held to be mandatory, such as Sections 8 and 34(3); while others like Section 34(6) have been held to be directory2.
+
+8. Contemporaneous with the 2015 amendments to the Arbitration Act 1996, the Commercial Courts Act, 2015 was enacted to provide for speedy disposal of high value commercial disputes, which provided for setting up Commercial Divisions or Commercial Appellate Division in High Courts, and Commercial Courts at the district level.
+
+Section 13 of the Commercial Courts Act provides that an appeal under Section 37 of the Arbitration Act, 1996 shall be filed before the Commercial Appellate Court or Commercial Appellate Division, as the case may be within a period of 60 days’ from the date of judgment.
+
+Section 14 further provides that the Commercial Appellate Court or Commercial Appellate Division shall endeavour to decide the appeals within a period of 6 months’ from the date of filing of such appeal.
+
+9. To decide the issue of limitation for filing an application under Section 11, we must first examine whether the Arbitration Act, 1996 prescribes any period for the same.
+
+Section 11 does not prescribe any time period for filing an application under sub-section (6) for appointment of an arbitrator. Since there is no provision in the 1996 Act specifying the period of limitation for filing an application under Section 11, one would have to take recourse to the Limitation Act, 1963, as per Section 43 of the Arbitration Act, which provides that the Limitation Act shall apply to arbitrations, as it applies to proceedings in Court.
+
+“43. – Limitations 2 State of Bihar & Ors. v. Bihar Rajya Bhumi Vikas Bank Samiti (2018) 9 SCC 472. (1) The Limitation Act, 1963 (36 of 1963) shall apply to arbitrations, as it applies to proceedings in Court.” In Consolidated Engineering v. Principal Secretary, Irrigation,3 this Court held that :
+
+“45. Learned counsel for the appellant contended that Section 43 of the AC Act makes applicable the provisions of the Limitation Act only to arbitrations, thereby expressing an intent to exclude the application to any proceedings relating to arbitration in a court. The contention of the appellant ignores and overlooks Section 29(2) of the Limitation Act and Section 43(1) of the AC Act. Sub-section (1) of Section 43 of the Act provides that the Limitation Act shall apply to arbitrations as it applies to proceedings in court. The purpose of Section 43 of the AC Act is not to make the Limitation Act inapplicable to proceedings before court, but on the other hand, make the Limitation Act applicable to arbitrations. As already noticed, the Limitation Act applies only to proceedings in court, and but for the express provision in Section 43, the Limitation Act would not have applied to arbitration, as arbitrators are private tribunals and not courts. Section 43 of the AC Act, apart from making the provisions of the Limitation Act, 1963 applicable to arbitrations, reiterates that the Limitation Act applies to proceedings in court. Therefore, the provisions of the Limitation Act, 1963 apply to all proceedings under the AC Act, both in court and in arbitration, except to the extent expressly excluded by the provisions of the AC Act.” (emphasis supplied)
+10. Since none of the Articles in the Schedule to the Limitation Act, 1963 provide a time period for filing an application for appointment of an arbitrator under Section 11, it would be covered by the residual provision Article 137 of the Limitation Act, 1963.
+
+Article 137 of the Limitation Act, 1963 provides :
+
+THIRD DIVISION – APPLICATIONS Description of application Period of Time from which period limitation begins to run
+137. Any other application for which no Three years When the right to apply period of limitation is provided accrues elsewhere in this division
+11. It is now fairly well-settled that the limitation for filing an application under Section 11 would arise upon the failure to make the appointment of the arbitrator within a period of 30 days’ from issuance of the notice invoking arbitration. In other words, an application under Section 11 can be filed only after a notice of arbitration in respect of the particular claim(s) / dispute(s) to
+
+3 (2008) 7 SCC 169.
+
+ be referred to arbitration [as contemplated by Section 21 of the Act] is made, and there is failure to make the appointment.
+
+12. The period of limitation for filing a petition seeking appointment of an arbitrator/s cannot be confused or conflated with the period of limitation applicable to the substantive claims made in the underlying commercial contract. The period of limitation for such claims is prescribed under various Articles of the Limitation Act, 1963. The limitation for deciding the underlying substantive disputes is necessarily distinct from that of filing an application for appointment of an arbitrator. This position was recognized even under Section 20 of the Arbitration Act 1940. Reference may be made to the judgment of this Court in C. Budhraja v. Chairman, Orissa Mining Corporation Ltd.4 wherein it was held that Section 37(3) of the 1940 Act provides that for the purpose of the Limitation Act, an arbitration is deemed to have commenced when one party to the arbitration agreement serves on the other party, a notice requiring the appointment of an arbitrator. Paragraph 26 of this judgment reads as follows :
+
+“26. Section 37(3) of the Act provides that for the purpose of the Limitation Act, an arbitration is deemed to have been commenced when one party to the arbitration agreement serves on the other party thereto, a notice requiring the appointment of an arbitrator. Such a notice having been served on 4-6-1980, it has to be seen whether the claims were in time as on that date. If the claims were barred on 4-6-1980, it follows that the claims had to be rejected by the arbitrator on the ground that the claims were barred by limitation. The said period has nothing to do with the period of limitation for filing a petition under Section 8(2) of the Act. Insofar as a petition under Section 8(2) is concerned, the cause of action would arise when the other party fails to comply with the notice invoking arbitration. Therefore, the period of limitation for filing a petition under Section 8(2) seeking appointment of an arbitrator cannot be confused with the period of limitation for making a claim. The decisions of this Court in Major (Retd.) Inder Singh Rekhi v. DDA [(1988) 2 SCC 338] , Panchu Gopal Bose v. Board of Trustees for Port of Calcutta [(1993) 4 SCC 338] and Utkal Commercial Corpn. v. Central Coal Fields Ltd. [(1999) 2 SCC 571] also make this position clear.” 4 (2008) 2 SCC 444.
+13. Various High Courts have taken the view that Article 137 of the Limitation Act would be applicable to an application under Section 11 of the Arbitration Act.
+
+The question of the applicability of Article 137 to applications under Section 11 of the 1996 Act came up for consideration before the Bombay High Court in Leaf Biotech v. Municipal Corporation Nashik5 wherein it was held that the period of limitation for an application u/S. 11 would be governed by Article 137 of the Limitation Act.
+
+Subsequently, in Deepdharshan Builders Pvt. Ltd. v. Saroj6 the Bombay High Court framed the following issue :
+
+“(ii) Whether Article 137 of the Schedule to the Limitation Act, 1963 would apply to the arbitration application filed under Section 11(6) of the Arbitration Act and if applies whether Section 5 of the Limitation Act, 1963 would be applicable to this arbitration application and if Section 5 applies to this arbitration application, whether the applicant has made out a sufficient cause for condonation of delay in filing this arbitration application?” The Bombay High Court held that :
+“42. In my view, since the proceedings under Section 11(6) of the Arbitration Act are required to be filed before the High Court, Article 137 of the Schedule to the Limitation Act, 1963 would apply to such application filed under Section 11(6) of the Arbitration Act. In my view, since Article 137 of the Schedule to the Limitation Act, 1963 would apply to the arbitration application under Section 11(6) of the Arbitration Act, Section 5 of the Limitation Act, 1963 would also apply to the arbitration application filed under Section 11(6) of Arbitration Act
+46. It is not in dispute that under Section 20 of the Arbitration Act, 1940, an application was required for taking the arbitration agreement on record and for appointment of an arbitrator in accordance with the arbitration agreement before a Court. Since the said proceedings under Section 20 were required to be filed before an appropriate Court, the provisions of Article 137 of the Limitation Act, 1963 were applicable to such proceedings filed before such appropriate Court. In my view, since the proceedings under Section 11(6) or Section 11(9) of the Arbitration Act for seeking appointment of arbitral tribunal are also now required to be filed before the High Court or the Hon'ble Supreme Court, as the case may be. Article 137 of the Schedule to the Limitation Act, 1963 would apply. It is not in dispute that no other Article of Schedule to the Limitation Act, 1963 provides for any other period of limitation for filing an arbitration application filed under Section 11(6) or Section 11(9) of the Arbitration Act respectively.
+47. It is not in dispute that Article 137 of the Schedule to the Limitation Act, 1963, such application has to be filed within three years from the date when the right to apply accrues. In my view, under Article 137 of the Limitation Act, 1963, application 5 2010 (6) Mh LJ 316.
+6 (2019) 1 AIR Bom R 249.
+
+ for appointment of an arbitrator under Section 11(6) or Section 11(9) of the Arbitration Act before the High Court or the Hon'ble Supreme Court would apply from the date when a notice invoking an arbitration agreement is received by other side and other side refuses to the name suggested by the opponent or refusing to suggest any other name in accordance with the provisions of Section 11 or the agreed procedure prescribed in the arbitration agreement within the time contemplated therein or specifically refuses to appoint any arbitrator in the event of such other party being an appointing authority.
+
+48. In my view, the limitation prescribed under Article 137 of the Schedule to the Limitation Act, 1963 which applies to an application under Section 11(6) or Section 11(9) of the Arbitration Act filed before the High Court or before the Hon'ble Supreme Court cannot be mixed up with the period of limitation applicable to the claims prescribed in various other Articles of the Schedule to the Limitation Act, 1963. Both these periods of limitation i.e. one applicable to the claims being made and another being applicable to the application under Section 11(6) or Section 11(9) of the Arbitration Act to which Article 137 of the Schedule to the Limitation Act, 1963 applies, are two different periods of limitation and cannot be made applicable to each other.” The special leave petition (SLP (C) No. 305 / 2019) against the said Judgment was dismissed vide Order dated 16.02.2019.
+
+14. Other decisions of High Courts on the applicability of Article 137 are Prasar Bharti v. Maa Communication7 and Golden Chariot v. Mukesh Panika8 passed by the Delhi High Court. The SLP filed in the case of Golden Chariot was dismissed vide Order dated 31.01.2019 in SLP(C) No. 3658 / 2019.
+
+15. The reasoning in all these judgments seems to be that since an application under Section 11 is to be filed in a court of law, and since no specific Article of the Limitation Act, 1963 applies, the residual Article would become applicable. The effect being that the period of limitation to file an application under Section 11 is 3 years’ from the date of refusal to appoint the arbitrator, or on expiry of 30 days’, whichever is earlier.
+
+16. In Geo Miller & Co. Pvt. Ltd. v. Chairman, Rajasthan Vidyut Utpadan Nigam Ltd.,9 a three-judge bench held that on a reading of sub-sections (1) 7 2010 (115) DRJ 438 (DB).
+
+8 2018 SCC OnLine Del 10050, SLP (C) No. 40627 / 2018 against this decision was dismissed on 31.01.2019. 9 (2020) 14 SCC 643, 649.
+
+ and (3) of Section 43 of the 1996 Act, the provisions of the Limitation Act, 1963 would be applicable to the Arbitration Act.
+
+Paragraph 14 of this judgment reads as :
+
+“14. Sections 43(1) and (3) of the 1996 Act are in pari materia with Sections 37(1) and (4) of the 1940 Act. It is well-settled that by virtue of Article 137 of the First Schedule to the Limitation Act, 1963 the limitation period for reference of a dispute to arbitration or for seeking appointment of an arbitrator before a court under the 1940 Act (see State of Orissa v. Damodar Das [State of Orissa v. Damodar Das, (1996) 2 SCC 216] ) as well as the 1996 Act (see Grasim Industries Ltd. v. State of Kerala [Grasim Industries Ltd. v. State of Kerala, (2018) 14 SCC 265 : (2018) 4 SCC (Civ) 612] ) is three years from the date on which the cause of action or the claim which is sought to be arbitrated first arises.”
+17. Given the vacuum in the law to provide a period of limitation under Section 11 of the Arbitration and Conciliation 1996, the Courts have taken recourse to the position that the limitation period would be governed by Article 137, which provides a period of 3 years from the date when the right to apply accrues.
+
+However, this is an unduly long period for filing an application u/S. 11, since it would defeat the very object of the Act, which provides for expeditious resolution of commercial disputes within a time bound period. The 1996 Act has been amended twice over in 2015 and 2019, to provide for further time limits to ensure that the arbitration proceedings are conducted and concluded expeditiously. Section 29A mandates that the arbitral tribunal will conclude the proceedings within a period of 18 months. In view of the legislative intent, the period of 3 years for filing an application under Section 11 would run contrary to the scheme of the Act.
+
+It would be necessary for Parliament to effect an amendment to Section 11, prescribing a specific period of limitation within which a party may move the court for making an application for appointment of the arbitration under Section 11 of the 1996 Act.
+
+18. Applying the aforesaid law to the facts of the present case, we find that the application under Section 11 was filed within the limitation period prescribed  under Article 137 of the Limitation Act. Nortel issued the notice of arbitration vide letter dated 29.04.2020, which was rejected by BSNL vide its reply dated 09.06.2020. The application under Section 11 was filed before the High Court on 24.07.2020 i.e. within the period of 3 years of rejection of the request for appointment of the arbitrator.
+
+Discussion on Second issue
+
+19. We will now discuss the second issue which has arisen for consideration i.e. whether the Court while exercising jurisdiction under Section 11 is obligated to appoint an arbitrator even in a case where the claims are ex facie time-barred.
+
+To determine this issue, we would have to examine the scope of jurisdiction under Section 11 of the Act.
+
+Legislative History of Section 11 Pre-amendment position Under the principal Act, the legislative scheme under Section 11 was that if the parties had agreed on a procedure for appointment of the arbitrator, the appointment had to be made in accordance with that procedure. Absent an agreement between the parties, the default power of appointment in a domestic arbitration would be exercised by the Chief Justice of the High Court, or person, or institution, designated by him. In the case of an international commercial arbitration, the default power would be exercised by the Chief Justice of India, or the person, or institution, designated by him 10. The object of conferring the power of appointment on the highest judicial authority was to give credibility to the procedure of appointment.
+
+20. In SBP & Co. v. Patel Engineering Ltd.,11 a seven-Judge constitution bench of this Court considered the scope of Section 11 of the 1996 Act, and held that the scheme of the Act required the Chief Justice, or his designate, to 10 Section 11(9) of the 1996 Act.
+
+11 (2005) 8 SCC 618.
+
+decide whether there is an arbitration agreement in terms of Section 7, before exercising the default power for making the appointment of the arbitrator. The scope of power at the pre-reference stage would be as follows:
+
+“33. Section 8 of the Arbitration Act, 1940 enabled the court when approached in that behalf to supply an omission. Section 20 of that Act enabled the court to compel the parties to produce the arbitration agreement and then to appoint an arbitrator for adjudicating on the disputes. It may be possible to say that Section 11(6) of the Act combines both the powers. May be, it is more in consonance with Section 8 of the old Act. But to call the power merely as an administrative one, does not appear to be warranted in the context of the relevant provisions of the Act. First of all, the power is conferred not on an administrative authority, but on a judicial authority, the highest judicial authority in the State or in the country. No doubt, such authorities also perform administrative functions. An appointment of an Arbitral Tribunal in terms of Section 11 of the Act, is based on a power derived from a statute and the statute itself prescribes the conditions that should exist for the exercise of that power. In the process of exercise of that power, obviously the parties would have the right of being heard and when the existence of the conditions for the exercise of the power are found on accepting or overruling the contentions of one of the parties it necessarily amounts to an order, judicial in nature, having finality subject to any available judicial challenge as envisaged by the Act or any other statute or the Constitution. Looked at from that point of view also, it seems to be appropriate to hold that the Chief Justice exercises a judicial power while appointing an arbitrator.
+..
+39. It is necessary to define what exactly the Chief Justice, approached with an application under Section 11 of the Act, is to decide at that stage. Obviously, he has to decide his own jurisdiction in the sense whether the party making the motion has approached the right High Court. He has to decide whether there is an arbitration agreement, as defined in the Act and whether the person who has made the request before him, is a party to such an agreement. It is necessary to indicate that he can also decide the question whether the claim was a dead one; or a long-barred claim that was sought to be resurrected and whether the parties have concluded the transaction by recording satisfaction of their mutual rights and obligations or by receiving the final payment without objection. It may not be possible at that stage, to decide whether a live claim made, is one which comes within the purview of the arbitration clause. It will be appropriate to leave that question to be decided by the Arbitral Tribunal on taking evidence, along with the merits of the claims involved in the arbitration. The Chief Justice has to decide whether the applicant has satisfied the conditions for appointing an arbitrator under Section 11(6) of the Act. For the purpose of taking a decision on these aspects, the Chief Justice can either proceed on the basis of affidavits and the documents produced or take such evidence or get such evidence recorded, as may be necessary. We think that adoption of this procedure in the context of the Act would best serve the purpose sought to be achieved by the Act of expediting the process of arbitration, without too many approaches to the court at various stages of the proceedings before the Arbitral Tribunal.
+…
+47. (iv) The Chief Justice or the Designated Judge will have the right to decide the preliminary aspects as indicated in the earlier part of this judgment. These will be his own jurisdiction to entertain the request, the existence of a valid arbitration agreement, the existence or otherwise of a live claim, the existence of the condition for the exercise of his power and on the qualifications of the arbitrator or arbitrators.”
+21. Subsequently, in National Insurance Co. Ltd. v. Boghara Polyfab Pvt.
+
+Ltd.,12 the Court classified the preliminary issues to be decided by the Chief Justice of India, / Chief Justice of a High Court, as the case may be, under Section 11, and those which must be decided by the arbitrator, into three categories :
+
+(i) issues which the Chief Justice, or his designate are bound to decide are whether the party making the application has approached the appropriate High Court; whether there is an arbitration agreement; and whether the party who has made the application, is a party to the agreement;
+(ii) issues which the Chief Justice may decide at the threshold are : as to whether the claim is a dead or long-barred claim, or a live claim;
+
+whether the parties have concluded the contract / transaction by recording satisfaction of their mutual rights and obligations, or the party has received the final payment without objection;
+
+(iii) issues which must be left to the arbitral tribunal to decide are whether the claim made falls within the arbitration clause (for example, a matter which is reserved for final decision pf a departmental authority, and is “excepted” or excluded from arbitration); merits of the claims involved.
+
+22. In Union of India & Ors. v. Master Construction Co.13 this Court held that the issue whether a discharge voucher, or no claims certificate, or settlement agreement had been obtained by fraud, coercion, duress, or undue influence, must be determined by the appointing authority at the Section 11 stage, when a prima facie determination as to whether such a dispute was raised bonafide and genuine must be made. If the dispute prima facie appears 12 (2009) 1 SCC 267.
+
+13 (2011) 12 SCC 349.
+
+ to be lacking in credibility, the matter would not be referred to arbitration. A bald plea of fraud, coercion, duress, or undue influence was not sufficient, unless the party who sets up such a plea was able to prima facie establish it, by placing material on record.
+
+23.Post-amendment position The 1996 Act was amended by the Arbitration and Conciliation (Amendment) Act, 2015 which came into force with effect from 23.10.2015. The said amendment was based on the recommendations of the 246 th Report of the Law Commission of India.
+
+The 2015 Amendment Act made three significant changes :
+
+(i) It replaced the Chief Justice of the High Court as the appointing authority for exercising the default power of appointment in the case of domestic arbitrations, by the concerned High Court; and, in respect of international commercial arbitrations, the default power would be exercised by the Supreme Court, in place of the Chief Justice of India.
+(ii) It inserted sub-section (6A) and (6B) in Section 11, which reads as :
+“11. Appointment of arbitrators.– … (6A) The Supreme Court, as the case may be, the High Court, while considering any application under sub-section (4) or sub-section (5) or sub-section (6), shall, notwithstanding any judgment, decree or order of any Court, confine to the examination of the existence of an arbitration agreement.
+(6B) The designation of any person or institution by the Supreme Court, or, as the case may be, the High Court, for the purposes of this section shall not be regarded as a delegation of judicial power by the Supreme Court or the High Court.” Sub-section (6A) by a non-obstante clause provided that notwithstanding any judgment, decree or order of any court, the scope of examination at the Section 11 stage, would be confined to the existence of the arbitration agreement.
+
+The effect of the amendment was that if the existence of the arbitration agreement was not in dispute, all other issues would be left for the arbitral tribunal to decide. This was in reinforcement of the  doctrine of kompetenz-kompetenz, which empowers the tribunal to rule on its own jurisdiction, including any objections with respect to the validity of the arbitration agreement; and thereby minimize judicial intervention at the pre-reference stage.
+
+(iii) Sub-section (6B) was inserted to provide that the designation of any person or institution, by either the Supreme Court or High Court, as the appointing authority under Section 11, would not be regarded as a delegation of judicial power.
+
+The amendments to Section 11 were brought in to legislatively overrule the line of judgments including SBP & Co., Boghara Polyfab, Master Construction, etc., which had enlarged the scope of power of the appointing authority to decide various issues at the pre-reference stage.
+
+24. Sub-section (6A) came up for consideration in the case of Duro Felguera SA v. Gangavaram Port Ltd.14, wherein this Court held that the legislative policy was to minimize judicial intervention at the appointment stage. In an application under Section 11, the Court should only look into the existence of the arbitration agreement, before making the reference. Post the 2015 amendments, all that the courts are required to examine is whether an arbitration agreement is in existence —nothing more, nothing less.
+
+“48. Section 11(6-A) added by the 2015 Amendment, reads as follows:
+
+“11. (6-A) The Supreme Court or, as the case may be, the High Court, while considering any application under sub-section (4) or sub-section (5) or sub-section (6), shall, notwithstanding any judgment, decree or order of any court, confine to the examination of the existence of an arbitration agreement.” (emphasis supplied) From a reading of Section 11(6-A), the intention of the legislature is crystal clear i.e. the court should and need only look into one aspect—the existence of an arbitration agreement. What are the factors for deciding as to whether there is an arbitration agreement is the next question. The resolution to that is simple—it needs to be seen if 14 (2017) 9 SCC 729.
+
+ the agreement contains a clause which provides for arbitration pertaining to the disputes which have arisen between the parties to the agreement. …
+
+59. The scope of the power under Section 11(6) of the 1996 Act was considerably wide in view of the decisions in SBP and Co. [SBP and Co. v. Patel Engg. Ltd., (2005) 8 SCC 618] and Boghara Polyfab [National Insurance Co. Ltd. v. Boghara Polyfab (P) Ltd., (2009) 1 SCC 267 : (2009) 1 SCC (Civ) 117] . This position continued till the amendment brought about in 2015. After the amendment, all that the courts need to see is whether an arbitration agreement exists—nothing more, nothing less. The legislative policy and purpose is essentially to minimise the Court's intervention at the stage of appointing the arbitrator and this intention as incorporated in Section 11(6-A) ought to be respected.”
+
+25. In Mayavati Trading Company Private Ltd. v. Pradyut Dev Burman15, a three-judge bench held that the scope of power of the Court under Section 11 (6A) had to be construed in the narrow sense. In paragraph 10, it was opined as under :
+
+“10. This being the position, it is clear that the law prior to the 2015 Amendment that has been laid down by this Court, which would have included going into whether accord and satisfaction has taken place, has now been legislatively overruled. This being the position, it is difficult to agree with the reasoning contained in the aforesaid judgment [United India Insurance Co. Ltd. v. Antique Art Exports (P) Ltd., (2019) 5 SCC 362 :
+(2019) 2 SCC (Civ) 785] , as Section 11(6-A) is confined to the examination of the existence of an arbitration agreement and is to be understood in the narrow sense as has been laid down in the judgment in Duro Felguera, SA [Duro Felguera, SA v. Gangavaram Port Ltd., (2017) 9 SCC 729”
+
+26. In Uttarakhand Purv Sainik Kalyan Nigam v. Northern Coal Field Limited,16 this Court took note of the recommendations of the Law Commission in its 246th Report, the relevant extract of which reads as :
+
+“7.6. The Law Commission in the 246th Report [ Amendments to the Arbitration and Conciliation Act, 1996, Report No. 246, Law Commission of India (August 2014), p. 20.] recommended that:
+“33. … the Commission has recommended amendments to Sections 8 and 11 of the Arbitration and Conciliation Act, 1996. The scope of the judicial intervention is only restricted to situations where the court/judicial authority finds that the arbitration agreement does not exist or is null and void. Insofar as the nature of intervention is concerned, it is recommended that in the event the court/judicial authority is prima facie satisfied against the argument challenging the arbitration agreement, it shall appoint the arbitrator and/or refer the parties to arbitration, as the case may be. The amendment envisages that the judicial authority shall not refer the parties to arbitration only if it finds that there does not exist an arbitration agreement or that it is null and void. If the judicial authority is of the opinion that prima facie the arbitration agreement exists, then it shall refer the dispute to arbitration, and leave the existence of the arbitration agreement to be finally determined by the Arbitral Tribunal.” 15 (2019) 8 SCC 714.
+16 (2020) 2 SCC 455.
+
+ In view of the legislative mandate contained in the amended Section 11(6A), the Court is now required only to examine the existence of the arbitration agreement. All other preliminary or threshold issues are left to be decided by the arbitrator under Section 16, which enshrines the kompetenz- komptenz principle. The doctrine of kompetenz-komptenz implies that the arbitral tribunal is empowered, and has the competence to rule on its own jurisdiction, including determination of all jurisdictional issues. This was intended to minimise judicial intervention at the pre-reference stage, so that the arbitral process is not thwarted at the threshold when a preliminary objection is raised by the parties.
+
+27.The 2019 Amendment to Section 11 Section 11 has been further amended by the Arbitration and Conciliation (Amendment) Act, 2019 to promote institutionalization of arbitration in India. The 2019 Amendment Act has deleted sub-section (6A) in Section 11. However, the amended to Section 11 is yet to be notified. Consequently, sub-section (6A) continues to remain on the statute book, and governs the scope of power under Section 11 for the present.
+
+The notification giving effect to the provisions of the 2019 Amendment Act which have been brought into force, reads as :
+
+      “                            MINISTRY OF LAW AND JUSTICE
+                                    (Department of Legal Affairs)
+                                            NOTIFICATION
+                                   New Delhi, the 30th August, 2019
+
+
+S.O. 3154(E). — In the exercise of the powers conferred by sub-section (2) of section 1 of the Arbitration and Conciliation (Amendment) Act, 2019 (33 of 2019), the Central Government hereby appoints the 30th August, 2019 as the date on which the provisions of the following sections of the said Act shall come into force:— (1) section 1;
+
+(2) section 4 to section 9 [both inclusive];
+
+(3) section 11 to section 13 [both inclusive];
+
+(4) section 15.
+
+[F.No. H-11018/2/2017-Admn.-III(LA)] Dr. RAJIV MANI, Jt. Secy. and Legal Adviser ”
+
+28. The reference to “Section 11” in clause (3) of the Notification dated 30.08.2019 pertains to Section 11 of the Amendment Act [and not the principal Act of 1996]. The amendment to Section 11 in the 2019 Amendment Act finds place in Section 3 of the 2019 Amendment Act, which reads as :
+
+“ 3. Amendment of section 11. – In section 11 of the principal Act, -
+(i) ….
+(ii) ….
+(iii) ….
+(iv) ….
+(v) sub-sections (6A) and (7) shall be omitted ”
+29. After the amendment by the 2019 Amendment to Section 11 is notified, it will result in the deletion of sub-section (6A), and the default power will be exercised by arbitral institutions designated by the Supreme Court, or the High Court, as the case may be.
+
+It is relevant to note that sub-section (6B) in Section 11, has not been amended by the 2019 Amendment Act. Sub-section (6B) provides that the designation of any person, or institution by the Court, shall not be regarded as a delegation of “judicial power”. Consequently, it would not be open for the person or institution designated by the Court to exercise any judicial power, and adjudicate on any issue, including the issue of validity of the agreement, or the arbitrability of disputes.
+
+The amendment to sub-section (8) of Section 11 by the 2019 Amendment [which is also yet to be notified], provides that the arbitral institution will be empowered to : (a) seek a disclosure in writing from the prospective arbitrator in terms of sub-section (1) of Section 12, to secure the appointment of an independent and impartial arbitrator; and (b) ensure that the arbitrator has the qualifications required by the arbitration agreement.
+
+30.Issue of Limitation  Limitation is normally a mixed question of fact and law, and would lie within the domain of the arbitral tribunal. There is, however, a distinction between jurisdictional and admissibility issues. An issue of ‘jurisdiction’ pertains to the power and authority of the arbitrators to hear and decide a case. Jurisdictional issues include objections to the competence of the arbitrator or tribunal to hear a dispute, such as lack of consent, or a dispute falling outside the scope of the arbitration agreement. Issues with respect to the existence, scope and validity of the arbitration agreement are invariably regarded as jurisdictional issues, since these issues pertain to the jurisdiction of the tribunal.
+
+31. Admissibility issues however relate to procedural requirements, such as a breach of pre-arbitration requirements, for instance, a mandatory requirement for mediation before the commencement of arbitration, or a challenge to a claim or a part of the claim being either time-barred, or prohibited, until some pre-condition has been fulfilled. Admissibility relates to the nature of the claim or the circumstances connected therewith. An admissibility issue is not a challenge to the jurisdiction of the arbitrator to decide the claim.
+
+32. The issue of limitation, in essence, goes to the maintainability or admissibility of the claim, which is to be decided by the arbitral tribunal. For instance, a challenge that a claim is time-barred, or prohibited until some pre- condition is fulfilled, is a challenge to the admissibility of that claim, and not a challenge to the jurisdiction of the arbitrator to decide the claim itself.
+
+33. In Swisbourgh Diamond Mines (Pty) Ltd. & Ors. v. Kingdom of Lesotho17, the Singapore Court of Appeal distinguished between “jurisdiction” and “admissibility” in paragraphs 207 and 208, which read as :
+
+“207. Jurisdiction is commonly defined to refer to the “power of the tribunal to hear a case”, whereas admissibility refers to “whether it is appropriate for the tribunal to hear it” :
+Waste Management, Inc. v. United Mexican States ICSID Case No. ARB (AF) / 98 / 2, Dissenting Opinion of Keith Highet ( 8 May 2000) at [58]. To this, Zachary Douglas adds 17 [2019] 1 SLR 263.
+
+ clarity to this discussion by referring to “jurisdiction” as a concept that deals with “the existence of [the] adjudicative power” of an arbitral tribunal, and to “admissibility” as a concept dealing with “the exercise of that power” and the suitability of the claim brought pursuant to that power for adjudication:[Zachary Douglas, The Press, 2009] at paras 291 and 310.
+
+208. The conceptual distinction between jurisdiction and admissibility is not merely an exercise in linguistic hygiene pursuant to a pedantic hair-spitting endeavour. This distinction has significant practical import in investment treaty arbitration because a decision of the tribunal in respect of jurisdiction is reviewable by the supervisory courts at the seat of the arbitration (for non-ICSID arbitrations) or before an ICSID ad hoc committee pursuant to Art 52 of the ICSID Convention (for ICSID arbitrations,) whereas a decision of the tribunal on admissibility is not reviewable : see Jan Paulsson, “Jurisdiction and Admissibility” in Global Reflections on International Law, Commerce and Dispute Resolution, Liber Amicorum in honour of Robert Briner (Gerald Aksen et al, eds) (ICC Publishing, 2005) at p 601, Douglas at para 307, Waibel at p 1277, paras 257 and 257 and 258, Hanno Wehland, “Jurisdiction and Admissibility in Proceedings under the ICSID Convention and the ICSID Additional Facility Rules” in ICSID Convention after 50 Tears :
+
+Unsettled Issues (Crina Baltag, ed) (Kluwer Law International, 2016) at pp 233-234, and Chin Leng at p 124.”
+34. The judgment in Lesotho (supra) was followed by in BBA & Ors. v. BAZ & Anr.,18 wherein the Court of Appeal held that statutory time bars go towards admissibility. The Court held that the “tribunal versus claim” test should be applied for purposes of distinguishing whether an issue goes towards jurisdiction or admissibility. The “tribunal versus claim” test asks whether the objection is targeted at the tribunal (in the sense that the claim should not be arbitrated due to a defect in or omission to consent to arbitration), or at the claim (in that the claim itself is defective and should not be raised at all).
+
+Applying the “tribunal versus claim” test, a plea of statutory time bar goes towards admissibility as it attacks the claim. It makes no difference whether the applicable statute of limitations is classified as substantive (extinguishing the claim) or procedural (barring the remedy) in the private international law sense.
+
+35. The issue of limitation which concerns the “admissibility” of the claim, must be decided by the arbitral tribunal either as a preliminary issue, or at the final stage after evidence is led by the parties.
+
+18 [2020] SGCA 53.
+
+36. In a recent judgment delivered by a three-judge bench in Vidya Drolia v.
+
+Durga Trading Corporation19, on the scope of power under Sections 8 and 11, it has been held that the Court must undertake a primary first review to weed out “manifestly ex facie non-existent and invalid arbitration agreements, or non-arbitrable disputes.” The prima facie review at the reference stage is to cut the deadwood, where dismissal is bare faced and pellucid, and when on the facts and law, the litigation must stop at the first stage. Only when the Court is certain that no valid arbitration agreement exists, or that the subject matter is not arbitrable, that reference may be refused. In paragraph 144, the Court observed that the judgment in Mayavati Trading had rightly held that the judgment in Patel Engineering had been legislatively overruled.
+
+Paragraph 144 reads as :
+
+“144. As observed earlier, Patel Engg. Ltd. explains and holds that Sections 8 and 11 are complementary in nature as both relate to reference to arbitration. Section 8 applies when judicial proceeding is pending and an application is filed for stay of judicial proceeding and for reference to arbitration. Amendments to Section 8 vide Act 3 of 2016 have not been omitted. Section 11 covers the situation where the parties approach a court for appointment of an arbitrator. Mayavati Trading (P) Ltd., in our humble opinion, rightly holds that Patel Engg. Ltd. has been legislatively overruled and hence would not apply even post omission of sub-section (6-A) to Section 11 of the Arbitration Act. Mayavati Trading (P) Ltd. has elaborated upon the object and purposes and history of the amendment to Section 11, with reference to sub-section (6-A) to elucidate that the section, as originally enacted, was facsimile with Article 11 of the Uncitral Model of law of arbitration on which the Arbitration Act was drafted and enacted.” (emphasis supplied) While exercising jurisdiction under Section 11 as the judicial forum, the court may exercise the prima facie test to screen and knockdown ex facie meritless, frivolous, and dishonest litigation. Limited jurisdiction of the Courts would ensure expeditious and efficient disposal at the referral stage. At the referral stage, the Court can interfere “only” when it is “manifest” that the claims are ex facie time barred and dead, or there is no subsisting dispute. Paragraph 148 of the judgment reads as follows :
+19 (2021) 2 SCC 1.
+
+ “148. Section 43(1) of the Arbitration Act states that the Limitation Act, 1963 shall apply to arbitrations as it applies to court proceedings. Sub-section (2) states that for the purposes of the Arbitration Act and Limitation Act, arbitration shall be deemed to have commenced on the date referred to in Section 21. Limitation law is procedural and normally disputes, being factual, would be for the arbitrator to decide guided by the facts found and the law applicable. The court at the referral stage can interfere only when it is manifest that the claims are ex facie time-barred and dead, or there is no subsisting dispute. All other cases should be referred to the Arbitral Tribunal for decision on merits. Similar would be the position in case of disputed “no-claim certificate” or defence on the plea of novation and “accord and satisfaction”. As observed in Premium Nafta Products Ltd. [Fili Shipping Co. Ltd. v. Premium Nafta Products Ltd., 2007 UKHL 40 : 2007 Bus LR 1719 (HL)] , it is not to be expected that commercial men while entering transactions inter se would knowingly create a system which would require that the court should first decide whether the contract should be rectified or avoided or rescinded, as the case may be, and then if the contract is held to be valid, it would require the arbitrator to resolve the issues that have arisen.” In paragraph 154.4, it has been concluded that :
+
+“154.4. Rarely as a demurrer the court may interfere at Section 8 or 11 stage when it is manifestly and ex facie certain that the arbitration agreement is non-existent, invalid or the disputes are non-arbitrable, though the nature and facet of non-arbitrability would, to some extent, determine the level and nature of judicial scrutiny. The restricted and limited review is to check and protect parties from being forced to arbitrate when the matter is demonstrably “non-arbitrable” and to cut off the deadwood. The court by default would refer the matter when contentions relating to non-arbitrability are plainly arguable; when consideration in summary proceedings would be insufficient and inconclusive; when facts are contested; when the party opposing arbitration adopts delaying tactics or impairs conduct of arbitration proceedings. This is not the stage for the court to enter into a mini trial or elaborate review so as to usurp the jurisdiction of the Arbitral Tribunal but to affirm and uphold integrity and efficacy of arbitration as an alternative dispute resolution mechanism.” (emphasis supplied) In paragraph 244.4 it was concluded that :
+“244.4. The court should refer a matter if the validity of the arbitration agreement cannot be determined on a prima facie basis, as laid down above i.e. “when in doubt, do refer”.
+
+37. The upshot of the judgment in Vidya Drolia is affirmation of the position of law expounded in Duro Felguera and Mayavati Trading, which continue to hold the field. It must be understood clearly that Vidya Drolia has not re- surrected the pre-amendment position on the scope of power as held in SBP & Co. v. Patel Engineering (supra).
+
+It is only in the very limited category of cases, where there is not even a vestige of doubt that the claim is ex facie time-barred, or that the dispute is non-arbitrable, that the court may decline to make the reference. However, if  there is even the slightest doubt, the rule is to refer the disputes to arbitration, otherwise it would encroach upon what is essentially a matter to be determined by the tribunal.
+
+38. Applying the law to the facts of the present case, it is clear that this is a case where the claims are ex facie time barred by over 5 ½ years, since Nortel did not take any action whatsoever after the rejection of its claim by BSNL on 04.08.2014. The notice of arbitration was invoked on 29.04.2020. There is not even an averment either in the notice of arbitration, or the petition filed under Section 11, or before this Court, of any intervening facts which may have occurred, which would extend the period of limitation falling within Sections 5 to 20 of the Limitation Act. Unless, there is a pleaded case specifically adverting to the applicable Section, and how it extends the limitation from the date on which the cause of action originally arose, there can be no basis to save the time of limitation.
+
+39. The present case is a case of deadwood / no subsisting dispute since the cause of action arose on 04.08.2014, when the claims made by Nortel were rejected by BSNL. The Respondent has not stated any event which would extend the period of limitation, which commenced as per Article 55 of the Schedule of the Limitation Act (which provides the limitation for cases pertaining to breach of contract) immediately after the rejection of the Final Bill by making deductions.
+
+In the notice invoking arbitration dated 29.04.2020, it has been averred that:
+
+“ Various communications have been exchanged between the Petitioner and the Respondents ever since and a dispute has arisen between the Petitioner and the Respondents, regarding non payment of the amounts due under the Tender Document.”  The period of limitation for issuing notice of arbitration would not get extended by mere exchange of letters, 20 or mere settlement discussions, where a final bill is rejected by making deductions or otherwise. Sections 5 to 20 of the Limitation Act do not exclude the time taken on account of settlement discussions. Section 9 of the Limitation Act makes it clear that : “where once the time has begun to run, no subsequent disability or inability to institute a suit or make an application stops it.” There must be a clear notice invoking arbitration setting out the “particular dispute” 21 (including claims / amounts) which must be received by the other party within a period of 3 years from the rejection of a final bill, failing which, the time bar would prevail.
+
+In the present case, the notice invoking arbitration was issued 5 ½ years after rejection of the claims on 04.08.2014. Consequently, the notice invoking arbitration is ex facie time barred, and the disputes between the parties cannot be referred to arbitration in the facts of this case.
+
+40.Conclusion Accordingly, we hold that :
+
+(i) The period of limitation for filing an application under Section 11 would be governed by Article 137 of the First Schedule of the Limitation Act, 1963. The period of limitation will begin to run from the date when there is failure to appoint the arbitrator;
+
+It has been suggested that the Parliament may consider amending Section 11 of the 1996 Act to provide a period of limitation for filing an 20 S.S.Rathore v. State of Madhya Pradesh (1989) 4 SCC 582. Union of India & Ors. v. Har Dayal (2010) 1 SCC 394.
+
+CLP India Private Limited v. Gujarat Urja Vikas Nigam Limited & Anr. (2020) 5 SCC 185. 21 Section 21 of the Arbitration and Conciliation Act, 1996.  application under this provision, which is in consonance with the object of expeditious disposal of arbitration proceedings;
+
+(ii) In rare and exceptional cases, where the claims are ex facie time-
+
+barred, and it is manifest that there is no subsisting dispute, the Court may refuse to make the reference.
+
+41. In view of the aforesaid, the present Civil Appeals are allowed, and the impugned orders dated 13.10.2020 and 14.01.2021 passed by the High Court are set aside. The application filed under Section 11 by the Respondent before the High Court is consequently dismissed.
+
+We record our appreciation and gratitude to Mr. Arvind Datar, Senior Advocate, for having rendered his valuable assistance as Amicus at short notice.
+
+................................................J. (Indu Malhotra) .............................................J. New Delhi; (Ajay Rastogi) March 10, 2021

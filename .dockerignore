@@ -1,0 +1,12 @@
+.git
+.DS_Store
+**/.DS_Store
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.mypy_cache
+frontend/node_modules
+frontend/build
+backend/__pycache__
+backend/test_api_out.txt
+.env

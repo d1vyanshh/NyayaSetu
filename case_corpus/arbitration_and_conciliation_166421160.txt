@@ -1,0 +1,275 @@
+[Cites 32, Cited by 134]
+Supreme Court of India
+Mp Rural Road Dev. Authority And Anr vs M/S. L.G. Chaudhary Engineers And Cont on 24 January, 2012
+Equivalent citations: AIR 2012 SUPREME COURT 1228, 2012 AIR SCW 1344, 2012 (1) SCALE 688, AIR 2012 SC (CIVIL) 834, (2012) 1 SCALE 688, (2012) 1 MPHT 338, (2012) 2 ARBI L.R. 65, (2012) 1 CURCC 138
+Bench: Gyan Sudha Misra, Asok Kumar Ganguly
+                                                                 REPORTABLE
+
+
+
+               IN THE SUPREME COURT OF INDIA
+
+                CIVIL APPELLATE JURISDICTION
+
+
+
+
+
+                CIVIL APPEAL NO. 974 OF 2012
+
+            (Arising out of SLP(C) No.907/2011)
+
+
+
+
+
+M.P.Rural Road Development Authority & Anr. ...Appellant(s)
+
+
+
+
+
+                           - Versus -
+
+
+
+
+
+M/s. L.G. Chaudhary Engineers & Cont.              ...Respondent(s)
+
+
+
+
+
+                        J U D G M E N T
+
+
+GANGULY, J.
+
+1. Leave granted.
+
+2. The question which falls for consideration in this appeal is whether the provision of Madhya Pradesh Madhyasthan Adhikaran Adhiniyam, 1983 (hereinafter, `M.P. Act') which statutorily provides for the parties to the Works Contract to refer all disputes  to the Arbitration Tribunal constituted under Section 7 of the Act will continue to operate in view of the provisions of Arbitration and Conciliation Act, 1996 (hereinafter `A.C. Act 1996') which is a Central Act, subsequently enacted.
+
+3. The facts leading to the aforesaid controversy be noted first.
+
+4. The appellant-Madhya Pradesh Rural Road Development Authority and Anr., impugning the judgment of the High Court dated 8.9.2010 in this appeal, entered into a `Works Contract' with the respondent for construction and maintenance of Rural Road Package No.1958, District Jhabua.
+
+5. Clause 24 of the Contract contains the `Dispute Redress Mechanism' and Clause 24.1 of the same provides as under:
+
+"24.1 If any dispute or difference of any kind what-so-ever shall arise in connection with or arising out of this Contract or the execution of work of maintenance of the Works thereunder, whether before its commencement or during the progress of Works or after the termination, abandonment or breach of the Contract, it shall, in the first instance, be referred for settlement to competent authority, described along with their powers in the Contract Data, above the rank of the Engineer. The competent authority shall, within a period of forty five days after being requested in writing by the Contractor to do so, convey his decision to the Contractor. Such decision in respect of every matter so referred shall, subject to review as hereinafter provided, be final and binding upon the Contract. In case the Works is already in progress, the Contractor shall proceed with the execution of the Works, including maintenance thereof, pending receipt of the decision of the competent authority as aforesaid, with all due diligence."
+
+6. Under the `M.P. Act' "dispute" has statutorily been defined under Section 2(d):
+
+"2(d) "dispute" means claim of ascertained money valued at Rupees 50,000 or more relating to any difference arising out of the execution or non-execution of a works contract or part thereof"
+
+7. "Works Contract" has also been defined under Section 2(i) of the M.P. Act:
+
+"2(i) works contract" means an agreement in writing for the execution of any work relating to construction, repair or maintenance of any building or superstructure, dam, weir, canal, reservoir, tank, lake, road, well, bridge, culvert, factory, workshop, powerhouse, transformers or such other works of the State Government or Public Undertaking as the State Government may, by notification, specify in this behalf at any of its stages, entered into by the State Government or by an official of the State Government or Public Undertaking or its official for and on behalf of such Public Undertaking and includes an agreement for the supply of goods or material and all other matters relating to the execution of any of the said works"
+
+8. "Reference to Tribunal" is statutorily provided under Section 7 of the M.P. Act:
+
+"7. Reference to Tribunal - (1) either party to a works contract shall irrespective of the fact whether the agreement contains an arbitration clause or not, refer in writing the dispute to the Tribunal.
+(2) Such reference shall be drawn up in such form as may be prescribed and shall be supported by an affidavit verifying the averments.
+(3) The reference shall be accompanied by such fee as may be prescribed.
+(4) Every reference shall be accompanied by such documents or other evidence and by such other fees for service or execution of processes as may be prescribed.
+(5) On receipt of the reference under sub-section (1), if the Tribunal is satisfied that the reference is a fit case for adjudication, it may admit the reference but where the Tribunal is not so satisfied it may summarily reject the reference after recording reasons therefor."
+
+9. From a perusal of Section 7, it is clear that the nature of the dispute between the parties in the instant case is covered by the definition under Section 2(d) read with Section 2(1). As such under Section 7 such a dispute has to be statutorily referred to Tribunal set up under the M.P. Act.
+
+10. The case of the appellant is that in view of several breaches in Works Contract by the respondent, the appellant terminated the Works Contract and encashed the bank guarantee furnished by the respondent on 25.6.2008.
+
+11. Thereafter, on 29.8.2008, the respondent submitted a representation to the appellant against the encashment of bank guarantee. Prior to that on 5.8.2008, respondent filed a Writ Petition No. 4491/2008 challenging the encashment of bank guarantee and the writ petition was disposed of with a direction that the bank guarantee may not be encashed till the disposal of the representation.
+
+Thereafter, on 4.6.2009 the representation of the respondent was rejected after giving the appellant a personal hearing.
+
+12. In the pending dispute, the respondent submitted additional claim on 24.2.2010 and requested the appellant to appoint an Arbitrator for adjudicating the dispute between the parties. On 24.4.2010, the appellant replied that Clause 25 of the Works Contract specifically provides for adjudication of disputes by the Arbitral Tribunal under the M.P. Act.
+
+13. Then on 24.6.2010 respondent filed an application under Section 11 of A.C. Act 1996 for appointment of an Arbitrator before the High Court. On 8.9.2010, High Court allowed the application of the respondent and appointed an Arbitrator by placing reliance on a decision of this Court in Va Tech Escher Wyass Flovel Ltd. Vs. MPSE Board & another - Civil Appeal No. 3746 and 3747 of 2005.
+
+14. In the case of Va Tech (supra), this Court after referring to both the M.P. Act and the A.C. Act 1996, held that the M.P. Act applies only where there is no arbitration clause and this Court further held that the M.P. Act stands impliedly repealed by the A.C. Act 1996 where there is an arbitration clause.
+
+15. Facts in connection with the Va Tech (supra) were that Va Tech was awarded a works contract by the M.P. State Electricity Board and there was an arbitration clause in the agreement.
+
+16. Va Tech filed an application under Section 9 of the A.C. Act 1996 which was rejected by the learned Additional District Judge and that order was also upheld by the High Court.
+
+17. Then Va Tech filed a special leave petition before this Court. This Court noting the provision of Section 7 of the M.P. Act came to the aforesaid finding and ultimately held that the judgment of the High Court in Va Tech cannot be sustained and opined that application under Section 9 of A.C. Act 1996 is maintainable. The exact reasoning recorded by this Court in Va Tech is as follows:
+
+"In our opinion, the 1983 Act and the 1996 Act can be harmonised by holding that the 1983 Act only applies where there is no arbitration clause but it stands impliedly repealed by the 1996 Act where there is an arbitration clause. We hold accordingly. Hence, the impugned judgment cannot be sustained and we hold that the application under Section 9 of the 1996 Act was maintainable."
+
+18. Mr. K.K. Venugopal, learned senior counsel appearing for the appellant submitted that the Division Bench of this Court, while coming to the aforesaid finding, has not noticed the relevant provision of the M.P. Act as well as the relevant provisions of A.C. Act 1996 and as such the same judgment was rendered `per incuriam'.
+
+19. Learned senior counsel further submitted that another Division Bench of this Court in a case in which the Presiding Judge was common with the Bench which rendered the Va Tech (supra) ruling almost in a situation identical with Va Tech issued notice and stayed the arbitration proceedings.
+
+20. In another case a Division Bench of this Court presided over by the same learned Judge who gave the Va Tech ruling passed the following order:
+
+"This petition has been filed against the judgment and order dated 11th March, 2011  passed by the High Court of Madhya Pradesh at Gwalior Bench in Arbitration Case No.4 of 2010.
+Learned counsel for the petitioner has relied on a decision of this Court in Civil Appeal No. 3746 of 2005 decided on 14th January, 2010.
+We are of the opinion that the aforesaid decision is distinguishable because in the present case the arbitration clause itself mentions that the arbitration will be by the Madhya Pradesh Arbitration Tribunal. Hence, in this case arbitration has to be done by the Tribunal.
+The Special leave petition is dismissed."
+
+21. Relying on these two subsequent orders in the instant case and in Ravikant Bansal vs. M.P. Rural Road Development Authority and Anr. - SLP(C) No.18867 of 2011, Mr. Venugopal, the learned senior counsel submitted that subsequent Division Bench presided over by the same learned Judge who gave the Va Tech ruling has not followed the ratio in the case of Va Tech.
+
+22. The learned counsel said so to justify his contention that the decision in Va Tech (supra) was rendered per incuriam.
+
+23. If this Court looks at Section 2(4) of A.C. Act 1996, it will appear that Part-I of A.C. Act 1996, which is from Section 2 to Section 43, shall, except sub-section 1 of Sections 40, 41 and 43, apply to every arbitration under any other enactment for the time being in force where the arbitration was pursuant to an arbitration agreement except insofar as the provisions of this Part i.e. Part-I are inconsistent with the other enactment or with any other rule made thereunder.
+
+24. Similar provision relating to statutory arbitration was also there in Section 46 of Arbitration Act, 1940. Section 46 is set out below:
+
+"46. Application of Act to statutory arbitration - The provisions of this Act, except sub-section (1) of Sec. 6 and Secs. 7, 12, 36 and 37, shall apply to every  arbitration under any other enactment for the time being in force, as if the arbitration were pursuant to an arbitration agreement and as if that other enactment were an arbitration agreement, except in so far as this Act is inconsistent with that other enactment or with any rules made thereunder.
+
+25. If this Court compares the provisions of the M.P. Act with A.C. Act 1996 then the Court finds that the provisions of M.P. Act are inconsistent with the provisions of A.C. Act 1996. The M.P. Act is a special law providing for statutory arbitration in the State of Madhya Pradesh even in the absence of arbitration agreement. Under the provisions of A.C. Act 1996 in the absence of an arbitration agreement, arbitration is not possible. There is also difference in the formation of arbitration tribunal as is clear from Section 2(1)(d) of A.C. Act 1996. Again under A.C. Act 1996, arbitral tribunal is defined under Section 2(1)(d) as a sole arbitrator or a panel of arbitrators. But under M.P. Act such a tribunal is created under Sections 3 and 4 of the Act. And under the M.P. Act dispute has a special meaning as defined under Section 2(1)(d) of  the Act whereas dispute has not been defined under the A.C. Act 1996.
+
+26. It is clear from its long title that the M.P. Act provides for the establishment of a tribunal to arbitrate in disputes to which the State Government or a public undertaking [wholly or substantially owned or controlled by the State Government], is a party, and for matters incidental thereto or connected therewith. The structure of the tribunal under the M.P. Act is also different from the structure of a tribunal under the A.C. Act 1996. It is clear from Section 4 of the M.P. Act that the composition of tribunal and their qualification is statutorily provided which is set out below:
+
+"4. Chairman and Members of Tribunal and their qualifications.-(1) Subject to sub- section (2) and (3), the State Government may appoint a chairman and as many members to the Tribunal as it may consider necessary.
+(1-a) The State Government may, in consultation with the Chairman, designate one of the Judicial Members as the Vice-Chairman who in the event of occurrence of any vacancy in the office of the Chairman  by reason of his death, resignation, leave or otherwise, shall during such vacancy, discharge the functions of the Chairman.
+(2) No person shall be appointed as Chairman of the Tribunal, unless he is or has been a Judge of a High Court.
+(3) No person shall be qualified for appointment as a member of the Tribunal, unless-
+(i) he is or has been a District Judge of not less than seven years standing: or
+(ii) he is or has been a Revenue Commissioner or has held a post equivalent to the rank of Revenue Commissioner for a total period of not less than five years, or
+(iii)he is or has been:-
+(a) Chief Engineer in the service of the State Government in Public Works, Irrigation or Public Health Engineering Department; or
+(b) a Chief Engineer in the service of the Madhya Pradesh Electricity Board; or
+(c) a Senior Deputy Accountant General of the Office of the Accountant General, Madhya Pradesh, for a period of not less than five years.
+
+Provided that in the case of clause
+
+(iii), in exceptional circumstances, the State Government may, relax the prescribed minimum period of five years to three years."
+
+27. The term of office and salaries and allowances are also statutorily provided under Sections 5 and 6 of the M.P. Act. Section 8 provides for the procedure to be followed by the tribunal on receipt of reference and Section 9 provides for the Constitution of Benches and Chairman's power of distribution of business. Under Section 16(2) of the M.P. Act there is a time limit for giving the Award which is absent in A.C. Act 1996. Section 17-A of the M.P. Act confers inherent power on the Arbitral tribunal to make orders as may be necessary for the ends of justice or to prevent abuse of the process of the tribunal. Section 17-B also provides for power conferred on the tribunal for correction of clerical or arithmetical mistakes. No such power is given to an arbitral tribunal under A.C. Act 1996.
+
+Section 19 of the M.P. Act gives High Court the suo motu power of revision. The High Court has also been given the power of revision to be exercised on an application made by an aggrieved party within three months of the award. While doing so, the High Court  is to act like a revisional court under Section 115 of the CPC.
+
+28. It is clear from the aforesaid enumeration of the statutory provision that under the M.P. Act the parties' autonomy in the choice of arbitral tribunal is not there.
+
+29. In State of Madhya Pradesh and another vs. Anshuman Shukla - (2008) 7 SCC 487, this Court while referring to the M.P. Act and dealing with the nature of the arbitral tribunal constituted under the said Act held that the said Act is a special Act and provides for compulsory arbitration. It provides for a reference and the tribunal has been given the power of rejecting the reference at the threshold.
+
+It also held that the M.P. Act provides for a special limitation and fixes a time limit for passing an award. It has also been held that Section 14 of the M.P. Act provides that the award can be challenged under special circumstances and Section  17 provides for finality of the award, notwithstanding anything to the contrary contained in any other law relating to arbitration. All these features of the Act were pointed by this Court in Anshuman Shukla (supra) to show that there is inconsistency between the provisions of A.C. Act 1996 and those of the M.P. Act. In para 28 of the judgment, this Court while referring to the provisions of M.P. Act held:
+
+"The provisions of the Act referred to hereinbefore clearly postulate that the State of Madhya Pradesh has created a separate forum for the purpose of determination of disputes arising inter alia out of the works contract. The Tribunal is not one which can be said to be a domestic tribunal. The Members of the Tribunal are not nominated by the parties. The disputants do not have any control over their appointment. The Tribunal may reject a reference at the threshold. It has the power to summon records. It has the power to record evidence. Its functions are not limited to one Bench. The Chairman of the Tribunal can refer the disputes to another Bench. Its decision is final. It can award costs. It can award interests. The finality of the decision is fortified by a legal fiction created by making an award a decree of a civil court. It is executable as a decree of a civil court. The award of the Arbitral Tribunal is not subject to the provisions of the Arbitration Act, 1940 and the Arbitration and Conciliation Act, 1996.  The provisions of the said Acts have no application."
+
+(para 28, page 497 of the report)
+
+30. It is clear, therefore, that in view of the aforesaid finding of a co-ordinate Bench of this Court on the distinct feature of an arbitral tribunal under the said M.P. Act the provisions of M.P. Act are saved under Section 2(4) of A.C. Act 1996. This Court while rendering the decision in Va Tech (supra) has not either noticed the previous decision of a co-ordinate Bench of this Court in Anshuman Shukla (supra) or the provisions of Section 2(4) of A.C. Act 1996. Therefore, we are constrained to hold that the decision of this Court in Va Tech (supra) was rendered per incuriam.
+
+31. This was the only point argued before us by the learned counsel for the appellant.
+
+32. The principle of per incuriam has been very succinctly formulated by the Court of Appeal in  Young vs. Bristol Aeroplane Company, Limited reported in 1944 (1) K.B. 718.
+
+33. Lord Greene, Master of Rolls formulated the principles on the basis of which a decision can be said to have been rendered `per incuriam'. The principles are:
+
+"Where the court has construed a statute or a rule having the force of a statute its decision stands on the same footing as any other decision on a question of law, but where the court is satisfied that an earlier decision was given in ignorance of the terms of a statute or a rule having the force of a statute the position is very different. It cannot, in our opinion, be right to say that in such a case the court is entitled to disregard the statutory provision and is bound to follow a decision of its own given when that provision was not present to its mind. Cases of this description are examples of decisions given per incuriam."
+
+(Page 729)
+
+34. The decision in Young (supra) was subsequently approved by the House of Lords in Young vs. Bristol Aeroplane Company, Limited reported in 1946 Appeal Cases 163 at page 169 of the report.
+
+35. Lord Viscount Simon in the House of Lords expressed His Lordship's agreement with the views expressed by the Lord Greene, the Master of Rolls in the Court of Appeal on the principle of per incuriam (see the speech of Lord Viscount Simon at page 169 of the report).
+
+36. Those principles have been followed by the Constitution Bench of this Court in The Bengal Immunity Company Limited vs. The State of Bihar and others reported in 1955 (2) SCR 603 [See the discussion in pages 622 and 623 of the report].
+
+37. The same principle has been reiterated by Lord Evershed, Master of Rolls, in Morelle Ld. vs. Wakeling & another [(1955) 2 QB 379 at page 406].
+
+The principle has been stated as followed:
+
+"...As a general rule the only cases in which decisions should be held to have been given per incuriam are those of decisions given in ignorance or forgetfulness of some  inconsistent statutory provision or of some authority binding on the court concerned; so that in such cases some part of the decision or some step in the reasoning on which it is based is found, on that account, to be demonstrably wrong......."
+
+(page 406)
+
+38. In the case of State of U.P. and another vs. Synthetics and Chemicals Ltd. and another reported in (1991) 4 SCC 139, this Court held the doctrine of `per incuriam' in practice means `per ignoratium' and noted that English Courts have developed this principle in relaxation of the rule of stare decisis and referred to the decision in the case of Bristol Aeroplane Co. Ltd. (supra). The learned Judges also made it clear that the same principle has been approved and adopted by this Court while interpreting Article 141 of the Constitution (see para 41).
+
+39. In the case of Municipal Corporation of Delhi vs. Gurnam Kaur reported in (1989) 1 SCC 101, a three-
+
+Judge Bench of this Court explained this principle  of per incuriam very elaborately in paragraph 11 at page 110 of the report and in explaining the principle of per incuriam the learned Judges held:
+
+"......A decision should be treated as given per incuriam when it is given in ignorance of the terms of a statute or of a rule having the force of a statute......."
+
+40. In paragraph 12 the learned Judges observed as follows:
+
+"......One of the chief reasons for the doctrine of precedent is that a matter that has once been fully argued and decided should not be allowed to be reopened. The weight accorded to dicta varies with the type of dictum. Mere casual expressions carry no weight at all. Not every passing expression of a judge, however eminent, can be treated as an ex cathedra statement, having the weight of authority."
+
+41. Following the aforesaid principles, this Court is constrained to hold that the decision in Va Tech (supra), having been rendered in per incuriam, cannot be accepted as a precedent to decide the controversy in this case.
+
+42. In reply the learned counsel for the respondent only submitted that the M.P. Act is repugnant to A.C. Act 1996 since the same is a later Act made by Parliament. The learned counsel referred to the provisions of Article 254 of the Constitution. The learned counsel also urged that in view of the provision of Section 85 of A.C. Act 1996, the M.P. Act stands impliedly repealed.
+
+43. The said argument cannot be accepted. The provision for repeal under Section 85 of A.C. Act 1996 does not show that there is any express repeal of the M.P. Act. Apart from that the provision of Section 2(4) of A.C. Act clearly militates against the aforesaid submissions.
+
+44. The argument of repugnancy is also not tenable. Entry 13 of the Concurrent List in the VIIth Schedule of the Constitution runs as follows:
+
+"13. Civil procedure, including all matters included in the Code of Civil Procedure at the commencement of this Constitution, limitation and arbitration."
+
+45. In view of the aforesaid Entry, the State Government is competent to enact laws in relation to arbitration. The M.P. Act of 1983 was made when the previous Arbitration Act of 1940 was in the field.
+
+That Act of 1940 was a Central Law. Both the Acts operated in view of Section 46 of 1940 Act.
+
+46. The M.P. Act 1983 was reserved for the assent of the President and admittedly received the same on 17.10.1983 which was published in the Madhya Pradesh Gazette Extraordinary dated 12.10.1983. Therefore, the requirement of Article 254(2) of the Constitution was satisfied. Thus, M.P. Act of 1983 prevails in the State of Madhya Pradesh. Thereafter, A.C. Act 1996 was enacted by Parliament repealing the earlier laws of arbitration of 1940. It has also been noted that A.C. Act 1996 saves the provisions  of M.P. Act 1983 under sub-sections 2(4) and 2(5) thereof. Therefore, there cannot be any repugnancy.
+
+(See the judgment of this Court in T. Barai vs. Henry Ah Hoe and another reported in AIR 1983 SC
+
+150). In this connection the observations made by the Constitution Bench of this Court in the case of M. Karunanidhi vs. Union of India and another reported in (1979) 3 SCC 431 are very pertinent and the following observations are excerpted:
+
+"......It is, therefore, clear that in view of this clear intention of the legislature there can be no room for any argument that the State Act was in any way repugnant to the Central Acts. We have already pointed out from the decisions of the Federal Court and this Court that one of the important tests to find out as to whether or not there is repugnancy is to ascertain the intention of the legislature regarding the fact that the dominant legislature allowed the subordinate legislature to operate in the same field pari passu the State Act."
+
+(para 37, page 450)
+
+47. It is clear from the aforesaid observation that in instant case the latter Act made by the Parliament i.e. A.C. Act 1996 clearly showed an  intention to the effect that the State Law of Arbitration i.e. the M.P. Act should operate in the State of Madhya Pradesh in respect of certain specified types of arbitrations which are under the M.P. Act 1983. This is clear from Sections 2(4) and 2(5) of A.C. Act 1996. Therefore, there is no substance in the argument of repugnancy and is accordingly rejected.
+
+48. Therefore, appeal is allowed and the judgment of the High Court which is based on the reasoning of Va Tech (supra) is set aside. This Court holds the decision in Va Tech (supra) has been rendered in per incuriam. In that view of the matter the arbitration proceeding may proceed under M.P. Act of 1983 and not under A.C. Act 1996.
+
+49. There will be no order as to costs.
+
+.......................J. (ASOK KUMAR GANGULY) New Delhi  January 24, 2012  REPORTABLE IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO.974 OF 2012 (Arising out of SLP(C) No.907/2011) M.P.Rural Road Development Authority & Anr. ...Appellant(s)
+
+- Versus -
+
+M/s. L.G. Chaudhary Engineers & Cont. ...Respondent(s) J U D G E M E N T Gyan Sudha Misra, J.
+
+Leave granted.
+
+2. While concurring and endorsing the reasonings assigned in the judgement of learned Justice Ganguly, I propose to add and thus partly dissent on certain aspects involved in the instant appeal which would have a bearing on the relief granted to the respondent by the High Court which appointed an arbitrator under the Arbitration and Conciliation Act, 1996 for adjudication of the dispute in regard to cancellation of the works contract between the contesting parties therein.
+
+3. In this context, Section 7 of the Madhya Pradesh Madhyasthan Adhikaran Adhiniyam, 1983 (hereinafter referred to as the `M.P. Arbitration Tribunal Act, 1983') needs to be reiterated which itself lays down as follows:
+
+"Reference to Tribunal" - (1) either party to a works contract shall irrespective of the fact whether the agreement contains an arbitration clause or not, refer in writing the dispute to the Tribunal."
+
+4. On perusal of the aforesaid provision enumerated under Section 7, it is explicitly clear that the matter in the event of existence of a dispute between the parties in certain categories of cases where the State of Madhya Pradesh is a contracting party, the dispute shall be referred in writing to the tribunal irrespective of the fact whether the agreement contains an arbitration clause or not. From this provision it is clearly apparent that reference of any dispute to the tribunal postulates an existence of a works contract and the definition of `works contract' under Section 2 (i) of the M.P. Arbitration Tribunal Act, 1983, it has clearly and unequivocally been specified as to what is a `works contract' in relation to which the dispute is required to be referred in writing to the tribunal. We may therefore meticulously recollect the definition of `works contract' which lays down as follows:-
+
+"works contract" means an agreement in writing for the execution of any work relating to construction, repair or  maintenance of any building or superstructure, dam, weir, canal, reservoir, tank, lake, road, well, bridge, culvert, factory workshop, powerhouse, transformers or such other works of the State Government or Public Undertaking as the State Government may, by notification, specify in this behalf at any of its stages, entered into by the State Government or by an official of the State Government or Public Undertaking or its official for and on behalf of such Public Undertaking and includes an agreement for the supply of goods or material and all other matters relating to the execution of any of the said works."
+
+5. Thus on a perusal of the definition of `works contract', it is manifestly clear that while the `works contract' means an agreement pertaining to matters relating to the execution of any of the work enumerated in the definition of `works contract', the same does not include the dispute pertaining to termination, cancellation or repudiation of works contract and the entire nature of transaction laid down therein relates to disputes which arise out of execution of the nature of work specified in the `works contract'. However, the question whether the `works contract' has been legally repudiated and rightly cancelled or not is the question or dispute pertaining to termination of works contract has not been incorporated even remotely within the definition of `works contract'. In view of this, the legal and logical consequence which can be reasonably drawn from the definition of `works contract' would be, that if there is a dispute between the contracting parties for any reason relating to works contract which include execution of any work, relating to construction, repair or maintenance of any building or super-structure,  dam, weir, canal, reservoir, tank, lake, road, well, bridge, culvert, factory, workshop, power house, transformers or such other works of the State Government or Public Undertaking including an agreement for the supply of goods or material and all other matters relating to the execution of any of the said works, the same would fall within the ambit of the definition of `works contract' and hence all disputes pertaining or arising out of execution of the works contract will have to be referred to the M.P. State Arbitration Tribunal as envisaged under Section 7 of the Act of 1983. Hence, in addition to the reasons assigned in the judgment and order of learned Brother Justice Ganguly, disputes arising out of execution of works contract has to be referred to the M.P. State Arbitration Tribunal and not under the Arbitration and Conciliation Act, 1996.
+
+6. But in so far as the instant matter is concerned, the facts disclose that the appellant M.P. Rural Road Development Authority cancelled the works contract itself which was executed in favour of the respondent. In that event, the works contract between the parties was not in existence at all which would operate as a statutory mandate for reference of the dispute to the M.P. State Arbitration Tribunal.
+
+7. It is no doubt true that if the matter were before an Arbitrator appointed under the Arbitration and Conciliation Act, 1996 for adjudication of any dispute including the question regarding the justification and  legality as to whether the cancellation of works contract was legal or illegal, then the said Arbitrator in view of the ratio of the judgment of the Supreme Court in Maharshi Dayanand University & Anr. Vs. Anand Co-op L(C) Society, 2007 (5) SCC 295, as also in view of the persuasive reasoning assigned in the judgment and order reported in Heyman & Anr.
+
+Vs. Darwins, Limited, 1942 (1) All E.R. 337 would have had the jurisdiction to adjudicate the dispute regarding the justification and legality of cancellation of works contract also. But the same cannot be allowed to be raised under the M.P. Act of 1983 since the definition of `works contract' unambiguously lays down in explicit terms as to what is the nature and scope of `works contract' and further enumerates the specific nature of disputes arising out of the execution of works contract which would come within the definition of a `works contract'.
+
+8. However, the same does not even vaguely include the issue or dispute arising out of cancellation and termination of contract due to which this question, in my considered opinion, would not fall within the jurisdiction of M.P. State Arbitration Tribunal so as to be referred for adjudication arising out of its termination. As already stated, fall out certainly would be otherwise if the matter were to be adjudicated by an Arbitrator appointed under the Arbitration and Conciliation Act, 1996 and that would be in view of the ratio of the decisions of the Supreme Court  referred to hereinbefore which has held it permissible for the Arbitrator to adjudicate even the dispute arising out of cancellation or termination of an agreement or contract. This however, cannot be allowed to broaden or expand the ambit and scope of the M.P. Act of 1983 where the State Legislature has passed a specific legislation in respect of certain specified types of arbitration determining as to what are the nature of disputes to be referred to the M.P. State Arbitration Tribunal and that specifically permits the reference of dispute arising out of execution of contract but clearly leaves out any dispute arising out of termination, cancellation or repudiation of `works contract'. In order to clarify the point further, what needs to be emphasized is that if the nature of dispute referred to the Arbitrator like the instant matter, related to a dispute pertaining to construction, repair, maintenance of any building super-
+
+structure, dam or for the reasons stated within the definition of `works contract', the matter may be referred to the M.P. Tribunal in view of the fact that if there is a dispute in relation to execution of a works contract, then irrespective of the fact whether the agreement contains an arbitration clause or not, the dispute is required to be referred to the M.P. State Arbitration Tribunal for adjudication. But when the contract itself has been terminated, cancelled or repudiated as it has happened in the instant case, then the nature of dispute does not fall within the definition of `works contract' for the sole reason that it does not include any dispute  pertaining to cancellation of a works contract implying that when the works contract itself is not in existence by virtue of its cancellation, the dispute cannot be referred to the M.P. State Arbitration Tribunal but may have to be decided by an Arbitrator appointed under the Arbitration and Conciliation Act, 1996.
+
+9. Hence, the nature of the dispute which falls within the definition of `works contract' under Section 2(i) of the M.P. Act, 1983 and one of the contracting parties to the agreement is the State of M.P., then irrespective of an arbitration agreement the dispute will have to be referred to the Tribunal in terms of Section 7 of the Act of 1983. But if the works contract itself has been repudiated and hence not in existence at all by virtue of its cancellation/termination, then in my considered view, the dispute will have to be referred to an independent arbitrator to be appointed under the Arbitration and Conciliation Act, 1996 since the M.P. Act 1983 envisages reference of a dispute to the State Tribunal only in respect of certain specified types of arbitration enumerated under Section 2 (i) of the M.P. Act, 1983.
+
+10. As a consequence and fall out of the aforesaid discussion, the impugned order of the High Court by which the dispute relating to termination of works contract by the M.P. Rural Road Development Authority itself was referred to an independent arbitrator appointed by the  High Court under the Arbitration and Conciliation Act, 1996 needs to be sustained and there is no need for a de novo reference of the dispute to the M.P. State Arbitration Tribunal. In the alternative, the consequence would have been otherwise and the matter could have been referred to the State Arbitration Tribunal if the dispute between the parties related to any dispute emerging out of execution of works contract which could fall within the definition of `works contract' given out within the definition of `works contract' under Section 2(i) of the M.P. Act of 1983. In order to avoid any ambiguity, it is reiterated that in view of cancellation of the works contract itself which is the position in the instant case, the proceedings before the Arbitrator appointed by the High Court cannot be treated as non-est so as to refer the same once again to the tribunal for adjudication as the dispute does not emerge or pertain to execution of works contract but relates to non-existence of works contract by virtue of its cancellation.
+
+11. Thus the sum and substance of what I wish to emphasize is that the question as to whether the dispute would be referred to the M.P. Tribunal in terms of Section 7 of the M.P. Act of 1983 or to an independent arbitrator under the Arbitration and Conciliation Act, 1996 will depend upon the factum whether the works contract is existing between the parties or not out of which the dispute has arisen. In case, the works  contract itself has been repudiated/cancelled, then, in view of its non-
+
+existence, Section 7 of the M.P. Act pertaining to reference of dispute to tribunal would not come into play at all by virtue of the fact that the dispute relating to execution of works contract alone can be referred to the tribunal in view of the specific nature of works contract enumerated within the definition of works contract under the Act of 1983. However, when the works contract itself becomes non-existent as a consequence of its cancellation, the matter will have to be referred to an independent arbitrator under the Arbitration and Conciliation Act, 1996 and not to M.P. State Arbitration Tribunal.
+
+12. Thus, while holding that the M.P. Act 1983 should operate in the State of M.P. in respect of certain specified types of arbitration, the appointment of an independent arbitrator by the High Court under the Arbitration and Conciliation Act, 1996 needs to be sustained since the works contract itself is not in existence by virtue of its cancellation and hence this part of the dispute could not have been referred to the M.P. State Tribunal.
+
+13. Consequently, the instant appeal stands partly allowed. There will be no order as to costs.
+
+......................................J. (Gyan Sudha Misra) New Delhi, January 24, 2012.
+
+IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO. 974 OF 2012 (Arising out of SLP(C) No.907/2011) M.P.Rural Road Development Authority & Anr.
+
+...Appellant(s)
+
+- Versus -
+
+M/s. L.G. Chaudhary Engineers & Cont.
+
+...Respondent(s) ORDER In view of some divergence of views expressed in the two judgments delivered today by us, the matter may be placed before Hon'ble the Chief Justice of India for constituting a larger Bench to resolve the divergence.
+
+.............................J. (ASOK KUMAR GANGULY) .............................J. (GYAN SUDHA MISRA) NEW DELHI, 24-01-2012

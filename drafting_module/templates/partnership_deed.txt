@@ -1,0 +1,45 @@
+PARTNERSHIP DEED
+Date: {{date}}
+Place: {{city_state}}
+BETWEEN:
+1. {{name_of_partner_1}}, aged {{age}}, residing at {{address}} (hereinafter referred to as the 'First
+Partner')
+2. {{name_of_partner_2}}, aged {{age}}, residing at {{address}} (hereinafter referred to as the 'Second
+Partner')
+WHEREAS:
+The Partners have agreed to carry on business in partnership under the name and style of {{firm_name}} and have
+agreed to the terms herein.
+NOW, THEREFORE, the parties agree as follows:
+1. NAME AND BUSINESS
+The partnership shall be carried on under the name {{firm_name}} at {{address}}. The nature of business
+shall be {{describe_business}}.
+2. COMMENCEMENT AND DURATION
+The partnership shall commence on {{date}} and shall continue {{for_a_period_of_x_years_at_will}}.
+3. CAPITAL CONTRIBUTION
+First Partner: Rs. {{amount}}/- | Second Partner: Rs. {{amount}}/-. Additional capital may be introduced
+with mutual consent.
+4. PROFIT AND LOSS SHARING
+Profits and losses shall be shared in the ratio of {{ratio}} between the Partners.
+5. MANAGEMENT
+Both Partners shall actively participate in management. Major decisions require unanimous consent.
+Day-to-day operations may be handled by {{specify}}.
+6. BANKING
+The firm's bank account shall be operated by {{specify}} at {{bank_name}}, {{branch}}.
+7. RETIREMENT / ADMISSION
+A Partner may retire by giving {{notice_period}} months written notice. New partners may be admitted
+with unanimous consent.
+Template from SignSetu (signsetu.in) — India's first pay-per-use Aadhaar eSign platform
+
+8. DISSOLUTION
+The partnership may be dissolved by mutual consent or as per the Indian Partnership Act, 1932. Upon
+dissolution, assets shall be used to pay liabilities first, then capital shall be returned, and any surplus shared
+per profit ratio.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+{{blank_field}} {{blank_field}}
+Signature of Party 1 Signature of Party 2
+Name: {{full_name}} Name: {{full_name}}
+Date: {{date}} Date: {{date}}
+WITNESSES:
+1. Name: {{blank_field}} Signature: {{blank_field}}
+2. Name: {{blank_field}} Signature: {{blank_field}}
+Template from SignSetu (signsetu.in) — India's first pay-per-use Aadhaar eSign platform

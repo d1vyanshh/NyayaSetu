@@ -1,0 +1,78 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment:
+      LLM_PROVIDER: ollama
+      OLLAMA_HOST: http://ollama:11434
+      OLLAMA_MODEL: phi3:mini
+      OLLAMA_TIMEOUT: 20
+      OLLAMA_NUM_PREDICT: 220
+    ports:
+      - "5555:5555"
+    depends_on:
+      ollama:
+        condition: service_started
+      ollama-pull:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    environment:
+      REACT_APP_API_BASE: http://127.0.0.1:5555
+      CHOKIDAR_USEPOLLING: "true"
+      WATCHPACK_POLLING: "true"
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    restart: unless-stopped
+
+  ollama-pull:
+    image: ollama/ollama:latest
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      PRECEDENT_MAX_INDEX_FILES: 140
+      PRECEDENT_INDEX_BATCH_SIZE: 64
+      PRECEDENT_CHUNK_SIZE: 1800
+      PRECEDENT_CHUNK_OVERLAP: 220
+    entrypoint:
+      - /bin/sh
+      - -c
+      - "until ollama list >/dev/null 2>&1; do sleep 2; done; ollama pull phi3; ollama pull phi3:mini; ollama pull nomic-embed-text"
+    depends_on:
+      - ollama
+    restart: "no"
+
+  precedent-forecaster:
+    build:
+      context: .
+      dockerfile: precedent_module/Dockerfile
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+    ports:
+      - "8501:8501"
+    volumes:
+      - precedent-data:/app/precedent_module/data
+    depends_on:
+      ollama:
+        condition: service_started
+      ollama-pull:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+volumes:
+  ollama-data:
+  precedent-data:

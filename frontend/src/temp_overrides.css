@@ -1,0 +1,169 @@
+
+/* --- PREMIUM UI OVERRIDES --- */
+
+.hero {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 24px 80px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, transparent 0%, var(--bg-primary) 100%);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 1000px;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.hero-content.animate-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 8px 20px;
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(12px);
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+  box-shadow: var(--shadow-md);
+}
+
+.hero-title {
+  font-family: var(--font-display) !important;
+  font-size: clamp(3rem, 8vw, 5.5rem) !important;
+  font-weight: 850 !important;
+  line-height: 1.05 !important;
+  margin-bottom: 24px !important;
+  background: linear-gradient(135deg, #fff 30%, var(--text-muted) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.02em !important;
+}
+
+.hero-subtitle {
+  font-size: clamp(1.1rem, 2vw, 1.4rem) !important;
+  color: var(--text-secondary) !important;
+  max-width: 700px !important;
+  margin: 0 auto 48px !important;
+  line-height: 1.6 !important;
+}
+
+.hero-form {
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(24px) !important;
+  border: 1px solid var(--glass-border) !important;
+  padding: 10px !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-premium) !important;
+  max-width: 800px !important;
+  margin: 0 auto 48px !important;
+  transition: transform 0.3s ease, border-color 0.3s ease !important;
+}
+
+.hero-form:focus-within {
+  transform: translateY(-4px);
+  border-color: var(--accent) !important;
+}
+
+.input-group {
+  display: flex !important;
+  gap: 10px !important;
+  align-items: center !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+}
+
+.input-icon {
+  padding-left: 20px !important;
+  color: var(--accent) !important;
+  display: flex !important;
+  align-items: center !important;
+  position: static !important;
+  transform: none !important;
+}
+
+.hero-form-input {
+  flex: 1 !important;
+  background: transparent !important;
+  border: none !important;
+  padding: 16px 12px !important;
+  color: #fff !important;
+  font-size: 1.1rem !important;
+  outline: none !important;
+  -webkit-text-fill-color: #fff !important;
+  border-radius: 0 !important;
+}
+
+.hero-form-button {
+  background: linear-gradient(135deg, var(--accent) 0%, #0369a1 100%) !important;
+  color: #fff !important;
+  border: none !important;
+  padding: 16px 36px !important;
+  border-radius: var(--radius-md) !important;
+  font-weight: 700 !important;
+  font-size: 1rem !important;
+  cursor: pointer !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 0 20px var(--accent-glow) !important;
+  position: static !important;
+}
+
+.hero-form-button:hover {
+  transform: scale(1.02) !important;
+  filter: brightness(1.1) !important;
+  box-shadow: 0 0 30px var(--accent-glow) !important;
+}
+
+.hero-features {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 40px !important;
+  margin-top: 48px !important;
+  flex-wrap: wrap !important;
+}
+
+.feature {
+  display: flex !important;
+  align-items: center !important;
+  gap: 12px !important;
+  color: var(--text-muted) !important;
+  font-size: 0.95rem !important;
+  font-weight: 500 !important;
+}
+
+.feature-icon {
+  width: 32px !important;
+  height: 32px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background: rgba(255, 255, 255, 0.05) !important;
+  border-radius: 8px !important;
+  font-size: 1.1rem !important;
+}

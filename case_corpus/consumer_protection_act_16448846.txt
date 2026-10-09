@@ -1,0 +1,639 @@
+[Cites 82, Cited by 0]
+Supreme Court of India
+Palm Groves Cooperative Housing ... vs M/S Magar Girme And Gaikwad Associates on 22 August, 2025
+Author: Rajesh Bindal
+Bench: Rajesh Bindal, J.K. Maheshwari
+2025 INSC 1023                                                          REPORTABLE
+
+
+                                    IN THE SUPREME COURT OF INDIA
+                                     CIVIL APPELLATE JURISDICTION
+
+                                    CIVIL APPEAL NOS.5536-5538 of 2025
+                              (Arising out of S.L.P. (C) Nos.30579-30581 of 2019)
+
+
+            PALM GROVES COOPERATIVE
+            HOUSING SOCIETY LTD.                                    … Appellant(s)
+
+                                                   VERSUS
+
+
+            M/s MAGAR GIRME AND
+            GAIKWAD ASSOCIATES ETC.                               … Respondent(s)
+
+
+
+                                               JUDGMENT
+
+
+Rajesh Bindal, J.
+
+
+                                              Table of Contents
+
+               S. No.           Heading                                 Paras       Page
+                  1.            Factual background                        1-3        2-10
+                  2.            Arguments of the Appellant                  4       10-12
+                  3.            Arguments of the Respondents              5-6       12-14
+                  4.            Arguments by the learned Attorney         7-8       14-20
+                                General for India and learned
+                                Amicus
+                         5.     Scheme of the Consumer Protection         9-10      20-34
+                                Act,1986
+                         6.     The 1986 Act is a self-contained            11      34-36
+
+
+
+
+                         7.     Historical background of certain            12      36-39
+                                Amendments made in the 1986 Act
+   16:00:21 IST
+   Reason:
+
+
+
+                                by the Consumer Protection
+                                (Amendment) Act, 2002
+
+      8.     Discussion regarding provisions for                          13        39-42
+             enforcement of orders
+      9.     Scheme of the Consumer Protection                            14        42-47
+             Act, 2019
+     10.     Comparative position of the                                  15        48-53
+             provisions pertaining to
+             enforcement of orders during
+             different periods
+
+     12.     Issue No.1
+     12.1    Position of law with respect to                          18-24         54-66
+             interpretation of statutes
+     12.2    Conclusion                                               25-27         67-68
+     13.     Remedies to challenge orders                                28         68-69
+             passed by different fora in execution
+             proceedings
+
+     15.     Issue No.2                                               31-37         70-72
+     16.     Relief                                                   38-41         73-74
+
+FACTUAL BACKGROUND
+
+
+
+1. The present appeals have been filed by the appellant society assailing the order1 of the National Commission2. The appellant society was aggrieved by the order3 passed by the State Commission4 which allowed the revision petitions filed by the respondents and set-aside the order dated 20.11.2007 passed by the District Forum5 in Execution Petition No.E-22/2007 directing respondent/builder to execute a deed of conveyance as prepared 1 Dated 16.07.2019 in Execution Revision Petition Nos.52/2014, 53/2014 & 56/2014. 2 National Consumer Disputes Redressal Commission at New Delhi. 3 Dated 21.04.2014 in Revision Petition Nos. RP/07/156, RP/07/157 & RP/07/158. 4 State Consumer Disputes Redressal Commission, Maharashtra, Mumbai. 5 Disrict Consumer Dispute Redressal Forum, Pune. by the court commissioner in favour of the appellant society. The execution petition was filed by the present appellant seeking execution of the order6 passed by the District Forum. 1.1. M/s Magar Girme & Gaikwad Associates (hereinafter referred to as the ‘Respondent builder’) acquired the development rights in 1995 for development of a housing project named "Palm Groves". The respondent builder secured the necessary approvals from the local authority in 1997 and a comprehensive brochure was issued, advertising the sale of flats in the "Palm Groves" housing project. Based on the promises made in the brochure, several prospective flat-buyers entered into individual agreements with the respondent builder.
+
+1.2. The appellant society, comprising of flat purchasers, was formed by the respondent builder on 19.05.2003 under provisions of the Maharashtra Co-operative Societies Act, 1960 and rules framed thereunder. The appellant society filed a consumer complaint7 before the District Forum, against the respondent builder8 and opposite party no.II9 (original land owners), alleging 6 Dated 16.03.2007 in Complaint No.PDF/35/2005 8 Hereinafter referred to as the ‘Builder/Developer’ 9 Original land owners defects in construction and deficiency of service in not providing amenities and seeking direction against the builder/developer to execute the Deed of Conveyance in its favour and consequential relief of compensation and costs.
+
+1.3. During pendency of the complaint, respondent nos.1 to 310 (hereinafter referred to as ‘respondent bungalow owners’) filed an application before district forum seeking impleadment in the complaint as necessary parties, as they were also owners of the bungalows and plots in the said scheme. They claimed that the appellant society refused to admit purchasers of bungalows/plots as members of the appellant society and denied them enjoyment of common facilities. They were impleaded as opposite party No. 96 to 102 vide order dated 01.03.2005. They had formed a Palm Groves Bungalow Society, comprising of opposite parties 96 to 102, which was registered on 31.10.2005.
+
+1.4. Vide order dated 16.03.2007, the District Forum partly allowed the complaint filed by the appellant society and held that the unit-holders of different unit, Apartment, Duplex Houses and Bungalows have right to use & enjoy these common amenities and 10 In Civil Appeal No. 5537 of 2025 facilities, subject to payment of fees or subscriptions, monthly or periodical. The District Forum directed respondent builder to execute conveyance deed in favour of the appellant society and also directed respondent builder to pay compensation of ₹5,00,000/- to the appellant society. Further, respondent bungalow owners were directed to pay compensation of ₹2,00,000/- to the appellant society. Relevant para thereof is extracted thereof:
+
+“The complaint is partly allowed.
+The Opposite Party No. 1 is directed to execute the conveyance deed in favour of the Complainant Society, in terms of agreement dt.28/6/1999. In executing the Conveyance Deed, the Opposite Party No.1 should take into consideration the observations of the Forum made in the body of the judgment regarding common facilities and amenities. The Opposite Party No.1 is also directed to hand over relevant papers regarding formation of society and lift plants, drainage, plumbing etc. The Opposite Party No. 1 is further directed to pay compensation of Rs.5,00,000/- to the Complainant Society.
+The Opposite Party No. 96 to 102, contributing in equal proportion, are directed to pay compensation of Rs.2,00,000/- to the Complainant Society.
+ It is declared that all the unit holders Apartment, Duplex Houses and Bungalows owners have equal right of enjoyment in the common facilities & amenities, as indicated above. But it is made clear that these facilities & amenities can be used only on payment of fees or regular subscriptions as may be fixed by the Complainant Society. The management of the facilities & amenities shall remain with the Complainant Society and the said society has an authority to levy and recover such fees or periodical subscriptions.
+Each of the Opposite Party is directed to pay cost of Rs.500/- to the Complainant Society.
+The directions given above shall be implemented within a period of two months from the date of receipt of this order.
+All the interim applications stand rejected. Similarly, rest of the claims stand rejected.” 1.5. Aggrieved by the said order, three appeals bearing F.A. Nos. 421 of 2007, 422 of 2007 and 423 of 2007 came to be filed before the State Commission. F.A. No.422/2007, filed by respondent No.111 in his capacity as Chairman of Palm Groves Bungalow Co-operative Housing Society Ltd., was dismissed at the stage of admission itself. The State Commission vide order dated
+
+11 In Civil Appeal No.5537 of 2025 02.04.2014 partly allowed the other two appeals, namely, F.A. No.421/2007 filed by respondent builder and F.A. No.423/2007 filed by respondent bungalow owners. The State Commission modified the order dated 16.03.2007, by setting-aside the order of District Forum directing the respondent builder to pay compensation of ₹5,00,000/- by holding the same to be unwarranted. The remaining portion of the order dated 16.03.2007 was upheld by the State Commission.
+
+1.6. Aggrieved by the same, appellant society preferred revision12 before the National Commission. The National Commission vide order dated 05.05.2016 set aside the order of the State Commission, recording that it failed to consider the additional documents placed before it, and remanded the matter back to the State Commission.
+
+1.7 During pendency of appeals, the appellant society filed execution petition13 under section 25 of the 1986 Act seeking execution of conveyance deed in favour of the appellant society. 1.8. Vide order dated 05.09.2007, the District Forum appointed Commissioner for preparation of draft conveyance 12 Revision Petition No.3121 of 2014 deed in compliance of the order under execution and in terms of the agreement dated 28.06.1999. The said draft conveyance deed was submitted before the District Forum to which objections were raised by the respondents.
+
+1.9. The district forum vide order dated 20.11.2007 approved the conveyance deed and rejected objections filed by the respondents. The district forum held that the main concern of the respondent bungalow owners to enjoy the common facilities had been taken care of by the order dated 16.03.2007. Directions were issued to respondent builder for execution of the sale deed. 1.10. Respondent builder challenged the aforesaid order by filing revision petition14 before the State Commission under Section 17(1)(b) of the Consumer Protection Act, 198615. The order dated 20.11.2007 was also challenged by respondent bungalow owners by filing separate revision petition16. Another revision petition17 was filed by respondent Nos.1 & 2 in Civil Appeal No.5538 of 2025, impugning the same order before the State Commission.
+
+14 Revision Petition No. RP/07/156 by respondent No.1 in Civil Appeal No.5536 of 2019 15 Hereinafter referred to as ‘the 1986 Act’ 16 Revision Petition No. RP/07/157 by respondent Nos. 1 to 3 in Civil Appeal No. 5537 of 2019 17 Revision Petition No. RP/07/158 by respondent Nos.1 & 2 in Civil Appeal No. 5538 of 2019 1.11. Vide order dated 21.04.2014, the State Commission allowed all the aforesaid revision petitions and set aside the order dated 20.11.2007 passed by the District Forum.
+
+2. Being aggrieved by the order dated 21.04.2014, the appellant society filed Execution Revision Petition No. 52 of 2014 against respondent builder, Execution Revision Petition No. 53 of 2014 against respondent bungalow owners and Execution Revision Petition No. 56 of 2014 against respondent No. 1 & 2 in C.A. No.5538 of 2025.
+
+3. The National Commission vide order dated 16.07.2019 dismissed all the aforesaid Execution Revision Petitions, recording the same to be "not maintainable". It was held that though the respondents herein had filed revision petitions before the State Commission against the order passed by the District Forum in the execution proceedings, they nonetheless had the right to file an appeal under Section 27-A of the 1986 Act. Merely mentioning wrong jurisdiction or filing a revision petition will not take away the appellate jurisdiction of the State Commission impugning the order passed by the District Forum. Hence, the order dated 21.04.2014 passed by the State Commission should be deemed to have been passed in exercise of powers conferred under Section 27-A of the 1986 Act. It was for the aforesaid reason that the revision petitions filed before the National Commission were held to be not maintainable. The order passed by the National Commission is impugned before this Court. ARGUMENTS OF THE APPELLANT 4 Learned Counsel for the appellant society submitted that the National Commission erroneously held that the Revision Petitions filed by the respondents before the State Commission against the order passed by the District Forum in execution proceedings, should be treated as appeals since the respondents had a right to file an appeal under Section 27A of the Consumer Protection Act, 1986.
+
+4.1 The National Commission failed to appreciate that in view of the decision of this court in Karnataka Housing Board v. K.A. Nagamani18, a Revision Petition was not maintainable before the State Commission under Section 17(1)(b) of the 1986 Act against an order passed by the District Forum in Execution proceedings.
+
+18 2019 INSC 631; (2019) 7 SCR 218 4.2 After the amendment of the 1986 Act by Consumer Protection (Amendment) Act, 200219,which came into force w.e.f. 15.03.2003, till the enactment of the Consumer Protection Act, 201920, there was no specific provision under Section 25 of the 1986 Act to execute or enforce a final order, which is not in the nature of a ‘money decree’, as was the case prior to the 2002 Amendment Act where ‘every order’ was enforceable as if it was a decree or an order made by a Civil Court.
+
+4.3 Absence of any provision to enforce final orders, is not merely a lacuna but a huge absurdity and an injudicious blunder. If it is allowed to remain so, then the consumer forums will be rendered toothless.
+
+4.4 After enactment of the 2019 Act, the Parliament has removed the anomaly by providing for enforcement of ‘every order’ passed by the District/State/National Commission, as if it is a decree passed by the Civil Court and the provisions of Order XXI of Code of Civil Procedure, 190821 have been made applicable. 19 Hereinafter referred to as ‘the 2002 Amendment Act’ 20 Hereinafter referred to as ‘the 2019 Act’ 21 Hereinafter referred to as ‘CPC’ 4.5 The counsel for appellant placed reliance on the judgment of this Court in Kamlesh Aggarwal v Narain Singh Dabbas and Anr22 (paras 18 and 19) wherein it was held that there was a right available under the 1986 Act to execute the order of the District Forum by invoking provisions of Order XXI of CPC. 4.6 Lastly, it was submitted that the 1986 Act was a social benefit-oriented legislation and, therefore, the Court has to adopt a constructive liberal approach while construing the provisions of the Act.
+
+ARGUMENTS OF THE RESPONDENTS
+
+5. On the other hand, learned counsel for respondent No.1 submitted that in view of the judgment of this Court in Karnataka Housing Board (supra) Revision Petition before National Commission against an appellate order passed by the State Commission in execution proceeding, was not maintainable. 5.1 Referring to judgment of this Court in Ibrat Faizan vs. Omaxe Buildhome Private Limited23 it was argued that a party can approach the ‘concerned’ High Court under Article 227 of the Constitution of India, against the order passed by the National 22 2015 INSC 962; (2015) 2 SCR 133 23 2022 INSC 573; (2022) 4 SCR 632 Commission in its appellate jurisdiction. Similar view was expressed in the case of M/s Universal Sompo General Insurance Co. Ltd. Vs. Suresh Chand Jain & Anr24 wherein it was held that against the order of the National Commission, remedy is to file a petition under Article 227 of the Constitution before the jurisdictional High Court.
+
+5.2 It was further submitted that the appellant society have concealed the fact that vide order dated 05.05.2016 passed in R.P. No.3121 of 2014, the National Commission remanded the matter to the State Commission to consider additional documents sought to be filed by the appellant society.
+
+5.3 Further vide order dated 10.10.2017 the State Commission remanded the matter to the District Forum, Pune rendering the entire execution proceedings including the present proceedings infructuous. Both these orders were not placed on record by the respondent No.1.
+
+5.4 That the Conveyance Deed for utilization of common area and facilities has already been executed in favour of ‘Palm Groves Bungalow Cooperative Housing Society’ in the year 2006, 24 2023 INSC 649; (2023) 10 SCR 1155 as such the complaint filed by the appellant society has been rendered infructuous.
+
+6. Vide impugned order the National Commission had opined that the revision petitions filed by the appellant society against the order passed in execution proceedings were not maintainable as no consumer complaint was pending. It was further observed in that order that though the respondent/judgment-debtor did not have right to file revision petition before the State Commission, yet it had a right to file appeal under Section 27A of the 1986 Act. Merely giving the nomenclature of revision petition will not oust the jurisdiction of the State Commission and the order passed by the State Commission should be treated to have been passed in exercise of powers under Section 27A of the 1986 Act.
+
+ARGUMENTS BY THE LEARNED ATTORNEY GENERAL FOR INDIA AND THE AMICUS
+
+7. During the course of arguments, it was noticed that the issue in these petitions involved interpretation of the 1986 Act, as amended by the 2002 Amendment Act, which now stands replaced by the 2019 Act. Vide order dated 23.07.2024, we requested Shri Jaideep Gupta, learned senior counsel, to assist the Court as amicus.
+
+7.1 As the issue pertained to interpretation of a central statute, we deemed it appropriate to seek assistance of the Attorney General for India as well.
+
+7.2 We have been ably assisted by Shri R. Venkatramani, Attorney General for India & Shri Jaideep Gupta, learned Senior Advocate, who was appointed as amicus to assist this Court, in view of the anomalies noticed in the 1986 Act, regarding execution of the final orders, after its amendment by the 2002 Amendment Act.
+
+8. Shri R. Venkatramani, Attorney General for India and Shri Jaideep Gupta, Senior Advocate, are in unison regarding interpretation of provision of the 1986 Act with reference to execution of the final orders. It was submitted that the position as existed prior to the changes by 2002 Amendment Act in the 1986 Act and after the 1986 Act was replaced by 2019 Act, all orders passed by the different fora were/are executable. It was only after the 2002 Amendment Act whereby Section 25 of the 1986 Act was substituted, that the words ‘every order’ were replaced by ‘interim order’. It was only during the interregnum, from 15.03.2003 (the date on which the 2002 Amendment Act came into force) till 20.07.2020 (date on which the 2019 Act came into force w.r.t. Chapter IV dealing with the Consumer Disputes Redressal Commission), that there is certain anomalous position. The argument raised is that the same being in the nature of casus omissus, keeping in view the spirit and object of the Act, which is a beneficial piece of legislation, the gap can very well be filled by the Court by applying tools of interpretation of statutes. The Consumer Protection Act, either of 1986 or of 2019 are complete Code providing for different remedies. If proper remedy under the statute is not provided for execution/enforcement of orders, the same may be ineffective. It may be an error in drafting. If this Court fills in the aforesaid lacunae, the same will not go beyond the overall scheme of the Act. It would rather be in the best interest of the consumers, keeping in mind the principles of purposive construction. The following judgments have also been referred in support of the arguments, Maharashtra State Cooperative Bank vs PFC25; Corporation Bank vs Saraswati26; MSR Leathers vs S Palaniappan27; Poonam Devi vs Oriental Insurance28; Sailesh 25 2009 INSC 1174; (2009) 15 SCR 1 26 2008 INSC 1321; (2008) 16 SCR 340 27 2013 INSC 604; (2013) 10 SCR 81 28 2020 INSC 291; (2020) 4 SCR 922 vs Dhariwal29; Bank of Baroda vs MBL30; Chitra Sharma vs UOI31; Swiss Ribbons Private Limited and Another vs Union of India and Others32.
+
+8.1 The executions were being filed and entertained even after the 2002 Amendment Act came into force by which Section 25 of the 1986 Act was substituted. Any interpretation given differently, at this stage, may affect large number of consumers, especially whose execution petitions are pending. The same may generate unnecessary avoidable litigation as the party in whose favour any order has been passed cannot be left remediless for execution thereof.
+
+8.2 As per data submitted by learned Attorney General for India, even now thousands of such petitions are pending before District Forum and the State/National Commission pertaining to different years and the details thereof are as under:
+
+Execution Applications pending before the District Forums Year Pending 29 (2016) 3 SCC 619 30 2022 INSC 53; (2022) 12 SCR 761 31 (2018) 18 SCC 575 32 (2019) 2 SCC 17 2007 1030 2008 1597 2009 1267 2010 1449 2011 1872 2012 1764 2013 1813 2014 2786 2015 3008 2016 4037 2017 5320 2018 6405 2019 7732 2020 4443 2021 5424 2022 10924 2023 15785 2024 20002 Execution Applications pending before the State Commissions Year Pending 2023 1035 2024 1014 Execution Applications pending before the National Commission Year Pending 8.3 The aforesaid data is pertaining to pending execution applications as on 21.01.2025.
+
+SCHEME OF THE CONSUMER PROTECTION ACT, 1986
+
+9. Before we proceed to discuss the issues raised in the appeals on merits of the controversy, we wish to deal with the issue regarding remedy available for execution of the final order under the 1986 Act.
+
+Relevant Provisions “Section 2(b) "complainant" means-
+
+(i) a consumer; or
+
+(ii) any voluntary consumer association registered under the Companies Act, 1956 (1 of 1956), or under any other law for the time being in force; or
+
+(iii) the Central Government or any State Government,
+
+(iv) one or more consumers, where there are numerous consumers having the same interest; who or which makes a complaint;
+
+Section 2(c) "complaint" means any allegation in writing made by a complainant that-
+
+(i) an unfair trade practice or a restrictive trade practice has been adopted by any trader;
+
+(ii) the goods bought by him or agreed to be bought by him suffer from one or more defect;
+
+(iii) the services hired or availed of or agreed to be hired or availed of by him suffer from deficiency in any respect;
+
+(iv) a trader or the service provider, as the case may be, has charged for the goods or for the services mentioned in the complaint, a price in excess of the price –
+
+(a) Fixed by or under any law for the time being in force;
+
+(b) Displayed on the goods or any package containing such goods;
+
+(c) Displayed on the price list exhibited by him by or under any law for the time being in force;
+
+(d) Agreed between the parties;
+
+(v) goods which will be hazardous to life and safety when used are being offered for sale to he public,-
+
+(a) in contravention of any standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force;
+
+(b) if the trader could have known with due diligence that the goods so offered are unsafe to the public;
+
+(vi) services which are hazardous or likely to be hazardous to life and safety of the public when used, are being offered by the service provider which such person could have known with due diligence to be injurious to life and safety;
+
+with a view to obtaining any relief provided by or under this Act;
+
+xxx xxx xxx Section 2(e) “consumer dispute” means a dispute where the person against whom a complaint has been made, denies or disputes the allegations contained in the complaint;
+
+xxx xxx xxx Section 11. Jurisdiction of the District Forum - (1) Subject to the other provisions of this Act, the District Forum, the District Forum shall have jurisdiction to entertain complaints where the value of the goods or services and the compensation, if any, claimed does not exceed rupees twenty lakhs.
+
+(2) A complaint shall be instituted in a District Forum within the local limits of whose jurisdiction-
+
+(a) the opposite party or each of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides or carries on business or has a branch office or personally works for gain; or
+
+(b) any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office, or personally works for gain, provided that in such case either the permission of the District Forum is given, or the opposite parties who do not reside, or carry on business or have a branch office, or personally work for gain, as the case may be, acquiesce in such institution; or
+
+(c) the cause of action, wholly or in part, arises.
+
+          xxx              xxx               xxx
+Section 13      Procedure on admission of complaint.-
+(1) to (3A)     xxx              xxx               xxx
+
+
+(3B)    Where during the pendency of any proceeding
+
+
+before the District Forum, it appears to it necessary, it may pass such interim order as is just and proper in the facts and circumstances of the case.
+
+(4) For the purposes of this section, the District Forum shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit in respect of the following matters, namely,-
+
+(i) the summoning and enforcing attendance of any defendant or witness and examining the witness on oath;
+
+(ii) the discovery and production of any document or other material object producible as evidence;
+
+(iii) the reception of evidence on affidavits;
+
+(iv) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source;
+
+    (v)     issuing of any commission              for   the
+    examination of any witness; and
+    (vi)      any other matter which may be prescribed.
+(5)      Every proceeding before the District Forum shall
+
+
+be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860), and the District Forum shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974). (6) Where the complainant is a consumer referred to in sub-clause (iv) of clause (b) of subsection (1) of section 2, the provisions of Rule 8 of Order I of Schedule I to the Code of Civil Procedure, 1908 (5 of 1908) shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Forum thereon. (7) In the event of death of a complainant who is a consumer or of the opposite party against whom the complaint has been filed, the provisions of Order XXII of the First Scheduled to the Code of Civil Procedure, 1908 (5 of 1908) shall apply subject to the modification that every reference therein to the plaintiff and the defendant shall be construed as reference to a complainant or the opposite party, as the case may be.
+
+Section 14. Finding of the District Forum.- (1) If, after the proceeding conducted under section 13, the District Forum is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services are proved, it shall issue an order to the opposite party directing him to do one or more of the following things, namely,-
+
+(a) to remove the defect pointed out by the appropriate laboratory from the goods in question;
+
+(b) to replace the goods with new goods of similar description which shall be free from any defect;
+
+(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant;
+
+(d) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party:
+
+Provided that the District Forum shall have the power to grant punitive damages in such circumstances as it deems fit;
+ (e) to remove the defects or deficiencies in the services in question;
+(f) to discontinue the unfair trade practice or the restrictive trade practice or not to repeat them;
+(g) not to offer the hazardous goods for sale;
+(h) to withdraw the hazardous goods from being offered for sale;
+(ha) to cease manufacture of hazardous goods and to desist from offering services which are hazardous in nature;
+(hb) to pay such sum as may be determined by it, if it is of the opinion that loss or injury has been suffered by a large number of consumers who are not identifiable conveniently;
+
+Provided that the minimum amount of sum so payable shall not be less than five per cent of the value of such defective goods sold or services provided, as the case may be, to such consumers:
+
+Provided further that the amount so obtained shall be credited in favour of such person and utilized in such manner as may be prescribed;
+(hc) to issue corrective advertisement to neutralize the effect of misleading advertisement at the cost of the opposite party responsible for issuing such misleading advertisement;
+(i) to provide for adequate costs to parties.
+
+Section 15. Appeal.
+
+Any person aggrieved by an order made by the District Forum may prefer an appeal against such order to the State Commission within a period of thirty days from the date of the order, in such form and manner as may be prescribed:
+
+Provided that the State Commission may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not finding it within that period:
+Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the District Forum, shall be entertained by the State Commission unless the appellant has deposited in the prescribed manner fifty per cent of that amount or twenty- five thousand rupees, whichever is less.
+xxx xxx xxx Section 17. Jurisdiction of the State Commission (1) Subject to the other provisions of this Act, the State Commission shall have jurisdiction-
+(a) to entertain-
+(i) complaints where the value of the goods or services and compensation, if any, claimed exceeds rupees five lakhs but does not exceed rupees twenty lakhs; and
+(ii) appeals against the orders of any District Forum within the State; and
+(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any District Forum within the State where it appears to the State Commission that such District Forum has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested or has acted in exercise  on its jurisdiction illegally or with material irregularity.
+
+Section 18. Procedure applicable to State Commission The provisions of sections 12, 13 and 14 and the rules made thereunder for the disposal of complaint by the Districts Forum shall, with such modification as may be necessary, be applicable to the disposal of disputes by the State Commission:
+
+Section 19. Appeals.
+Any person aggrieved by an order made by the State Commission in exercise of its powers conferred by sub- clause (i) of clause (a) of section 17 may prefer an appeal against such order to the National Commission within a period of thirty days from the date of the order in such form and manner as may be prescribed:
+Provided that the National Commission may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing it within that period:
+Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited in the prescribed manner fifty per cent of the amount or rupees thirty-five thousand, whichever is less.
+xxx xxx xxx Section 21. Jurisdiction of the National Commission. Subject to the other provisions of this Act, the National Commission shall have jurisdiction-
+(a) to entertain-
+ (i) complaints where the value of the goods or services and compensation, if any, claimed exceeds rupees one crore; and
+(ii) appeals against the orders of any State Commission; and
+(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any State Commission where it appears to the National Commission that such State Commission has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested, or has acted in the exercise of its jurisdiction illegally or with material irregularity.
+
+Section 22. Power and procedure applicable to the National Commission.
+
+(1) The provisions of Sections 12, 13 and 14 and the rules made thereunder for the disposal of complaints by the District Forum shall, with such modifications as may be considered necessary by the Commission, by applicable to the disposal of disputes by the National Commission. (2) Without prejudice to the provisions contained in sub-section (1), the National Commission shall have the power to review any order made by it, when there is an error apparent on the face of record.
+
+xxx xxx xxx Section 25. Enforcement of orders of the District Forum, the State Commission or the National Commission.
+
+(1) Where an interim order made under this Act is not complied with, the District Forum or the State Commission or the National Commission, as the case may be, may order the property of the person, not complying with such order to be attached.
+
+(2) No attachment made under sub-section (1) shall remain in force for more than three months at the end of which, if the non-compliance continues, the property attached may be sold and out of the proceeds thereof, the District Forum or the State Commission or the National Commission may award such damages as it thinks fit to the complainant and shall pay the balance, if any, to the party entitled thereto.
+
+(3) Where any amount is due from any person under an order made by a District Forum, State Commission or the National Commission, as the case may be, the person entitled to the amount may make an application to the District Forum, the State Commission or the National Commission, as the case may be, and such District Forum or the State Commission or the National Commission may issue a certificate for the said amount to the Collector of the district (by whatever name called) and the Collector shall proceed to recover the amount in the same manner as arrears of land revenue.
+
+        xxx               xxx             xxx
+Section 27. Penalties.
+(1)     Where a trader or a person against whom a
+
+
+complaint is made or the complainant fails or omits to comply with any order made by the District Forum, the State Commission or the National Commission, as the case may be, such trader or person or complainant shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to three years, or with fine which shall not be less than two thousand rupees but which may extend to ten thousand rupees, or with both:
+
+(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the District Forum or the State Commission or the National Commission, as the case may be, shall have the power of a judicial magistrate of the first class for the trial of offences under this Act, and on such conferment of powers, the District Forum or the State Commission or the National Commission, as the as may be, on whom the powers are so conferred, shall be deemed to be a Judicial Magistrate of the first class for the purpose of the Code of Criminal Procedure, 1973 (2 of 1974).
+(3) All offences under this Act may be tried summarily by the District Forum or the State Commission or the National Commission, as the case may be.
+
+Section 27A. Appeal against order passed under Section 27.
+
+(1) Notwithstanding anything contained in the Code of Criminal Procedure 1973 (2 of 1974), an appeal under Section 27, both on facts and on law, shall lie from-
+
+(a) the order made by the District Forum to the State Commission;
+
+(b) the order made by the State Commission to the National Commission; and
+
+(c) the order made by the National Commission to the Supreme Court.
+
+(2) Except as aforesaid, no appeal shall lie to any court from any order of a District Forum or a State Commission or the National Commission.
+
+(3) Every appeal under this section shall be preferred within a period of thirty days from the date of an order of a District Forum or a State Commission or, as the case may be, the National Commission:
+
+ Provided that the State Commission or the National Commission or the Supreme Court, as the case may be, may entertain an appeal after the expiry of the said period of thirty days, if, it is satisfied that the appellant had sufficient case for not preferring the appeal within the period of thirty days.”
+
+10. To begin with, it would be relevant to refer to the kinds of reliefs which can be granted by the District Forum under section 14 of the 1986 Act. A bare perusal of the aforesaid provision shows that-
+
+● monetary compensation, ● replacement, ● removal of defects in the goods, ● removal of defects or discrepancy in the services and/or ● discontinuance of unfair trade practice are few of the reliefs which can be granted by the District Forum. 10.1 A perusal of Section 15 of the 1986 Act shows that any person aggrieved by an order made by the District Forum may prefer an appeal against such order to the State Commission. The section is in wider terms as it does not limit filing of an appeal from an order passed by the District Forum to the State Commission only in case there is a ‘consumer dispute’.
+
+10.2 The State Commission, in terms of Section 17 of the 1986 Act, can entertain complaints with reference to the original jurisdiction vested in it and hear appeals against the orders passed by the District Forum. In addition to that Section 17(1)(b) of the 1986 Act provides suo motu jurisdiction to the State Commission to call for records and pass appropriate orders in any ‘consumer dispute’ which is pending before or has been decided by any consumer Forum. The scope of jurisdiction is to examine as to whether the District Forum had exercised jurisdiction not vested in it or had failed to exercise the jurisdiction vested in it or it acted in exercise of its jurisdiction illegally or with material irregularity. The term used in this sub-section is with reference to order passed in any ‘consumer dispute’, which has been defined in Section 2(e) of the 1986 Act to mean dispute where the person against whom a ‘complaint’ has been made, denies or disputes the allegations contained in the complaint.
+
+10.3 The term ‘complaint’ used herein has been defined in Section 2(c) of the 1986 Act to mean allegations in writing made by a ‘complainant’ regarding unfair trade practice or a restrictive trade practice adopted by the trader or service provider regarding defects in the goods purchased or the services hired, charging of price in excess than the seller is entitled to etc. Meaning thereby revisional jurisdiction vested with the State Commission is with reference to a complaint filed in a ‘consumer dispute’, which does not include an execution petition, as section does not talk about execution of an order.
+
+10.4 Under Section 19 of the 1986 Act, any person aggrieved by an order passed by the State Commission in exercise of powers conferred by Section 17(1)(a)(i) can prefer appeal before the National Commission. It is an order passed by State Commission in a complaint filed before it.
+
+10.5 Section 21 of the 1986 Act defines the jurisdiction of the National Commission. Section 21(a)(ii) provides for entertaining appeals against the orders of the State Commission. This has to be read in conjunction with Section 19 of the 1986 Act, which limits filing of an appeal against specific orders. As is the jurisdiction vested in the State Commission for suo motu exercise of power, Clause (b) of Section 21 thereof provides suo motu power to the National Commission to call for records and pass appropriate orders in ‘any consumer dispute’ which is pending or decided by the State Commission.
+
+10.6 Section 25 of the 1986 Act provides for remedy for enforcement of the orders passed by different fora under the Act. 10.7 Section 27 of the aforesaid Act provides for penalties for non-compliance of the order passed by any of the fora. Section 27-A of the 1986 Act provides for remedy of appeal in respect to an order passed under Section 27 of the 1986 Act. THE 1986 ACT IS A SELF-CONTAINED CODE
+
+11. From a perusal of various provisions of the 1986 Act, as amended from time to time, till such time the same was replaced by the 2019 Act making it more comprehensive, it is evident that the same is a self-contained code. It provides for the disputes which can be adjudicated upon under the Act, the pecuniary jurisdiction, procedure for filing of complaints, appeals and revisions, execution of the orders, limitation, filing of criminal complaints against the person not complying with orders of different Fora, conferment of the power of Judicial Magistrate First Class and even the appeal against the aforesaid conviction. The issue as to whether the 1986 Act is a self-contained Code came up for consideration before this Court in State of Karnataka v Vishwabharathi House Building Coop. Society33 and it was opined as under:
+
+“60 It is also well settled that a statutory tribunal which has been conferred with the power to adjudicate a dispute and pass necessary order has also the power to implement its order. Further, the Act which is a self- contained code, even if it has not been specifically spelt out, must be deemed to have conferred upon the Tribunal all powers in order to make its order effective.” 11.1 The same view was expressed in Ethiopian Airlines v Ganesh Narain Saboo34 where it referred to Vishwabharathi House Building Society (supra) and observed that:
+“74. This Court in Vishwabharathi House Building Coop. Society [(2003) 2 SCC 412] dealt with the object of the Consumer Protection Act, 1986: to provide expeditious adjudication of consumers' complaints by adopting summary procedure. The Consumer Protection Act, 1986 is a comprehensive and self- contained piece of legislation, and its object is to decide consumers' complaints expeditiously, via summary procedure. The Consumer Protection Act, 1986 also permits authorised agents to appear on behalf 33 (2003) 2 SCC 412 : 2003 INSC 19 34 (2011) 8 SCC 539 : 2011 INSC 556  of the complainants in order to ensure that they are not burdened with the heavy professional fees of lawyers.” 11.2 For that matter, even the 2019 Act is a complete code.
+
+HISTORICAL BACKGROUND OF CERTAIN AMENDMENTS MADE IN THE 1986 ACT BY THE CONSUMER PROTECTION (AMENDMENT) ACT, 2002
+
+12. Section 12 of the 1986 Act provides for the manner in which a complaint can be made. Section 13 provides for procedure on admission of complaint. Whereas Section 14 provides for the reliefs, which can be granted by the District Forum.
+
+12.1 An issue came up for consideration before this Court in Morgan Stanley Mutual Fund v Kartick Das35, as to whether the District Forum was competent to grant interim relief. It was opined that under the provisions of the 1986 Act the District Forum is not competent to grant any interim or ad-interim relief (See para 44). The same view was expressed by this Court in Gulzari Lal Agarwal v Accounts Officer36 (See para 21). 12.2 To make the provisions of the 1986 Act more inclusive and effective, and with a view to empower different fora under the 35 (1994) 4 SCC 225 : 1994 INSC 220 36 (1996) 10 SCC 590 : 1996 INSC 1108 1986 Act to grant interim relief as well, by the 2002 Amendment Act, sub-section 3B was added in Section 13 of the Act. 12.3 As Section 13 deals with the procedure on admission of complaints before the District Forum, and there being no independent provision as such providing the procedure before the State Commission and the National Commission, vide Sections 18 and 22, the provisions of Section 12 to 14 as applicable for the District Forum have been made applicable for the State Commission and the National Commission as well. As a result of this all the Fora under the 1986 Act were empowered to grant interim relief as well.
+
+12.4 Substantive amendments were made in the 1986 Act by the 2002 Amendment Act in Sections 2, 4, 7, 8, 10 to 23, 25 and 27 to 31. Certain new provisions were also added, besides deletion of some of them. Pecuniary jurisdiction of different fora was enhanced. Section 13(3A) was added providing for timeline for disposal of complaints by the District Forum. Sections 17-A and 17- B were added providing jurisdiction to the State Commission to transfer any proceeding pending before the District Forum to any other forum and also for holding a Circuit Bench, respectively. Section 19-A was added providing for timelines for disposal of appeals by the State/National Commission and the period of 90 days from admission was fixed. On failure, reasons are to be recorded. After Section 22 in the Act, certain new provisions were added, namely, Section 22-A providing National Commission with the power to set aside ex-parte order, Section 22-B empowering the National Commission to transfer cases and Section 22-C providing for the establishment of Circuit Bench. 12.5 Section 27 of the 1986 Act provides for filing of a complaint in case of non-compliance of any order passed by the District Forum or the State/National Commission. Sub-section (2) was added therein providing the powers of Judicial Magistrate First Class to deal with the complaints as mentioned in sub-section (1) thereof, notwithstanding the provisions of Cr.P.C. Newly added sub-section (3) provided that such complaints shall be tried summarily by the District Forum or the State/National Commission, as the case may be.
+
+12.6 As different Fora under the 1986 Act had been given powers of a Judicial Magistrate First Class, for dealing with the complaints and award punishment of imprisonment and/or fine, Section 27-A was added providing for appeals against the orders passed by the District Forum to the State Commission, from State Commission to National Commission and from National Commission to this Court. The aforesaid amendments and newly inserted section by way of the 2002 Amendment Act resulted in empowerment of the consumers.
+
+DISCUSSION REGARDING PROVISIONS FOR ENFORCEMENT OF ORDERS
+
+13. Section 25 of the 1986 Act, as amended by the 2002 Amendment Act, provided that where interim order made under the Act is not complied with, the District Forum or the State Commission or the National Commission, as the case may be, may order the property of the person not complying with such an order to be attached.
+
+13.1 Sub-section (2) thereof provides that no attachment shall remain in force for more than three months. If by the end of three months non-compliance still continues, the concerned Fora may sell the property attached and out of the sale proceeds may award damages to the complainant and pay the balance, if any, to the party entitled thereto.
+
+13.2 Sub-section (3) thereof provides that where any amount is due from any person under an order made by a District Forum, the State or the National Commission, the person entitled to the amount can make an application to the concerned Fora to issue a certificate for the said amount to the Collector of the district concerned to enable him to proceed to recover the amount as arrears of land revenue.
+
+13.3 To put the record straight, in our opinion, it would not be out of place to refer to Section 25 as was existing prior to the 2002 Amendment. The same is extracted below:
+
+“25. Enforcement of orders by the Forum, the State Commission or the National Commission. Every order made by the District Forum, the State Commission or the National Commission may be enforced by the District Forum, the State Commission or the National Commission, as the case may be, in the same manner as if it were decree or order made by a court in a suit pending therein and it shall be lawful for the District Forum, the State Commission or the National Commission to send, in the event of its inability to execute it, such order to the court within the local limits of whose jurisdiction,-
+(a) in the case of an order against a company, the registered office of the company is situated, or
+(b) in the case of an order against any other person, the place where the person concerned voluntarily resides or carries on business or personally works for gain, is situated, and thereupon, the court to which the order is so sent, shall execute the order as if it were a decree or order sent to it for execution.” 13.4 A perusal of Section 25 providing for enforcement of the orders as was existing prior to the 2002 Amendment shows that for execution of an order passed by any Fora at different levels under the 1986 Act, the provisions of C.P.C. had been made applicable. After the substitution of Section 25 vide 2002 Amendment Act, as per the scheme of Section 25 till the 1986 Act was replaced by the 2019 Act effective from 15.07.2020, there was no provision for enforcement of a final order in the sense execution thereof in case the relief granted to a complainant is other than the monetary compensation. Section 25, as existed after the 2002 Amendment, has already been extracted in para ‘9’ of the judgment.
+
+13.5 May be at the cost of repetition stricto sensu no provision under the 1986 Act, as existed after the 2002 Amendment Act, has been pointed out, in terms of which a complainant in whose favour an order has been passed with certain directions except in monetary terms, under which it can be enforced. 13.6 Section 27 of the 1986 Act provided that where a trader or a person against whom a complaint is made or the complainant fails to comply with the order made by any of the Fora at different levels, such person shall be punishable with imprisonment for a term provided therein.
+
+13.7 Section 27A of the 1986 Act provides for an appeal against an order passed under Section 27 thereof. In terms of the aforesaid provision, an appeal from District Forum lies to the State Commission. From an order passed by the State Commission the appeal was maintainable before the National Commission and from an order passed by the National Commission an appeal lies to this Court.
+
+13.8 On a combined reading of Section 27 and 27A of the 1986 Act as well it could not be pointed out by the learned counsel that the same can be read to mean a provision providing for enforcement of the orders as the provision only fixed criminal liability on the defaulter for the non-compliance of the order, which ultimately may not result in execution of the order as defaulter may only be punished with either imprisonment and/or fine. SCHEME OF THE CONSUMER PROTECTION ACT, 2019
+
+14. The 2019 Act replaced the earlier 1986 Act dealing more comprehensively with the consumer disputes. Section 34 thereof provides for jurisdiction of the District Commission. Section 47 provides for jurisdiction of the State Commission and Section 58 deals with jurisdiction of the National Commission. 14.1 As we are concerned in the present case regarding execution/enforcement of the orders passed by the Commission at different levels with reference to consumer disputes, Section 71 of the 2019 Act is the relevant provision. The same is extracted below:
+
+“71. Enforcement of orders of District Commission, State Commission and National Commission.
+Every order made by a District Commission, State Commission or the National Commission shall be enforced by it in the same manner as if it were a decree made by a Court in a suit before it and the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 (5 of 1908) shall, as far as may be, applicable, subject to the modification that every reference therein to the decree shall be construed as reference to the order made under this Act.” 14.2 A perusal of the aforesaid Section shows that every order made by the District, the State or the National Commission shall be enforced by it in the same manner as if it is a decree of the civil court. The provision of Order XXI of CPC as far as possible, may be applicable. Meaning thereby that specific provision with regard to enforcement/execution of the orders passed under the 2019 Act has been provided. The provision is similar to one existing in the 1986 Act before the 2002 Amendment Act.
+14.3 In addition to Section 71 of the 2019 Act, which provides for enforcement of the order passed under the 2019 Act, Sections 72 and 73 are also relevant. These are similar to Section 27 and 27A of the 1986 Act. The same are extracted below:
+“72. Penalty for non-compliance of order.
+(1) Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission, as the case may be, shall be punishable with imprisonment for a term which shall not be less than one month, but which may extend to three years, or with fine, which shall not be less than twenty-five thousand rupees, but which may extend to one lakh rupees, or with both.
+(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the District Commission, the State Commission or the National Commission, as the case may be, shall have the power of a Judicial Magistrate of first class for the trial of offences under sub-section (1), and on conferment of such powers, the District Commission or the State Commission or the National Commission, as the case may be, shall be deemed to be a Judicial Magistrate of first class for the purposes of the Code of Criminal Procedure, 1973.
+(3) Save as otherwise provided, the offences under sub-section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be.
+
+73. Appeal against order passed under Section 72. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), where an order is passed under sub-section (1) of section 72, an appeal shall lie, both on facts and on law from—
+
+(a) the order made by the District Commission to the State Commission;
+
+(b) the order made by the State Commission to the National Commission; and
+
+(c) the order made by the National Commission to the Supreme Court.
+
+(2) Except as provided in sub-section (1), no appeal shall lie before any court, from any order of a District Commission or a State Commission or the National Commission, as the case may be.
+
+(3) Every appeal under this section shall be preferred within a period of thirty days from the date of order of a District Commission or a State Commission or the National Commission, as the case may be:
+
+Provided that the State Commission or the National Commission or the Supreme Court, as the case may be, may entertain an appeal after the expiry of the said period of thirty days, if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the said period of thirty days.” 14.4 Section 72, as referred above, provides that whosoever fails to comply with any order made by the District, State or the National Commission shall be punishable with imprisonment for a term which shall not be less than one month, but which may extend to three years and/or with fine. For trial of the offence as enumerated under Section 72(1), powers of Judicial Magistrate of First Class have been conferred on the District, State or the National Commission as the case may be, notwithstanding anything contained in Code of Criminal Procedure, 1973 which now stands replaced by the Bharatiya Nagarik Suraksha Sanhita, 2023. The order passed under Section 72 is appealable under Section 73 of the 2019 Act.
+14.5 The scheme of the aforesaid Sections 71 to 73 of the 2019 Act clearly shows that more teeth have been provided to the District, State and the National Commission for enforcement of the orders passed by them. The words used in Section 71 provides for enforcement of ‘every order’. Similarly, Section 72 uses the words ‘any order’. Beside civil proceedings for enforcement of orders, for non-compliance thereof, criminal liability has also been provided. The words, as used in the aforesaid sections, clearly include ‘interim orders’ and the ‘final orders’.
+14.6 Sections 72 and 73 of the 2019 Act are pari materia to Sections 27 and 27-A of the 1986 Act, which provided for penalties for non-compliance of ‘any order’ passed by the District Forum or the State/National Commission and the appeals against any order under Section 27.
+14.7 As far as enforcement of the order passed by the District Forum, the State or the National Commission is concerned, Section 25 of the 1986 Act, after amendment by the 2002 Amendment Act, only talked about non-compliance of an ‘interim order’. This position was in existence from 15.03.2003 till the 2019 Act was enacted, replacing the 1986 Act w.e.f. 20.07.2020. Nothing as such has been provided for enforcement of a ‘final order’ in terms of Section 25 as was existing after substitution of the aforesaid section vide 2002 Amendment Act. As has already been discussed in the previous part of the judgment, Section 25 of the 1986 Act, as was existing prior to the aforesaid amendment, clearly provided for enforcement of every order as a decree of the court or to even transfer of such proceedings to the court concerned for execution.
+
+COMPARATIVE POSITION OF THE PROVISIONS PERTAINING TO ENFORCEMENT OF ORDERS DURING DIFFERENT PERIODS
+
+15. To appreciate the import of Section 25 as was existing in the 1986 Act prior to the 2002 Amendment Act w.e.f. 15.03.2003 and thereafter, and Section 71 of the 2019 Act, which is pari materia, we deem it appropriate to reproduce the same in a comparative manner:
+
+        1986 Act             1986 Act               2019 Act
+      [Prior to 2002        [Post 2002
+      Amendment]          Amendment]            w.e.f. 20.07.2020
+                         w.e.f. 15.03.2003
+ Section 25.           Section 25.             Section 71.
+ Enforcement of        Enforcement of          Enforcement     of
+ orders by the         orders of the           orders of District
+ Forum, the State
+                       District Forum,         Commission, State
+ Commission or
+ the     National      the State               Commission and
+ Commission.           Commission or           National
+                       the National            Commission.
+                       Commission.
+
+ Every order           (1) Where an            Every order made
+ made by the           interim order made      by a District
+ District Forum,       under this Act is not   Commission, State
+ the State             complied with, the
+                                               Commission or the
+                       District Forum or
+ Commission or                                 National
+                       the State
+ the National          Commission or the       Commission shall
+ Commission may        National                be enforced by it in
+ be enforced by        Commission, as the      the same manner as
+ the District          case may be, may        if it were a decree
+ Forum, the State      order the property      made by a Court in
+                       of the person, not
+ Commission or                                 a suit before it and
+                       complying with
+
+the National          such order to be        the provisions of
+Commission, as        attached.               Order XXI of the
+the case may be,                              First Schedule to the
+                      (2) No attachment
+in the same                                   Code of Civil
+                      made under sub-
+manner as if it                               Procedure, 1908 (5
+                      section (1) shall
+were decree or                                of 1908) shall, as far
+                      remain in force for
+order made by a                               as may be,
+                      more than three
+court in a suit                               applicable, subject
+                      months at the end
+pending therein       of which, if the non-   to the modification
+and it shall be                               that every
+                      compliance
+lawful for the                                reference therein to
+                      continues, the
+District Forum,                               the decree shall be
+                      property attached
+the State                                     construed as
+                      may be sold and
+Commission or                                 reference to the
+                      out of the proceeds
+the National                                  order made under
+                      thereof, the District
+Commission to                                 this Act.”
+                      Forum or the State
+send, in the event
+                      Commission or the
+of its inability to   National
+execute it, such
+                      Commission may
+order to the court
+                      award such
+within the local
+                      damages as it
+limits of whose
+                      thinks fit to the
+jurisdiction,-
+                      complainant and
+(a) in the case       shall pay the
+of an order           balance, if any, to
+against a             the party entitled
+company, the          thereto.
+registered office
+                      (3) Where any
+of the company is
+                      amount is due from
+situated, or
+                      any person under an
+                      order made by a
+(b) in the case
+                      District Forum,
+of an order
+                      State Commission
+against any other
+                      or the National
+person, the place
+                      Commission, as the
+where the person
+
+
+ concerned             case may be, the
+ voluntarily           person entitled to
+ resides or carries    the amount may
+ on business or        make an
+ personally works      application to the
+ for gain, is          District Forum, the
+ situated,             State Commission
+ and thereupon,        or the National
+ the court to          Commission, as the
+ which the order       case may be, and
+ is so sent, shall     such District Forum
+ execute the           or the State
+ order as if it were   Commission or the
+ a decree or           National
+ order sent to it      Commission may
+ for execution.”       issue a certificate for
+                       the said amount to
+                       the Collector of the
+                       district (by
+                       whatever name
+                       called) and the
+                       Collector shall
+                       proceed to recover
+                       the amount in the
+                       same manner as
+                       arrears of land
+                       revenue.
+
+
+
+15.1       Section 25 which talks about enforcement of ‘orders’ by
+
+
+
+the District Forum, the State or the National Commission provided that every order passed by different fora may be enforced in the same manner as if it was a decree or order made by the court. In case of inability, the same can be sent to the court of competent jurisdiction for execution. In the aforesaid provision there was no distinction of any kind, namely, as to the kind of relief granted or to the order being executed, be it interim or final. 15.2 Section 25 of the 1986 Act, having been substituted w.e.f. 15.03.2003 vide 2002 Amendment Act, provided in its title ‘Enforcement of orders of the District Forum, the State or the National Commission’. The aforesaid section was further divided into three parts.
+
+● Sub-section (1), apparently on account of an error, used the term ‘interim order’. It provided that in case an interim order is not complied with, the property of the person in default may be attached.
+
+● Sub-section (2) provided that no attachment of property under sub-section (1) shall remain in force for more than three months. If the non- compliance continues, the property may be sold and out of the sale proceeds, damages may be granted to the complainant and balance amount, if any, shall be payable to the party entitled thereto.
+
+● Sub-section (3) talked about ‘an order’ without there being any distinction between interim or  final and provided that where any amount is due in terms of an order passed by any of the fora under the Act, a certificate for the said amount can be issued to the Collector for recovery thereof as arrears of land revenue.
+
+As a result of the substitution of Section 25 of the 1986 Act, as discussed above, there was no provision for execution of an order other than interim order except where it provided for any amount. 15.3 The 1986 Act was replaced by the 2019 Act. Section 71 of the 2019 Act, in pith and substance, is in tune with Section 25 of the 1986 Act as was existing prior to the 2002 Amendment Act. This provides for enforcement of every order passed by the District Forum, the State or the National Commission, as if it was a decree or order made by a court in a suit. Provisions of Order XXI of CPC have been made applicable, as far as possible. 15.4 The position as emerges on a perusal of the provisions of the 1986 Act and the 2019 Act, with regard to enforcement of the orders passed by different fora, is that in the 1986 Act, prior to the 2002 Amendment Act, every order could be enforced. The position also remained the same when the 2019 Act was enacted, replacing the 1986 Act. Some anomalous situation remained only post the 2002 Amendment Act till the enactment of the 2019 Act i.e. from 15.03.2003 to 20.07.2020. It is because Section 25(1) uses the word ‘interim order’ as against ‘every order’ mentioned in Section 25 prior to the 2002 Amendment Act and post the 2019 Act. 15.5 The fact remains, as emerged during the course of arguments, from the information furnished by the learned Attorney General for India, that even post 2002 Amendment Act, the provisions of Section 25 were being understood to mean that ‘every order’ passed by different Fora under the 1986 Act were enforceable. Execution petitions were being filed and entertained. During the interregnum, many were disposed of against which the aggrieved parties invoked jurisdiction of the higher forum. Some of petitions filed for enforcement of the orders are still pending.
+
+15.6 By using the term ‘interim order’ in Section 25 of the 1986 Act, post 2002 Amendment Act, for enforcement therefor, limited option was given i.e. attachment and sale of property. Prior to 2002 amendment in the 1986 Act and post enactment of 2019 Act, provisions of CPC were made applicable, as far as possible. ISSUES 16 The issues which are required to be considered by this Court are:
+
+I. Whether there is any drafting error in Section 25 of the 1986 Act, as existed post 2002 Amendment, in so far it relates to enforcement of final orders, if yes, whether the tools available for interpretation of statutes can be used to clarify the position, to bring the same in line with the spirit of the 1986 Act?
+II. Whether a revision petition filed against an order passed in execution proceeding can be construed as an appeal?
+
+17. The fact remains that the title of Section 25 of the 1986 Act, before and after the 2002 Amendment, remained the same which mentioned enforcement of ‘orders’. ISSUE NO.1 POSITION OF LAW WITH RESPECT TO INTERPRETATION OF STATUTES
+
+18. Normal principle of statutory interpretation is that when the words used in the statute are clear and unambiguous, the same should be given their normal meaning without adding or rejecting any word. However, there is an exception to this general rule. In case, the Court finds that the provision is vague and ambiguous or the normal meaning may lead to confusion, absurdity or repugnancy with other provisions, the court may by using the interpretative tools, set right the situation by adding or omitting or substituting words in the statute.
+
+19. This Court in Surjit Singh Kalra vs Union of India37 while interpreting the rule of casus omissus i.e. “what has not been provided in the statute cannot be supplied by the courts”, held that there are certain exceptions to it. Para 19 of the same is relevant and is extracted below:
+
+“19. True it is not permissible to read words in a statute which are not there, but “where the alternative lies between either supplying by implication words which appear to have been accidentally omitted, or adopting a construction which deprives certain existing words of all meaning, it is permissible to supply the words” (Craies Statute Law, 7th edn., p. 109). Similar are the observations in Hameedia Hardware Stores v. B. Mohan Lal Sowcar [(1988) 2 SCC 513, 524-25] where it was observed that the court construing a provision should not easily read into it words which have not been expressly enacted but having regard to the context in which a provision appears and the object of the statute in which the said provision is enacted the court should 37 (1991) 2 SCC 87 : 1991 INSC 36  construe it in a harmonious way to make it meaningful.
+
+An attempt must always be made so to reconcile the relevant provisions as to advance the remedy intended by the statute. (See: Sirajul Haq Khan v. Sunni Central Board of Waqf [1959 SCR 1287, 1299: AIR 1959 SC 198].)” (emphasis supplied) 19.1 The issue was again considered by this Court in Rajbir Singh Dalal vs Chaudhari Devi Lal University38. The issue under consideration in this case was regarding requisite academic qualification for appointment to the post of Reader in the University in Public Administration. The Court after considering the traditional principles of interpretation known as ‘Mimansa rules of interpretation held that the “relevant subject” should be added in the qualification required for the post of Reader after words “at the Master’s degree level” to give the rules a purposive interpretation by filling in the gap. Relevant paras therefrom are extracted below:
+
+“13. No doubt, the ordinary principle of interpretation is that words should neither be added nor deleted from a statutory provision. However, there are some exceptions to the rule where the alternative lies between either supplying by implication words 38 (2008) 9 SCC 284 : 2008 INSC 913 which appear to have been accidentally omitted, or adopting a strict construction which leads to absurdity or deprives certain existing words of all meaning, and in this situation it is permissible to supply the words (vide Principles of Statutory Interpretation by Justice G.P. Singh, 9th Edn., pp. 71-76).
+14. Thus, in Siraj-ul-Haq Khan v. Sunni Central Board of Waqf [AIR 1959 SC 198], the Supreme Court interpreted the words “any person interested in a waqf” in Section 5(2) of the U.P. Muslim Waqfs Act, 1936 as meaning “any person interested in what is held to be a waqf”.
+15. Similarly, in State Bank of Travancore v.
+
+Mohd. M. Khan [(1981) 4 SCC 82: AIR 1981 SC 1744], while construing Section 4(1) of the Kerala Agriculturists' Debt Relief Act, 1970 the Supreme Court interpreted the words “any debt due before the commencement of this Act to any banking company” as meaning “any debt due at and before the commencement of this Act”.
+
+16. Similarly, in Gujarat Composite Ltd. v. Ranip Nagarpalika [(1999) 8 SCC 675: AIR 2000 SC 135] the Supreme Court interpreted the words “grog minerals” to mean “grog and minerals”. In Southern Railway v. T.R. Chellappan [(1976) 3 SCC 190: 1976 SCC (L&S) 398:
+
+AIR 1975 SC 2216] the Supreme Court interpreted the words “any party to an arbitration agreement”  occurring in Section 33 of the Arbitration Act, 1940 to mean “a person who is alleged to be a party to an arbitration agreement”.” (emphasis supplied) 19.2 The law on the issue was further summed up by this Court in Afcons Infrastructure Limited and Another v Cherian Varkey Construction Company Private Limited and Others39.
+
+It was a case pertaining to interpretation of Section 89 of the CPC. Relevant para 21 thereof is extracted below:
+
+“21. There is however an exception to this general rule. Where the words used in the statutory provision are vague and ambiguous or where the plain and normal meaning of its words or grammatical construction thereof would lead to confusion, absurdity, repugnancy with other provisions, the courts may, instead of adopting the plain and grammatical construction, use the interpretative tools to set right the situation, by adding or omitting or substituting the words in the statute. When faced with an apparently defective provision in a statute, courts prefer to assume that the draftsman had committed a mistake rather than concluding that the legislature has deliberately introduced an absurd or irrational statutory provision. Departure from the literal rule of plain 39 (2010) 8 SCR 1053 : (2010) 8 SCC 24 and straight reading can however be only in exceptional cases, where the anomalies make the literal compliance with a provision impossible, or absurd or so impractical as to defeat the very object of the provision. We may also mention purposive interpretation to avoid absurdity and irrationality is more readily and easily employed in relation to procedural provisions than with reference to substantive provisions.
+21.1. Maxwell on Interpretation of Statutes (12th Edn., p. 228), under the caption “modification of the language to meet the intention” in the chapter dealing with “Exceptional Construction” states the position succinctly:
+“Where the language of a statute, in its ordinary meaning and grammatical construction, leads to a manifest contradiction of the apparent purpose of the enactment, or to some inconvenience or absurdity, hardship or injustice, which can hardly have been intended, a construction may be put upon it which modifies the meaning of the words, and even the structure of the sentence. This may be done by departing from the rules of grammar, by giving an unusual meaning to particular words, or by rejecting them altogether, on the ground that the legislature could not possibly have intended what its words signify, and that the modifications made are mere corrections of careless language and  really give the true meaning. Where the main object and intention of a statute are clear, it must not be reduced to a nullity by the draftsman's unskilfulness or ignorance of the law, except in a case of necessity, or the absolute intractability of the language used.” This Court in Tirath Singh v. Bachittar Singh [AIR 1955 SC 830] approved and adopted the said approach.
+21.2. In Shamrao V. Parulekar v. District Magistrate, Thana [(1952) 2 SCC 1: AIR 1952 SC 324: 1952 Cri LJ 1503] this Court reiterated the principle from Maxwell: (AIR p. 327, para 12) “12. … if one construction will lead to an absurdity while another will give effect to what common sense would show was obviously intended, the construction which would defeat the ends of the Act must be rejected even if the same words used in the same section, and even the same sentence, have to be construed differently. Indeed, the law goes so far as to require the courts sometimes even to modify the grammatical and ordinary sense of the words if by doing so absurdity and inconsistency can be avoided.” 21.3. In Molar Mal v. Kay Iron Works (P) Ltd. [(2000) 4 SCC 285] this Court while reiterating that courts will have to follow the rule of literal construction, which enjoins the court to take the words as used by the legislature and to give it the meaning which naturally implies, held that there is an exception to that rule. This Court observed:
+(SCC p. 295, para 12) “12. … That exception comes into play when application of literal construction of the words in the statute leads to absurdity, inconsistency or when it is shown that the legal context in which the words are used or by reading the statute as a whole, it requires a different meaning.” 21.4. In Mangin v. IRC [1971 AC 739: (1971) 2 WLR 39: (1971) 1 All ER 179 (PC)] the Privy Council held: (AC p. 746 E) “… the object of the construction of a statute being to ascertain the will of the legislature it may be presumed that neither injustice nor absurdity was intended. If therefore a literal interpretation would produce such a result, and the language admits of an interpretation which would avoid it, then such an interpretation may be adopted.” 21.5. A classic example of correcting an error committed by the draftsman in legislative drafting is the substitution of the words “defendant's witnesses” by this Court for the words “plaintiff's witnesses” occurring in Order 7 Rule 14(4) of the Code, in Salem Bar (II) [(2005) 6 SCC 344]. We extract below the relevant portion of the said decision: (SCC pp. 368-69, para 35)  “35. Order 7 relates to the production of documents by the plaintiff whereas Order 8 relates to production of documents by the defendant. Under Order 8 Rule 1-A(4) a document not produced by the defendant can be confronted to the plaintiff's witness during cross-examination. Similarly, the plaintiff can also confront the defendant's witness with a document during cross-examination. By mistake, instead of ‘defendant's witnesses’, the words ‘plaintiff's witnesses’ have been mentioned in Order 7 Rule 14(4). To avoid any confusion, we direct that till the legislature corrects the mistake, the words ‘plaintiff's witnesses’, would be read as ‘defendant's witnesses’ in Order 7 Rule 14(4). We, however, hope that the mistake would be expeditiously corrected by the legislature.” 21.6. Justice G.P. Singh extracts four conditions that should be present to justify departure from the plain words of the statute, in his treatise Principles of Statutory Interpretation (12th Edn., 2010, Lexis Nexis, p. 144) from the decision of the House of Lords in Stock v. Frank Jones (Tipton) Ltd. [(1978) 1 WLR 231: (1978) 1 All ER 948 (HL)]: (WLR p. 237 F-
+
+G) “… a court would only be justified in departing from the plain words of the statute when it is satisfied that: (1) there is clear and gross balance of anomaly; (2) Parliament, the legislative promoters and the draftsman could not have envisaged such anomaly, could not have been prepared to accept it in the interest  of a supervening legislative objective; (3) the anomaly can be obviated without detriment to such legislative objective; (4) the language of the statute is susceptible of the modification required to obviate the anomaly.” 19.3 An issue regarding interpretation of various provisions of the Juvenile Justice (Care and Protection of Children) Act, 201540 came up for consideration before this Court in Child in Conflict with Law through his Mother vs State of Karnataka and Another41 wherein this Court, while interpreting the provisions of Section 14 of the J.J. Act, took guidance from proviso to Section 14(4) and extended its application to sub-section (3) thereof. The Court placed reliance on the decisions in Surjit Singh Kalra and Rajbir Singh Dalal (supra). This Court examined the normal rule that the court cannot add words to the statutes and even the exceptions thereto while referring to earlier judgment on the issue and held as under:
+
+“41. In our opinion, the guidance as is evident from sub-section (4) of Section 14 of the Act enabling the Chief Judicial Magistrate or Chief Metropolitan Magistrate to extend the period of inquiry as envisaged under Section 14(1), shall apply for extension of period as envisaged in 40 Hereinafter referred to as “J.J. Act”. 41 (2024) 8 SCC 473: 2024 INSC 387  sub-section (3) also. Such an extension can be granted for a limited period for the reasons to be recorded in writing.
+
+While considering the prayer for extension of time, the delay in receipt of opinion of the experts shall be a relevant factor. This shall be in the spirit of the Act and giving the same a purposive meaning.”
+
+20. The solution to the problem can be in three ways as the object is to provide remedy for enforcement of orders passed by different fora under the 1986 Act, post-2002 Amendment Act:
+
+(i) Treat the word ‘interim’ as used in Section 25(1) as surplus; or
+(ii) To add the words ‘or final’ after the word ‘interim’ as used in sub-section thereof; or
+(iii) To add the words ‘any order’ in place of ‘interim order’ in the sub-section and make provisions of Order XXI of the 1st schedule of CPC applicable.
+
+21. If we talk about the enforcement of orders passed by different Fora, Section 25 of the 1986 Act, as existed prior to the 2002 Amendment Act, provided that ‘every order’ can be enforced as if it is a decree of the court. Section 27 of the 1986 Act even made a person, against whom an order is passed, criminally liable, in case of non-compliance thereof. Under the aforesaid Section a complaint can be filed for non-compliance of ‘any order’.
+
+22. Though comprehensive amendments were made by the 2002 Amendment Act empowering consumers more and in that line, conferring more power to the Fora under the aforesaid Act. While substituting Section 25 of the 1986 Act, which provides for enforcement of orders, the same has been divided into three parts. The apparent error is in sub-section (1) thereof which does not go in line with the spirit and object of the 1986 Act. The reason may be that earlier different Fora under the Act could not grant interim relief and by the 2002 Amendment Act they were empowered to do so. Sub-section (1) erroneously uses the expression ‘interim order’ as against ‘any order’. As is evident from Section 14 of the 1986 Act, different types of reliefs can be granted under the Act and one of them is in the form of compensation. For enforcement of any order passed providing for payment of compensation in monetary terms, sub-section (3) of Section 25 provides that ‘an order’ providing for any monetary compensation can be enforced as per the procedure prescribed. Meaning therefor any other order passed except providing for monetary compensation and being a final order, after the 2002 Amendment Act, there is no provision under the 1986 Act for enforcement thereof.
+
+23. At the cost of repetition, we may add that even prior to the 2002 Amendment Act and after the 1986 Act was replaced by the 2019 Act, different Fora have been empowered to enforce any order passed and not limiting the same to interim order only. Further, it is evident from the fact that remedy on civil side for enforcement of final order is not available under Section 25 whereas a complaint providing for criminal liability of the person not complying with the order was available.
+
+24. For execution of any order except where monetary compensation has been awarded, if provisions of the 1986 Act are considered, post the 2002 Amendment Act, there is no provision providing for enforcement of orders. Even though the 1986 Act is a self-contained code, apparently, there being remedy, and earlier provisions providing for execution of order as a decree of civil court, the person in whose favor such an order is passed may have to invoke the extraordinary jurisdiction of the High Court. This does not go with the spirit of the 1986 Act where informal procedure had been provided to make it more user friendly. CONCLUSION
+
+25. From the aforesaid discussion, keeping in view the object in mind for which the 1986 Act and the 2019 Act have been enacted, in our view, using different tools available for interpretation of statutes, in Sub-section (1) of Section 25 the words where ‘an interim order’ should be read as where ‘any order’. Towards the end of sub-section (1) and before words ‘may order the property…’, following line shall be deemed to be added ‘enforce the same in the manner as if it were a decree or order made by the Court in a suit and the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 shall, as far as may be, applicable and’. This interpretation goes in line with what was being understood and applied by different fora even post 2002 Amendment in 1986 Act. This is evident from number of execution petitions filed, entertained and disposed of. Many are still pending.
+
+26. The sub-section (1) of Section 25 shall now read as under:
+
+“Section 25. Enforcement of orders of the District Forum, the State Commission or the National Commission.
+ (1) Where any order made under this Act is not complied with, the District Forum or the State Commission or the National Commission, as the case may be, enforce the same in the manner as if it were a decree or order made by the Court in a suit and the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 shall, as far as may be, applicable and may order the property of the person, not complying with such order to be attached.”
+
+27. As there was anomalous situation in the language of Section 25(1) of the 1986 Act for the period 15.03.2003 to 20.07.2020, the provision as we have suggested above shall be considered as applicable in all the pending execution petitions or proceedings arising therefrom at any stage. REMEDIES TO CHALLENGE ORDERS PASSED BY DIFFERENT FORA IN EXECUTION PROCEEDINGS
+
+28. We may add here that there is another apparent anomaly which existed in the 1986 Act and continues to exist in the 2019 Act. In case an order is passed by the District Forum in an execution petition, the remedy of appeal lies before the State Commission42.
+
+42 Section 15 of the 1986 Act and Section 41 of the 2019 Act 28.1 In case an order is passed by the State Commission in execution petition, there is no remedy of appeal to the National Commission. An appeal lies to the National Commission from an order of the State Commission only if the order is passed with reference to a complaint on the original side43. 28.2 Similar is the position, where an order is passed by the National Commission in execution proceedings, the remedy of appeal to this Court is not available. Against an order of the National Commission, the appeal lies to this Court only if such order is passed in a complaint by the National Commission and not against an order passed in execution petition44. 28.3 The fact cannot be lost sight of that in an execution petition certain factual aspects may have to be gone into. In some cases, calculations may be required. In the absence of even single appellate remedy, the aggrieved parties may have to invoke extra-ordinary jurisdiction of the High Court. We have not considered this aspect of the matter, as the issue was not raised. However, we leave it open to the authorities to examine the matter in the aforesaid light.
+
+43 Section 19 of the 1986 Act and Section 51 of the 2019 Act 44 Section 23 of the 1986 Act and Section 67 of the 2019 Act DIRECTIONS TO THE NCDRC
+
+29. As has been seen, post the amendment carried out by the 2002 Amendment Act, timelines have been provided for decision of complaints and appeals. From the information, as furnished by the learned Attorney General for India in the Court, there are many execution petitions pending before different Fora from the year 1992 onwards. We request the Chairman, National Consumer Disputes Redressal Commission to examine the issue and take appropriate steps for expeditious disposal of the execution petitions pending at different stages, in exercise of its powers under Section 70(1)(d) of the 2019 Act.
+
+30. An order passed by any court, or any forum is merely a kind of paper decree unless effective relief is granted to the party entitled thereto. The consumers of justice should feel that they have received justice in reality and not merely on papers. ISSUE NO.2
+
+31. The factual position of the case, in order to adjudicate upon merits, has already been discussed in detail in paras 1.1 to 3.
+
+32. The scheme of the 1986 Act has been discussed in paras 10.1 to 10.7. In the present case, the order dated 20.11.2007 was passed by the District Forum in Execution Petition No. E-22 of 2007 filed by the appellant-society. In case any person was aggrieved thereof, the proper remedy was to file appeal against that order before the State Commission as provided under Section 15 of the Act. Thereafter, no remedy of appeal or revision therefrom is provided.
+
+33. In case an order is passed by the State Commission in execution petition, no appeal will be maintainable before National Commission as Section 19 of the 1986 Act provides for limited remedy of appeal against an order passed by the State Commission to the National Commission.
+
+34. Since the execution of an order passed by different fora under the 1986 Act will not be a matter of consumer dispute, even the suo motu exercise of revisionary powers is impermissible.
+
+35. In the case in hand, order passed in execution was challenged by the aggrieved parties by filing revision petitions before the State Commission, whereas the appropriate remedy was to file an appeal. As the issues were considered in detail by the State Commission, the revision petitions so filed would be considered to be appeals against the order passed by the District Forum.
+
+36. Insofar as the conclusion of the order passed by the National Commission regarding non-maintainability of revision petition against the order passed by the State Commission is concerned, there is no dispute. However, we do not agree with the reasoning given. The order passed by the State Commission impugned before the National Commission could not be considered to have been passed under Section 27-A of the 1986 Act, as it limited filing of appeals against an order passed under Section 27 of the Act. The order passed by the District Forum in the case in hand was under Section 25 of the 1986 Act and not under Section 27. Neither an appeal nor a revision against an order passed by the State Commission in an appeal filed against the order of the District Forum in execution proceedings shall be maintainable before the National Commission.
+
+37. As no remedy will be available against the first appellate order passed by the State Commission in execution proceedings filed before the District Forum, the aggrieved party will be at liberty to avail of the appropriate remedy in accordance with law.
+
+RELIEF
+
+38. Section 25(1) of the 1986 Act shall be read as enumerated below for the period from 15.03.2003 to 20.07.2020 with reference to all pending proceedings at any stage for execution of any order passed under the 1986 Act.
+
+“Section 25. Enforcement of orders of the District Forum, the State Commission or the National Commission.
+
+(1) Where any order made under this Act is not complied with, the District Forum or the State Commission or the National Commission, as the case may be, enforce the same in the manner as if it were a decree or order made by the Court in a suit and the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 shall, as far as may be, applicable and may order the property of the person, not complying with such order to be attached.” 38.1 Against an order passed by the District Forum in execution petition, an appeal shall lie to the State Commission under Section 15 of the 1986 Act with no further remedy of appeal or revision.
+
+38.2 Against an order passed by the State Commission in the execution petition, no further appeal or revision shall lie.
+
+39. In view of the above, all the civil appeals are disposed of accordingly.
+
+40. Pending applications, if any, shall also stand disposed of.
+
+41. We place on record our sincere appreciation for the valuable assistance rendered by Shri R. Venkataramani, learned Attorney General for India and Shri Jai Deep Gupta, learned senior counsel, and their team of lawyers, including Ms. Jharna and Mr. Shubham Singh Bhadouriya, Law Clerks-cum-Research Associate, for assisting this Court to arrive at a conclusion which may resolve the anomalous situation in Section 25(1) of the 1986 Act.
+
+……………….……………..J. [ J.K. MAHESHWARI ] ……………….……………..J. [ RAJESH BINDAL ] New Delhi August 22, 2025.

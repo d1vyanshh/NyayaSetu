@@ -1,0 +1,129 @@
+[Cites 3, Cited by 43]
+Supreme Court of India
+Commssioner Of Income Tax, West Bengal vs Kamal Behari Lal Singha Etc on 16 August, 1971
+Equivalent citations: 1971 AIR 2375, 1972 SCR (1) 225, AIR 1971 SUPREME COURT 2375, 1971 TAX. L. R. 1549
+Author: K.S. Hegde
+Bench: K.S. Hegde, A.N. Grover
+           PETITIONER:
+COMMSSIONER OF INCOME TAX,  WEST BENGAL.
+
+	Vs.
+
+RESPONDENT:
+KAMAL BEHARI LAL SINGHA ETC.
+
+DATE OF JUDGMENT16/08/1971
+
+BENCH:
+HEGDE, K.S.
+BENCH:
+HEGDE, K.S.
+GROVER, A.N.
+
+CITATION:
+ 1971 AIR 2375		  1972 SCR  (1) 225
+ CITATOR INFO :
+ R	    1992 SC1495	 (17,37)
+
+
+ACT:
+Income Tax-Capital or Revenue-Tests for determining-Dividend
+paid by company out of accumulated capital gains received by
+company	 in the shape of Salamis and Land  Acquisition	Com-
+pensation-Since	 share holders took a share of	the  capital
+asset in which they were beneficially interested, receipt is
+capital receipt.
+
+
+
+HEADNOTE:
+During	 the  relevant	accounting  year  the	respondents-
+assesseereceived  a  certain  amount  as  dividend  from   a
+company.   A  part  of	the  amount  was  paid	out  of	 the
+accumulated  capital  gains received by the company  in	 the
+shape  of Salamis and land acquisition	compensation.	Such
+capital gains were taken to the reserve fund and  thereafter
+distributed as dividend.  On the question of the  taxability
+of that share of the dividend paid out of the capital  gains
+in the hands of the company the Income-tax Officer held	 the
+same  was  taxable as "dividend."  The	Appellate  Assistant
+Commissioner held that the amount could not be considered as
+"dividend"  within  the	 meaning of section,  2(6A)  of	 the
+Income-tax Act, 1922, but the same was taxable as income  in
+the hands of the assessee.  The Tribunal confirmed the order
+of the Appellate Assistant Commissioner.  'the High Court on
+reference answered in favour of the assessee.
+Dismissing the appeals,
+HELD:	  It  is  well-settled	that in order  to  find	 out
+whether	 a receipt is a capital receipt or revenue  receipt,
+it  has to be seen what it is in the hands of  the  receiver
+and  not  its nature in the hands of the  payer.   In  other
+words,	the nature of the receipt is determined entirely  by
+its  character In the hands of the receiver and	 the  source
+from  which  the  payment  is made has	no  bearing  on	 the
+question. [417 G]
+The  assessees	Who were share-holders in the  company	were
+beneficially  entitled to the capital of the  company.	 The
+amount	in question was not something earned by the  company
+in the course of its business.	Undoubtedly it was a capital
+receipt	 in the hands of the company but that by  itself  is
+not sufficient.	 It has to be seen whether it was a  capital
+receipt	 in the hands of the assessee.	Since  the  assessee
+had  a	beneficial interest in the sum when it	was  in	 the
+hands of the company, when that sum was distributed  amongst
+the share-holders of the company, each of the  share-holders
+took  a	 share	of  the capital asset  in  which  they	were
+beneficially  entitled.	 That being so, the receipt, in	 the
+present casement also be considered as capital receipt.	 The
+fact  that those sums were distributed as  "dividends"	does
+not change the true nature of the receipt. [229 D-G]
+226
+Commissioner of Income-tax, West Bengal v. Nalin Behari Lall
+Singha,	 74  I.T.R.  749 and Trustees of the  will  of	H.K.
+Brodie (Deceased) v.	 Commissioner of Inland Revenue,  17
+T.C. 432, referred to.
+
+
+
+JUDGMENT:
+
+CIVIL APPELLATE JURISDICTION : Civil Appeals Nos. 1667 to 1673 to 1968.
+
+Appeals from the judgment and order dated August 30, 1967 of the Calcutta High Court in Income-tax Reference Nos. 3, 6, 7, 8, 9, 10 and II of 1964.
+
+B. D. Sharma, for the appellant (in all the appeals). Sukumar- Ghose and Swapna Ghosh, for the appellant in all the appeals), The Judgment of the Court was delivered by Hegde, J. Two questions of law which arise for decision in these appeals are:
+
+"(1) Whether on the facts and in the circum-
+
+stances of the case of Tribunal was right in holding that the distribution to the assessee of the amount attributable to land acquisition compensation received by the Ukhara Estate Zamindaries Ltd. after 31st March, 1948 was in the hands of the assessee, receipt of dividend within the meaning of Section 2(A) of the Indian Income-tax Act, 1922 ?
+
+(2) Whether on the facts and in the circumstances of the case the Tribunal was right in holding that the receipt by the assessee of the amount attributable to selamis realised by the Ukhara Estate Zamindaries Ltd., for grant of long-term leases after 31st March, 1948 was a receipt of income of the assessee and tax,able as the income of the assessee from other sources?"
+
+On both these questions the decision of the authorities under the Indian Income-tax Act, 1922 (in brief the Act ) ,as well as that of the Tribunal was against the assessees. But disagreeing with the,, view taken by these authorities ,the High Court answered both these questions in favour -of the assessees. The Commissioner of Income-tax, West Bengal aggrieved by this decisions has brought these appeals to this Court on the strength of the certificates given by the High Court.
+As facts in each of these appeals are more or less similar, it is sufficient if we set out the facts in the case of Kamal Behari Lal Singha, for the assessment year 1950-51, the corresponding accounting year being 1356 B. S. ending On April 13, 1950. It is said that Kamal Behari Lal Singha, who will hereinafter be referred to as the assessee was a shareholder in the Ukhara Estate Zamindaries Ltd. (to be hereinafter referred to as the "company"). During the relevant accounting year, the assessee received a sum of Rs. 13,200 as dividend from the said company. The said dividend was declared on October 19, 1949. Out of that amount a sum of Rs. 8,829 was paid out of the accumulated capital gains, received by the company in the shape of Selamis and land acquisition compensation receipts after March 31, 1948. Such capital gains were taken to the reserve fund and thereafter distributed as dividends. The remainder of the dividends was paid out of the balance of the profit and loss account:
+In these appeals the dispute centers round the taxability of that share of the dividend which has been paid out of the capital gains in the hands, of the company. The Income-tax Officer came to the conclusion that no dividend distributed can be considered as having been paid out of the "capital gains" of the company, therefore the same is taxable as "dividend". In appeal the Appellate Assistant Commissioner accepted the contention of the assessee that the receipt of Rs. 8,829cannot be considered as dividend within the meaning of s.2 (6A) of the Act but he held that the same is taxable as income in the hands of the assessee. The Tribunal con- firmed the order of the Appellate Assistant Commissioner It is now well settled that in order to find out whether a receipt is a capital receipt or a Revenue receipt one has to. see what it is in the hands of the receiver and not its nature in the hands of the payer. In other words, the nature of' receipt is determined entirely by its character in the hands. of the receiver and the source from which the payment is. made has no bearing on the question. Where an amount is paid which, so far as the payer is concerned, is paid wholly or partly out of the capital, and the receiver receives it as income on his part, the entire receipt is taxable in the hands of the receiver. Therefore the fact that the amount sought to be taxed in these appeals was capital gains in the hands of the company is not a relevant circumstance. What we have to see is what it was in the hands of the assessees. The question whether a particular receipt is a capital receipt or a revenue receipt is a somewhat difficult question -,to decide though the principles bearing on the question are welt settled. The application of those principles to a given set of facts often creates difficulties. The decision by and ',large depends upon the facts of each case.
+So far as the first question set out earlier is concerned the same is settled by the decision of this Court in Commissioner of Income-tax, West Bengal v. Nalin Behari Lall Singha (1). The assessee therein was also one of the share- holders of Ukhara Estate Zamindaries Ltd. His case was no different from that of the respondents herein. But the only point that arose for decision in that appeal was whether the receipts similar to those we are considering here can be considered as 'dividends'? This court answered that question in the negative. This Court refused to go in to the question whether the same could be considered as income @other than dividend. Dealing with that contention this Court observed :
+"Counsel for there venues ought to argue that the share of dividend which is not chargeable total by virtue of the exemption clause is still liable to tax as income other than dividend. But no such contention was raised before the Tribunal or the High Court and no question was raised in that behalf. We will not be justified in entering upon the question which was not raised or argued before the Tribunal and before the High Court."
+
+In these appeals we have to decide what was left undecided in that case.
+
+Coming back to the question how Inexactly to draw the line between a capital receipt and a revenue receipt in cases of the type that are before us, one, can do no better than refer to the observations of Finley J. in Trustees of the Will of H. K. Brodie (deceased) v. Commissioner Inland. Revenue (2).
+
+"But, I think, the governing consideration is this: the question be ing, was the sum received as income, one has to consider what was the source from which (1) 74 I.T.R. 749.
+(2) 17 T.C. 432 at p. 439.
+
+2 29 it was received and what were the circumstances in which it was received. If the capital belonged to the person receiving the sums--if he or she was beneficially entitled not only to the income but to the capital then I should think that, when the payments were made, they ought to be regarded, and would be regarded, as payments out of capital, but where there is a right to the income, but the capital belongs to somebody else, then, if payments out of capital are made and made in such a form that they come into the hands of the beneficiaries as income, it seems to me that they are income and not the less income, not of the person receiving them, but in the hands of somebody else
+
+-capital."
+
+The above observations, in our opinion, correctly set out the law.
+
+Let us now turn to the facts of this case. The assessees were shareholders in the company. They were beneficially entitled to the capital of the company. The amount with which we are concerned in these appeals was received by the company as Salamis and as compensation for the acquisition of the lands of the company. It was not something earned by the company in the course of its business. Undoubtedly it was a capital receipt in the hands of the company but that by itself is not sufficient.' We have next to see whether it was a capital receipt in the hands of the assessee. As mentioned earlier, the assessee had a beneficial interest in that sum when it was in the hands of the company. Therefore when that sum was distributed amongst the shareholders of the company, each of the shareholders took a share of the capital set in which they were beneficially entitled. That being so the receipt with which we are concerned in these appeals must also be considered as capital receipt. The fact that those sums were distributed as 'dividends' does not change the true nature of the receipt. A receipt is what it is and not what it is called.
+
+In the result these appeals fail and they are dismissed with costs-hearing fee one set.
+
+K.B.N.					  ApPeal dismissed.
+
+
+
+

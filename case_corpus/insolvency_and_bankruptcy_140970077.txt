@@ -1,0 +1,764 @@
+[Cites 65, Cited by 99]
+Supreme Court of India
+Dena Bank (Now Bank Of Baroda) vs C. Shivakumar Reddy on 4 August, 2021
+Author: Indira Banerjee
+Bench: V. Ramasubramanian, Indira Banerjee
+                                                                                         1
+
+
+
+
+                                                                        REPORTABLE
+
+                                    IN THE SUPREME COURT OF INDIA
+
+                                      CIVIL APPELLATE JURISDICTION
+
+                                     CIVIL APPEAL NO.1650 OF 2020
+
+
+                Dena Bank (now Bank of Baroda)                        ....Appellant(s)
+
+
+                                                    versus
+
+
+                C. Shivakumar Reddy and Anr.                       .…Respondent(s)
+
+
+
+
+                                              JUDGMENT
+
+
+Indira Banerjee, J.
+
+This Appeal under Section 62 of the Insolvency and Bankruptcy Code, 2016 (IBC) is against a judgment and final order dated 18 th December 2019 passed by the National Company Law Appellate Tribunal (NCLAT), allowing Company Appeal (AT) (Insolvency) No.407 of 2019, filed by the Respondents and setting aside an order dated 21 st March 2019 passed by the Adjudicating Authority/National Company Law Tribunal (NCLT), Bengaluru, whereby the Adjudicating Authority had admitted the Petition being CP(IB) No.244/BB/2018 filed by the Appellant Bank against the Respondent No.2 (Corporate Debtor) under Section 7 of the IBC. The NCLAT held that the said Petition of the Appellant Bank under Section 7 of the IBC, was barred by limitation. The Respondent No.1 is a Director of the Corporate Debtor.
+
+2. By a letter dated 23rd December, 2011 the Appellant Bank had sanctioned Term Loan and Letter of Credit Cum Buyers’ Credit in favour of the Corporate Debtor, with an upper limit of Rs.45.00 Crores.
+
+3. The said Term Loan was to be repaid in 24 quarterly instalments of Rs.187.50 lakhs, which were to commence two years after the date of disbursement, and the entire Term Loan was to be repaid in eight years, inclusive of the implementation period of one year and the moratorium period.
+
+4. The Corporate Debtor executed various documents including Demand Promissory Notes, Letters of General Lien, etc. in favour of the Appellant Bank and also mortgaged its lease hold rights in its immovable property specified in the petition of appeal, by depositing the Title of Deeds of the said immovable property with the Appellant Bank.
+
+5. On 20th September, 2013 the Corporate Debtor defaulted in repayment of its dues to the Appellant Bank. The Loan Account of the Corporate was therefore declared Non Performing Asset (NPA) on 31 st December 2013.
+
+6. The Corporate Debtor addressed a letter dated 24 th March 2014 to the Appellant Bank, making a request for restructuring the Term Loan. The Appellant Bank did not accede to the request.
+
+7. On 22nd December 2014, the Appellant Bank issued legal notice to the Corporate Debtor as well as the Respondent No.2, calling upon them to make payment of Rs.52.12 crores, claimed to be due from the Corporate Debtor as on 22nd December 2014. The Corporate Debtor did not make the payment.
+
+8. On or about 1st January 2015, the Appellant Bank filed an application being O.A. No.16/2015 under Section 19 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993, now known as the Recovery of Debts and Bankruptcy Act, 1993 and hereinafter referred to as ‘the Debt Recovery Act’ before the Debt Recovery Tribunal (in short, DRT) Bangalore for recovery of its outstanding dues of Rs.52,12,49,438.60 as on 22nd December 2014.
+
+9. By a letter dated 5th January 2015, the Corporate Debtor replied to the said notice dated 22nd December 2014, inter alia, requesting once again, that the loan be restructured. Mr. Dhruv Mehta, Senior Advocate, appearing on behalf of the Appellant Bank submitted that the Corporate Debtor had accepted its liability to the Appellant Bank, by its aforesaid letter dated 5th January 2015.
+
+10. On or about 3rd March 2017, while proceedings were pending in the DRT, the Corporate Debtor gave a proposal for one time settlement of the Term Loan Account, upon payment of Rs.5.50 crores. The proposal was, however, not accepted by the Appellant Bank.
+
+11. On 27th March 2017, the Debt Recovery Tribunal, Bengaluru passed a final judgment and order/decree against the Corporate Debtor in the said O.A. No.16/2015, for recovery of Rs.52,12,49,438.60 with future interest at the rate of 16.55% per annum, from the date of filing the application till the date of realization.
+
+12. On 25th May 2017, the Debt Recovery Tribunal issued a Recovery Certificate No. 2060/2017, in favour of the Appellant Bank for recovery of Rs.52,12,49,438.60 from the Corporate Debtor. Thereafter, on 19 th June 2017, Corporate Debtor once again gave the Appellant Bank a proposal for One Time Settlement to mutually settle the loan amount.
+
+13. Mr. Mehta appearing for the Appellant Bank pointed out, that the Corporate Debtor had, in its Annual Reports for the financial years 2016- 2017 and 2017-2018, acknowledged its liability in respect of the loan taken by it from the Appellant Bank.
+
+14. On 1st October 2018, the Appellant Bank issued a Demand Notice to the Corporate Debtor in Form-3 contained in the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, hereinafter referred to as the ‘2016 Adjudicating Authority Rules’, and on 12th October 2018, the Appellant Bank filed the Petition being CP(IB) No.244/BB/2018 before the Adjudicating Authority under Section 7 of the IBC in Form-1 given in the Annexure to the 2016 Adjudicating Authority Rules.
+
+15. About three months thereafter, by a Notification being GSR No.2(e) dated 2nd January 2019 the Department of Financial Services, Ministry of Finance, Government of India amalgamated Vijaya Bank, Dena Bank and Bank of Baroda.
+
+16. On 9th January 2019, the Appellant Bank filed an application before Adjudicating Authority under Rule 11 of the National Company Law Tribunal Rules 2016 hereinafter referred to as the ‘NCLT Rules’, read with Rule 4 of the 2016 Adjudicating Authority Rules, being I.A. No.27/2019 dated 9th January 2019 in CP(IB) No.244/BB/2018, for permission to place on record additional documents, including the final judgment and order dated 27.03.2017 of the DRT in OA No.16/2015 and the Recovery Certificate No.2060/2017 dated 25.05.2017 issued by the DRT.
+
+17. On 2nd February 2019, the Corporate Debtor filed its preliminary objection to the Petition filed by the Appellant Bank under Section 7 of the IBC, inter alia, contending that the said Petition was barred by limitation.
+
+18. By an order dated 4th February 2019, the Adjudicating Authority allowed the application of the Appellant Bank being I.A No. 27/2019 in CP (IB) No.244/BB/2018, and directed the Appellant Bank to file an amended petition enclosing the documents referred to in the Application being I.A. No.27/2019. The Registry was directed to permit the Counsel for the Appellant Bank to amend the Company Petition accordingly.
+
+19. On or about 5th March 2019, the Appellant Bank filed another application under Rule 11 of the NCLT Rules, being I.A. No.131 of 2019 in CP(IB) No.244/BB/2018, before the Adjudicating Authority for permission to place on record additional documents, including the letter dated 03.03.2017 of the Corporate Debtor to the Appellant Bank proposing a One Time Settlement, the Annual Report of the Corporate Debtor for the years 2016-2017, the Financial Statement of the Corporate Debtor for the period from 1st April 2016 to 31st March 2017 and the Financial Statement of the Corporate Debtor, for the period from 1st April 2017 to 31st March 2018. By an order dated 6.03.2019 in I.A. No.131 of 2019, the Appellant Bank was permitted to file the documents in the Registry.
+
+20. By an order dated 21st March 2019 the Adjudicating Authority admitted the Petition under Section 7 of the IBC, being CP (IB) No.244/BB/2018, and appointed an Interim Resolution Professional. The objection of the bar of limitation, raised on behalf of the Corporate Debtor was considered at length, but rejected by the Adjudicating Authority (NCLT).
+
+21. On 6th April 2019, the Respondent No.1, filed an appeal being CA(AT) (Ins) No.407/2019 before the NCLAT under Section 61 of the IBC. The Appellant Bank filed its written statement supporting the order of the Adjudicating Authority dated 21st March 2019 admitting the Petition of the Appellant Bank under Section 7 of the IBC.
+
+22. After hearing the Appellant Bank, the Respondent No.1 and the Corporate Debtor, the NCLAT set aside the order dated 21 st March 2019 passed by the Adjudicating Authority (NCLT) Bengaluru and dismissed the Petition filed by the Appellant Bank under Section 7 of the IBC, holding that the said application was barred by limitation.
+
+23. The issue which arises for consideration of this Court, in this appeal is, whether the NCLAT has erred in law in arriving at the conclusion that, the Petition filed by the Appellant Bank under Section 7 of the IBC was barred by limitation, and setting aside the order dated 21st March 2019 passed by the Adjudicating Authority, admitting the said Petition.
+
+24. In other words, the main question involved in this appeal is, whether a Petition under Section 7 of the IBC would be barred by limitation, on the sole ground that it had been filed beyond a period of 3 years from the date of declaration of the loan account of the Corporate Debtor as NPA, even though the Corporate Debtor might subsequently have acknowledged its liability to the Appellant Bank, within a period of three years prior to the date of filing of the Petition under Section 7 of the IBC, by making a proposal for a One Time Settlement, or by acknowledging the debt in its statutory Balance Sheets and Books of Accounts.
+
+25. Another question which arises for the consideration of this Court is, whether a final judgment and decree of the DRT in favour of the Financial Creditor, or the issuance of a Certificate of Recovery in favour of the Financial Creditor, would give rise to a fresh cause of action to the Financial Creditor to initiate proceedings under Section 7 of the IBC within three years from the date of the final judgment and decree, and/or within three years from the date of issuance of the Certificate of Recovery.
+
+26. A third issue which arises for adjudication of this Court is, whether there is any bar in law to the amendment of pleadings, in a Petition under Section 7 of the IBC, or to the filing of additional documents, apart from those filed initially, along with the Petition under Section 7 of the IBC in Form-1.
+
+27. Mr. Mehta appearing on behalf of the Appellant Bank submitted that the Adjudicating Authority had passed its order dated 21 st March 2019, admitting the Petition of the Appellant Bank under Section 7 of the IBC, after taking into consideration the documents filed by the Appellant Bank along with its interim applications being I.A. No. 27 of 2019 and I.A. No.131 of 2019, and arriving at the finding that the Petition filed by the Appellant Bank under Section 7 of the IBC was not barred by limitation.
+
+28. Mr. Mehta submitted that NCLAT has allowed the appeal of the Respondent No.1, set aside the order of the Adjudicating Authority, and dismissed the Petition of the Appellant Bank under Section 7 of IBC, recording a finding that there was nothing on record that suggested that the Corporate Debtor had acknowledged its debt to the Appellant Bank. The Appellate Authority has ignored the documents filed by the Appellant Bank along with I.A. No.131 of 2019, which had duly been allowed by the Adjudicating authority.
+
+29. Mr. Mehta pointed out that, the NCLAT cited the judgments of this Court in Jignesh Shah and Anr. v. Union of India and Anr. 1 and Gaurav Hargovindbhai Dave v. Asset Reconstruction Company (India) Ltd. and Anr.2 and held that the account of the Corporate Debtor having been declared as NPA on 31st December 2013, the Petition under Section 7 of the IBC, filed after five years was barred by limitation.
+
+1. 2019 SCC online SC 1254: (2019) 10 SCC 750
+
+2. 2019 SCC Online SC 1239: (2019) 10 SCC 572
+
+30. Mr. Mehta argued that the NCLAT had returned a finding that there was nothing on record to show that the Corporate Debtor had admitted its debt to the Appellant Bank, overlooking relevant materials on record, including:
+
+(i) Admission of the Corporate Debtor of payment of Rs.111 lakhs on 28th March, 2014 towards interest on the loan.
+(ii) Letter dated 5th January, 2015 of the Corporate Debtor to the Appellant Bank, in response to the Demand Notice, acknowledging its liability to the Appellant Bank.
+(iii) A statement of objection filed by the Corporate Debtor in the DRT, Bangalore on or about 9th December 2015, denying the Appellant Bank’s claim of Rs.52,04,438 as baseless, but admitting that part of the amount was due.
+(iv) The Financial Statements and Balance Sheets of the Corporate Debtor for the years 2016-2017 (year ending 31st March 2017) and for the years 2017-2018 (year ending 31st March 2018).
+(v) Offer made by the Corporate Debtor on 03.03.2017 to settle its dues to the Appellant Bank on one time payment of Rs.5.5 crores.
+(vi) Final judgment and decree/order dated 27th March, 2017 passed by the DRT, Bengaluru, in favour of the Appellant Bank for an amount of Rs.52,12,49,438.60 in O.A. No.16/2015, with future interest at 16.55% per annum and the Recovery certificate No.2060/2017 issued by the DRT on 25th May 2017.
+
+31. Mr. Mehta argued that the Corporate Debtor had admitted having paid Rs.111 lakhs towards interest on 28 th March, 2014. This showed that the loan was alive and there was a subsisting jural relationship. On 03.03.2017, within three years, the Corporate Debtor had submitted a proposal for One Time Settlement (OTS) of its Term Loan Account with the Appellant Bank. In doing so, the Corporate Debtor had acknowledged its liability to the Appellant Bank. The Petition under Section 7 of the IBC was filed well within three years from the date of such acknowledgement.
+
+32. Mr. Mehta also pointed out that on 27th March 2017 the DRT, Bengaluru had passed a final judgment and order/decree for an amount of Rs.52,12,49,438.60 in favour of the Appellant Bank in O.A. No.16/2015 along with future interest at 16.55% per annum with monthly rests, from the date of application till the date of realisation, and had issued a Recovery Certificate No.2060 of 2017, dated 25th May 2017 for realisation of the said amount from the Corporate Debtor and the Respondent No.1. The Appellant Bank filed the Petition under Section 7 of the IBC for initiation of the Corporate Insolvency Resolution Process well within 3 years from the aforesaid dates.
+
+33. Mr. Mehta also submitted that the Corporate Debtor had in its financial statements for the period from 1 st April 2016 to 31st March 2017 and the period from 1st April 2017 to 31st March 2018, admitted that the Corporate Debtor had defaulted in repayment of its loan to the Appellant Bank. The financial statements of the Corporate Debtor, for the period from 1st April 2017 to 31st March 2018 reflect dues of Rs.67 crores to the Appellant Bank along with interest as on 31st March 2018, but excluding penal interest.
+
+34. Mr. Mehta argued that the Corporate Debtor had thus admitted the existence of jural relationship of debtor and creditor, between the Corporate Debtor and the Appellant Bank, which is evident from the documents referred to above. In their objections filed in this Court, the Respondents have admitted that they deposited Rs.111 lakhs in the current account of the Corporate Debtor with the Appellant Bank on 28 th March 2014, thereby acknowledging that the jural relationship of debtor and creditor between the Corporate Debtor and the Appellant Bank continued after 31st December, 2013.
+
+35. Mr. Mehta has also referred to the Counter Affidavit filed by the Respondent No.1 and the Corporate Debtor, where they admitted that the Corporate Debtor had sent a letter dated 3 rd March 2017 to the Appellant Bank, offering to make payment of Rs.5.5 crores by way of One Time Settlement. Moreover, the judgment and order/decree dated 27th March, 2017 passed by the DRT and the Recovery Certificate No.2060/2017 referred to above, which gave rise to a fresh cause of action to the Appellant Bank to initiate proceedings against the Corporate Debtor under Section 7 of the IBC, are matters of record and in any case, duly admitted.
+
+36. Relying on the judgments of this Court in Sesh Nath Singh and Anr. v. Baidyabati Sheoraphuli Cooperative Bank Ltd. And Anr. 3, Laxmi Pat Surana v. Union Bank of India and Ors. 4 and Asset Reconstruction Company (India) Limited. v. Bishal Jaiswal and Ors.5 Mr. Mehta argued that Section 18 of the Limitation Act applied to proceedings under the IBC. This issue was no longer res integra.
+
+37. On the other hand, Mr. Goutham Shivshankar appearing on behalf of the Respondents, submitted that under the scheme of the IBC, NCLAT is the final forum for determination of facts. Mr. Shivshankar argued that there is a factual determination by the NCLAT that records reveal no acknowledgement of debt for the purpose of extending limitation.
+
+38. Mr. Shivshankar contended the NCLAT has duly dealt with the question of acknowledgement holding:
+
+“In the present case there is nothing on record to suggest that the ‘Corporate Debtor’ acknowledged the debt within three years and agreed to pay the debt. The application moved by ‘Corporate Debtor’ to restructure the debt or payment of the interest does not amount to acknowledgement of debt. There is nothing on record to suggest that the ‘Corporate Debtor’ or its authorized representative by its signature has accepted or acknowledged the debt within three years from the date of default or from the date when the account was declared NPA, i.e. on 31st December 2013. The Balance Sheet of the ‘Corporate Debtor’ for the year 2016-2017 filed after 31 st March 2017 cannot be
+3. 2021 SCC Online SC 244
+4. 2021 SCC Online SC 267
+5. 2021 SCC Online SC 321 termed to be a document of acknowledgment in terms of section 18 of the Limitation Act.”
+
+39. According to Mr. Shivshankar, the NCLAT was entirely right in coming to the factual conclusion that the Petition of the Appellant Bank under Section 7 of the IBC was barred by limitation. Mr. Shivshankar argued that NCLT arrived at this conclusion on the basis of facts and materials on record and it cannot be said that the conclusion is perverse or otherwise warrants intervention of this Court in a Second Appeal, restricted to questions of law under Section 62 of the IBC.
+
+40. Mr. Shivshankar argued that this appeal has been filed on the basis of documents that were brought on record before the Adjudicating Authority (NCLT) at a belated stage, in a manner contrary to the provisions of IBC and the law laid down by this Court.
+
+41. Mr. Shivshankar emphatically argued that Appellant Bank filed its Petition under Section 7 of the IBC on 12 th October 2018, about five years after the date of default and was thus well beyond the period of limitation of three years, under Article 137 of the Schedule to the Limitation Act.
+
+42. Mr. Shivshankar pointed out that the Petition under Section 7 of the IBC mentions the date of default as 30 th September 2013, and 31st December 2013 as the date of declaration of the account of the Corporate Debtor as NPA. There was no averment in the petition of any acknowledgement of debt which extended the period of limitation.
+
+43. Mr. Shivshankar argued that, under Section 7(3) of the IBC, a Financial creditor is required to furnish “record of the default recorded with the information utility or record of evidence of default as may be specified” and “ any other information as may be specified by the Board”.
+
+44. Mr. Shivshankar further argued that as per Section 7(4) of the IBC, the NCLT was required to “ascertain the existence of default from the records of an information utility or on the basis of other evidence furnished by the financial creditor under sub-section (3)” within “fourteen days of the receipt of the application”. Mr. Shivshankar further argued that under Section 7(5) of the IBC, it was open to the NCLT to allow seven days to the financial creditor to rectify any defect in its application.
+
+45. Mr. Shivshankar argued the Adjudicating Authority (NCLT), instead of proceeding in the manner expressly stipulated in the IBC and without adhering to the time lines stipulated therein, delayed the adjudication of the question of admissibility of the petition under Section 7 of the IBC by four months, and allowed the Appellant Bank to introduce documents at a belated stage and these documents were considered by the NCLT despite vehement objections by the Respondents.
+
+46. Mr. Shivshankar further argued that on 2nd February 2019, Corporate Debtor filed its preliminary objection to the petition under Section 7 of the IBC, taking, a specific objection that the petition was time barred since the date of default was admittedly stated to be 30 th September 2013. However, the NCLT after hearing arguments on 8 th February 2019, adjourned the matter with a direction on Counsel appearing for the Appellant Bank, to file a gist of the case as also a copy of the order passed by the Karnataka High Court, in a Writ Petition filed by the Corporate Debtor, whereby the execution of the judgment and/or order/decree of the DRT in O.A. 16 of 2015 had been stayed.
+
+47. Mr. Shivshankar submitted that, taking advantage of the limited liberty granted to the Appellant Bank by the Adjudicating Authority to file a gist of the case and some orders/judgments, the Appellant Bank in abuse of the process of the Tribunal, filed I.A. No. 131 of 2019, introducing a whole new set of documents and setting up an entirely new case for extension of limitation, on the ground of alleged acknowledgement of debt.
+
+48. Mr. Shivshankar argued that I.A. No.131 of 2019 was supported by an affidavit. The documents listed above were introduced for the first time. Even at this stage all the documents were not filed. Some of the documents were never filed in the NCLT and were first brought on record in the reply filed before NCLAT.
+
+49. Mr. Shivshankar submitted that on 6 th March 2019 the NCLT passed an order, permitting learned counsel for the Appellant Bank to file a set of documents in the Registry, after serving copies thereof on the Respondents, and posted the case on 18 th March 2019. Mr. Shivshankar argued that the Respondents had specifically objected to the belated filing of additional documents. However, the NCLT completely ignored the objections raised on behalf of the Respondents and passed its order dated 21 st March 2019, admitting the petition under Section 7 of the IBC.
+
+50. Mr. Shivshankar submitted that the Respondents immediately appealed to the NCLAT, inter alia contending that the Adjudicating Authority had erred in permitting the Appellant Bank to substantially improve upon its original petition filed under Section 7 of the IBC, by filing additional documents and making out an entirely new case, after the expiry of fourteen days specified in Section 7 for ascertainment of default. Mr. Shivshankar submitted that it was in this background that the NCLAT made the factual finding at Paragraph 4 of the impugned order, that there was nothing on record to say that there was any acknowledgement of debt, renewing or extending limitation.
+
+51. Mr. Shivshankar argued that it is now well settled that the Limitation Act applies to proceedings under the IBC. Mr. Shivshankar also agreed that Section 18 of the Limitation Act would apply to proceedings in the NCLT under Section 7 of the IBC. However, he argued that, what falls for consideration in this appeal, is whether the Appellant Bank had placed sufficient materials on record, with its petition under Section 7 of the IBC, to attract Section 18 of the Limitation Act.
+
+52. Mr. Shivshankar finally argued that Section 62 of the IBC, under which this appeal has been filed, is restricted to questions of law, unlike an appeal to the NCLAT from an order of the Adjudicating Authority (NCLT), which is an appeal both on facts and in law.
+
+53. Mr. Shivshankar cited the judgment of this Court in Nazir Mohamed v. J. Kamala & Ors.6, authored by one of us (Indira Banerjee J.) where this Court held:-
+
+“To be a question of law “involved in the case”, there must be first, a foundation for it laid in the pleadings, and the question should emerge from the sustainable findings of fact, arrived at by Courts of facts, and it must be necessary to decide that question of law for a just and proper decision of the case. (emphasis supplied)
+
+54. There can be no dispute with the proposition that, to be a question of law involved in the case, there must be first a foundation laid in the pleadings, and the question should emerge from the sustainable findings of fact, arrived at by Courts of facts, as reiterated by this Court in Nazir Mohamad v. J. Kamala (supra), rendered in the context of a second appeal under Section 100 of the Civil Procedure Code.
+
+6. 2020 SCC OnLine SC 676
+
+55. Mr. Shivshankar next cited the judgment of this Court in Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries Private Limited7, where this Court speaking through Maheshwari J., held:
+
+“35. Apart from the above and even if it be assumed that the principles relating to acknowledgment as per Section 18 of the Limitation Act are applicable for extension of time for the purpose of the application under Section 7 of the Code, in our view, neither the said provision and principles come in operation in the present case nor do they enure to the benefit of Respondent 2 for the fundamental reason that in the application made before NCLT, Respondent 2 specifically stated the date of default as “8-7-2011 being the date of NPA”. It remains indisputable that neither has any other date of default been stated in the application nor has any suggestion about any acknowledgment been made. As noticed, even in Part V of the application, Respondent 2 was required to state the particulars of financial debt with documents and evidence on record. In the variety of descriptions which could have been given by the applicant in the said Part V of the application and even in residuary Point 8 therein, nothing was at all stated at any place about the so-called acknowledgment or any other date of default.
+35.1. Therefore, on the admitted fact situation of the present case, where only the date of default as “8-7-2011” has been stated for the purpose of maintaining the application under Section 7 of the Code, and not even a foundation is laid in the application for suggesting any acknowledgment or any other date of default, in our view, the submissions sought to be developed on behalf of Respondent 2 at the later stage cannot be permitted. It remains trite that the question of limitation is essentially a mixed question of law and facts and when a party seeks application of any particular provision for extension or enlargement of the period of limitation, the relevant facts are required to be pleaded and requisite evidence is required to be adduced. Indisputably, in the present case, Respondent 2 never came out with any pleading other than stating the date of default as “8-7-2011” in the application. That being the position, no case for extension of period of limitation is available to be examined. In other words, even if Section 18 of the Limitation Act and principles thereof were applicable, the same would not apply to the application under consideration in the present case, looking to the very averment regarding default therein and for want of any other averment in regard to acknowledgment. In this view of the matter, reliance on the decision in Mahabir Cold Storage [Mahabir Cold Storage v. CIT, 1991 Supp (1) SCC 402] does not advance the cause of Respondent 2.” 7 (2020) 15 SCC 1: 2020 SCC Online SC 647
+
+56. Relying on the aforesaid judgment, Mr. Shivshankar contended that the foundation for a plea of extension of limitation by virtue of acknowledgment of debt should be in the pleadings and cannot be developed at a later stage. Mr. Shivshankar emphatically argued that in this case, there was no foundation in the pleadings for a case of extension of limitation under Section 18 of the Limitation Act.
+
+57. Relying on Babulal Vardharji Gurjar (supra) Mr. Shivshankar argued that subsequent improvement in pleadings, at the fag-end of the NCLT proceedings, ought not to have been countenanced. Mr. Shivshankar further argued that, in any case, a proper construction of the documents relied upon by the Appellant Bank would show that they do not amount to acknowledgment under Section 18 of the Limitation Act, which requires that any acknowledgment must be made “before the expiration of the period of limitation for a suit or application”.
+
+58. Mr. Shivshankar cited a Full Bench judgment of Allahabad High Court in Munshi Lal v. Hira Lal & Anr.8, where the High Court held:-
+
+“Now, it is clear that a document said to constitute an acknowledgment has to be construed in the context in which it is given and that, where its language is not clear in itself, the context may be examined to see what it is to which the words refer. That is not to say that any equivocation in an acknowledgment can be cured by ascertaining what the probable intention of the acknowledgor was. That is quite a different thing. But, where, after examining in the light of the context what it was that the person giving the acknowledgment was actually referring to the conclusion follows that it is an unequivocal acknowledgment of a right, then that acknowledgment is sufficient to satisfy section 19 of the Limitation Act.” 8 ILR 1947 All 11: AIR 1947 All 74(FB)
+
+59. Mr. Shivshankar further pointed out that the Corporate Debtor’s reply dated 5th January 2015 to the legal notice issued by the Appellant Bank, the reply filed by the Corporate Debtor in O. S. No.16/2015 before the DRT, Bengaluru, the OTS Proposal dated 3 rd March 2017, OTS Proposal dated 19th June 2017 and the Balance Sheets/Annual Reports of the Corporate Debtor and a group company of the Corporate Debtor, namely Kaveri Telecom Products Limited, for the financial years 2016- 17 and 2017-18 are irrelevant for the purpose of Section 18 of the Limitation Act and many of those documents were in response to suggestions made by the Appellant Bank seeking willingness to restructure the account of the Respondents. Moreover, payment of outstanding interest of Rs.111 lakhs was made in March 2014 that is over four years before the date of filing of the petition under Section 7 of the IBC.
+
+60. Mr. Shivshankar also argued that the letter dated 24 th March 2014 written by the Corporate Debtor was not on record in the proceedings before the Adjudicating Authority. The document was introduced for the first time along with the reply filed by the Appellant Bank before the NCLAT. This document cannot be considered as part of the records at all.
+
+61. Mr. Shivshankar finally submitted that the communications from the Respondents were only to buy peace and end the litigation and cannot, therefore, be construed as acknowledgment of debts for the purpose of Section 18 of the Limitation Act.
+
+62. Referring to the judgment of this Court in Gaurav Hargovindbhai Dave (supra), Mr. Shivshankar argued that a proposal for One Time Settlement cannot be construed as an acknowledgment of debt for the purpose of Section 18 of the Limitation Act.
+
+63. Mr. Shivshankar drew our attention to the fact that a review petition was pending in this Court against the decision in Gaurav Hargovindbhai Dave (supra). Admittedly, however, the effect of the judgment has not been stayed. Until and unless the review application is allowed and the judgment is reversed, it would operate as a precedent.
+
+64. Mr. Shivshankar finally cited Jignesh Shah (supra) where this Court observed:-
+
+“The aforesaid judgments correctly hold that a suit for recovery based upon a cause of action that is within limitation cannot in any manner impact the separate and independent remedy of a winding-up proceeding. In law, when time begins to run, it can only be extended in the manner provided in the Limitation Act. For example, an acknowledgment of liability under Section 18 of the Limitation Act would certainly extend the limitation period, but a suit for recovery, which is a separate and independent proceeding distinct from the remedy of winding up would, in no manner, impact the limitation within which the winding-up proceeding is to be filed, by somehow keeping the debt alive for the purpose of the winding-up proceeding.”
+
+65. Mr. Shivshankar concluded his arguments with the submission that the Petition under Section 7 of the IBC was not based on the Recovery Certificate issued by the DRT or the judgment and order of the DRT. Therefore, there could be no question of reckoning limitation from the date of failure to make payment in terms of the Recovery Certificate.
+
+66. The IBC is an Act “to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in a time-bound manner for maximisation of value of assets of such persons, to promote entrepreneurship, availability of credit and balance the interests of all the stakeholders including alteration in the order of priority of payment of Government dues and to establish an Insolvency and Bankruptcy Board of India, and for matters connected therewith or incidental thereto”.
+
+67. The IBC aims at promoting, inter alia, investments and also resolution of insolvency of Corporate persons. As per its Statement of Objects and Reasons “the objective of the Insolvency and Bankruptcy Code, 2015 is to consolidate and amend the laws relating to reorganization and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner for maximization of value of assets of such persons, to promote entrepreneurship, availability of credit and balance the interests of all the stakeholders including alteration in the priority of payment of government dues and to establish an Insolvency and Bankruptcy Fund, and matters connected therewith or incidental thereto. An effective legal framework for timely resolution of insolvency and bankruptcy would support development of credit markets and encourage entrepreneurship. It would also improve Ease of Doing Business, and facilitate more investments leading to higher economic growth and development”.
+
+68. Under the scheme of the IBC, the Insolvency Resolution Process begins, when a default takes place, in the sense that a debt becomes due and is not paid. Some of the relevant provisions of the IBC, are set out hereinbelow for convenience:
+
+“3. Definitions.—In this Code, unless the context otherwise requires,— (6) “claim” means—
+(a) a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured or unsecured;
+(b) right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment, whether or not such right is reduced to judgment, fixed, matured, unmatured, disputed, undisputed, secured or unsecured;
+(7) “corporate person” means a company as defined in clause (20) of Section 2 of the Companies Act, 2013 (18 of 2013), a limited liability partnership, as defined in clause (n) of sub-section (1) of Section 2 of the Limited Liability Partnership Act, 2008 (6 of 2009), or any other person incorporated with limited liability under any law for the time being in force but shall not include any financial service provider; (8) “corporate debtor” means a corporate person who owes a debt to any person;
+…..
+(10) “creditor” means any person to whom a debt is owed and includes a financial creditor, an operational creditor, a secured creditor, an unsecured creditor and a decree-holder;
+(11) “debt” means a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt; (12) “default” means non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not 5[paid] by the debtor or the corporate debtor, as the case may be;
+
+4. Application of this Part.—(1) This Part shall apply to matters relating to the insolvency and liquidation of corporate debtors where the minimum amount of the default is one lakh rupees:
+
+Provided that the Central Government may, by notification, specify the minimum amount of default of higher value which shall not be more than one crore rupees.
+
+5. Definitions.—In this Part, unless the context otherwise requires— *** (7) “financial creditor” means any person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to;
+
+(8) “financial debt” means a debt along with interest, if any, which is disbursed against the consideration for the time value of money and includes—
+
+(a) money borrowed against the payment of interest;
+
+(b) any amount raised by acceptance under any acceptance credit facility or its dematerialised equivalent;
+
+(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
+
+(d) the amount of any liability in respect of any lease or hire-purchase contract which is deemed as a finance or capital lease under the Indian Accounting Standards or such other accounting standards as may be prescribed;
+
+(e) receivables sold or discounted other than any receivables sold on non-recourse basis;
+
+(f) any amount raised under any other transaction, including any forward sale or purchase agreement, having the commercial effect of a borrowing;
+
+(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price and for calculating the value of any derivative transaction, only the market value of such transaction shall be taken into account;
+
+(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter of credit or any other instrument issued by a bank or financial institution;
+
+(i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of this clause;
+
+6. Persons who may initiate corporate insolvency resolution process. —Where any corporate debtor commits a default, a financial creditor, an operational creditor or the corporate debtor itself may initiate corporate insolvency resolution process in respect of such corporate debtor in the manner as provided under this Chapter.
+
+7. Initiation of corporate insolvency resolution process by financial creditor.—(1) A financial creditor either by itself or jointly with 15[other financial creditors, or any other person on behalf of the financial creditor, as may be notified by the Central Government, may file an application for initiating corporate insolvency resolution process against a corporate debtor before the Adjudicating Authority when a default has occurred. Provided that for the financial creditors, referred to in clauses (a) and (b) of sub-section (6-A) of Section 21, an application for initiating corporate insolvency resolution process against the corporate debtor shall be filed jointly by not less than one hundred of such creditors in the same class or not less than ten per cent. of the total number of such creditors in the same class, whichever is less:
+
+Provided further that for financial creditors who are allottees under a real estate project, an application for initiating corporate insolvency resolution process against the corporate debtor shall be filed jointly by not less than one hundred of such allottees under the same real estate project or not less than ten per cent. of the total number of such allottees under the same real estate project, whichever is less:
+Provided also that where an application for initiating the corporate insolvency resolution process against a corporate debtor has been filed by a financial creditor referred to in the first and second provisos and has not been admitted by the Adjudicating Authority before the commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2020, such application shall be modified to comply with the requirements of the first or second proviso within thirty days of the commencement of the said Act, failing which the application shall be deemed to be withdrawn before its admission.] Explanation.—For the purposes of this sub-section, a default includes a default in respect of a financial debt owed not only to the applicant financial creditor but to any other financial creditor of the corporate debtor.
+(2) The financial creditor shall make an application under sub-section (1) in such form and manner and accompanied with such fee as may be prescribed.
+(3) The financial creditor shall, along with the application furnish—
+(a) record of the default recorded with the information utility or such other record or evidence of default as may be specified;
+(b) the name of the resolution professional proposed to act as an interim resolution professional; and
+(c) any other information as may be specified by the Board.
+(4) The Adjudicating Authority shall, within fourteen days of the receipt of the application under sub-section (2), ascertain the existence of a default from the records of an information utility or on the basis of other evidence furnished by the financial creditor under sub-section (3):
+Provided that if the Adjudicating Authority has not ascertained the existence of default and passed an order under sub-section (5) within such time, it shall record its reasons in writing for the same.] (5) Where the Adjudicating Authority is satisfied that—
+(a) a default has occurred and the application under sub-section (2) is complete, and there is no disciplinary proceedings pending against the proposed resolution professional, it may, by order, admit such application; or
+(b) default has not occurred or the application under sub-section (2) is incomplete or any disciplinary proceeding is pending against the proposed resolution professional, it may, by order, reject such application:
+Provided that the Adjudicating Authority shall, before rejecting the application under clause (b) of sub-section (5), give a notice to the applicant to rectify the defect in his application within seven days of receipt of such notice from the Adjudicating Authority.
+(6) The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (5).
+(7) The Adjudicating Authority shall communicate—
+(a) the order under clause (a) of sub-section (5) to the financial creditor and the corporate debtor;
+(b) the order under clause (b) of sub-section (5) to the financial creditor, within seven days of admission or rejection of such application, as the case may be.
+
+8. Insolvency resolution by operational creditor.—(1) An operational creditor may, on the occurrence of a default, deliver a demand notice of unpaid operational debtor copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form and manner as may be prescribed.
+
+(2) The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice of the operational creditor—
+
+(a) existence of a dispute, if any, or record of the pendency of the suit or arbitration proceedings filed before the receipt of such notice or invoice in relation to such dispute;
+
+(b) the payment of unpaid operational debt—
+
+(i) by sending an attested copy of the record of electronic transfer of the unpaid amount from the bank account of the corporate debtor; or
+
+(ii) by sending an attested copy of record that the operational creditor has encashed a cheque issued by the corporate debtor. Explanation.—For the purposes of this section, a “demand notice” means a notice served by an operational creditor to the corporate debtor demanding payment of the operational debt in respect of which the default has occurred.”
+
+12. Time-limit for completion of insolvency resolution process.—(1) Subject to sub-section (2), the corporate insolvency resolution process shall be completed within a period of one hundred and eighty days from the date of admission of the application to initiate such process. (2) The resolution professional shall file an application to the Adjudicating Authority to extend the period of the corporate insolvency resolution process beyond one hundred and eighty days, if instructed to do so by a resolution passed at a meeting of the committee of creditors by a vote of sixty-six per cent of the voting shares.
+
+(3) On receipt of an application under sub-section (2), if the Adjudicating Authority is satisfied that the subject-matter of the case is such that corporate insolvency resolution process cannot be completed within one hundred and eighty days, it may by order extend the duration of such process beyond one hundred and eighty days by such further period as it thinks fit, but not exceeding ninety days:
+
+Provided that any extension of the period of corporate insolvency resolution process under this section shall not be granted more than once:
+Provided further that the corporate insolvency resolution process shall mandatorily be completed within a period of three hundred and thirty days from the insolvency commencement date, including any extension of the period of corporate insolvency resolution process granted under this section and the time taken in legal proceedings in relation to such resolution process of the corporate debtor:
+Provided also that where the insolvency resolution process of a corporate debtor is pending and has not been completed within the period referred to in the second proviso, such resolution process shall be completed within a period of ninety days from the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019.
+12-A. Withdrawal of application admitted under Section 7, 9 or 10.— The Adjudicating Authority may allow the withdrawal of application admitted under Section 7 or Section 9 or Section 10, on an application made by the applicant with the approval of ninety per cent. voting share of the committee of creditors, in such manner as may be specified.
+
+13. Declaration of moratorium and public announcement.—(1) The Adjudicating Authority, after admission of the application under Section 7 or Section 9 or Section 10, shall, by an order—
+
+(a) declare a moratorium for the purposes referred to in Section 14;
+
+(b) cause a public announcement of the initiation of corporate insolvency resolution process and call for the submission of claims under Section 15; and
+
+(c) appoint an interim resolution professional in the manner as laid down in Section 16.
+
+(2) The public announcement referred to in clause (b) of sub-section (1) shall be made immediately after the appointment of the interim resolution professional.
+
+14. Moratorium.—(1) Subject to provisions of sub-sections (2) and (3), on the insolvency commencement date, the Adjudicating Authority shall by order declare moratorium for prohibiting all of the following, namely—
+
+(a) the institution of suits or continuation of pending suits or proceedings against the corporate debtor including execution of any judgment, decree or order in any court of law, tribunal, arbitration panel or other authority;
+
+(b) transferring, encumbering, alienating or disposing of by the corporate debtor any of its assets or any legal right or beneficial interest therein;
+
+(c) any action to foreclose, recover or enforce any security interest created by the corporate debtor in respect of its property including any action under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002);
+
+(d) the recovery of any property by an owner or lessor where such property is occupied by or in the possession of the corporate debtor. Explanation.—For the purposes of this sub-section, it is hereby clarified that notwithstanding anything contained in any other law for the time being in force, a license, permit, registration, quota, concession, clearances or a similar grant or right given by the Central Government, State Government, local authority, sectoral regulator or any other authority constituted under any other law for the time being in force, shall not be suspended or terminated on the grounds of insolvency, subject to the condition that there is no default in payment of current dues arising for the use or continuation of the license, permit, registration, quota, concession, clearances or a similar grant or right during the moratorium period.] (2) The supply of essential goods or services to the corporate debtor as may be specified shall not be terminated or suspended or interrupted during moratorium period.
+
+(2-A) Where the interim resolution professional or resolution professional, as the case may be, considers the supply of goods or services critical to protect and preserve the value of the corporate debtor and manage the operations of such corporate debtor as a going concern, then the supply of such goods or services shall not be terminated, suspended or interrupted during the period of moratorium, except where such corporate debtor has not paid dues arising from such supply during the moratorium period or in such circumstances as may be specified.
+
+(3) The provisions of sub-section (1) shall not apply to—
+
+(a) such transactions, agreements or other arrangements as may be notified by the Central Government in consultation with any financial sector regulator or any other authority;]
+
+(b) a surety in a contract of guarantee to a corporate debtor.] (4) The order of moratorium shall have effect from the date of such order till the completion of the corporate insolvency resolution process:
+
+Provided that where at any time during the corporate insolvency resolution process period, if the Adjudicating Authority approves the resolution plan under sub-section (1) of Section 31 or passes an order for liquidation of corporate debtor under Section 33, the moratorium shall cease to have effect from the date of such approval or liquidation order, as the case may be.
+
+15. Public announcement of corporate insolvency resolution process. —(1) The public announcement of the corporate insolvency resolution process under the order referred to in Section 13 shall contain the following information, namely:—
+
+(a) name and address of the corporate debtor under the corporate insolvency resolution process;
+
+(b) name of the authority with which the corporate debtor is incorporated or registered;
+
+(c) the last date for submission of claims, as may be specified;
+
+(d) details of the interim resolution professional who shall be vested with the management of the corporate debtor and be responsible for receiving claims;
+
+(e) penalties for false or misleading claims; and
+
+(f) the date on which the corporate insolvency resolution process shall close, which shall be the one hundred and eightieth day from the date of the admission of the application under Sections 7, 9 or Section 10, as the case may be.
+
+(2) The public announcement under this section shall be made in such manner as may be specified.
+
+16. Appointment and tenure of interim resolution professional.—(1) The Adjudicating Authority shall appoint an interim resolution professional on the insolvency commencement date.
+
+(2) Where the application for corporate insolvency resolution process is made by a financial creditor or the corporate debtor, as the case may be, the resolution professional, as proposed respectively in the application under Section 7 or Section 10, shall be appointed as the interim resolution professional, if no disciplinary proceedings are pending against him. (3) Where the application for corporate insolvency resolution process is made by an operational creditor and—
+
+(a) no proposal for an interim resolution professional is made, the Adjudicating Authority shall make a reference to the Board for the recommendation of an insolvency professional who may act as an interim resolution professional;
+
+(b) a proposal for an interim resolution professional is made under sub- section (4) of Section 9, the resolution professional as proposed, shall be appointed as the interim resolution professional, if no disciplinary proceedings are pending against him.
+
+(4) The Board shall, within ten days of the receipt of a reference from the Adjudicating Authority under sub-section (3), recommend the name of an insolvency professional to the Adjudicating Authority against whom no disciplinary proceedings are pending.
+
+(5) The term of the interim resolution professional shall continue till the date of appointment of the resolution professional under Section 22.
+
+17. Management of affairs of corporate debtor by interim resolution professional.—(1) From the date of appointment of the interim resolution professional,—
+
+(a) the management of the affairs of the corporate debtor shall vest in the interim resolution professional;
+
+(b) the powers of the board of directors or the partners of the corporate debtor, as the case may be, shall stand suspended and be exercised by the interim resolution professional;
+
+(c) the officers and managers of the corporate debtor shall report to the interim resolution professional and provide access to such documents and records of the corporate debtor as may be required by the interim resolution professional;
+
+(d) the financial institutions maintaining accounts of the corporate debtor shall act on the instructions of the interim resolution professional in relation to such accounts and furnish all information relating to the corporate debtor available with them to the interim resolution professional.
+
+18. Duties of interim resolution professional.—(1) The interim resolution professional shall perform the following duties, namely—
+
+(a) collect all information relating to the assets, finances and operations of the corporate debtor for determining the financial position of the corporate debtor, including information relating to—
+
+(i) business operations for the previous two years;
+
+(ii) financial and operational payments for the previous two years;
+
+(iii) list of assets and liabilities as on the initiation date; and
+
+(iv) such other matters as may be specified;
+
+(b) receive and collate all the claims submitted by creditors to him, pursuant to the public announcement made under Sections 13 and 15;
+
+(c) constitute a committee of creditors;
+
+(d) monitor the assets of the corporate debtor and manage its operations until a resolution professional is appointed by the committee of creditors;
+
+(e) file information collected with the information utility, if necessary; and
+
+(f) take control and custody of any asset over which the corporate debtor has ownership rights as recorded in the balance sheet of the corporate debtor, or with information utility or the depository of securities or any other registry that records the ownership of assets including—
+
+(i) assets over which the corporate debtor has ownership rights which may be located in a foreign country;
+
+(ii) assets that may or may not be in possession of the corporate debtor;
+
+(iii) tangible assets, whether movable or immovable;
+
+(iv) intangible assets including intellectual property;
+
+(v) securities including shares held in any subsidiary of the corporate debtor, financial instruments, insurance policies;
+
+(vi) assets subject to the determination of ownership by a court or authority;
+
+(g) to perform such other duties as may be specified by the Board. Explanation.—For the purposes of this section, the term “assets” shall not include the following, namely—
+
+(a) assets owned by a third party in possession of the corporate debtor held under trust or under contractual arrangements including bailment;
+
+(b) assets of any Indian or foreign subsidiary of the corporate debtor; and
+
+(c) such other assets as may be notified by the Central Government in consultation with any financial sector regulator.
+
+20. Management of operations of corporate debtor as going concern. —(1) The interim resolution professional shall make every endeavour to protect and preserve the value of the property of the corporate debtor and manage the operations of the corporate debtor as a going concern.
+
+21. Committee of creditors.—(1) The interim resolution professional shall after collation of all claims received against the corporate debtor and determination of the financial position of the corporate debtor, constitute a committee of creditors.
+
+(2) The committee of creditors shall comprise all financial creditors of the corporate debtor:
+
+Provided that a financial creditor or the authorised representative of the financial creditor referred to in sub-section (6) or sub-section (6-A) or sub- section (5) of Section 24, if it is a related party of the corporate debtor, shall not have any right of representation, participation or voting in a meeting of the committee of creditors:
+Provided further that the first proviso shall not apply to a financial creditor, regulated by a financial sector regulator, if it is a related party of the corporate debtor solely on account of conversion or substitution of debt into equity shares or instruments convertible into equity shares or completion of such transactions as may be prescribed, prior to the insolvency commencement date.
+
+22. Appointment of resolution professional.—(1) The first meeting of the committee of creditors shall be held within seven days of the constitution of the committee of creditors.
+
+(2) The committee of creditors, may, in the first meeting, by a majority vote of not less than sixty-six] per cent of the voting share of the financial creditors, either resolve to appoint the interim resolution professional as a resolution professional or to replace the interim resolution professional by another resolution professional.
+
+(3) Where the committee of creditors resolves under sub-section (2)—
+
+(a) to continue the interim resolution professional as resolution professional subject to a written consent from the interim resolution professional in the specified form], it shall communicate its decision to the interim resolution professional, the corporate debtor and the Adjudicating Authority; or
+
+(b) to replace the interim resolution professional, it shall file an application before the Adjudicating Authority for the appointment of the proposed resolution professional along with a written consent from the proposed resolution professional in the specified form. (4) The Adjudicating Authority shall forward the name of the resolution professional proposed under clause (b) of sub-section (3) to the Board for its confirmation and shall make such appointment after confirmation by the Board.
+
+(5) Where the Board does not confirm the name of the proposed resolution professional within ten days of the receipt of the name of the proposed resolution professional, the Adjudicating Authority shall, by order, direct the interim resolution professional to continue to function as the resolution professional until such time as the Board confirms the appointment of the proposed resolution professional.
+
+23. Resolution professional to conduct corporate insolvency resolution process.—(1) Subject to Section 27, the resolution professional shall conduct the entire corporate insolvency resolution process and manage the operations of the corporate debtor during the corporate insolvency resolution process period:
+
+Provided that the resolution professional shall continue to manage the operations of the corporate debtor after the expiry of the corporate insolvency resolution process period, until an order approving the resolution plan under sub-section (1) of Section 31 or appointing a liquidator under Section 34 is passed by the Adjudicating Authority.
+(2) The resolution professional shall exercise powers and perform duties as are vested or conferred on the interim resolution professional under this Chapter.
+(3) In case of any appointment of a resolution professional under sub-sections (4) of Section 22, the interim resolution professional shall provide all the information, documents and records pertaining to the corporate debtor in his possession and knowledge to the resolution professional.
+
+25. Duties of resolution professional.—(1) It shall be the duty of the resolution professional to preserve and protect the assets of the corporate debtor, including the continued business operations of the corporate debtor. (2) For the purposes of sub-section (1), the resolution professional shall undertake the following actions, namely—
+
+(a) take immediate custody and control of all the assets of the corporate debtor, including the business records of the corporate debtor;
+
+(b) represent and act on behalf of the corporate debtor with third parties, exercise rights for the benefit of the corporate debtor in judicial, quasi- judicial or arbitration proceedings;
+
+(c) raise interim finances subject to the approval of the committee of creditors under Section 28;
+
+25-A. Rights and duties of authorised representative of financial creditors.—(1) The authorised representative under sub-section (6) or sub- section (6-A) of Section 21 or sub-section (5) of Section 24 shall have the right to participate and vote in meetings of the committee of creditors on behalf of the financial creditor he represents in accordance with the prior voting instructions of such creditors obtained through physical or electronic means. (2) It shall be the duty of the authorised representative to circulate the agenda and minutes of the meeting of the committee of creditors to the financial creditor he represents.
+
+(3) The authorised representative shall not act against the interest of the financial creditor he represents and shall always act in accordance with their prior instructions:
+
+Provided that if the authorised representative represents several financial creditors, then he shall cast his vote in respect of each financial creditor in accordance with instructions received from each financial creditor, to the extent of his voting share:
+Provided further that if any financial creditor does not give prior instructions through physical or electronic means, the authorised representative shall abstain from voting on behalf of such creditor.
+(3-A) Notwithstanding anything to the contrary contained in sub-section (3), the authorised representative under sub-section (6-A) of Section 21 shall cast his vote on behalf of all the financial creditors he represents in accordance with the decision taken by a vote of more than fifty per cent. of the voting share of the financial creditors he represents, who have cast their vote:
+Provided that for a vote to be cast in respect of an application under Section 12-A, the authorised representative shall cast his vote in accordance with the provisions of sub-section (3).
+(4) The authorised representative shall file with the committee of creditors any instructions received by way of physical or electronic means, from the financial creditor he represents, for voting in accordance therewith, to ensure that the appropriate voting instructions of the financial creditor he represents is correctly recorded by the interim resolution professional or resolution professional, as the case may be.
+
+Explanation.—For the purposes of this section, the “electronic means” shall be such as may be specified.]
+
+27. Replacement of resolution professional by committee of creditors.—(1) Where, at any time during the corporate insolvency resolution process, the committee of creditors is of the opinion that a resolution professional appointed under Section 22 is required to be replaced, it may replace him with another resolution professional in the manner provided under this section.
+
+(2) The committee of creditors may, at a meeting, by a vote of sixty-six per cent. of voting shares, resolve to replace the resolution professional appointed under Section 22 with another resolution professional, subject to a written consent from the proposed resolution professional in the specified form. (3) The committee of creditors shall forward the name of the insolvency professional proposed by them to the Adjudicating Authority. (4) The Adjudicating Authority shall forward the name of the proposed resolution professional to the Board for its confirmation and a resolution professional shall be appointed in the same manner as laid down in Section
+
+16. (5) Where any disciplinary proceedings are pending against the proposed resolution professional under sub-section (3), the resolution professional appointed under Section 22 shall continue till the appointment of another resolution professional under this section.
+
+30. Submission of resolution plan.—(1) A resolution applicant may submit a resolution plan along with an affidavit stating that he is eligible under Section 29-A to the resolution professional prepared on the basis of the information memorandum.
+
+(2) The resolution professional shall examine each resolution plan received by him to confirm that each resolution plan—
+
+(a) provides for the payment of insolvency resolution process costs in a manner specified by the Board in priority to the payment of other debts of the corporate debtor;
+
+(b) provides for the payment of debts of operational creditors in such manner as may be specified by the Board which shall not be less than—
+
+(i) the amount to be paid to such creditors in the event of a liquidation of the corporate debtor under Section 53; or
+
+(ii) the amount that would have been paid to such creditors, if the amount to be distributed under the resolution plan had been distributed in accordance with the order of priority in sub-section (1) of Section 53, whichever is higher, and provides for the payment of debts of financial creditors, who do not vote in favour of the resolution plan, in such manner as may be specified by the Board, which shall not be less than the amount to be paid to such creditors in accordance with sub-section (1) of Section 53 in the event of a liquidation of the corporate debtor. Explanation 1.—For the removal of doubts, it is hereby clarified that a distribution in accordance with the provisions of this clause shall be fair and equitable to such creditors.
+
+Explanation 2.—For the purposes of this clause, it is hereby declared that on and from the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019, the provisions of this clause shall also apply to the corporate insolvency resolution process of a corporate debtor—
+
+(i) where a resolution plan has not been approved or rejected by the Adjudicating Authority;
+
+(ii) where an appeal has been preferred under Section 61 or Section 62 or such an appeal is not time barred under any provision of law for the time being in force; or
+
+(iii) where a legal proceeding has been initiated in any court against the decision of the Adjudicating Authority in respect of a resolution plan;]
+
+(c) provides for the management of the affairs of the corporate debtor after approval of the resolution plan;
+
+(d) the implementation and supervision of the resolution plan;
+
+(e) does not contravene any of the provisions of the law for the time being in force;
+
+(f) conforms to such other requirements as may be specified by the Board.
+
+Explanation.—For the purposes of clause (e), if any approval of shareholders is required under the Companies Act, 2013 (18 of 2013) or any other law for the time being in force for the implementation of actions under the resolution plan, such approval shall be deemed to have been given and it shall not be a contravention of that Act or law.
+
+(3) The resolution professional shall present to the committee of creditors for its approval such resolution plans which confirm the conditions referred to in sub-section (2).
+
+(4) The committee of creditors may approve a resolution plan by a vote of not less than sixty-six per cent of voting share of the financial creditors, after considering its feasibility and viability, the manner of distribution proposed, which may take into account the order of priority amongst creditors as laid down in sub-section (1) of Section 53,including the priority and value of the security interest of a secured creditor and such other requirements as may be specified by the Board:
+
+Provided that the committee of creditors shall not approve a resolution plan, submitted before the commencement of the Insolvency and Bankruptcy Code (Amendment) Ordinance, 2017, where the resolution applicant is ineligible under Section 29-A and may require the resolution professional to invite a fresh resolution plan where no other resolution plan is available with it:
+Provided further that where the resolution applicant referred to in the first proviso is ineligible under clause (c) of Section 29-A, the resolution applicant shall be allowed by the committee of creditors such period, not exceeding thirty days, to make payment of overdue amounts in accordance with the proviso to clause (c) of Section 29-A:
+Provided also that nothing in the second proviso shall be construed as extension of period for the purposes of the proviso to sub-section (3) of Section 12, and the corporate insolvency resolution process shall be completed within the period specified in that sub-section.] Provided also that the eligibility criteria in Section 29-A as amended by the Insolvency and Bankruptcy Code (Amendment) Ordinance, 2018 (Ord. 6 of 2018) shall apply to the resolution applicant who has not submitted resolution plan as on the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Ordinance, 2018.
+(5) The resolution applicant may attend the meeting of the committee of creditors in which the resolution plan of the applicant is considered:
+Provided that the resolution applicant shall not have a right to vote at the meeting of the committee of creditors unless such resolution applicant is also a financial creditor.
+(6) The resolution professional shall submit the resolution plan as approved by the committee of creditors to the Adjudicating Authority.
+
+31. Approval of resolution plan.—(1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under sub-section (4) of Section 30 meets the requirements as referred to in sub-section (2) of Section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time being in force, such as authorities to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution plan:
+
+Provided that the Adjudicating Authority shall, before passing an order for approval of resolution plan under this sub-section, satisfy that the resolution plan has provisions for its effective implementation.
+(2) Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the requirements referred to in sub-section (1), it may, by an order, reject the resolution plan.
+(3) After the order of approval under sub-section (1),—
+(a) the moratorium order passed by the Adjudicating Authority under Section 14 shall cease to have effect; and
+(b) the resolution professional shall forward all records relating to the conduct of the corporate insolvency resolution process and the resolution plan to the Board to be recorded on its database.
+(4) The resolution applicant shall, pursuant to the resolution plan approved under sub-section (1), obtain the necessary approval required under any law for the time being in force within a period of one year from the date of approval of the resolution plan by the Adjudicating Authority under sub-section (1) or within such period as provided for in such law, whichever is later:
+Provided that where the resolution plan contains a provision for combination, as referred to in Section 5 of the Competition Act, 2002 (12 of 2003), the resolution applicant shall obtain the approval of the Competition Commission of India under that Act prior to the approval of such resolution plan by the committee of creditors.]
+33. Initiation of liquidation.—(1) Where the Adjudicating Authority,—
+(a) before the expiry of the insolvency resolution process period or the maximum period permitted for completion of the corporate insolvency resolution process under Section 12 or the fast track corporate insolvency resolution process under Section 56, as the case may be, does not receive a resolution plan under sub-section (6) of Section 30; or
+(b) rejects the resolution plan under Section 31 for the non-compliance of the requirements specified therein, it shall—
+(i) pass an order requiring the corporate debtor to be liquidated in the manner as laid down in this Chapter;
+
+(ii) issue a public announcement stating that the corporate debtor is in liquidation; and
+
+(iii) require such order to be sent to the authority with which the corporate debtor is registered.
+
+(2) Where the resolution professional, at any time during the corporate insolvency resolution process but before confirmation of resolution plan, intimates the Adjudicating Authority of the decision of the committee of creditors approved by not less than sixty-six per cent of the voting share] to liquidate the corporate debtor, the Adjudicating Authority shall pass a liquidation order as referred to in sub-clauses (i), (ii) and (iii) of clause (b) of sub-section (1).
+
+Explanation.—For the purposes of this sub-section, it is hereby declared that the committee of creditors may take the decision to liquidate the corporate debtor, any time after its constitution under sub-section (1) of Section 21 and before the confirmation of the resolution plan, including at any time before the preparation of the information memorandum.
+
+(3) Where the resolution plan approved by the Adjudicating Authority is contravened by the concerned corporate debtor, any person other than the corporate debtor, whose interests are prejudicially affected by such contravention, may make an application to the Adjudicating Authority for a liquidation order as referred to in sub-clauses (i), (ii) and (iii) of clause (b) of sub-section (1).
+
+(4) On receipt of an application under sub-section (3), if the Adjudicating Authority determines that the corporate debtor has contravened the provisions of the resolution plan, it shall pass a liquidation order as referred to in sub-clauses (i), (ii) and (iii) of clause (b) of sub-section (1). (5) Subject to Section 52, when a liquidation order has been passed, no suit or other legal proceeding shall be instituted by or against the corporate debtor:
+
+Provided that a suit or other legal proceeding may be instituted by the liquidator, on behalf of the corporate debtor, with the prior approval of the Adjudicating Authority…”.
+69. The scheme of the IBC is to ensure that when a default takes place, in the sense that a debt becomes due and is not paid, the Corporate Insolvency Resolution Process begins. Where any corporate debtor commits default, a financial creditor, an operational creditor or the corporate debtor itself may initiate Corporate Insolvency Resolution Process in respect of such corporate debtor in the manner as provided in Chapter II of the IBC.
+70. The provisions of the IBC are designed to ensure that the business and/or commercial activities of the Corporate Debtor are continued by a Resolution Professional, post imposition of a moratorium, which would give the Corporate Debtor some reprieve from coercive litigation, which could drain the Corporate Debtor of its financial resources. This is to enable the Corporate Debtor to improve its financial health and at the same time repay the dues of its creditors.
+71. Under Section 7(2) of the IBC, read with the Statutory 2016 Adjudicating Authority Rules, made in exercise of powers conferred, inter alia, by clauses (c) (d) (e) and (f) of sub-section (1) of Section 239 read with Sections 7, 8, 9 and 10 of the IBC, a financial creditor is required to apply in the prescribed Form 1 for initiation of the Corporate Insolvency Resolution Process, against a Corporate Debtor under Section 7 of the IBC, accompanied with documents and records required therein, and as specified in the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, hereinafter referred to as the 2016 IB Board of India Regulations.
+72. Statutory Form 1 under Rule 4(1) of the 2016 Adjudicating Authority Rules comprises Parts I to V, of which Part I pertains to particulars of the Applicant, Part II pertains to particulars of the Corporate Debtor and Part III pertains to particulars of the proposed Interim Resolution Professional. Parts IV and V which require particulars of Financial Debt with Documents, Records and Evidence of default, is extracted hereinbelow:
+PART IV PARTICULARS OF FINANCIAL DEBT 1 TOTAL AMOUNT OF DEBT GRANTED DATE(S) OF DISBURSEMENT 2 AMOUNT CLAIMED TO BE IN DEFAULT AND THE DATE ON WHICH THE DEFAULT OCCURRED (ATTACH THE WORKINGS FOR COMPUTATION OF AMOUNT AND DAYS OF DEFAULT IN TABULAR FORM) PART V PARTICULARS OF FINANCIAL DEBT [DOCUMENTS, RECORDS AND EVIDENCE OF DEFAULT] 1 PARTICULARS OF SECURITY HELD, IF ANY, THE DATE OF ITS CREATION, ITS ESTIMATED VALUE AS PER THE CREDITOR.
+
+ATTACH A COPY OF A CERTIFICATE OF REGISTRATION OF CHARGE ISSUED BY THE REGISTRAR OF COMPANIES (IF THE CORPORATE DEBTOR IS A COMPANY) 2 PARTICULARS OF AN ORDER OF A COURT, TRIBUNAL OR ARBITRAL PANEL ADJUDICATING ON THE DEFAULT, IF ANY (ATTACH A COPY OF THE ORDER) 3 RECORD OF DEFAULT WITH THE INFORMATION UTILITY, IF ANY (ATTACH A COPY OF SUCH RECORD) 4 DETAILS OF SUCCESSION CERTIFICATE, OR PROBATE OF A WILL, OR LETTER OF ADMINISTRATION, OR COURT DECREE (AS MAY BE APPLICABLE), UNDER THE INDIAN SUCCESSION ACT, 1925 (10 OF 1925) (ATTACH A COPY) 5 THE LATEST AND COMPLETE COPY OF THE FINANCIAL CONTRACT REFLECTING ALL AMENDMENTS AND WAIVERS TO DATE (ATTACH A COPY) 6 A RECORD OF DEFAULT AS AVAILABLE WITH ANY CREDIT INFORMATION COMPANY (ATTACH A COPY) 7 COPIES OF ENTRIES IN A BANKERS BOOK IN ACCORDANCE WITH THE BANKERS BOOKS EVIDENCE ACT, 1891 (18 OF 1891) (ATTACH A COPY) 8 LIST OF OTHER DOCUMENTS ATTACHED TO THIS APPLICATION IN ORDER TO PROVE THE EXISTENCE OF FINANCIAL, DEBT, THE AMOUNT AND DATE OF DEFAULT
+
+73. Since a Financial Creditor is required to apply under Section 7 of the IBC, in statutory Form 1, the Financial Creditor can only fill in particulars as specified in the various columns of the Form. There is no scope for elaborate pleadings. An application to the Adjudicating Authority (NCLT) under Section 7 of the IBC in the prescribed form, cannot therefore, be compared with the plaint in a suit. Such application cannot be judged by the same standards, as a plaint in a suit, or any other pleadings in a Court of law.
+
+74. Section 7(3) requires a financial creditor making an application under Section 7(1) to furnish records of the default recorded with the information utility or such other record or evidence of default as may be specified; the name of the resolution professional proposed to act as an Interim Resolution Professional and any other information as may be specified by the Insolvency and Bankruptcy Board of India.
+
+75. Section 7(4) of the IBC casts an obligation on the Adjudicating Authority to ascertain the existence of a default from the records of an information utility or on the basis of other evidence furnished by the financial creditor within fourteen days of the receipt of the application under Section 7. As per the proviso to Section 7(4) of the IBC, inserted by amendment, by Act 26 of 2019, if the Adjudicating Authority has not ascertained the existence of default and passed an order within the stipulated period of time of fourteen days, it shall record its reasons for the same in writing. The application does not lapse for non-compliance of the time schedule. Nor is the Adjudicating Authority obliged to dismiss the application. On the other hand, the application cannot be dismissed, without compliance with the requisites of the Proviso to Section 7(5) of the IBC.
+
+76. Section 7(5)(a) provides that when the Adjudicating Authority is satisfied that a default has occurred, and the application under sub- section (2) of Section 7 is complete and there is no disciplinary proceeding pending against the proposed resolution professional, it may by order admit such application. As per Section 7(5)(b), if the Adjudicating Authority is satisfied that default has not occurred or the application under sub-Section (2) of Section 7 is incomplete or any disciplinary proceeding is pending against the proposed resolution professional, it may, by order, reject such application, provided that the Adjudicating Authority shall, before rejecting the application under sub- section (b) of Section 5, give notice to the applicant, to rectify the defects in his application, within 7 days of receipt of such notice from the Adjudicating Authority.
+
+77. The Corporate Insolvency Resolution Process commences on the date of admission of the application under sub-section (5) of Section 7 of the IBC. Section 7(7) casts an obligation on the Adjudicating Authority to communicate an order under clause (a) of sub-section (5) of Section 7 to the financial creditor and the corporate debtor and to communicate an order under clause (b) of sub-section (5) of Section 7 to the financial creditor within seven days of admission or rejection of such application, as the case may be. Sections 8 and 9 of IBC pertain to Insolvency Resolution by an operational creditor and are not attracted in the facts and circumstances of this case. Section 10 pertains to initiation of Corporate Insolvency Resolution Process by the Corporate Debtor itself, and is also not attracted in the facts and circumstances of the case.
+
+78. Section 12(1) of the IBC requires the Corporate Insolvency Process to be completed within a period of 180 days from the date of admission of the application to initiate such process. The period of 180 days is not extendable more than once.
+
+79. The IBC is not just another statute for recovery of debts. Nor is it a statute which merely prescribes the modalities of liquidation of a Corporate body, unable to pay its debts. It is essentially a statute which works towards the revival of a Corporate body, unable to pay its debts, by appointment of a Resolution Professional.
+
+80. In Innoventive Industries Ltd vs. ICICI Bank 9, this Court, speaking through Nariman, J. extracted excerpts from the Report of the Bankruptcy Law Reforms Committee of November, 2015 some of which are reproduced hereinbelow:-
+
+“…When a firm (referred to as the corporate debtor in the draft law) defaults, the question arises about what is to be done. Many possibilities can be envisioned. One possibility is to take the firm into
+9. (2018) 1 SCC 407 liquidation. Another possibility is to negotiate a debt restructuring, where the creditors accept a reduction of debt on an NPV basis, and hope that the negotiated value exceeds the liquidation value. Another possibility is to sell the firm as a going concern and use the proceeds to pay creditors. Many hybrid structures of these broad categories can be envisioned.
+
+*** Speed is of essence Speed is of essence for the working of the bankruptcy code, for two reasons. First, while the “calm period” can help keep an organisation afloat, without the full clarity of ownership and control, significant decisions cannot be made. Without effective leadership, the firm will tend to atrophy and fail. The longer the delay, the more likely it is that liquidation will be the only answer. Second, the liquidation value tends to go down with time as many assets suffer from a high economic rate of depreciation. From the viewpoint of creditors, a good realisation can generally be obtained if the firm is sold as a going concern. Hence, when delays induce liquidation, there is value destruction. Further, even in liquidation, the realisation is lower when there are delays. Hence, delays cause value destruction. Thus, achieving a high recovery rate is primarily about identifying and combating the sources of delay.
+
+*** Control of a company is not divine right.—When a firm defaults on its debt, control of the company should shift to the creditors. In the absence of swift and decisive mechanisms for achieving this, management teams and shareholders retain control after default. Bankruptcy law must address this. Objectives…”
+
+81. In Innoventive Industries Ltd vs. ICICI Bank (supra) this Court noted the objectives set by the Bankruptcy Law Reforms Committee in recommending the IBC, “The Committee set the following as objectives desired from implementing a new Code to resolve insolvency and bankruptcy:
+
+(1) Low time to resolution.
+(2) Low loss in recovery.
+(3) Higher levels of debt financing across a wide variety of debt instruments.
+
+……… Principles driving the design The Committee chose the following principles to design the new insolvency and bankruptcy resolution framework:
+
+I. The Code will facilitate the assessment of viability of the enterprise at a very early stage.
+(1) The law must explicitly state that the viability of the enterprise is a matter of business, and that matters of business can only be negotiated between creditors and debtor. While viability is assessed as a negotiation between creditors and debtor, the final decision has to be an agreement among creditors who are the financiers willing to bear the loss in the insolvency.
+(2) The legislature and the courts must control the process of resolution, but not be burdened to make business decisions. (3) The law must set up a calm period for insolvency resolution where the debtor can negotiate in the assessment of viability without fear of debt recovery enforcement by creditors.
+(4) The law must appoint a resolution professional as the manager of the resolution period, so that the creditors can negotiate the assessment of viability with the confidence that the debtors will not take any action to erode the value of the enterprise. The professional will have the power and responsibility to monitor and manage the operations and assets of the enterprise. The professional will manage the resolution process of negotiation to ensure balance of power between the creditors and debtor, and protect the rights of all creditors. The professional will ensure the reduction of asymmetry of information between creditors and debtor in the resolution process.
+
+II. The Code will enable symmetry of information between creditors and debtors.
+
+(5) The law must ensure that information that is essential for the insolvency and the bankruptcy resolution process is created and available when it is required.
+
+(6) The law must ensure that access to this information is made available to all creditors to the enterprise, either directly or through the regulated professional.
+
+(7) The law must enable access to this information to third parties who can participate in the resolution process, through the regulated professional.
+
+III. The Code will ensure a time-bound process to better preserve economic value.
+
+(8) The law must ensure that time value of money is preserved, and that delaying tactics in these negotiations will not extend the time set for negotiations at the start.
+
+IV. The Code will ensure a collective process.
+
+(9) The law must ensure that all key stakeholders will participate to collectively assess viability. The law must ensure that all creditors who have the capability and the willingness to restructure their liabilities must be part of the negotiation process. The liabilities of all creditors who are not part of the negotiation process must also be met in any negotiated solution.
+
+V. The Code will respect the rights of all creditors equally. (10) The law must be impartial to the type of creditor in counting their weight in the vote on the final solution in resolving insolvency. VI. The Code must ensure that, when the negotiations fail to establish viability, the outcome of bankruptcy must be binding.
+
+(11) The law must order the liquidation of an enterprise which has been found unviable. This outcome of the negotiations should be protected against all appeals other than for very exceptional cases. VII. The Code must ensure clarity of priority, and that the rights of all stakeholders are upheld in resolving bankruptcy. (12) The law must clearly lay out the priority of distributions in bankruptcy to all stakeholders. The priority must be designed so as to incentivise all stakeholders to participate in the cycle of building enterprises with confidence.
+
+(13) While the law must incentivise collective action in resolving bankruptcy, there must be a greater flexibility to allow individual action in resolution and recovery during bankruptcy compared with the phase of insolvency resolution.”
+
+82. As observed by this Court, speaking through Nariman, J in P. Mohanraj & Ors. v. Shah Brothers Ispat Private Limited 10 :-
+
+“10. A cursory look at Section 14(1) makes it clear that subject to the exceptions contained in sub-sections (2) and (3), on the insolvency commencement date, the Adjudicating Authority shall mandatorily, by order, declare a moratorium to prohibit what follows in clauses (a) to
+(d). Importantly, under sub-section (4), this order of moratorium does not continue indefinitely, but has effect only from the date of the order declaring moratorium till the completion of the corporate insolvency resolution process which is time bound, either culminating in the order of the Adjudicating Authority approving a resolution plan or in liquidation.
+11. The two exceptions to Section 14(1) are contained in sub-sections (2) and (3) of Section 14. Under sub-section (2), the supply of essential goods or services to the corporate debtor during this period cannot be terminated or suspended or even interrupted, as otherwise the corporate debtor would be brought to its knees and would not able to function as a going concern during this period...”
+
+83. In Swiss Ribbons Private Limited & Anr. v. Union of India and Ors.11, authored by Nariman, J. this Court observed:-
+
+“28. It can thus be seen that the primary focus of the legislation is to ensure revival and continuation of the corporate debtor by protecting the corporate debtor from its own management and from a corporate death by liquidation. The Code is thus a beneficial legislation which puts the corporate debtor back on its feet, not being a mere recovery legislation for creditors. The interests of the corporate debtor have,
+10. 2021 SCC Online SC 152
+11. (2019) 4 SCC 17 therefore, been bifurcated and separated from that of its promoters/those who are in management. Thus, the resolution process is not adversarial to the corporate debtor but, in fact, protective of its interests. The moratorium imposed by Section 14 is in the interest of the corporate debtor itself, thereby preserving the assets of the corporate debtor during the resolution process. The timelines within which the resolution process is to take place again protects the corporate debtor's assets from further dilution, and also protects all its creditors and workers by seeing that the resolution process goes through as fast as possible so that another management can, through its entrepreneurial skills, resuscitate the corporate debtor to achieve all these ends.”
+
+84. IBC has overriding effect over other laws. Section 238 of the IBC provides that the provisions of the IBC shall have effect, notwithstanding anything inconsistent therewith contained in any other law, for the time being in force, or any other instrument, having effect by virtue of such law.
+
+85. Unlike coercive recovery litigation, the Corporate Insolvency Resolution Process under the IBC is not adversarial to the interests of the Corporate Debtor, as observed by this Court in Swiss Ribbons Private Limited v. Union of India (supra).
+
+86. On the other hand, the IBC is a beneficial legislation for equal treatment of all creditors of the Corporate Debtor, as also the protection of the livelihoods of its employees/workers, by revival of the Corporate Debtor through the entrepreneurial skills of persons other than those in its management, who failed to clear the dues of the Corporate Debtor to its creditors. It only segregates the interests of the Corporate Debtor from those of its promoters/persons in management.
+
+87. Relegation of creditors to the remedy of Coercive litigation against the Corporate Debtors could be detrimental to the interests of the Corporate Debtor and its creditors alike. While multiple coercive proceedings against a Corporate Debtor in different forums could impede its commercial/business activities, deplete its cash reserves, dissipate its assets, moveable and immoveable and precipitate its commercial death, such proceedings might not be economically viable for the creditors as well, because of the length of time consumed in the litigations, the expenses of litigation, and the uncertainties of realisation of claims even after ultimate success in the litigation.
+
+88. It is, therefore, imperative that the provisions of the IBC and the Rules and Regulations framed thereunder be construed liberally, in a purposive manner to further the objects of enactment of the statute, and not be given a narrow, pedantic interpretation which defeats the purposes of the Act.
+
+89. In construing and/or interpreting any statutory provision one must look into the legislative intent of the statute. The intention of the statute has to be found in the words used by the legislature itself. In case of doubt it is always safe to look into the object and purpose of the statute or the reason and spirit behind it. Each word, phrase or sentence has to be construed in the light of the general purpose of the Act itself, as observed by Mukherjea J., in Popatlal Shah v. State of Madras12 and a plethora of other judgments of this Court. To quote Krishna Iyer J., the interpretative effort “ must be illumined by the goal, though guided by the words”.
+
+90. When a question arises as to the meaning of a certain provision in a statute the provision has to be read in its context. The statute has to be read as a whole. The previous state of the law, the general scope and ambit of the statute and the mischief that it was intended to remedy are relevant factors.
+
+91. On a careful reading of the provisions of the IBC and in particular the provisions of Section 7(2) to (5) of the IBC read with the 2016 Adjudicating Authority Rules there is no bar to the filing of documents at any time until a final order either admitting or dismissing the application has been passed.
+
+92. The time stipulation of fourteen days in Section 7(4) to ascertain the existence of a default is apparently directory not mandatory. The proviso inserted by amendment with effect from 28 th December, 2019 provides that if the Adjudicating Authority has not ascertained the default and passed an order under sub-section (5) of Section 7 of the IBC within the aforesaid time, it shall record its reasons in writing for the same. No other penalty is stipulated.
+
+12. AIR 1953 SC 274
+
+93. Furthermore, the proviso to Section 7(5)(b) of the IBC obliges the Adjudicating Authority to give notice to an applicant, to rectify the defect in its application within seven days of receipt of such notice from the Adjudicating Authority, before rejecting its application under Clause
+
+(b) of sub-section (5) of Section 7 of the IBC. When the Adjudicating Authority calls upon the applicant to cure some defects that defect has to be rectified within seven days. There is no penalty prescribed for inability to cure the defects in an application within seven days from the date of receipt of notice, and in an appropriate case, the Adjudicating Authority may accept the cured application, even after expiry of seven days, for the ends of justice.
+
+94. Section 12 of the IBC imposes a time limit for completion of the Corporate Insolvency Resolution Process. This time limit starts running from the date of admission of an application to initiate the Corporate Insolvency Resolution Process. Section 12 is, therefore, not attracted in this case.
+
+95. In any case, Section 12 has been considered by this Court in Arcelormittal (India) Pvt. Ltd. V. Satish Kumar Gupta and Anr. 13 This Court held :-
+
+“86. Given the fact that both the NCLT and NCLAT are to decide matters arising under the Code as soon as possible, we cannot shut our eyes to the fact that a large volume of litigation has now to be handled by both the aforesaid Tribunals. What happens in a case where the NCLT or the NCLAT decide a matter arising out of 13 . (2019) 2 SCC 1 Section 31 of the Code beyond the time-limit of 180 days or the extended time-limit of 270 days? Actus curiae neminem gravabit — the act of the court shall harm no man — is a maxim firmly rooted in our jurisprudence (see Jang Singh v. Brij Lal [Jang Singh v. Brij Lal, (1964) 2 SCR 145 : AIR 1966 SC 1631] , SCR at p. 149 and A.R. Antulay v. R.S. Nayak [A.R. Antulay v. R.S. Nayak, (1988) 2 SCC 602 : 1988 SCC (Cri) 372 : 1988 Supp (1) SCR 1] , SCR at p. 71). It is also true that the time taken by a Tribunal should not set at naught the time-limits within which the corporate insolvency resolution process must take place.
+
+However, we cannot forget that the consequence of the chopper falling is corporate death. The only reasonable construction of the Code is the balance to be maintained between timely completion of the corporate insolvency resolution process, and the corporate debtor otherwise being put into liquidation. We must not forget that the corporate debtor consists of several employees and workmen whose daily bread is dependent on the outcome of the corporate insolvency resolution process. If there is a resolution applicant who can continue to run the corporate debtor as a going concern, every effort must be made to try and see that this is made possible. [ Regulation 32 of the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016, states that the liquidator may also sell the corporate debtor as a going concern.] A reasonable and balanced construction of this statute would therefore lead to the result that, where a resolution plan is upheld by the appellate authority, either by way of allowing or dismissing an appeal before it, the period of time taken in litigation ought to be excluded. This is not to say that the NCLT and NCLAT will be tardy in decision-making. This is only to say that in the event of the NCLT, or the NCLAT, or this Court taking time to decide an application beyond the period of 270 days, the time taken in legal proceedings to decide the matter cannot possibly be excluded, as otherwise a good resolution plan may have to be shelved, resulting in corporate death, and the consequent displacement of employees and workers.
+
+87. Coming to the facts of the present case, let us first examine the resolution plan presented by Numetal. Numetal was incorporated in Mauritius on 13-10-2017, expressly for the purpose of submission of a resolution plan qua the corporate debtor i.e. ESIL. Two other companies viz. AHL and AEL, were also incorporated on the same day in Mauritius. Shri Rewant Ruia, son of Shri Ravi Ruia (who was the promoter of ESIL) held the entire share capital of AHL, which in turn held the entire shareholding of AEL, which in turn held the entire share capital of Numetal. At this stage there can be no doubt whatsoever that Shri Rewant Ruia, being the son of Shri Ravi Ruia, would be deemed to be a person acting in concert with the corporate debtor, being covered by Regulation 2(1)(q)(v) of the 2011 Takeover Regulations.
+
+96. Even in the case of Section 12 of the IBC, this Court taking note of the workload of the Adjudicating Authority, in effect held that the time stipulation was directory. This Court observed that failure to complete the Resolution Process within stipulated time should not result in corporate death by shelving of an otherwise good resolution plan. This Court emphasized the need to maintain balance between timely completion of the Corporate Insolvency Resolution Process and the Corporate Debtor otherwise being put into liquidation, for failure to maintain the time schedule.
+
+97. The insolvency Committee of the Ministry of Corporate Affairs, Government of India, in a report published in March 2018, stated that the intent of the IBC could not have been to give a new lease of life to debts which were already time barred. Thereafter Section 238A was incorporated in the IBC by the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018 (Act 26 of 2018), with effect from 6th June 2018.
+
+98. Section 238A of the IBC provides as follows:-
+
+“238A. The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to the proceedings or appeals before the Adjudicating Authority, the National Company Law Appellate Tribunal, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be.”
+
+99. As observed by this Court in Sesh Nath Singh & Anr. Vs. Baidyabati Sheoraphuli (supra), authored by one of us (Indira Banerjee, J.), this Court held:-
+
+“91. Legislature has in its wisdom chosen not to make the provisions of the Limitation Act verbatim applicable to proceedings in NCLT/NCLAT, but consciously used the words ‘as far as may be’. The words ‘as far as may be’ are not meant to be otiose. Those words are to be understood in the sense in which they best harmonise with the subject matter of the legislation and the object which the Legislature has in view. The Courts would not give an interpretation to those words which would frustrate the purposes of making the Limitation Act applicable to proceedings in the NCLT/NCLAT ‘as far as may be’.
+xxx xxx xxx
+94. The use of words ‘as far as may be’, occurring in Section 238A of the IBC tones down the rigour of the words ‘shall’ in the aforesaid Section which is normally considered as mandatory. The expression ‘as far as may be’ is indicative of the fact that all or any of the provisions of the Limitation Act may not apply to proceedings before the Adjudicating Authority (NCLT) or the Appellate authority (NCLAT) if they are patently inconsistent with some provisions of the IBC. At the same time, the words ‘as far as may be’ cannot be construed as a total exclusion of the requirements of the basic principles of Section 14 of the Limitation Act, but permits a wider, more liberal, contextual and purposive interpretation by necessary modification, which is in harmony with the principles of the said Section.”
+
+100. There is no specific period of limitation prescribed in the Limitation Act, 1963, for an application under the IBC, before the Adjudicating Authority (NCLT). An application for which no period of limitation is provided anywhere else in the Schedule to the Limitation Act, is governed by Article 137 of the Schedule to the said Act. Under Article 137 of the Schedule to the Limitation Act, the period of limitation prescribed for such an application is three years from the date of accrual of the right to apply.
+
+101. There can be no dispute with the proposition that the period of limitation for making an application under Section 7 or 9 of the IBC is three years from the date of accrual of the right to sue, that is, the date of default. In Gaurav Hargovindbhai Dave v. Asset Reconstruction Company (India) Ltd. (supra) authored by Nariman, J. this Court held:-
+
+“6. …...The present case being “an application” which is filed under Section 7, would fall only within the residuary Article 137.”
+
+102. In B. K. Educational Services Private Limited v. Parag Gupta and Associates14, this Court speaking through Nariman, J. held:-
+
+“42. It is thus clear that since the Limitation Act is applicable to applications filed under Sections 7 and 9 of the Code from the inception of the Code, Article 137 of the Limitation Act gets attracted. “The right to sue”, therefore, accrues when a default occurs. If the default has occurred over three years prior to the date of filing of the application, the application would be barred under Article 137 of the Limitation Act, save and except in those cases where, in the facts of the case, Section 5 of the Limitation Act may be applied to condone the delay in filing such application.”
+
+103. In Jignesh Shah v. Union of India (supra) this Court speaking through Nariman, J. reiterated the proposition that the period of limitation for making an application under Section 7 or 9 of the IBC was 14 (2019) 11 SCC 633 three years from the date of accrual of the right to sue, that is, the date of default.
+
+104. In Vashdeo R. Bhojwani v. Abhyudaya Co-operative Bank Ltd. & Ors.15 this Court rejected the contention that the default was a continuing wrong and Section 23 of the Limitation Act 1963 would apply, relying upon Balkrishna Savalram Pujari Waghmare v. Shree Dhyaneshwar Maharaj Sansthan16.
+
+105. To quote P.B. Gajendragadkar, J in Balkrishna Savalram Pujari Wagmare (supra):-
+
+“......Section 23 refers not to a continuing right but to a continuing wrong. It is the very essence of a continuing wrong that it is an act which creates a continuing source of injury and renders the doer of the act responsible and liable for the continuance of the said injury. If the wrongful act causes an injury which is complete, there is no continuing wrong even though the damage resulting from the act may continue. If, however, a wrongful act is of such a character that the injury caused by it itself continues, then the act constitutes a continuing wrong. In this connection it is necessary to draw a distinction between the injury caused by the wrongful act and what may be described as the effect of the said injury. It is only in regard to acts which can be properly characterised as continuing wrongs that Section 23 can be invoked. .....”
+
+106. There can be no dispute with the proposition of law laid down in Babulal Vardharji Gurjar (supra) that limitation is essentially a mixed question of law and facts and when a party seeks application of any particular provision for extension or enlargement of the period of 15 (2019) 9 SCC 158
+
+16. 1959 Supp (2) SCR 476 limitation, the relevant facts are required to be pleaded and requisite evidence is required to be adduced.
+
+107. The judgment of this Court in Babulal Vardharji Gurjar (supra) was rendered in the facts of the aforesaid case, where the date of default had been mentioned as 8.7.2011 being the date of N.P.A. and it remained undisputed that there had neither been any other date of default stated in the application nor had any suggestion about any acknowledgement been made.
+
+108. In the backdrop of the aforesaid facts, this court observed that even if Section 18 of the Limitation Act and principles thereof were applicable, the same would not apply to the application under consideration, in view of the averments regarding default therein and for want of any other averment with regard to acknowledgment.
+
+109. It is well settled, that a judgment is a precedent for the issue of law that is raised and decided and not any observations made in the facts of the case. As very aptly penned by V. Sudhish Pai in “Constitutional Supremacy-A Revisit”, “Judicial utterances/pronouncements are in the setting of the facts of a particular case. To interpret words and provisions of a statute it may become necessary for judges to embark upon lengthy discussions, but such discussion is meant to explain not define. Judges interpret statutes, their words are not to be interpreted as statutes.” The aforesaid passage was extracted and incorporated as part of the judgment of this Court in Sesh Nath Singh (supra).
+
+110. In this case, admittedly there were fresh documents before the Adjudicating Authority (NCLT), including a letter of offer dated 3.03.2017 for one time settlement of the dues of the Corporate Debtor to the Financial Creditor, upon payment of Rs.5.5 crores. The Appellant Bank has also relied upon financial statements up to 31 st March, 2018 apart from the final judgment and order dated 27 th March, 2017 in O.A. 16/2015 and the subsequent Recovery Certificate No.2060/2017 dated 25th May, 2017 which constituted cause of action for initiation of proceedings under Section 7 of the IBC.
+
+111. Babulal Vardharji Gurjar (supra) is not an authority for the proposition that there can be no amendment of pleadings at the fag end of the NCLT proceeding. Moreover, in this case, the amendments were not made at the fag end of the proceedings but within 2/3 months of their initiation, before admission of the petition under Section 7 of the IBC.
+
+112. It is not necessary for this Court to examine the relevance of all the documents filed by the Appellant Bank pursuant to its interim applications being I.A. No.27 of 2019 and I.A. No.131 of 2019. Suffice it to mention that the documents enclosed with the applications being I.A. No.27 of 2019 and I.A. No.131 of 2019 and the pleadings in the supporting affidavits, made out a case for computation of limitation afresh from the dates of the relevant documents. It would also be pertinent to note that the reasons for the execution of the documents are irrelevant. It is not the case of the Respondents, that any of those documents were extracted through coercion.
+
+113. As per Section 18 of Limitation Act, an acknowledgement of present subsisting liability, made in writing in respect of any right claimed by the opposite party and signed by the party against whom the right is claimed, has the effect of commencing a fresh period of limitation from the date on which the acknowledgement is signed. Such acknowledgement need not be accompanied by a promise to pay expressly or even by implication. However, the acknowledgement must be made before the relevant period of limitation has expired.
+
+114. In Sesh Nath Singh and Anr. v. Baidyabati Sheoraphuli Cooperative Bank Ltd. (supra) this Court, speaking through one of us (Indira Banerjee J.) held that the IBC does not exclude the application of Section 14 or 18 or any other provision of the Limitation Act. There is therefore no reason to suppose that Sections 14 or 18 of the Limitation Act do not apply to proceedings under Section 7 or Section 9 of the IBC.
+
+115. In Laxmi Pat Surana v. Union Bank of India (supra) this Court speaking through Khanwilkar J. held that there was no reason to exclude the effect of Section 18 of the Limitation Act to proceedings initiated under the IBC.
+
+116. In Asset Reconstruction Company (India) Limited. v. Bishal Jaiswal and Anr. (supra) where this Court speaking through Nariman J. relied, inter alia, on Sesh Nath Singh (supra) and Laxmi Pat Surana (supra) and held that the question of applicability of Section 18 of the Limitation Act to proceedings under the IBC was no longer res integra.
+
+117. In Khan Bahadur Shapoor Fredoom Mazda v. Durga Prasad Chamaria and Others17, this Court held:-
+
+“6. It is thus clear that acknowledgment as prescribed by Section 19 merely renews debt; it does not create a new right of action. It is a mere acknowledgment of the liability in respect of the right in question; it need not be accompanied by a promise to pay either expressly or even by implication. The statement on which a plea of acknowledgment is based must relate to a present subsisting liability though the exact nature or the specific character of the said liability may not be indicated in words. Words used in the acknowledgment must, however, indicate the existence of jural relationship between the parties such as that of debtor and creditor, and it must appear that the statement is made with the intention to admit such jural relationship. Such intention can be inferred by implication from the nature of the admission, and need not be expressed in words. If the statement is fairly clear then the intention to admit jural relationship may be implied from it. The admission in question need not be express but must be made in circumstances and in words from which the court can reasonably infer that the person making the admission intended to refer to a subsisting liability as at the date of the statement. In construing words used in the statements made in writing on which a plea of acknowledgment rests oral evidence has been expressly excluded but surrounding circumstances can always be considered. Stated generally courts lean in favour of a liberal construction of such statements though it does not mean that where no admission is made one should be inferred, or where a statement was made clearly without intending to admit the existence of jural relationship such intention could be fastened on the maker of 17 AIR 1961 SC 1236 the statement by an involved or far-fetched process of reasoning.
+
+Broadly stated that is the effect of the relevant provisions contained in Section 19, and there is really no substantial difference between the parties as to the true legal position in this matter.”
+
+118. It is well settled that entries in books of accounts and/or balance sheets of a Corporate Debtor would amount to an acknowledgment under Section 18 of the Limitation Act. In Asset Reconstruction Company (India) Limited v. Bishal Jaiswall and Anr. (supra) authored by Nariman, J. this Court quoted with approval the judgments, inter alia, of Bengal Silk Mills Co. v. Ismail Golam Hossain Ariff ,18 [“Bengal Silk Mills”] and in Re Pandem Tea Co.19 Ltd., the judgment of the Delhi High Court in South Asia Industries (P) Ltd. v. General Krishna Shamsher Jung Bahadur Rana20 and the judgment of Karnataka High Court in Hegde Golay Ltd. v. State Bank of India 21 and held that an acknowledgement of liability that is made in a balance sheet can amount to an acknowledgement of debt.
+
+119. In Bengal Silk Mills Co. (supra) the Calcutta High Court held:-
+
+“9. ….. I am unable to agree with the reasoning of the Nagpur decision that a balance-sheet does not save limitation because it is drawn up under a duty to set out the claims made on the company and not with the intention of acknowledging liability. The balance- sheet contains admissions of liability; the agent of the company who makes and signs it intends to make those admissions. The admissions do not cease to be acknowledgements of liability merely on the ground that they were made in discharge of a statutory duty. I 18 AIR 1962 Cal 115 19 AIR 1974 Cal 170 20 ILR (1972) 2 Del 712 21 ILR 1987 Kar 2673 notice that in the Nagpur case the balance-sheet had been signed by a director and had not been passed either by the Board of Directors or by the company at its annual general meeting and it seems that the actual decision may be distinguished on the ground that the balance-sheet was not made or signed by a duly authorized agent of the company.” ……………..
+11. To come under section 19 an acknowledgement of a debt need not be made to the creditor nor need it amount to a promise to pay the debt. In England it has been held that a balance-sheet of a company stating the amount of its indebtedness to the creditor is a sufficient acknowledgement in respect of a specialty debt under section 5 of the Civil Procedure Act, 1833 (3 and 4 Will — 4c. 42), see Re : Atlantic and Pacific Fibre Importing and Manufacturing Co.
+
+Ltd., [1928] Ch. 836…….”
+
+120. In Re Pandem Tea Co. Ltd. (supra), Sabyasachi Mukharji J. held:
+
+“4. Now the question is whether the statements, which are contained in the profits and loss accounts and the assets and liabilities side indicating the liability of the petitioning creditor along with the statement of the Directors made to the shareholders as Directors' report should be read together and if so whether reading these two statements together these amount to an acknowledgement as contemplated under Section 18 of the Limitation Act, 1963, or Section 19 of the Limitation Act, 1908. In my opinion, both these statements have to be read together. The balance-sheet is meant to be presented and passed by the shareholders and is generally accompanied by the Directors' report to the shareholders. Therefore in understanding the balance-sheets and in explaining the statements in the balance-
+
+sheets, the balance-sheets together with the Directors' report must be taken together to find out the true meaning and purport of the statements. Counsel appearing for petitioning creditor contended that under the statute the balance-sheet was a separate document and as such if there was unequivocal acknowledgement on the balance-sheet the statement of the Directors' report should not be taken into consideration. It is true the balance-sheet is a statutory document and perhaps is a separate document but the balance-sheet not confirmed or passed by the shareholders cannot be accepted as correct. Therefore, in order to validate the balance-sheet, it must be duly passed by the shareholders at the appropriate meeting and in order to do so it must be accompanied by a report, if any, made by the Directors. Therefore, even though the balance-sheet may be a separate document these two documents in the facts and circumstances of the case should be read together and should be construed together. It was held by the Supreme Court in the case of L.C. Mills v. Aluminium Corpn. of India Ltd., (1971) 1 SCC 67 : AIR 1971 SC 1482, that it was clear that the statement on which the plea of acknowledgement was founded should relate to a subsisting liability as the section required and it should be made before the expiration of the period prescribed under the Act. It need not, however, amount to a promise to pay for an acknowledgement did not create a new right of action but merely extended the period of limitation. The statement need not indicate the exact nature or the specific character of the liability. The words used in the statement in question must, however, relate to a present subsisting liability and indicate the existence of a jural relationship between the parties such as, for instance, that of a debtor and a creditor and the intention to admit such jural relationship. Such an intention need not, however, be in express terms and could be inferred by implication from the nature of the admission and the surrounding circumstances. Generally speaking, a liberal construction of the statement in question should be given. That of course did not mean that where a statement was made without intending to admit the existence of jural relationship, such intention should be fastened on the person making the statement by an involved and far-fetched reasoning. In order to find out the intention of the document by which acknowledgement was to be construed the document as a whole must be read and the intention of the parties must be found out from the total effect of the document read as a whole. …”
+
+121. In South Asia Industries (P) Ltd. v. General Krishna Shamsher Jung Bahadur Rana (supra), this Court observed:-
+
+“46. Shri Rameshwar Dial argued that statements in the balance- sheet of a company cannot amount to acknowledgement of liability because the balance-sheet is made under compulsion of the provisions in the Companies Act. There is no force in this argument. In the first place, section 18 of the Limitation Act, 1963, requires only that the acknowledgement of liability must have been made in writing, but it does not prescribe that the writing should be in any particular kind of document. So, the fact that the writing is contained in a balance-sheet is immaterial. In the second place, it is true that section 131 of the Companies Act, 1913 (section 210 of the Companies Act, 1956) makes it compulsory that an annual balance sheet should be prepared and placed before the Company by the Directors, and section 132 (section 211 of the Companies Act, 1956) requires that the balance-sheet should contain a summary, inter alia, of the current liabilities of the company. But, as pointed out by Bachawat J. in Bengal Silk Mills v. Ismail Golam Hossain Ariff, AIR 1962 Cal 115 although there was statutory compulsion to prepare the annual balance-sheet, there was no compulsion to make any particular admission, and a document is not taken out of the purview of section 18 of the Indian Limitation Act, 1963 (section 19 of the Indian Limitation Act, 1908) merely on the ground that it is prepared under compulsion of law or in discharge of statutory duty. Reference may also be made to the decisions in Raja of Vizianagram v. Vizianagram Mining Co. Ltd., AIR 1952 Mad 136, Jones v. Bellgrove Properties Ltd., (1949) 1 All ER 498; and Lahore Enamelling and Stamping Co. v. A.K. Bhalla, AIR 1958 Punj 341, in which statements in balance-sheets of companies were held to amount to acknowledgements of liability of the companies.
+47. Shri Rameshwar Dial referred to the decision of the Privy Council in Consolidated Agencies Ltd. v. Bertram Ltd., (1964) 3 All ER 282. We shall advert to this decision presently when we deal with another argument of Shri Rameshwar Dial, and it is sufficient to state so far as the argument under consideration is concerned that even in this decision of the Privy Council it has been recognised that balance-
+
+sheets could in certain circumstances amount to acknowledgements of liability. It cannot, therefore, be said as a general proposition of law that statements in balance-sheets of a company cannot operate at all as acknowledgements of liability as contended by Shri Rameshwar Dial.”
+
+122. In Hegde & Golay Limited v. State Bank of India reported in ILR 1987 Kar 2673, the Karnataka High Court held:
+
+“43. The acknowledgement of liability contained in the balance-sheet of a company furnishes a fresh starting point of limitation. It is not necessary, as the law stands in India, that the acknowledgement should be addressed and communicated to the creditor .”
+
+123. In Reliance Asset Reconstruction Co. Ltd. v. Hotel Poonja International Pvt. Ltd.22, the Appellant had relied on two documents in the Paper Book, that is, (i) the Balance Sheet of the Corporate Debtor dated 16th August, 2017 and (ii) a letter dated 23 rd April, 2019 issued by
+
+22. 2021 SCC Online SC 289 the Corporate Debtor to contend that the proceedings under Section 7 of the IBC were not barred by limitation, as limitation would start running afresh for a period of three years from the respective dates of those documents in acknowledgment of liability.
+
+124. This Court, however, did not accept the balance sheet dated 16 th August, 2017 and 23rd April, 2019 for two reasons, the first reason being that there was no evidence or materials to show that the documents had been signed before the expiry of the prescribed period of limitation. In addition, the Court found that there had been no pleading with regard to the alleged acknowledgement in the application under Section 7 of the IBC. This Court also found that the two documents could not be construed as admission that amounted to acknowledgement of the jural relationship and the existence of liability, since the balance sheet dated 16th August, 2017 did not acknowledge or admit any liability. Rather the Corporate Debtor had disputed and denied its liability. Similarly, the letter dated 23rd April, 2019 was also found not be an acknowledgment or admission of liability. On the other hand, the language of the letter made it absolutely clear that the liability had in fact been denied.
+
+125. Significantly, in Reliance Asset Reconstruction (supra), the loan had been sanctioned by Vijaya Bank in May 1986. The loan amount was declared NPA on 1st April 1993, an original application moved under the Debt Recovery Act was compromised in 2001 and the DRT had issued a Recovery Certificate in May 2003. Vijaya Bank assigned its Reliance Asset Reconstruction in May 2011 after which amended Recovery Certificate was issued in December 2012. The petition under Section 7 of the IBC was, however filed on 27th July 2018.
+
+126. The finding of the NCLAT that there was nothing on record to suggest that the ‘Corporate Debtor’ acknowledged the debt within three years and agreed to pay debt is not sustainable in law, in view of the Statement of Accounts/Balance sheets/Financial Statements for the years 2016-2017 and 2017-2018 and the offer of One Time Settlement referred to above including in particular, the offer of One Time Settlement made on 3rd March, 2017.
+
+127. Section 18 of the Limitation Act speaks of an Acknowledgment in writing of liability, signed by the party against whom such property or right is claimed. Even if the writing containing the acknowledgment is undated, evidence might be given of the time when it was signed. The explanation clarifies that an acknowledgment may be sufficient even though it is accompanied by refusal to pay, deliver, perform or permit to enjoy or is coupled with claim to set off, or is addressed to a person other than a person entitled to the property or right. ‘Signed’ is to be construed to mean signed personally or by an authorised agent.
+
+128. In the instant case, Rs.111 lakhs had been paid towards outstanding interest on 28th March, 2014 and the offer of One Time Settlement was within three years thereafter. In any case, NCLAT overlooked the fact that a Certificate of Recovery has been issued in favour of Appellant Bank on 25 th May 2017. The Corporate Debtor did not pay dues in terms of the Certificate of Recovery. The Certificate of Recovery in itself gives a fresh cause of action to the Appellant Bank to institute a petition under Section 7 of IBC. The petition under Section 7 IBC was well within three years from 28th March 2014.
+
+129. In Jignesh Shah and Another v. Union of India (supra), this Court relied upon a judgment of the Patna High Court in Ferro Alloys Corporation Limited v. Rajhans Steel Limited23, the relevant portion whereof is extracted hereinbelow:-
+
+“….In my opinion, the contention lacks merit. Simply because a suit for realization of the debt of the petitioner Company against Opposite Party 1 was instituted in the Calcutta High Court on its Original Side, such institution of the suit and the pendency thereof in that Court cannot enure for the benefit of the present winding-up proceeding. The debt having become time-barred when this petition was presented in this Court, the same could not be legally recoverable through this Court by resorting to winding-up proceedings because the same cannot legally be proved under Section 520 of the Act. It would have been altogether a different matter if the petitioner Company approached this Court for winding-up of the opposite party No.1, after obtaining a decree from the Calcutta High Court in Suit No.1073 of 1987, and the decree remaining unsatisfied, as provided in clause (b) of sub-section (1) of Section 434.”
+
+130. In effect, this Court speaking through Nariman J., approved the proposition that an application under Section 7 or 9 of the IBC may be time barred, even though some other recovery proceedings might have been instituted earlier, well within the period of limitation, in respect of the same debt. However, it would have been
+
+23. (1999) SCC Online Pat 1196 a different matter, if the applicant had approached the Adjudicating Authority after obtaining a final order and/or decree in the recovery proceedings, if the decree remained unsatisfied. This Court held that a decree and/or final adjudication would give rise to a fresh period of limitation for initiation of the Corporate Insolvency Resolution Process.
+
+131. It is true that the finding of Patna High Court in Ferro Alloys Corporation Limited v. Rajhans Steel Limited (supra) was rendered in the context of Section 434(1)(b) of the Companies Act 1956, which provided that a company would be deemed to be unable to pay its debts if execution or other process issued on a decree or order of any Court or Tribunal in favour of a creditor of the company was returned unsatisfied in whole or in part.
+
+132. We see no reason why the principles should not apply to an application under Section 7 of the IBC which enables a financial creditor to file an application initiating the Corporate Insolvency Resolution Process against a Corporate Debtor before the Adjudicating Authority, when a default has occurred. As observed earlier in this judgment, on a conjoint reading of the provisions of the IBC quoted above, it is clear that a final judgment and/or decree of any Court or Tribunal or any Arbitral Award for payment of money, if not satisfied, would fall within the ambit of a financial debt, enabling the creditor to initiate proceedings under Section 7 of the IBC.
+
+133. It is not in dispute that the Respondent No.2 is a Corporate Debtor and the Appellant Bank, a Financial Creditor. The question is, whether the petition under Section 7 of the IBC has been instituted within 3 years from the date of default. ‘Default’ is defined in Section 3(12) to mean “non-payment’ of a debt which has become due and payable whether in whole or any part and is not paid by the Corporate Debtor”.
+
+134. It is true that, when the petition under Section 7 of IBC was filed, the date of default was mentioned as 30 th September 2013 and 31st December 2013 was stated to be the date of declaration of the Account of the Corporate Debtor as NPA. However, it is not correct to say that there was no averment in the petition of any acknowledgment of debt. Such averments were duly incorporated by way of amendment, and the Adjudicating Authority rightly looked into the amended pleadings.
+
+135. As observed above, the Appellant Bank filed the Petition under Section 7 of the IBC on 12th October 2018. Within three months, the Appellant Bank filed an application in the NCLT, for permission to place additional documents on record including the final judgment and order/decree dated 27.3.2017 in O.A. 16/2015 and the Recovery Certificate dated 25.5.2017, enabling the Appellant Bank to recover Rs.52 crores odd. The judgment and order/decree of the DRT and the Recovery Certificate gave a fresh cause of action to the Appellant Bank to initiate a petition under Section 7 of the IBC.
+
+136. On or about 5th March 2019, the Appellant Bank filed another application for permission to place on record additional documents including inter alia financial statements, Annual Report etc. of the period from 1st April 2016 to 31st March 2017, and again, from 1st April 2017 to 31st March 2018 and a letter dated 3rd March 2017 proposing a One Time Settlement. This application was also allowed on 6 th March 2021. The Adjudicating Authority, took into consideration the new documents and admitted the petition under Section 7 of the IBC.
+
+137. Even assuming that documents were brought on record at a later stage, as argued by Mr. Shivshankar, the Adjudicating Authority was not precluded from considering the same. The documents were brought on record before any final decision was taken in the Petition under Section 7 of IBC.
+
+138. A final judgment and order/decree is binding on the judgment debtor. Once a claim fructifies into a final judgment and order/decree, upon adjudication, and a certificate of Recovery is also issued authorizing the creditor to realize its decretal dues, a fresh right accrues to the creditor to recover the amount of the final judgment and/or order/decree and/or the amount specified in the Recovery Certificate.
+
+139. The Appellant Bank was thus entitled to initiate proceedings under Section 7 of the IBC within three years from the date of issuance of the Recovery Certificate. The Petition of the Appellant Bank, would not be barred by limitation at least till 24th May, 2020.
+
+140. While it is true that default in payment of a debt triggers the right to initiate the Corporate Resolution Process, and a Petition under Section 7 or 9 of the IBC is required to be filed within the period of limitation prescribed by law, which in this case would be three years from the date of default by virtue of Section 238A of the IBC read with Article 137 of the Schedule to the Limitation Act, the delay in filing a Petition in the NCLT is condonable under Section 5 of the Limitation Act unlike delay in filing a suit. Furthermore, as observed above Section 14 and 18 of the Limitation Act are also applicable to proceedings under the IBC.
+
+141. Section 18 of the Limitation Act cannot also be construed with pedantic rigidity in relation to proceedings under the IBC. This Court sees no reason why an offer of One Time Settlement of a live claim, made within the period of limitation, should not also be construed as an acknowledgment to attract Section 18 of the Limitation Act. In Gaurav Hargovindbhai Dave (supra) cited by Mr. Shivshankar, this Court had no occasion to consider any proposal for one time settlement. Be that as it may, the Balance Sheets and Financial Statements of the Corporate Debtor for 2016-2017, as observed above, constitute acknowledgement of liability which extended the limitation by three years, apart from the fact that a Certificate of Recovery was issued in favour of the Appellant Bank in May 2017. The NCLT rightly admitted the application by its order dated 21st March, 2019.
+
+142. To sum up, in our considered opinion an application under Section 7 of the IBC would not be barred by limitation, on the ground that it had been filed beyond a period of three years from the date of declaration of the loan account of the Corporate Debtor as NPA, if there were an acknowledgement of the debt by the Corporate Debtor before expiry of the period of limitation of three years, in which case the period of limitation would get extended by a further period of three years.
+
+143. Moreover, a judgment and/or decree for money in favour of the Financial Creditor, passed by the DRT, or any other Tribunal or Court, or the issuance of a Certificate of Recovery in favour of the Financial Creditor, would give rise to a fresh cause of action for the Financial Creditor, to initiate proceedings under Section 7 of the IBC for initiation of the Corporate Insolvency Resolution Process, within three years from the date of the judgment and/or decree or within three years from the date of issuance of the Certificate of Recovery, if the dues of the Corporate Debtor to the Financial Debtor, under the judgment and/or decree and/or in terms of the Certificate of Recovery, or any part thereof remained unpaid.
+
+144. There is no bar in law to the amendment of pleadings in an application under Section 7 of the IBC, or to the filing of additional documents, apart from those initially filed along with application under Section 7 of the IBC in Form-1. In the absence of any express provision which either prohibits or sets a time limit for filing of additional documents, it cannot be said that the Adjudicating Authority committed any illegality or error in permitting the Appellant Bank to file additional documents. Needless however, to mention that depending on the facts and circumstances of the case, when there is inordinate delay, the Adjudicating Authority might, at its discretion, decline the request of an applicant to file additional pleadings and/or documents, and proceed to pass a final order. In our considered view, the decision of the Adjudicating Authority to entertain and/or to allow the request of the Appellant Bank for the filing of additional documents with supporting pleadings, and to consider such documents and pleadings did not call for interference in appeal.
+
+145. For the reasons discussed above, the impugned judgment and order is unsustainable in law and facts. The appeal is accordingly allowed, and the impugned judgment and order of the NCLAT is set aside.
+
+….……………………………………. J.
+
+[INDIRA BANERJEE] ………..……………………………… J.
+
+[V. RAMASUBRAMANIAN] NEW DELHI;
+
+AUGUST 04, 2021 

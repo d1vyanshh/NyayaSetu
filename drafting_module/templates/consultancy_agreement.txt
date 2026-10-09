@@ -1,0 +1,24 @@
+CONSULTANCY AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{Client_Name}} / {{Company_Name}}, having its office at {{address}} (hereinafter referred to as the 'Client')
+2. {{Consultant_Name}}, having its office at {{address}} (hereinafter referred to as the 'Consultant')
+WHEREAS:
+The Client requires consultancy services and the Consultant has agreed to provide the same on the terms set out herein.
+NOW, THEREFORE, the parties agree as follows:
+1. SCOPE OF CONSULTANCY
+The Consultant shall provide the following advisory and consultancy services: {{describe_services}}.
+2. TERM
+This Agreement shall be effective from {{Start_Date}} for a period of {{Duration}}.
+3. FEES
+The Client shall pay a consultancy fee of Rs. {{Amount}}/- (per month/per project/per milestone). A deduction at the rate of 10% TDS under Section 194J of the Income Tax Act will be applicable on this amount, which is to be paid by the Consultant directly to the Client's bank account.
+4. DELIVERABLES
+{{list_specific_deliverables_and_timelines}}. The {{Client_Name}} shall provide all necessary information for each delivery as requested in writing from time to time during the consultancy period, failing which no work will commence until such a request is made by the Consultant orally followed up with written confirmation. Any failure on part of either party to fulfill their respective obligations under this Agreement may result in termination without notice as per clause 7 below and/or legal action for damages, if any are suffered due to such breach.
+5. INDEPENDENT CONTRACTOR
+The Consultant is an independent contractor and shall not be treated as an employee of the Client or otherwise liable under this Agreement except insofar as it relates directly to its obligations hereinabove set forth, which are expressly limited by law. The {{Client_Name}} reserves all rights pertaining to control over work quality and delivery timelines for services rendered pursuant thereto; the Consultant shall not be liable or responsible in any way whatsoever except as specifically provided hereinabove set forth, which are expressly limited by law.
+6. CONFIDENTIALITY
+The {{Client_Name}} agrees to maintain strict confidentiality of all information relating to the Consultant's work and services rendered pursuant thereto; such obligation shall survive termination or expiry hereof, as applicable. The Client acknowledges that any unauthorized disclosure by it may result in legal action for damages suffered due to breach of this confidentiality clause above without notice from the Consultant and/or immediate cessation thereafter until such time when a written apology is provided along with assurance against future occurrences.
+7. TERMINATION
+Either party may terminate this Agreement at any point in time by giving 30 days' prior written notice to the other, without liability for damages except as specifically set forth hereinabove under clause (6) above; such termination shall not affect the right of either party to seek legal action against breach thereof.
+IN WITNESS WHEREOF, the parties have executed this agreement on {{Date}}.
+Name: {{full_name}} Name: {{full_name}} Date: {{DATE}} Witnesses: 1. Name: ________________ Signature: ________________ 2. Name: ________________ Signature: ________________

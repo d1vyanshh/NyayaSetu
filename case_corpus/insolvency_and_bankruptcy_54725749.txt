@@ -1,0 +1,2382 @@
+[Cites 86, Cited by 42]
+Supreme Court of India
+Arun Kumar Jagatramka vs Jindal Steel And Power Ltd. on 15 March, 2021
+Equivalent citations: AIR 2021 SUPREME COURT 1563, AIRONLINE 2021 SC 136
+Author: D.Y. Chandrachud
+Bench: M R Shah, Dhananjaya Y Chandrachud
+                                                                           Reportable
+
+
+
+                             IN THE SUPREME COURT OF INDIA
+                         CIVIL APPELLATE/ORIGINAL JURISDICTION
+
+
+                                 Civil Appeal No. 9664 of 2019
+
+
+
+          Arun Kumar Jagatramka                                      .... Appellant
+
+
+                                               Versus
+
+
+
+          Jindal Steel and Power Ltd. & Anr.                       .... Respondents
+
+
+                                                With
+
+                               Writ Petition (C) No. 269 of 2020
+
+                                           And With
+
+                                 Civil Appeal No. 2719 of 2020
+
+
+
+
+Signature Not Verified
+
+Digitally signed by
+Sanjay Kumar
+Date: 2021.03.15
+13:07:15 IST
+Reason:
+
+
+
+
+                                                 1
+                                 JUDGMENT
+
+
+
+
+Dr Dhananjaya Y Chandrachud, J
+
+
+
+This judgment has been divided into the following sections to facilitate analysis:
+
+A     Factual Background
+
+      A.1    Civil Appeal 9664 of 2019
+      A.2    Civil Appeal 2719 of 2020
+      A.3    Liquidation Process Regulations, 2016
+      A.4    Article 32 Petition
+
+B     Issues
+
+C     Submissions
+
+D     Analysis of the Legal Framework
+
+      D.1    Ineligibility during the resolution process and liquidation
+      D.2    Interplay : IBC liquidation and Section 230 of the Act of 2013
+      D.3    The ‘Clean Slate’
+      D.4    Constitutional Validity of Regulation 2B - Liquidation Process
+             Regulations
+
+E     Epilogue
+
+F     Conclusion
+
+
+
+
+                                         2
+                                                                        PART A
+
+A       Factual Background
+
+A.1     Civil Appeal 9664 of 20191
+
+1       By its judgment dated 24 October 2019, the National Company Law
+
+Appellate Tribunal2 held that a person who is ineligible under Section 29A of the
+
+Insolvency Bankruptcy Code, 20163 to submit a resolution plan, is also barred
+
+from proposing a scheme of compromise and arrangement under Section 230 of
+
+the Companies Act, 20134. The judgment was rendered in an appeal5 filed by
+
+Jindal Steel and Power Limited6, an unsecured creditor of the corporate debtor,
+
+Gujarat NRE Coke Limited7. The appeal was preferred against an order passed
+
+by the National Company Law Tribunal8 in an application9 under Sections 230 to
+
+232 of the Act of 2013, preferred by Mr Arun Kumar Jagatramka, who is a
+
+promoter of GNCL. The NCLT had allowed the application and issued directions
+
+for convening a meeting of the shareholders and creditors. In its decision dated
+
+24 October 2019, the NCLAT reversed this decision and allowed the appeal by
+
+JSPL. The decision of the NCLAT dated 24 October 2019 is challenged in the
+
+appeal before this Court.
+
+
+2       Mr Arun Kumar Jagatramka, assails the order dated 24 October 2019 of
+
+the NCLAT, inter alia, on the ground that Section 230 of the Act of 2013 does not
+
+place any embargo on any person for the purpose of submitting a scheme.
+
+
+1
+  “First Appeal”
+2
+  “NCLAT”
+3
+  “IBC”
+4
+  the “Act of 2013”
+5
+  Company Appeal (AT) No. 221 of 2018
+6
+  “JSPL”
+7
+  “GNCL”
+8
+  “NCLT”
+9
+  C.A. (CAA) No. 198/KB/2018
+
+
+                                        3
+                                                                             PART A
+
+According to the appellant, in the absence of a disqualification, the NCLAT could
+
+not have read the ineligibility under Section 29A of the IBC into Section 230 of the
+
+Act of 2013. This would, in the submission, amount to a judicial reframing of
+
+legislation by the NCLAT, which is impermissible.
+
+
+3       Before we advert to the submissions of the counsels on questions of law, it
+
+will be useful to outline the salient facts of this dispute to understand the contours
+
+of the controversy. GNCL, the corporate debtor, moved an application under
+
+Section 10 of the IBC before the NCLT for initiating the Corporate Insolvency
+
+Resolution Process10. The application was admitted on 7 April 2017.
+
+
+4       Mr Arun Kumar Jagatramka submitted a resolution plan for GNCL on 1
+
+November 2017, which was presented by the Resolution Professional11 before
+
+the Committee of Creditors12. The plan was to be put to a vote in a meeting of the
+
+CoC scheduled on 23-24 November 2017.
+
+
+5       The IBC was amended by the Insolvency and Bankruptcy Code
+
+(Amendment) Act, 2018. Section 29A which was inserted with retrospective effect
+
+from 23 November 2017 provides a list of persons who are ineligible to be
+
+resolution applicants. Sub-section (g) of Section 29A disqualifies a person from
+
+being a resolution applicant if they have been a promoter or in the management
+
+or control of a corporate debtor in which a preferential transaction, undervalued
+
+transaction, extortionate credit transaction or fraudulent transaction has taken
+
+place and in respect of which an order has been made by the NCLT under the
+
+
+10
+   “CIRP” or “resolution process”
+11
+   “RP”
+12
+   “CoC”
+
+
+                                          4
+                                                                                PART A
+
+IBC. A second amendment was made to various provisions of IBC, including
+
+Section 29A, under the Insolvency and Bankruptcy Code (Second Amendment)
+
+Act, 2018, effective from 6 June 2018. A proviso was added to sub-Section (g) of
+
+Section 29A. Section 29A of the IBC in its present form reads as follows:
+
+             “29A. Persons not eligible to be resolution applicant:
+
+             A person shall not be eligible to submit a resolution plan, if
+             such person, or any other person acting jointly or in concert
+             with such person—
+
+             (a) is an undischarged insolvent;
+
+             (b) is a wilful defaulter in accordance with the guidelines of
+             the Reserve Bank of India issued under the Banking
+             Regulation Act, 1949 (10 of 1949);
+
+             (c) at the time of submission of the resolution plan has an
+             account, or an account of a corporate debtor under the
+             management or control of such person or of whom such
+             person is a promoter, classified as non-performing asset in
+             accordance with the guidelines of the Reserve Bank of India
+             issued under the Banking Regulation Act, 1949 (10 of 1949)
+             or the guidelines of a financial sector regulator issued under
+             any other law for the time being in force, and at least a period
+             of one year has lapsed from the date of such classification till
+             the date of commencement of the corporate insolvency
+             resolution process of the corporate debtor:
+
+             Provided that the person shall be eligible to submit a
+             resolution plan if such person makes payment of all overdue
+             amounts with interest thereon and charges relating to non-
+             performing asset accounts before submission of resolution
+             plan;
+
+             Provided further that nothing in this clause shall apply to a
+             resolution applicant where such applicant is a financial entity
+             and is not a related party to the corporate debtor.
+
+             Explanation I.-- For the purposes of this proviso, the
+             expression "related party" shall not include a financial entity,
+             regulated by a financial sector regulator, if it is a financial
+             creditor of the corporate debtor and is a related party of the
+             corporate debtor solely on account of conversion or
+             substitution of debt into equity shares or instruments
+             convertible into equity shares or completion of such
+             transactions as may be prescribed, prior to the insolvency
+             commencement date.
+
+                                              5
+                                                                     PART A
+
+Explanation II.-- For the purposes of this clause, where a
+resolution applicant has an account, or an account of a
+corporate debtor under the management or control of such
+person or of whom such person is a promoter, classified as
+non-performing asset and such account was acquired
+pursuant to a prior resolution plan approved under this Code,
+then, the provisions of this clause shall not apply to such
+resolution applicant for a period of three years from the date
+of approval of such resolution plan by the Adjudicating
+Authority under this Code;
+
+(d) has been convicted for any offence punishable with
+imprisonment--
+
+(i) for two years or more under any Act specified under the
+Twelfth Schedule; or
+
+(ii) for seven years or more under any other law for the time
+being in force:
+
+Provided that this clause shall not apply to a person after the
+expiry of a period of two years from the date of his release
+from imprisonment:
+
+Provided further that this clause shall not apply in relation to a
+connected person referred to in clause (iii) of Explanation I;
+
+(e) is disqualified to act as a director under the Companies
+Act, 2013 (18 of 2013);
+
+Provided that this clause shall not apply in relation to a
+connected person referred to in clause (iii) of Explanation I;
+
+(f) is prohibited by the Securities and Exchange Board of
+India from trading in securities or accessing the securities
+markets;
+
+(g) has been a promoter or in the management or control
+of a corporate debtor in which a preferential transaction,
+undervalued transaction, extortionate credit transaction
+or fraudulent transaction has taken place and in respect
+of which an order has been made by the Adjudicating
+Authority under this Code;
+
+Provided that this clause shall not apply if a preferential
+transaction, undervalued transaction, extortionate credit
+transaction or fraudulent transaction has taken place prior to
+the acquisition of the corporate debtor by the resolution
+applicant pursuant to a resolution plan approved under this
+Code or pursuant to a scheme or plan approved by a financial
+sector regulator or a court, and such resolution applicant has
+not otherwise contributed to the preferential transaction,
+
+
+                                  6
+                                                                    PART A
+
+undervalued transaction, extortionate credit transaction or
+fraudulent transaction;
+
+(h) has executed a guarantee in favour of a creditor in
+respect of a corporate debtor against which an
+application for insolvency resolution made by such
+creditor has been admitted under this Code and such
+guarantee has been invoked by the creditor and remains
+unpaid in full or part;
+
+(i) is subject to any disability, corresponding to clauses (a) to
+(h), under any law in a jurisdiction outside India; or
+
+(j) has a connected person not eligible under clauses (a) to
+(i).
+
+Explanation I -- For the purposes of this clause, the
+expression "connected person" means—
+
+(i) any person who is the promoter or in the management or
+control of the resolution applicant; or
+
+(ii) any person who shall be the promoter or in management
+or control of the business of the corporate debtor during the
+implementation of the resolution plan; or
+
+(iii) the holding company, subsidiary company, associate
+company or related party of a person referred to in clauses (i)
+and (ii):
+
+Provided that nothing in clause (iii) of Explanation I shall
+apply to a resolution applicant where such applicant is a
+financial entity and is not a related party of the corporate
+debtor:
+
+Provided further that the expression "related party" shall not
+include a financial entity, regulated by a financial sector
+regulator, if it is a financial creditor of the corporate debtor
+and is a related party of the corporate debtor solely on
+account of conversion or substitution of debt into equity
+shares or instruments convertible into equity shares 9[or
+completion of such transactions as may be prescribed], prior
+to the insolvency commencement date;
+
+Explanation II.-- For the purposes of this section, "financial
+entity" shall mean the following entities which meet such
+criteria or conditions as the Central Government may, in
+consultation with the financial sector regulator, notify in this
+behalf, namely:--
+
+(a) a scheduled bank;
+
+
+
+
+                                  7
+                                                                                     PART A
+
+                   (b) any entity regulated by a foreign central bank or a
+                   securities market regulator or other financial sector regulator
+                   of a jurisdiction outside India which jurisdiction is compliant
+                   with the Financial Action Task Force Standards and is a
+                   signatory to the International Organisation of Securities
+                   Commissions Multilateral Memorandum of Understanding;
+
+                   (c) any investment vehicle, registered foreign institutional
+                   investor, registered foreign portfolio investor or a foreign
+                   venture capital investor, where the terms shall have the
+                   meaning assigned to them in regulation 2 of the Foreign
+                   Exchange Management (Transfer or Issue of Security by a
+                   Person Resident Outside India) Regulations, 2017 made
+                   under the Foreign Exchange Management Act, 1999 (42 of
+                   1999);
+
+                   (d) an asset reconstruction company registered with the
+                   Reserve Bank of India under Section 3 of the Securitisation
+                   and Reconstruction of Financial Assets and Enforcement of
+                   Security Interest Act, 2002 (54 of 2002);
+
+                   (e) an Alternate Investment Fund registered with the
+                   Securities and Exchange Board of India;
+
+                   (f) such categories of persons as may be notified by the
+                   Central Government.”
+
+                                                           (emphasis supplied)
+
+
+
+Due to the insertion of Section 29A, Mr Arun Kumar Jagmatramka became
+
+ineligible to submit a resolution plan.
+
+
+6          No further resolution plan was approved by the CoC due to the paucity of
+
+time. In the absence of a resolution plan, the NCLT passed an order of liquidation
+
+on 11 January 2018, after the expiry of 270 days. The order of the NCLT ordering
+
+liquidation was challenged in appeal13 by Mr Arun Kumar Jagatramka before the
+
+NCLAT. The appeal was dismissed by the NCLAT by its order dated 10 July
+
+2018. The dismissal of the appeal by the NCLAT was assailed before this Court,
+
+which issued notice to GNCL on 19 July 2019.
+13
+     Company Appeal (IB) No. 55-56 of 2018
+
+
+                                                   8
+                                                                              PART A
+
+7     During the pendency of the appeal before NCLAT, where the order of
+
+liquidation passed by the NCLT was assailed, Mr Arun Kumar Jagatramka moved
+
+an application under Sections 230 to 232 of the Act of 2013 before the NCLT
+
+proposing a scheme for compromise and arrangement between the erstwhile
+
+promoters and creditors. This application was allowed by the NCLT through its
+
+order dated 15 May 2018, and a direction was issued for convening of a meeting
+
+of shareholders, secured creditors, unsecured creditors and FCCB holders for
+
+approval of the scheme of compromise and arrangement.
+
+
+8     JSPL, an operational creditor of GNCL, preferred an appeal against the
+
+order of the NCLT dated 15 May 2018 before the NCLAT. The NCLAT allowed
+
+the appeal by its judgement dated 24 October 2019, holding that promoters who
+
+are ineligible to propose a resolution plan under Section 29A of the IBC are not
+
+entitled to file an application for compromise and arrangement under Sections
+
+230 to 232 of the Act of 2013. The basis of this finding is contained in paragraphs
+
+10 to 12 of the impugned judgement which is extracted below:
+
+             “10. As noticed above, the Hon'ble Supreme Court in Swiss
+             Ribbons Pvt. Ltd. & Anr. Vs. Union of India & Ors. - Writ
+             Petition (Civil) No.99 of 2019 held that the 'primary focus of
+             the legislation is to ensure revival and continuation of the
+             corporate debtor by protecting the corporate debtor from
+             its own management and from a corporate death by
+             liquidation'.
+
+             11. The aforesaid judgment makes it clear that even during
+             the period of Liquidation, for the purpose of Section 230 to
+             232 of the Companies Act, the 'Corporate Debtor' is to be
+             saved from its own management, meaning thereby the
+             Promoters, who are ineligible under Section 29A, are not
+             entitled to file application for Compromise and Arrangement in
+             their favour under Section 230 to 232 of the Companies Act.
+             Proviso to Section 35(f) prohibits the Liquidator to sell the
+             immovable and movable property or actionable claims of the
+
+
+                                             9
+                                                                                     PART A
+
+                  'Corporate Debtor' in Liquidation to any person who is not
+                  eligible to be a Resolution Applicant, quoted below: -
+
+                  "35. Powers and duties of Liquidator.-(1) Subject to the
+                  directions of the Adjudicating Authority, the liquidator shall
+                  have the following powers and duties,
+
+                  namely:--
+
+                  xxx                            xxx                     xxx
+
+                  (f) subject to section 52, to sell the immovable and movable
+                  property and actionable claims of the corporate debtor in
+                  liquidation by public auction or private contract, with power to
+                  transfer such property to any person or body corporate, or to
+                  sell the same in parcels in such manner as may be specified.
+
+                  Provided that the liquidator shall not sell the immovable and
+                  movable property or actionable claims of the corporate debtor
+                  in liquidation to any person who is not eligible to be a
+                  resolution applicant.”
+
+                  12. From the aforesaid provision, it is clear that the Promoter,
+                  if ineligible under Section 29A cannot make an application for
+                  Compromise and Arrangement for taking back the immovable
+                  and movable property or actionable claims of the 'Corporate
+                  Debtor'.”
+
+                                                           (emphasis in original)
+
+
+
+9         The judgment and order of the NCLAT is the subject of the appeal.
+
+
+A.2       Civil Appeal 2719 of 202014
+
+10        This appeal has been filed for assailing an order dated 19 December 2019
+
+of the NCLAT in which it relied on the judgment dated 24 October 2019 impugned
+
+in the earlier appeal, to hold that an individual ineligible for proposing a resolution
+
+plan under Section 29A of the IBC, is also ineligible to propose a scheme of
+
+compromise and arrangement under Section 230 of the Act of 2013.
+
+
+
+
+14
+     “Second Appeal”
+
+
+                                                  10
+                                                                        PART A
+
+11      The appellant - Mr Kunwer Sachdev - was the promoter and director (since
+
+suspended) of Su-Kam Power Systems Limited15. An application16 under Section
+
+7 of the IBC was filed by one of the financial creditors of Su-Kam, which was
+
+admitted by the NCLT through its order dated 5 April 2018. The CIRP was
+
+initiated against Su-Kam.
+
+
+12      When the RP invited applications for resolution plans for Su-Kam, Mr
+
+Kunwar Sachdev submitted a plan along with Phoenix ARC Private Limited on 15
+
+November 2018. However, Mr Kunwar Sachdev was informed by an email dated
+
+27 December 2018 issued by the RP, that the CoC had found him to be ineligible
+
+under Section 29A(h) of the IBC and consequently annulled his resolution plan.
+
+
+13      This decision was challenged by filing an application17 before the NCLT.
+
+However, this was dismissed by the NCLT through its order dated 2 April 2019.
+
+This order was not challenged.
+
+
+14      In the interim, due to the absence of any other resolution plan, the NCLT
+
+passed an order dated 3 April 2019, under Section 34(1) of the IBC, directing the
+
+liquidation of Su-Kam and appointing a Liquidator. The appointment of the
+
+Liquidator was challenged before the NCLAT in an appeal18, which was disposed
+
+of by an order dated 29 April 2019 upholding the appointment of the Liquidator.
+
+The Liquidator was also directed to accept applications for schemes of
+
+compromise and arrangement under Sections 230 to 232 of the Act of 2013.
+
+
+
+15
+   “Su-Kam”
+16
+   CP (IB)/540 (PB)/2017)
+17
+   CA. 58(PB)/2019
+18
+   Company Appeal (AT) (Ins) No.451 of 2019
+
+
+                                              11
+                                                                               PART A
+
+15      When the Liquidator invited expressions of interest for submitting schemes
+
+of compromise and arrangement, Mr Kunwar Sachdev again expressed his
+
+interest. Emails were exchanged between the Liquidator and Mr Kunwar
+
+Sachdev, during the course of which Mr Kunwar Sachdev was invited to present
+
+his plan to the lenders of Su-Kam. However, before this could materialise, Mr
+
+Kunwar Sachdev was informed by the Liquidator through an email dated 19
+
+September 2019, that he was ineligible to propose a scheme under Section 230
+
+of the Act of 2013 in view of his ineligibility under Section 29A(h) of the IBC.
+
+
+16      Mr Kunwar Sachdev challenged this decision in an application19 filed
+
+before the NCLT, which was dismissed by an order dated 31 October 2019
+
+relying on the judgment dated 24 October 2019 impugned in the earlier appeal,
+
+and on the basis of Section 29A and Section 35(1)(f) of the IBC.
+
+
+17      Mr Kunwar Sachdev then filed an appeal20 against this order dated 31
+
+October 2019 before the NCLAT, which dismissed it by an order dated 19
+
+December 2019. Mr Kunwar Sachdev now comes before this Court in appeal.
+
+
+A.3     Liquidation Process Regulations, 2016
+
+18      Before averting to Writ Petition (Civil) No 269 of 2020, it is important to first
+
+understand the controversy surrounding the Insolvency and Bankruptcy Board of
+
+India (Liquidation Process) Regulations, 201621.
+
+
+19      The Liquidation Process Regulations have been issued by the Insolvency
+
+and Bankruptcy Board of India22, constituted under Part IV of the IBC, in exercise
+19
+   CA-2335(PB)/2019
+20
+   Company Appeal (AT) (Insolvency) No. 1498 of 2019
+21
+   “Liquidation Process Regulations”
+
+
+                                                   12
+                                                                         PART A
+
+of the powers conferred by Sections 5, 33, 34, 35, 37, 38, 39, 40, 41, 43, 45, 49,
+
+50, 51, 52, 54, 196 and 208 read with Section 240 of the IBC.
+
+
+20      The Liquidation Process Regulations were amended by the IBBI by a
+
+notification23 dated 25 July 2019, which inserted Regulation 2B. Sub-section (1)
+
+of Regulation 2B provides that a compromise or arrangement proposed under
+
+Section 230 of the Act of 2013 shall have to be completed within 90 days of the
+
+order of liquidation issued under sub-sections (1) and (4) of Section 33 of the
+
+IBC. Further, Sub-section (2) provides that the time taken in a compromise or
+
+arrangement, not exceeding 90 days, shall not be included within the liquidation
+
+period. Finally, Sub-section (3) provides that any cost which is incurred by the
+
+Liquidator in relation to the compromise or arrangement shall be borne by the
+
+corporate debtor, if such compromise or arrangement is sanctioned by the NCLT
+
+under Section 230(6). However, a proviso to Sub-section (3) notes that if such
+
+compromise or arrangement is not sanctioned by the NCLT under Section
+
+230(6), the cost shall be borne by the parties who proposed the compromise or
+
+arrangement.
+
+
+21      Regulation 2B was amended by a notification24 dated 6 January 2020, by
+
+which a proviso was added to Sub-section (1) of Regulation 2B, which provides
+
+that a party ineligible to propose a resolution plan under the IBC cannot be a
+
+party to a compromise or arrangement. Regulation 2B, in its present form, reads
+
+as follows:
+
+
+
+22
+   “IBBI”
+23
+   Noti. No. IBBI/2019-20/GN/REG047
+24
+   Noti. No. IBBI/2019-20/GN/REG053
+
+
+                                       13
+                                                                                PART A
+
+             “2-B. Compromise or arrangement.—(1) Where a
+             compromise or arrangement is proposed under Section 230
+             of the Companies Act, 2013 (18 of 2013), it shall be
+             completed within ninety days of the order of liquidation under
+             sub-sections (1) and (4) of Section 33:
+
+             Provided that a person, who is not eligible under the
+             Code to submit a resolution plan for insolvency
+             resolution of the corporate debtor, shall not be a party in
+             any manner to such compromise or arrangement.
+
+             (2) The time taken on compromise or arrangement, not
+             exceeding ninety days, shall not be included in the liquidation
+             period.
+
+             (3) Any cost incurred by the liquidator in relation to
+             compromise or arrangement shall be borne by the corporate
+             debtor, where such compromise or arrangement is
+             sanctioned by the Tribunal under sub-section (6) of Section
+             230:
+
+             Provided that such cost shall be borne by the parties who
+             proposed compromise or arrangement, where such
+             compromise or arrangement is not sanctioned by the Tribunal
+             under sub-section (6) of Section 230.”
+
+                                                      (emphasis supplied)
+
+
+
+
+A.4   Article 32 Petition
+
+22    Writ Petition (Civil) No 269 of 2020 has been filed by Mr Arun Kumar
+
+Jagatramka, also the appellant in the First Appeal, assailing the notifications
+
+dated 25 July 2019 and 6 January 2020 issued by the IBBI, through which it
+
+inserted Regulation 2B into the Liquidation Process Regulations, and
+
+subsequently amended it. As the petitioner, he contends that Regulation 2B is
+
+ultra vires the IBC and the Act of 2013, and also violates Articles 14, 19 and 21 of
+
+the Constitution. The prayer in the writ petition has been extracted below:
+
+             “In the premises set forth above, the Petitioner prays that this
+             Hon'ble Court may be pleased to issue:
+
+
+
+                                             14
+                                                                               PART B
+
+             a. Writ, Order or Direction more particularly in the nature of
+             WRIT OF DECLARATION declaring that the provisions of
+             Notifications dated 25.07.2019 and 06.01.2020 issued by the
+             Insolvency and Bankruptcy Board of India are ultra vires the
+             Insolvency and Bankruptcy Code, 2016 as well as the
+             Companies Act, 2013 and violative of Article 14, 19, 21 of the
+             Constitution of India.”
+
+
+
+B     Issues
+
+23    Having detailed the factual background of these petitions, we shall now
+
+turn to the issues before this Court and the submissions of counsels.
+
+
+24    The NCLAT formulated two principal issues in the first of its judgments in
+
+appeal:
+
+             “(i)   Whether in a liquidation proceeding under Insolvency
+             and Bankruptcy Code, 2016 (hereinafter referred to as the
+             'l&B Code') the Scheme for Compromise and Arrangement
+             can be made in terms of Sections 230 to 232 of the
+             Companies Act;
+
+
+
+             (ii)     If so permissible, whether the Promoter is eligible to
+             file application for Compromise and Arrangement, while he is
+             ineligible under Section 29A of the I&B to submit a
+             ‘Resolution Plan’.”
+
+
+
+
+25    The first of the above issues has been answered in the affirmative by the
+
+NCLAT, to which, as Mr Sandeep Bajaj, learned Counsel for the appellant noted,
+
+there is no challenge. The real bone of dispute relates to the second issue. In the
+
+submission of Mr Sandeep Bajaj, what the NCLAT determined while addressing
+
+itself to the issue in dispute is whether the ineligibility under Section 29A of the
+
+IBC can be read into the provisions of Section 230 of the Act of 2013. In essence,
+
+Mr Bajaj’s approach to the issue is that a disqualification which is not provided by
+
+                                             15
+                                                                          PART B
+
+the legislature cannot be introduced by a judicial determination. In the present
+
+case, he submitted, Section 29A does not expressly provide that it extends to
+
+Section 230 of the Act of 2013. Section 230, in his submission, is a ‘different
+
+section in different enactment’ to which the ineligibility under Section 29A of the
+
+IBC cannot be attracted.
+
+
+26    Mr Amit Sibal, learned Senior Counsel appearing for the respondent in the
+
+Second Appeal, on the other hand, submitted that the correct question to pose is
+
+whether a person who is ineligible under Section 29A of the IBC is permitted to
+
+propose a scheme for revival under Section 230 of the Act of 2013 at the stage of
+
+liquidation either themselves or in concert with others.
+
+
+27    The nuanced manner in which the contesting sides have prefaced their
+
+submissions is indicative of the broad nature of the contest. On one hand, Mr
+
+Bajaj submits that the ineligibility under Section 29A of the IBC attaches to the
+
+proceedings under the IBC alone, involving the submission of a resolution plan.
+
+On the other hand, what Mr Sibal urges is that when an order of liquidation has
+
+been passed under and in pursuance of proceedings which were initiated under
+
+the IBC, Section 230 of the Act of 2013 expressly contemplates that the liquidator
+
+appointed under the IBC may move the NCLT where a compromise or
+
+arrangement is proposed. Hence, the proposal for a compromise or arrangement
+
+under Section 230, where a company is in liquidation under the IBC, is in
+
+continuation of that liquidation process. Hence, according to Mr Sibal, a person
+
+who is ineligible under Section 29A cannot propose a scheme for revival under
+
+Section 230.
+
+
+
+                                         16
+                                                                           PART C
+
+C       Submissions
+
+
+28      Having thus elucidated the battle lines of legal conflict, we proceed to
+
+enumerate the submissions.
+
+
+29      Mr Sandeep Bajaj, learned Counsel appearing on behalf of the appellant in
+
+the First Appeal and the Petition under Article 32 submitted that:
+
+
+(i)     Chapter II of the IBC indicates that the CIRP can be invoked in three
+
+        modes:
+
+
+        (a)   By a financial creditor under Section 7;
+
+        (b)   By an operational creditor under Section 9; and
+
+        (c)   By a corporate debtor under Section 10.
+
+(ii)    The IBC and its regulations indicate that there is a clear distinction
+
+        between:
+
+
+        (a)   the settlement mechanism which allows for a settlement upon which
+
+              the corporate debtor would stand restored to the promoter together
+
+              with all its assets and liabilities; and
+
+
+        (b)   the resolution mechanism under which, upon the acceptance of a
+
+              resolution plan, the company moves over to the control of the
+
+              acquirer on a clean slate for a fixed consideration, consequent to the
+
+              provisions of Section 31;
+
+
+(iii)   Section 29A is a part of the resolution mechanism, the object and purpose
+
+        of which is to prevent a back-door entry to the promoter who should not be
+
+        allowed to have advantage of their own wrong;
+                                            17
+                                                                             PART C
+
+(iv)   Though the appellant falls in the prohibited category under Section 29A,
+
+       the purpose of the prohibition is to prevent the promoter from submitting a
+
+       resolution plan with reference to the provisions of Sections 30 and 31 of
+
+       the IBC;
+
+
+(v)    Chapter III of the IBC, commencing with Section 33, deals with the
+
+       liquidation process and Regulation 32 of the Liquidation Process
+
+       Regulations deals with “sale of assets etc. by the liquidator”. In the course
+
+       of the liquidation under Chapter III, the liquidation estate is to be formed
+
+       under Section 36 and the sale under Regulation 32 is an intrinsic part of
+
+       the liquidation estate. The consequence is that acquirer begins on a clean
+
+       slate. The ineligibility under Section 29A which attaches for the purpose of
+
+       Chapter II, in the context of a resolution plan, has been extended under
+
+       Section 35(1)(f) to Chapter III on the basis of the above rationale, i.e., that
+
+       the liquidator shall not sell the moveable or immoveable property of the
+
+       corporate debtor or its actionable claims in liquidation to any person who is
+
+       not eligible to be a resolution applicant;
+
+
+(vi)   Rule 8 of the Insolvency and Bankruptcy (Application to Adjudicating
+
+       Authority) Rules, 2016 contemplates that the NCLT, in its role as the
+
+       Adjudicating Authority, may permit withdrawal of an application by the
+
+       financial creditor, operational creditor or corporate applicant on a request
+
+       made by the applicant before its admission. This is indicative of the
+
+       position that the NCLAT does not have an inherent power to allow for
+
+       withdrawal of the application after admission;
+
+
+
+                                          18
+                                                                              PART C
+
+(vii)      Section 12-A was inserted in the IBC by Amending Act 26 of 2018 with
+
+           retrospective effect from 6 June 2018 so as to permit the NCLT to allow
+
+           the withdrawal of an application which has been admitted under Sections
+
+           7, 9 or 10 on an application made by the applicant, with the approval of
+
+           ninety per cent of a voting share of the CoC in such a manner as may be
+
+           specified;
+
+
+(viii)     Regulation 30-A of the Insolvency and Bankruptcy Board of India
+
+           (Insolvency Resolution Process for Corporate Persons) Regulations, 2016
+
+           (which was inserted on 3 July 2018) allowed for the withdrawal under
+
+           Section 12-A before the issuance of an invitation for expression of interest
+
+           under Regulation 36-A. In the decision of this Court in Swiss Ribbons
+
+           Private Limited v. Union of India25 which was rendered on 25 January
+
+           2019, the Court held that a withdrawal of an application can be permitted
+
+           between admission of the application and the constitution of the CoC.
+
+           Following up on this, Regulation 30-A was substituted on 25 July 2019 to
+
+           allow an application for withdrawal under Section 12-A both before and
+
+           after the constitution of the CoC. However, where the application is made
+
+           after the constitution of the CoC (under Regulation 30-A(1)(b)), and after
+
+           the issuance of the invitation for expression of interest, the reasons
+
+           justifying the withdrawal are required to be stated;
+
+
+
+
+25
+     (2019) 4 SCC 17; herein, referred to as “Swiss Ribbons”
+
+
+                                                       19
+                                                                               PART C
+
+(ix)       The decision in Brilliant Alloys (P) Ltd. v. S Rajagopal26 would indicate
+
+           that a withdrawal can be permitted even after the expression of interest, as
+
+           a consequence of which Regulation 30-A is directory in nature;
+
+
+(x)        The consequence of a withdrawal of the application under Sections 7, 9 or
+
+           10 is that the corporate debtor stands restored to the promoter. As such,
+
+           Section 29A does not operate as an ineligibility on the settlement
+
+           mechanism. On the withdrawal of the application the corporate debtor
+
+           goes back to the same promoter, even if they are ineligible under Section
+
+           29A for the submission of the resolution plan;
+
+
+(xi)       The ineligibility under Section 29A, which forms a part of Chapter II of the
+
+           IBC, is only during the resolution process;
+
+
+(xii)      The rationale for imposing an ineligibility under Section 29A in the
+
+           resolution process is that the successful resolution applicant under Section
+
+           31 of the IBC obtains the company on a clean slate, as indicated in the
+
+           decision of this Court in Committee of Creditors of Essar Steel India
+
+           Limited v. Satish Kumar Gupta27. This benefit is not available where an
+
+           application is simpliciter withdrawn under Section 12-A;
+
+
+(xiii)     Section 230 of the Act of 2013 is a part of the settlement mechanism and
+
+           is at par with the provisions of Section 12-A. The impact of a compromise
+
+           or arrangement is also that company is restored to the promoters with all
+
+           its liabilities. While Section 12-A of the IBC permits withdrawal of an
+
+
+26
+     2018 SCC OnLine SC 3154; hereinafter, referred to as “Brilliant Alloys”
+27
+     (2020) 8 SCC 531
+
+
+                                                        20
+                                                                             PART C
+
+           application, Sections 230 and 230-A of the Act of 2013 envisage a
+
+           compromise or arrangement. As such, they both form a part of the
+
+           settlement mechanism and are not part of the resolution mechanism, to
+
+           which alone the ineligibility under Section 29A applies. Hence, this
+
+           ineligibility cannot now be engrafted into Section 230;
+
+
+(xiv)      Section 230 was amended on 15 November 2016 and under Sub-Section
+
+           (6), the compromise or arrangement becomes binding if 3/4th in value of
+
+           the creditors or class of creditors or members agree to it, and if it is
+
+           sanctioned by the NCLT. The compromise or arrangement then becomes
+
+           binding on the liquidator appointed under the IBC as a whole. The
+
+           provisions of Section 230 are, however, not restricted to liquidation. They
+
+           are not regulated by the IBC. Section 230 operates in an area independent
+
+           of the IBC. Following the amendment of Section 230(1) on 15 November
+
+           2016, the application for a compromise can also be proposed by the
+
+           liquidator appointed under the IBC. However, the right of the liquidator to
+
+           make an application under Section 230(1) is in addition to the others
+
+           enumerated therein and not exclusive, in view of the principle which was
+
+           laid down by this Court while construing the corresponding provisions of
+
+           Section 391 of the Companies Act, 195628;
+
+
+(xv)       The discussion papers circulated by the IBBI in April and November 2019
+
+           clearly demonstrate that IBBI was aware of the fact that the ineligibility
+
+           which attaches to the resolution process under Section 29A will not attach
+
+
+28
+     the “Act of 1956”
+
+
+                                             21
+                                                                             PART C
+
+        to Section 230 of the Act of 2013. The proviso to Regulation 2B was
+
+        notified by the IBBI on 6 January 2020 to stipulate that a person who is not
+
+        eligible under the IBC to submit a resolution plan for insolvency resolution
+
+        of the corporate debtor shall not be a party to such compromise or
+
+        arrangement. Regulation 2B is ultra vires the provisions of Section 230 of
+
+        the Act of 2013. IBBI had no statutory authority to make the Regulation 2B,
+
+        through which it has effectively provided a disqualification under the Act of
+
+        2013, even though the mandate of IBBI is confined only to the IBC; and
+
+
+(xvi)   Regulation 2B is violative of Articles 14, 19 and 21 of the Constitution as it
+
+        seeks to import an ineligibility under the provisions of the IBC to a
+
+        dissimilar provision in the Act of 2013. Moreover, when ineligibility is not
+
+        attracted under Section 12-A of the IBC, imposing this ineligibility under
+
+        Section 230 of the Act of 2013 is arbitrary.
+
+
+30      Adopting the submissions which were urged by Mr Sandeep Bajaj, Mr Shiv
+
+Shankar Banerjee, learned Counsel appearing on behalf of the appellant in the
+
+Second Appeal, submitted that:
+
+
+(i)     A complete procedure has been stipulated under the provisions of the IBC
+
+        for liquidation;
+
+
+(ii)    Where a sale of the assets of the corporate debtor or sale of the business
+
+        of the corporate debtor takes place in the course of the liquidation, Section
+
+        35(1)(f) of the IBC stipulates that the assets cannot be sold to a person
+
+        who is ineligible under Section 29A. The object is to ensure that liquidation
+
+
+
+                                          22
+                                                                             PART C
+
+        should not be used to allow the promoter to get the assets free from
+
+        encumbrances;
+
+
+(iii)   In contrast to a successful resolution applicant under Chapter II or the
+
+        person who benefits from the sale of assets in liquidation under Chapter III
+
+        of the IBC, the person who proposes a compromise or arrangement under
+
+        Section 230 under the Act of 2013 does not have the benefit of acquiring
+
+        the company free of encumbrances. There is thus no reason or justification
+
+        to exclude the promoter from invoking the provisions of Section 230;
+
+
+(iv)    Section 230(1) makes a reference to a liquidator appointed under the IBC
+
+        because when the provision of Sections 7, 9 or 10 have been invoked, and
+
+        an order of admission has been passed, liquidation, if required, will take
+
+        place under the provisions of Section 35 of the IBC;
+
+
+(v)     The mischief which was sought to be remedied by the adoption of Section
+
+        29A is restricted to the resolution process, its object being that persons
+
+        should not take advantage of their own wrong. It is justifiable if a defaulter
+
+        is excluded from the resolution process which may result in the creditors
+
+        taking a haircut of their outstanding claims. Moreover, a successful
+
+        resolution applicant begins on a clean slate. In contrast, under Section
+
+        230, the scheme has to be sanctioned by the NCLT only upon which it will
+
+        pass muster; and
+
+
+(vi)    The insertion of the proviso in Regulation 2B of the Liquidation Process
+
+        Regulations is a clear indicator of the fact that a disqualification or
+
+
+
+                                          23
+                                                                             PART C
+
+        ineligibility under Section 29A is not a part of Section 230 of the Act of
+
+        2013.
+
+
+31      The above submissions have been contested by Mr Amit Sibal, learned
+
+Senior Counsel appearing on behalf of the respondents in the Second Appeal.
+
+Learned Senior Counsel submitted that:
+
+
+(i)     A proposal under Section 230 of the Act of 2013 need not result in the
+
+        revival of the company. The proposal may apply only to a class of creditors
+
+        or shareholders. Even prior to its amendment, this Court had held that
+
+        additional conditions apply when a plan under the erstwhile provisions of
+
+        Section 391 of the Act of 1956 is propounded at the time of liquidation of
+
+        the company;
+
+
+(ii)    Section 29A has several ineligibilities apart from those that attach to
+
+        promoters. To allow a person who is ineligible under Section 29A from
+
+        submitting a compromise or arrangement under Section 230 at the
+
+        liquidation stage is contrary to the letter and spirit of the IBC;
+
+
+(iii)   The NCLT while dealing with an application for a compromise or
+
+        arrangement under Section 230 of the Act of 2013, in respect of a
+
+        company which is being liquidated under the IBC, performs a dual role:
+
+        firstly, as an Adjudicating Authority under the IBC and as a Tribunal under
+
+        the Act of 2013. Therefore, it can insist on adherence to additional
+
+        conditions namely that:
+
+
+        (a)     The proposed compromise or arrangement must result in a revival of
+
+                the company; and
+                                            24
+                                                                                PART C
+
+           (b)         The compromise or arrangement cannot be proposed by a person
+
+                       who is barred under Section 29A;
+
+
+(iv)       When the IBC was originally enacted there was no bar of the nature found
+
+           in Section 29A on who can propose a resolution plan either pre or post
+
+           liquidation;
+
+
+(v)        The ineligibility under Section 29A and Section 35(1)(f) was introduced by
+
+           a legislative amendment on 23 November 201729, both at the pre and post
+
+           liquidation stages;
+
+
+(vi)       The purpose of the disqualification is to ensure a sustainable revival, which
+
+           means that those responsible for the state of affairs of a company and
+
+           other persons regarded by the legislature as undesirable should be
+
+           excluded from the process;
+
+
+(vii)      Persons who are ineligible under Section 29A or Section 35(1)(f) cannot
+
+           seek an entry:
+
+
+           (a)         at the CIRP stage; or
+
+           (b)         under Section 230 of the Act of 2013; or
+
+           (c)         by purchasing the assets during liquidation.
+
+(viii)     Section 29A does not apply only to conduct in relation to the corporate
+
+           debtor, but in relation to other companies as well;
+
+
+(ix)       The ineligibility engrafted in Section 29A extends to Chapter III by virtue of
+
+           the provision of Section 35(1)(f). This must be read together with
+29
+     “Act 8 of 2018”
+
+
+                                                  25
+                                                                               PART C
+
+           Regulation 32 of the Liquidation Process Regulations. Regulation 32
+
+           provides six modes of realization of assets, out of which four involve the
+
+           sale of assets and two involve the transfer of the corporate debtor or its
+
+           business as a ‘going concern’;
+
+
+(x)        Regulation 44(1), through its proviso, allows for an additional period of
+
+           ninety days for the liquidation process where the sale is through Regulation
+
+           32-A(1) so as to encourage a revival of the company;
+
+
+(xi)       There is no reference in the body of the IBC to a scheme of compromise
+
+           under Section 230. Section 230 (especially sub-Sections (1) and (6))
+
+           indicate that:
+
+
+           (a)     a compromise can be with a sub-set of creditors;
+
+           (b)     liquidation is one scenario in which Section 230 can be invoked; and
+
+           (c)     a compromise with only a class of creditors will bind only that class
+                   under Section 230(c);
+
+(xii)      While construing the corresponding provisions of erstwhile Section 391 of
+
+           the Act of 1956, this Court held in Meghal Homes Pvt. Ltd. v Shree
+
+           Niwas Girni K. K. Samiti30 that where a scheme of compromise and
+
+           arrangement is proposed in respect of the company in liquidation,
+
+           additional requirements need to be established, namely that the scheme
+
+           must be for the revival of company. The impact of a scheme under Section
+
+           391, where the company is in liquidation, is that the proposers of the
+
+           scheme enter into the management with the debt having been resolved.
+
+30
+     (2007) 7 SCC 753; herein, referred to as “Meghal Homes”
+
+
+                                                      26
+                                                                               PART C
+
+         This makes the scheme of compromise or arrangement under Section 230
+
+         qualitatively different from a simpliciter withdrawal of an application under
+
+         Section 12-A of the IBC. Section 12-A does not incorporate any
+
+         requirement for the revival of the company;
+
+
+(xiii)   The IBC provides for three modes of revival:
+
+
+         (a)     the CIRP under Chapter II;
+
+
+         (b)     sale of a company in liquidation as a going concern (read with
+
+                 Regulation 32(e) and (f)); and
+
+
+         (c)     a scheme of compromise or arrangement under Section 230 of the
+
+                 Act of 2013, following upon an order for liquidation being passed
+
+                 under Chapter III of the IBC;
+
+
+         The prohibition or ineligibility which applies in (a) and (b) must necessarily
+
+         attach to (c) as well. When a plan for compromise or arrangement is
+
+         proposed at the liquidation stage of IBC under Section 230 of the Act of
+
+         2013, it must satisfy the rigors of the IBC. Hence, a person who is ineligible
+
+         under Section 29A cannot submit a plan under Section 230 of the Act of
+
+         2013;
+
+
+(xiv) In construing the provisions of Sections 29A and 35(1)(f) of the IBC, notice
+
+         must be taken of the fact that the ineligibility was made applicable both to
+
+         the resolution stage as well as the stage of liquidation. In interpreting these
+
+         provisions, the purpose and object of the amendment must be borne in
+
+
+
+
+                                              27
+                                                                            PART C
+
+       mind, which is that a scheme of revival cannot be proposed by a person
+
+       who stands disqualified under Section 29A;
+
+
+(xv)   The proposal of a compromise or arrangement under Section 230 in a
+
+       situation where the company is in liquidation under the IBC is a facet of the
+
+       liquidation process under the IBC. Section 230 was amended to include a
+
+       liquidator appointed under the IBC. The statutory scheme indicates that:
+
+
+       (a)   A liquidation under the IBC follows upon the entire gamut of
+
+             proceedings under the IBC;
+
+
+       (b)   Section 230 of the Act of 2013 provides one of the modes of revival
+
+             in the liquidation process; and
+
+
+       (c)   Other activities of the liquidator do not cease while inviting schemes
+
+             under Section 230. The steps required to be taken by the liquidator
+
+             in liquidation include a compromise or arrangement under Section
+
+             230. It is in this context that the NCLT performs a dual role - that of
+
+             an Adjudicating Authority in the matter of liquidation under the IBC
+
+             as well as of a Tribunal for a scheme of compromise and
+
+             arrangement under the Act of 2013;
+
+
+(xvi) The fundamental postulate of the IBC is that a corporate debtor has to be
+
+       protected from its management and corporate debt. Hence, it would be
+
+       anomalous if a compromise or arrangement can be entertained from a
+
+       person who is responsible for the state of affairs of the corporate debtor;
+
+
+
+
+                                         28
+                                                                          PART C
+
+(xvii) Where a company is in liquidation under the provisions of the IBC, the
+
+       submission of a compromise or arrangement under Section 230 has
+
+       distinct features of commonality with a resolution plan namely:
+
+
+       (a)    The object is to revive the company; and
+
+
+       (b)    Once officially approved, it assumes a binding character;
+
+
+       These intrinsic elements of revival and of the binding nature permeate both
+
+       a resolution plan on the one hand and a compromise or arrangement on
+
+       the other, which is arrived at in the course of liquidation;
+
+
+(xviii) The introduction of the proviso to Regulation 2(B) of the Liquidation
+
+       Process Regulations with effect from 6 January 2020 is only by way of a
+
+       clarification;
+
+
+(xix) Dehors the provisions of the IBC, the rigors of the IBC will not apply to a
+
+       proceeding under Section 230 of the Act of 2013. In other words, the
+
+       ineligibility under Sections 29A and 35(1)(f) applies only to a situation
+
+       where a corporate debtor has come within the purview of the IBC and has
+
+       been taken into liquidation under Chapter III. It is only where a compromise
+
+       or arrangement under Section 230 of the Act of 2013 is proposed in
+
+       respect of a company which is undergoing liquidation under the IBC that
+
+       the rigors of Section 29A and 35(1)(f) would stand attracted;
+
+
+(xx)   An absurdity will result if persons found to be derelict or guilty of
+
+       malfeasance, who are barred from:
+
+
+       (a)    submitting a resolution plan;
+
+                                          29
+                                                                          PART C
+
+      (b)   obtaining a sale of assets in liquidation; and
+
+
+      (c)   obtaining a sale of the company as a going concern.
+
+
+      can still propose a compromise under Section 230 of the Act of 2013. It is
+
+      a settled principle of law that an interpretation which leads to absurdity
+
+      must be avoided;
+
+
+(xxi) There is a fallacy in equating the provisions of Section 230 of the Act of
+
+      2013 with an application for withdrawal under Section 12-A of the IBC.
+
+      Section 12-A is not intended to be the culmination of the resolution process
+
+      but is at the inception. The withdrawal by an applicant leads to a status quo
+
+      ante in respect of liabilities of the corporate debtor and does not require
+
+      that the defaults in respect of all creditors are brought to an end. In
+
+      contrast:
+
+
+      (a)    a resolution plan under Section 31 of the IBC (as well as the
+
+            scheme under Section 230 of the Act of 2013) binds all the
+
+            stakeholders;
+
+
+      (b)   results in a clean slate unlike Section 12-A; and
+
+
+      (c)   constitutes a culmination of the resolution plan.
+
+
+      As distinct from the provisions of Section 31 of the IBC and Section 230 of
+
+      the Act of 2013, a withdrawal under Section 12-A restores the status quo
+
+      ante and is hence not concerned with ineligibilities under Section 29A; and
+
+
+
+
+                                        30
+                                                                              PART C
+
+(xxii) Section 240 of the IBC enunciates the power to make regulations to carry
+
+        out the provisions of the Code. The insertion of the proviso to Regulation
+
+        2(B) is valid because:
+
+
+        (a)   the amendment is consistent with the IBC and carries out its
+
+              provisions; and
+
+
+        (b)   it is clarificatory in nature since even in its absence, the ineligibility
+
+              under Section 29A would govern.
+
+
+32      In summing up, Mr Sibal urged that:
+
+
+(i)     Where a company is in liquidation under Chapter III of the IBC, a proposed
+
+        scheme of compromise or arrangement under Section 230 of the Act of
+
+        2013 must comply with the requirements of the IBC;
+
+
+(ii)    The specific requirements which must be fulfilled under (i) above are that:
+
+
+        (a)   the scheme must be for the revival of the company; and
+
+
+        (b)   it must not be proposed by a person who is ineligible under Section
+
+              29A of the IBC;
+
+
+(iii)   The above requirements are IBC specific and not inconsistent with the
+
+        provisions of Section 230 of the Act of 2013;
+
+
+(iv)    Sections 29A and 35(1)(f) of the IBC prohibit a certain category of persons
+
+        from proposing a revival of the company in the course of the CIRP,
+
+        liquidation process and in purchasing the assets in the course of
+
+        liquidation. To make an exception in a plan for revival under Section 230 of
+
+
+                                           31
+                                                                           PART C
+
+        the Act of 2013 in the context of a scheme of compromise or arrangement
+
+        will defeat the object and intent of the amendment to the IBC and lead to
+
+        an absurdity. This would perpetrate the mischief which was sought to be
+
+        obviated;
+
+
+(v)     When a company is in liquidation under the IBC, a scheme proposed under
+
+        Section 230 is a facet of the liquidation process and the same rationale
+
+        which permeates the liquidation process must also govern it; and
+
+
+(vi)    Section 12-A stands on a completely different footing. It provides for a
+
+        withdrawal at the inception of the CIRP and is not a culmination of a
+
+        resolution process. Nor does a Section 12-A withdrawal bind all
+
+        stakeholders.
+
+
+33      Mr Gopal Jain, learned Senior Counsel appearing for the respondents in
+
+the First Appeal, has urged submissions along the same lines as Mr Amit Sibal.
+
+His submissions are summarized below:
+
+
+(i)     The commencement or the initiation process attracting the IBC is an
+
+        application under Sections 7, 9 or 10;
+
+
+(ii)    In the present case, an application was filed under Section 10 as a
+
+        consequence of which the case has to be analyzed through the prism of
+
+        the IBC;
+
+
+(iii)   The IBC is an economic legislation and its key objectives are to ensure:
+
+
+        (a)   good corporate governance;
+
+
+
+                                         32
+                                                                            PART C
+
+       (b)   control deviant behavior;
+
+
+       (c)   protect the integrity of the resolution process;
+
+
+       (d)   enhance commercial morality; and
+
+
+       (e)   foster respect for the rule of law.
+
+
+             The IBC is premised on the principle that there is a significant
+
+             element of public interest in facilitating a creditor-centric regime for
+
+             achieving economic growth. Ensuring that resolution plans are
+
+             submitted by credible persons is intrinsic to the scheme of the IBC.
+
+             Speed is of the essence. The IBC has sought to convert a legal
+
+             regime which was a debtor’s paradise into a regime governed by
+
+             corporate justness. The regime under the IBC is dynamic, which is
+
+             reflected by eight amendments which took place between November
+
+             2017 and September 2020;
+
+
+(iv)   The basic principle is that an entity which is barred under Section 29A and
+
+       Section 35(1)(f) should not be in control of the assets of the corporate
+
+       debtor. The objective is that defaulting promoters:
+
+
+       (a)   should not be in the driver's seat; and
+
+
+       (b)   should be kept at arm's length;
+
+
+(v)    In order to achieve the above objectives, the Parliament enacted a
+
+       simultaneous amendment of both Section 29A and Section 35(1)(f) to
+
+
+
+
+                                          33
+                                                                            PART C
+
+        maintain a level playing field by comprehensively catering to all situations
+
+        relating to defaulting or barred promoters;
+
+
+(vi)    In interpreting the IBC, legal sanctity and clarity are of utmost importance.
+
+        But for Section 29A, promoters would have got back into management
+
+        after securing a haircut to lenders in the course of the resolution plans.
+
+        Section 29A which applies to the resolution process and Section 35(1)(f)
+
+        which applies to the liquidation process were intended to plug a loophole.
+
+        To accept the submissions of the appellants would be creating a new
+
+        loophole. Section 29A is in the nature of a see-through provision. The
+
+        submissions of the appellants will in fact scare away genuine creditors and
+
+        derail the process; and
+
+
+(vii)   According to Section 238 of the IBC, in case of any inconsistency between
+
+        the provisions of the IBC and any other law in force, the provisions of the
+
+        IBC are to have an overriding effect.
+
+
+34      Mr Tushar Mehta, learned Solicitor of General of India,       defended the
+
+validity of Regulation 2B, more specifically the proviso. The learned Solicitor
+
+General submitted that:
+
+
+(i)     The trigger is the liquidation resulting from the operation of the provisions
+
+        of Section 33 of the IBC;
+
+
+(ii)    Regulation 2B facilitates an additional period of ninety days for a
+
+        compromise under Section 230 of the Act of 2013 because the entire
+
+        process is time specific;
+
+
+
+                                          34
+                                                                             PART C
+
+(iii)   Even if the legal position is assessed independent of Regulation 2B, the
+
+        same embargo as contained in Section 29A and Section 35(1)(f) would
+
+        apply to a compromise or arrangement proposed under Section 230 of the
+
+        Act of 2013 in respect of a company which is undergoing liquidation under
+
+        Chapter III of the IBC;
+
+
+(iv)    Regulation 2B is essentially clarificatory;
+
+
+(v)     The basis of Regulation 2B is the same as Sections 29A and 35(1)(f),
+
+        which is that a person who is the cause of the problem either by a design
+
+        or default cannot be a part of the process solution;
+
+
+(vi)    The IBC is a beneficial legislation. Prior to the enactment of the IBC:
+
+
+        (a)   individual creditors had individual remedies; and
+
+
+        (b)   the debtor would remain in possession of the company and its
+
+              assets.
+
+
+        With the introduction of the IBC, there has been a paradigm shift in that:
+
+
+        (a)   under the new legal regime there is a collective effort of all creditors
+
+              even if at the behest of one of them;
+
+
+        (b)   the creditor is in control instead of the debtor in possession; and
+
+
+        (c)   revival is the soul of the IBC;
+
+
+(vii)   Sections 196 and 240 of the IBC reflect a specific conferment of power on
+
+        the IBBI to frame regulations subject to the stipulation that:
+
+
+
+                                           35
+                                                                                   PART D
+
+          (i)      they are not inconsistent with the provisions of the IBC; and
+
+
+          (ii)     they carry out the purposes of the IBC.
+
+
+          Both these conditions are fulfilled by Regulation 2(B);
+
+
+(viii)    A regulation which is framed under a statute in exercise of the authority
+
+          which is conferred on the delegate can be challenged on the ground of
+
+          being:
+
+
+          (a)      ultra vires the parent statute; or
+
+
+          (b)      being contrary to the provisions of Part III of the Constitution;
+
+
+         To suffer from unreasonableness, a regulation must be held to be manifestly
+
+         arbitrary. Regulation 2(B) is consistent with the object and purpose of the
+
+         IBC; and does not suffer from manifest arbitrariness; and
+
+
+(ix) Sections 29A and 35(1)(f) apply to liquidation pursuant to the IBC. The
+
+         principle of Section 29A stands absorbed in the hybrid process of
+
+         compromise during liquidation under the IBC, by way of a device of
+
+         incorporation by reference.
+
+
+35       Mr Balbir Singh, learned Additional Solicitor General, has addressed
+
+         submissions also along the above lines.
+
+
+
+
+D         Analysis of the Legal Framework
+
+36        Having narrated the submissions advanced by both sides, we now turn to
+
+the legal position and the interplay between the proposal of a scheme of
+
+
+                                                36
+                                                                             PART D
+
+compromise and arrangement under Section 230 of the Act of 2013 and
+
+liquidation proceedings initiated under Chapter III of the IBC.
+
+
+D.1     Ineligibility during the resolution process and liquidation
+
+37      Section 29A of the IBC was introduced with effect from 23 November 2017
+
+by Act 8 of 2018. The birth of the provision is an event attributable to the
+
+experience which was gained from the actual working of the provisions of the
+
+statute since it was published in the Gazette of India on 28 May 2016. The
+
+provisions of the IBC were progressively brought into force thereafter.
+
+
+The foundation
+
+
+38      The IBC is a law which consolidated and amended existing legislation
+
+relating to re-organisation and insolvency resolution of corporate persons,
+
+partnerships and individuals. The long title to the legislation indicates the specific
+
+objects, which it is intended to facilitate. These objects include:
+
+
+(i)     A time bound process of re-organization and insolvency resolution;
+
+
+(ii)    Maximization of the value of assets;
+
+
+(iii)   Promoting entrepreneurship;
+
+
+(iv)    Facilitating the availability of credit; and
+
+
+(v)     Balancing the interests of all stakeholders.
+
+
+39      Some of the key drawbacks of the legal regime, as it existed prior to the
+
+enactment of the IBC, were:
+
+
+(i)     The absence of a single legislation governing insolvency and bankruptcy;
+                                             37
+                                                                         PART D
+
+(ii)    A multiplicity of laws governing insolvency and bankruptcy of corporate
+
+        entities;
+
+
+(iii)   The existence of multiple fora established to deal with the enforcement of
+
+        diverse legislative provisions; and
+
+
+(iv)    The complexity caused by a maze of statutes resulting in inadequate,
+
+        ineffective and delayed resolutions, occasioned by the (then) existing
+
+        framework.
+
+
+These inadequacies were noticed in the Statement of Objects and Reasons
+
+accompanying the introduction of the Bill. The IBC reflects a fundamental change
+
+in the erstwhile legal regime. A timely resolution of corporate insolvency was
+
+conceived as an instrument to support the development of credit markets,
+
+encourage entrepreneurship, enhance the ease of doing business and provide an
+
+environment conducive to investment, setting the economy on the path to growth
+
+and development. In resolving some of the complex issues which arise under the
+
+new legal regime envisaged under the IBC, it then becomes necessary to
+
+vacuum the cobwebs of the past. Interpreting the IBC in a manner which would
+
+facilitate the salutary objects which it is intended to achieve requires all
+
+stakeholders to shed concepts and notions associated with the earlier legal
+
+regime, which was largely a debtor’s paradise. The earlier regime was one in
+
+which the debtor would largely remain in possession of the company and its
+
+assets and individual creditors were left to paddle their own canoe in headwinds
+
+controlled by those in debt and default.
+
+
+
+
+                                           38
+                                                                              PART D
+
+40    The enactment of the IBC has marked a quantum change in corporate
+
+governance and the rule of law. First and foremost, the IBC perceives good
+
+corporate governance, respect for and adherence to the rule of law as central to
+
+the resolution of corporate insolvencies. Second, the IBC perceives corporate
+
+insolvency not as an isolated problem faced by an individual business entities but
+
+places it in the context of a framework which is founded on public interest in
+
+facilitating economic growth by balancing diverse stakeholder interests. Third, the
+
+IBC attributes a primacy to the business decisions taken by creditors acting as a
+
+collective body, on the premise that the timely resolution of corporate insolvency
+
+is necessary to ensure the growth of credit markets and encourage investment.
+
+Fourth, in its diverse provisions, the IBC ensures that the interests of corporate
+
+enterprises are not conflated with the interests of their promoters; the economic
+
+value of corporate structures is broader in content than the partisan interests of
+
+their managements. These salutary objectives of the IBC can be achieved if the
+
+integrity of the resolution process is placed at the forefront. Primarily, the IBC is a
+
+legislation aimed at re-organization and resolution of insolvencies. Liquidation is
+
+a matter of last resort. These objectives can be achieved only through a
+
+purposive interpretation which requires courts, while infusing meaning and
+
+content to its provisions, to ensure that the problems which beset the earlier
+
+regime do not enter through the backdoor through disingenuous stratagems.
+
+
+
+
+                                          39
+                                                                                PART D
+
+The amendments
+
+
+41    On 23 November 2017, Parliament intervened through its amending power
+
+to introduce Section 29A into the provisions of Chapter II and Section 35(1)(f) into
+
+the provisions of Chapter III. Chapter II of the IBC ,which enunciates provisions
+
+for the CIRP, has evolved over the previous four years. Chapter III enunciates
+
+provisions in regard to the liquidation process. Section 29A stipulates diverse
+
+categories of persons who will not be eligible to submit a resolution plan.
+
+
+42    By the same amending Act through which Section 29A was introduced,
+
+Section 35(1)(f) was also amended with the introduction of a proviso. Section 35
+
+specifies the powers of the liquidator as well as their duties, which are subject to
+
+the directions of the Adjudicating Authority. Section 35(1)(f) provides as follows:
+
+             “35. Powers and duties of liquidator.—(1) Subject to the
+             directions of the Adjudicating Authority, the liquidator shall
+             have the following powers and duties, namely:—
+
+             ...
+
+
+(f) subject to section 52, to sell the immovable and movable property and actionable claims of the corporate debtor in liquidation by public auction or private contract, with power to transfer such property to any person or body corporate, or to sell the same in parcels in such manner as may be specified:
+
+Provided that the liquidator shall not sell the immovable and movable property or actionable claims of the corporate debtor in liquidation to any person who is not eligible to be a resolution applicant.” 43 The Statement of Objects and Reasons accompanying the introduction of the Bill proposing the amendment dated 23 November 2017, elucidates the purpose of introducing the new provisions:
+ PART D “2. The provisions for insolvency resolution and liquidation of a corporate person in the Code did not restrict or bar any person from submitting a resolution plan or participating in the acquisition process of the assets of a company at the time of liquidation. Concerns have been raised that persons who, with their misconduct contributed to defaults of companies or are otherwise undesirable, may misuse this situation due to lack of prohibition or restrictions to participate in the resolution or liquidation process, and gain or regain control of the corporate debtor. This may undermine the processes laid down in the Code as the unscrupulous person would be seen to be rewarded at the expense of creditors. In addition, in order to check that the undesirable persons who may have submitted their resolution plans in the absence of such a provision, responsibility is also being entrusted on the committee of creditors to give a reasonable period to repay overdue amounts and become eligible.” 44 During the course of the debate in the Lok Sabha on 29 December 2017, the Finance Minister noted that the IBC had been in operation for about a year.
+
+The new legislation had been a “learning experience”. The Ordinance was promulgated since a large number of cases were “already pending resolution mechanism itself” and there was a danger that if the amendment was not immediately brought in, persons who were “ineligible” would have started applying as resolution applicants. The Finance Minister in the course of his speech highlighted the reason for the amendments when he observed as follows:
+
+“…What do you do with promoters who are themselves responsible for these NPAs, that is clause C. Every creditor takes his haircut and there is an equitable distribution in the case of dissolution. In the case of resolution also, all type of creditors may take some haircut and the man who created the insolvency pays a fraction of the amount and comes back into management. Should we allow that to continue? The overwhelming view, as expressed by the Members, is that it should not be allowed. This was a gap which was there in the original Bill and by bringing in 29(a) we have tried to fill in that gap. That is the objective. In order that this provision must apply to all existing cases of resolution which are pending, that is the case for urgency. If we had not done this, then all such defaulters would have rejoiced  PART D because they would have merely walked back into these companies by paying only a fraction of these amounts. That is something which besides being commercially imprudent would also be morally unacceptable. That is the real rationale behind this particular Bill:.” (emphasis supplied) 45 The Report of the Insolvency Law Committee dated 3 March 2018 states that the intent behind introducing Section 29A was to prevent unscrupulous persons from gaining control over the affairs of the company. These persons included those who by their misconduct have contributed to the defaults of the company or are otherwise undesirable. The Committee observed:
+“14.1. Section 29A was added to the Code by the Amendment Act. Owing to this provision, persons, who by their misconduct contributed to the defaults of the corporate debtor or are otherwise undesirable, are prevented from gaining or regaining control of the corporate debtor. This provision protects creditors of the company by preventing unscrupulous persons from rewarding themselves at the expense of creditors and undermining the processes laid down in the Code.” 46 Significantly, the ineligibility which was engrafted by the amending legislation was incorporated in both the provisions of Chapter II dealing with the CIRP as well as in Chapter III dealing with the liquidation process. Section 29A stipulates the category of persons who “shall not be eligible to submit a resolution plan”. The proviso to Section 35(1)(f) incorporates the same norm in the liquidation process, when it stipulates that the liquidator shall not sell the immovable and movable or actionable claims of the corporate debtor in liquidation “to any person who is not eligible to be a resolution applicant”. These  PART D words in Section 35(1)(f) are clearly referable to the ineligibility which is set up in Section 29A.
+
+Judicial understanding Chitra Sharma 47 The underlying purpose of introducing Section 29A was adverted to in a judgment of this court in Chitra Sharma v. Union of India31. One of us (Justice DY Chandrachud) speaking for a Bench of three learned judges took note of the Statement of Objects and Reasons accompanying the Bill and emphasised the purpose of Section 29A thus:
+
+“[…]
+38. Parliament has introduced Section 29A into IBC with a specific purpose. The provisions of Section 29A are intended to ensure that among others, persons responsible for insolvency of the corporate debtor do not participate in the resolution process. The Statement of Objects and Reasons appended to the Insolvency and Bankruptcy Code (Amendment) Bill, 2017, which was ultimately enacted as Act 8 of 2018, states thus:
+“2. The provisions for insolvency resolution and liquidation of a corporate person in the Code did not restrict or bar any person from submitting a resolution plan or participating in the acquisition process of the assets of a company at the time of liquidation. Concerns have been raised that persons who, with their misconduct contributed to defaults of companies or are otherwise undesirable, may misuse this situation due to lack of prohibition or restrictions to participate in the resolution or liquidation process, and gain or regain control of the corporate debtor. This may undermine the processes laid down in the Code as the unscrupulous person would be seen to be rewarded at the expense of creditors. In addition, in (2018) 18 SCC 575; hereinafter, referred to as “Chitra Sharma”  PART D order to check that the undesirable persons who may have submitted their resolution plans in the absence of such a provision, responsibility is also being entrusted on the committee of creditors to give a reasonable period to repay overdue amounts and become eligible.” (emphasis supplied) Parliament was evidently concerned over the fact that persons whose misconduct has contributed to defaults on the part of debtor companies misuse the absence of a bar on their participation in the resolution process to gain an entry. Parliament was of the view that to allow such persons to participate in the resolution process would undermine the salutary object and purpose of the Act. It was in this background that Section 29A has now specified a list of persons who are not eligible to be resolution applicants.” (emphasis supplied)
+
+48 The Court held that “Section 29A has been enacted in the larger public interest and to facilitate effective corporate governance”. The Court further observed that “Parliament rectified a loophole in the Act which allowed backdoor entry to erstwhile managements in the CIRP”.
+
+Arcelormittal 49 In Arcelormittal India Private Limited v. Satish Kumar Gupta & Ors.32, Justice Rohinton F Nariman, speaking for himself and Justice Indu Malhotra, reiterated the same principle when he underscored the need to impart a purposive interpretation to Section 29A “depending both on the text and context in which the provision was enacted”:
+
+“30. A purposive interpretation of Section 29A, depending both on the text and the context in which the provision was enacted, must, therefore, inform our interpretation of the (2019) 2 SCC 1; hereinafter, referred to as “Arcelormittal”  PART D same. We are concerned in the present matter with clauses
+(c), (f), (i) and (j) thereof.” The decision adverts to Section 29A as “a typical instance of a ‘see-through provision’ so that one is able to arrive at persons who are actually in ‘control’, whether jointly or in concert with other persons33.
+
+Swiss Ribbons 50 In Swiss Ribbons (supra), the constitutionality of certain provisions of the IBC was challenged. Justice Rohinton F Nariman emphasised the object of the IBC in the following observations:
+
+“27. As is discernible, the Preamble gives an insight into what is sought to be achieved by the Code. The Code is first and foremost, a Code for reorganization and insolvency resolution of corporate debtors. Unless such reorganization is effected in a time-bound manner, the value of the assets of such persons will deplete. Therefore, maximization of value of the assets of such persons so that they are efficiently run as going concerns is another very important objective of the Code. This, in turn, will promote entrepreneurship as the persons in management of the corporate debtor are removed and replaced by entrepreneurs. When, therefore, a resolution plan takes off and the corporate debtor is brought back into the economic mainstream, it is able to repay its debts, which, in turn, enhances the viability of credit in the hands of banks and financial institutions. Above all, ultimately, the interests of all stakeholders are looked after as the corporate debtor itself becomes a beneficiary of the resolution scheme—workers are “32. The opening lines of Section 29A of the Amendment Act refer to a de facto as opposed to a de jure position of the persons mentioned therein. This is a typical instance of a “see-through provision”, so that one is able to arrive at persons who are actually in “control”, whether jointly, or in concert, with other persons. A wooden, literal, interpretation would obviously not permit a tearing of the corporate veil when it comes to the “person” whose eligibility is to be gone into. However, a purposeful and contextual interpretation, such as is the felt necessity of interpretation of such a provision as Section 29A, alone governs. For example, it is well settled that a shareholder is a separate legal entity from the company in which he holds shares. This may be true generally speaking, but when it comes to a corporate vehicle that is set up for the purpose of submission of a resolution plan, it is not only permissible but imperative for the competent authority to find out as to who are the constituent elements that make up such a company. In such cases, the principle laid down in Salomon v. A. Salomon & Co. Ltd. [Salomon v. A. Salomon & Co. Ltd., 1897 AC 22 (HL)] will not apply. For it is important to discover in such cases as to who are the real individuals or entities who are acting jointly or in concert, and who have set up such a corporate vehicle for the purpose of submission of a resolution plan.”  PART D paid, the creditors in the long run will be repaid in full, and shareholders/investors are able to maximize their investment. Timely resolution of a corporate debtor who is in the red, by an effective legal framework, would go a long way to support the development of credit markets. Since more investment can be made with funds that have come back into the economy, business then eases up, which leads, overall, to higher economic growth and development of the Indian economy. What is interesting to note is that the Preamble does not, in any manner, refer to liquidation, which is only availed of as a last resort if there is either no resolution plan or the resolution plans submitted are not up to the mark. Even in liquidation, the liquidator can sell the business of the corporate debtor as a going concern.
+(See ArcelorMittal [ArcelorMittal (India) (P) Ltd. v. Satish Kumar Gupta, (2019) 2 SCC 1] at para 83, fn 3).
+28. It can thus be seen that the primary focus of the legislation is to ensure revival and continuation of the corporate debtor by protecting the corporate debtor from its own management and from a corporate death by liquidation.
+
+The Code is thus a beneficial legislation which puts the corporate debtor back on its feet, not being a mere recovery legislation for creditors. The interests of the corporate debtor have, therefore, been bifurcated and separated from that of its promoters/those who are in management. Thus, the resolution process is not adversarial to the corporate debtor but, in fact, protective of its interests. The moratorium imposed by Section 14 is in the interest of the corporate debtor itself, thereby preserving the assets of the corporate debtor during the resolution process. The timelines within which the resolution process is to take place again protects the corporate debtor’s assets from further dilution, and also protects all its creditors and workers by seeing that the resolution process goes through as fast as possible so that another management can, through its entrepreneurial skills, resuscitate the corporate debtor to achieve all these ends.” 51 While adverting to the earlier decision in Chitra Sharma and Arcelormittal (supra), which had elucidated the object underlying Section 29A, this Court in Swiss Ribbons (supra) held that the norm underlying Section 29A “continues to permeate” Section 35(1)(f) “when it applies not merely to resolution applicants, but to liquidation also”. Rejecting the plea that Section 35(1)(f) is ultra vires, this Court held:
+
+ PART D “102. According to the learned counsel for the petitioners, when immovable and movable property is sold in liquidation, it ought to be sold to any person, including persons who are not eligible to be resolution applicants as, often, it is the erstwhile promoter who alone may purchase such properties piecemeal by public auction or by private contract. The same rationale that has been provided earlier in this judgment will apply to this proviso as well — there is no vested right in an erstwhile promoter of a corporate debtor to bid for the immovable and movable property of the corporate debtor in liquidation. Further, given the categories of persons who are ineligible under Section 29A, which includes persons who are malfeasant, or persons who have fallen foul of the law in some way, and persons who are unable to pay their debts in the grace period allowed, are further, by this proviso, interdicted from purchasing assets of the corporate debtor whose debts they have either willfully not paid or have been unable to pay. The legislative purpose which permeates Section 29A continues to permeate the section when it applies not merely to resolution applicants, but to liquidation also. Consequently, this plea is also rejected.” A Purposive Interpretation
+
+52 This line of decisions, beginning with Chitra Sharma (supra) and continuing to Arcelormittal (supra) and Swiss Ribbons (supra) is significant in adopting a purposive interpretation of Section 29A. Section 29A has been construed to be a crucial link in ensuring that the objects of the IBC are not defeated by allowing “ineligible persons”, including but not confined to those in the management who have run the company aground, to return in the new avatar of resolution applicants. Section 35(1)(f) is placed in the same continuum when the Court observes that the erstwhile promoters of a corporate debtor have no vested right to bid for the property of the corporate debtor in liquidation. The values which animate Section 29A continue to provide sustenance to the rationale underlying the exclusion of the same category of persons from the process of liquidation involving the sale of assets, by virtue of the provisions of  PART D Section 35(1)(f). More recent precedents of this Court continue to adopt a purposive interpretation of the provisions of the IBC. (See in this context the judgments in Phoenix ARC Private Limited v. Spade Financial Service34 , Ramesh Kymal v. M/s Siemens Gamesa Renewable Power Pvt Ltd.35 and Anuj Jain, Interim Resolution Professional for Jaypee Infratech Limited v. Axis Bank Limited36.) Sustainable revival 53 The purpose of the ineligibility under Section 29A is to achieve a sustainable revival and to ensure that a person who is the cause of the problem either by a design or a default cannot be a part of the process of solution. Section 29A, it must be noted, encompasses not only conduct in relation to the corporate debtor but in relation to other companies as well. This is evident from clause (c) (“an account of a corporate debtor under the management or control of such person or of whom such person is a promoter, classified as a non-performing asset”), and clauses (e), (f), (g), (h) and (i) which have widened the net beyond the conduct in relation to the corporate debtor.
+
+54 The prohibition which has been enacted under Section 29A has extended, as noted above, to Chapter III while being incorporated in the proviso to Section 35(1)(f). Under the Liquidation Process Regulations, Chapter VI deals with the realization of assets. Regulation 32 is in the following terms:
+
+“32. Sale of Assets, etc. 2021 SCC OnLine SC 51 at paragraphs 103-104 C.A. No. 4050 of 2020, decided on 9 February 2021, at paragraphs 23 and 25 (2020) 8 SCC 401, at paras 28.4 and 28.5  PART D The liquidator may sell-
+(a) an asset on a standalone basis;
+(b) the assets in a slump sale;
+(c) a set of assets collectively;
+(d) the assets in parcels;
+(e) the corporate debtor as a going concern; or
+(f) the business(s) of the corporate debtor as a going concern:
+Provided that where an asset is subject to security interest, it shall not be sold under any of the clauses (a) to (f) unless the security interest therein has been relinquished to the liquidation estate.” Clauses (a) to (d) of Regulation 32 deal with the sale of assets on a stand-alone basis in a slump sale collectively or in parcels. Clauses (e) and (f) deal with the sale of the corporate debtor or its business as a going concern.
+
+55 Regulation 32-A(1) then stipulates:
+
+“32A. Sale as a going concern.
+(1) Where the committee of creditors has recommended sale under clause (e) or (f) of regulation 32 or where the liquidator is of the opinion that sale under clause (e) or (f) of regulation 32 shall maximize the value of the corporate debtor, he shall endeavor to first sell under the said clauses.” Regulation 32-A(1) emphasizes the importance placed on the transfer of the corporate debtor or its business on a going concern basis.
+
+56 Regulation 44 allows for a period of one year for the liquidation of the corporate debtor from the liquidation commencement date. Its proviso, however, allows for an additional period up to ninety days where the sale is attempted under sub-Regulation (1) of Regulation 32A. Regulation 44 is as follows:
+
+“44. Completion of liquidation.
+ PART D (1) The liquidator shall liquidate the corporate debtor within a period of one year from the liquidation commencement date, notwithstanding pendency of any application for avoidance of transactions under Chapter III of Part II of the Code, before the Adjudicating Authority or any action thereof:
+Provided that where the sale is attempted under sub- regulation (1) of regulation 32A, the liquidation process may take an additional period up to ninety days.] (2) If the liquidator fails to liquidate the corporate debtor within 29[one year], he shall make an application to the Adjudicating Authority to continue such liquidation, along with a report explaining why the liquidation has not been completed and specifying the additional time that shall be required for liquidation.” D.2 Interplay : IBC liquidation and Section 230 of the Act of 2013
+
+57 Section 230 of the Act of 2013 is incorporated in Chapter XV which is titled “compromise, arrangement and amalgamations”. Sub-section (1) of Section 230 provides as follows:
+
+“230. Power to compromise or make arrangements with creditors and members.— (1) Where a compromise or arrangement is proposed—
+(a) between a company and its creditors or any class of them; or
+(b) between a company and its members or any class of them, the Tribunal may, on the application of the company or of any creditor or member of the company, or in the case of a company which is being wound up, of the liquidator, order a meeting of the creditors or class of creditors, or of the members or class of members, as the case may be, to be called, held and conducted in such manner as the Tribunal directs.
+
+Explanation.—For the purposes of this sub-section, arrangement includes a reorganization of the company‘s share capital by the consolidation of shares of different classes or by the division of shares into shares of different classes, or by both of those methods.” 58 A compromise or arrangement under Sub-section (1) of Section 230 may take place:
+
+ PART D
+(i) between a company and its creditors or any subset of creditors; or
+(ii) between a company and its members or subset of members.
+
+59 Liquidation is one of the factual situations in which the provisions of Section 230 can be invoked. Section 230(1) can also be invoked in the case of a company which is wound up, as is evident from the statutory provision itself, which contemplates that an application may be submitted to the NCLT, acting as the Tribunal, by the liquidator.
+
+60 Sub-section (1) of Section 230 was amended by Act 31 of 2016 with effect from 15 November 2016. Prior to the amendment, an application for compromise or arrangement could be moved before the Tribunal by:
+
+(i)     the company;
+
+
+(ii)    a creditor;
+
+
+(iii)   a member of the company; and
+
+
+(iv)    in the case of a company which is being wound up, by the liquidator.
+
+
+
+
+Following the amendment, Section 230(1) envisages that an application in the case of a company which is being wound up may be presented by a liquidator who has been appointed under the Act of 2013 or under the IBC. Interestingly, Section 230 (except Sub-sections (11) and (12)) came into force on 7 December 2016. Where a compromise has been entered into with only a class of creditors, it will bind that class under the provisions of Section 230(6), which reads thus:
+
+“(6) Where, at a meeting held in pursuance of sub-section (1), majority of persons representing three fourths in value of the creditors, or class of creditors or members or class of  PART D members, as the case may be, voting in person or by proxy or by postal ballot, agree to any compromise or arrangement and if such compromise or arrangement is sanctioned by the Tribunal by an order, the same shall be binding on the company, all the creditors, or class of creditors or members or class of members, as the case may be, or, in case of a company being wound up, on the liquidator and the contributories of the company.”
+
+61 Under Sub-section (6) of Section 230, the comprise or arrangement has to be agreed to by a "majority of persons representing 3/4th in value" of the creditors, members or a class of them. Upon the sanctioning of the compromise or arrangement by the NCLT, it binds the company, all the creditors or members or a class of them, as may be, or in the case of a company being wound up, the liquidator appointed under the Act of 2013 or the IBC and the contributories. The Companies’ Act 1956 : Section 391 and Meghal Homes 62 Prior to the enforcement of the Act of 2013, the erstwhile legislation - the Act of 1956 - contained an analogous provision in Section 391. 63 The provisions of Section 391 came up for interpretation in a decision of this Court in Meghal Homes (supra). Justice PK Balasubramanyan, speaking for the two judge Bench of this Court, adverted to the earlier decision in Miheer H Mafatlal v. Mafatlal Industries Ltd.37 which had dealt with the jurisdiction of the Company Court (or the Company Law Board as it then was) while sanctioning a scheme of merger or amalgamation of two companies. The earlier decision, as this Court noted, did not involve either a transferor or transferee in liquidation. Hence, this Court did not have occasion to consider whether "any additional tests (1997) 1 SCC 579  PART D have to be satisfied when the company concerned is in liquidation and a compromise or arrangement in respect of it is proposed". Dealing specifically with a company which has been ordered to be wound up, this Court observed that the Company Court (before whom the jurisdiction under the erstwhile Section 391 was vested at the material time) had “necessarily to see whether the scheme contemplates revival of the business of the company". In that context, this Court observed:
+
+“47. When a company is ordered to be wound up, the assets of it are put in possession of the Official Liquidator. The assets become custodia legis. The follow-up, in the absence of a revival of the company, is the realisation of the assets of the company by the Official Liquidator and distribution of the proceeds to the creditors, workers and contributories of the company ultimately resulting in the death of the company by an order under Section 481 of the Act, being passed. But, nothing stands in the way of the Company Court, before the ultimate step is taken or before the assets are disposed of, to accept a scheme or proposal for revival of the Company. In that context, the court has necessarily to see whether the scheme contemplates revival of the business of the company, makes provisions for paying off creditors or for satisfying their claims as agreed to by them and for meeting the liability of the workers in terms of Section 529 and Section 529A of the Act. Of course, the court has to see to the bona fides of the scheme and to ensure that what is put forward is not a ruse to dispose of the assets of the company in liquidation.” Moreover, the Court held that in the case of a company which has been wound up it would have to perceive aspects of public interest, commercial morality and the existence of a bona fide intent to revive the company, while considering whether a compromise or arrangement put forward under Section 391 should be accepted. While the Court would not sit in appeal over the commercial wisdom of the shareholders, "it will certainly consider whether there is a genuine attempt to revive the company that has gone into liquidation and whether such revival is in  PART D public interest and conforms to commercial morality”. On the facts of the case, the Court found that it was difficult to hold that "it is a scheme for revival of the Company, the clear statutory intention behind entertaining a proposal under Section 391". These observations of the two judge Bench in Meghal Homes (supra) have a significant bearing on the nature of a compromise or arrangement which fell within the purview of Section 391 of the Act of 1956. This Court emphasized that where a company is in liquidation, its assets are custodia legis, the liquidator being the custodian for the distribution of the liquidation estate. A compromise or arrangement in respect of a company in liquidation must foster a revival of the company, this being (as the Court termed it ) "the clear statutory intention behind entertaining a proposal under Section 391” in respect of a company in liquidation.
+
+IBC liquidation and Section 230 scheme : a statutory continuum 64 Now, there is no reference in the body of the IBC to a scheme of compromise or arrangement under Section 230 of the Act of 2013. Sub-section (1) of Section 230 was however amended with effect from 15 November 2016 so as to allow for a scheme of compromise or arrangement being proposed on the application of a liquidator who has been appointed under the provisions of the IBC. The substratum of the submission of Mr Sandeep Bajaj, learned Counsel for the appellants, is that Section 230 is not regulated by the IBC but is a provision independent of it, though after the amendment of Sub-section (1), a compromise or arrangement can be proposed by the liquidator appointed under the IBC. Aligned to this submission, he urged that the decision in Meghal Homes (supra) recognises that the liquidator is an additional person who may submit an  PART D application under Section 391 of the Act of 1956 (corresponding to Section 230 of the Act of 2013). The submission of Mr Bajaj however misses the crucial interface between the provisions of Section 230 of the Act of 2013 in their engagement with a company in respect of which the provisions of the IBC have been invoked, resulting in an order of liquidation under Section 33 of the IBC. Liquidation of the company under the IBC, as emphasized by this Court in its previous decisions, is a matter of last resort. Section 33 requires the NCLT, acting as the Adjudicating Authority, to pass an order for the liquidation of the corporate debtor where:
+
+(i) before the expiry of the insolvency resolution process period or the maximum period contemplated for its completion a resolution plan has not been received under Sub-section (6) of Section 30; or
+(ii) the resolution plan has been rejected under Section 31 for non-compliance with the requirements of the provision.
+
+65 Under Sub-Section (2) of Section 33, the Adjudicating Authority has to pass a liquidation order where the resolution professional, during the CIRP but before the confirmation of the resolution plan, intimates the Adjudicating Authority of the decision of the CoC approved by not less than 66 per cent of the voting shares to liquidate the corporate debtor. Under Section 34, upon the Adjudication Authority passing an order for liquidation of the corporate debtor under Section 33, the resolution professional appointed for the CIRP under Chapter II is to act as a liquidator for the purpose of liquidation. Section 35 proceeds to stipulate that  PART D subject to the directions of the Adjudicating Authority, the liquidator shall have the powers and duties enumerated in the provision.
+
+66 What emerges from the above discussion is that the provisions of the IBC contain a comprehensive scheme, first, for the initiation of the CIRP at the behest of financial creditor under Section 7 or at the behest of the operational creditor under Section 9 or the corporate debtor under Section 10. Chapter II provides for the appointment of an interim resolution professional38 in Section 17 and the constitution of a CoC under Section 21. Chapter II contemplates the submission of a resolution plan in Section 30 and the approval of the plan in Section 31. Liquidation forms a part of a distinct Chapter - Chapter III. Liquidation under Section 33 is contemplated in specific eventualities which are adverted to in Sub- Section (1) and Sub-section (2) as noted above.
+
+67 Now, it is in this backdrop that it becomes necessary to revisit, in the context of the above discussion the three modes in which a revival is contemplated under the provisions of the IBC. The first of those modes of revival is in the form of the CIRP elucidated in the provisions of Chapter II of the IBC. The second mode is where the corporate debtor or its business is sold as a going concern within the purview of clauses (e) and (f) of Regulation 32. The third is when a revival is contemplated through the modalities provided in Section 230 of the Act of 2013. A scheme of compromise or arrangement under Section 230, in the context of a company which is in liquidation under the IBC, follows upon an order under Section 33 and the appointment of a liquidator under Section 34.
+
+“IRP”  PART D While there is no direct recognition of the provisions of Section 230 of the Act of 2013 in the IBC, a decision was rendered by the NCLAT on 27 February 2019 in Y Shivram Prasad v. S Dhanapal39. NCLAT in the course of its decision observed that during the liquidation process the steps which are required to be taken by the liquidator include a compromise or arrangement in terms of Section 230 of the Act of 2013, so as to ensure the revival and continuance of the corporate debtor by protecting it from its management and from "a death by liquidation". The decision by NCLAT took note of the fact that while passing the order under Section 230, the Adjudicating Authority would perform a dual role:
+
+one as the Adjudicating Authority in the matter of liquidation under the IBC and the other as a Tribunal for passing an order under Section 230 of the Act of 2013.
+Following the decision of NCLAT, an amendment was made on 25 July 2019 to the Liquidation Process Regulations by the IBBI so as to refer to the process envisaged under Section 230 of the Act of 2013.
+68 The statutory scheme underlying the IBC and the legislative history of its linkage with Section 230 of the Act of 2013, in the context of a company which is in liquidation, has important consequences for the outcome of the controversy in the present case. The first point is that a liquidation under Chapter III of the IBC follows upon the entire gamut of proceedings contemplated under that statute.
+
+The second point to be noted is that one of the modes of revival in the course of the liquidation process is envisaged in the enabling provisions of Section 230 of the Act of 2013, to which recourse can be taken by the liquidator appointed under Section 34 of the IBC. The third point is that the statutorily contemplated 2019 SCC OnLine NCLAT 172; herein, referred to as “Y Shivram Prasad”  PART D activities of the liquidator do not cease while inviting a scheme of compromise or arrangement under Section 230. The appointment of the liquidator in an IBC liquidation is provided in Section 34 and their duties are specified in Section 35. In taking recourse to the provisions of Section 230 of the Act of 2013, the liquidator appointed under the IBC is , above all, to attempt a revival of the corporate debtor so as to save it from the prospect of a corporate death. The consequence of the approval of the scheme of revival or compromise, and its sanction thereafter by the Tribunal under Sub-section (6), is that the scheme attains a binding character upon stakeholders including the liquidator who has been appointed under the IBC. In this backdrop, it is difficult to accept the submission of Mr Bajaj that Section 230 of the Act of 2013 is a standalone provision which has no connect with the provisions of the IBC. Undoubtedly, Section 230 of the Act of 2013 is wider in its ambit in the sense that it is not confined only to a company in liquidation or to corporate debtor which is being wound up under Chapter III of the IBC. Obviously, therefore, the rigors of the IBC will not apply to proceedings under Section 230 of the Act of 2013 where the scheme of compromise or arrangement proposed is in relation to an entity which is not the subject of a proceeding under the IBC. But, when, as in the present case, the process of invoking the provisions of Section 230 of the Act of 2013 traces its origin or, as it may be described, the trigger to the liquidation proceedings which have been initiated under the IBC, it becomes necessary to read both sets of provisions in harmony. A harmonious construction between the two statutes40 would ensure that while on the one hand a scheme of compromise 40 st G.P. Singh, Principles of Statutory Interpretation (1 edn., Lexis Nexis 2015) which notes that “Further, these  PART D or arrangement under Section 230 is being pursued, this takes place in a manner which is consistent with the underlying principles of the IBC because the scheme is proposed in respect of an entity which is undergoing liquidation under Chapter III of the IBC. As such, the company has to be protected from its management and a corporate death. It would lead to a manifest absurdity if the very persons who are ineligible for submitting a resolution plan, participating in the sale of assets of the company in liquidation or participating in the sale of the corporate debtor as a ‘going concern’, are somehow permitted to propose a compromise or arrangement under Section 230 of the Act of 2013. 69 The IBC has made a provision for ineligibility under Section 29A which operates during the course of the CIRP. A similar provision is engrafted in Section 35(1)(f) which forms a part of the liquidation provisions contained in Chapter III as well. In the context of the statutory linkage provided by the provisions of Section 230 of the Act of 2013 with Chapter III of the IBC, where a scheme is proposed of a company which is in liquidation under the IBC, it would be far-fetched to hold that the ineligibilities which attach under Section 35(1)(f) read with Section 29A would not apply when Section 230 is sought to be invoked. principles [referring to the principle of harmonious construction] have also been applied in resolving a conflict between two different Acts” and providing the following examples – “Jogendra Lal Saha v. State of Bihar, 1991 Supp (2) SCC 654 (Sections 82 and 83 of the Forest Act, 1927 are special provisions which prevail over the provisions in the Sale of Goods Act ); Jasbir Singh v. Vipin Kumar Jaggi, (2001) 8 SCC 289 (Section 64 of NDPS Act will prevail over section 307 CrPC 1974 as it is a special provision in a Special Act which is also later); P.V. Hemlatha v. Kattam Kandi Puthiya Maliackal Saheeda, (2002) 5 SCC 548 (conflict between section 23 of the Travancore Cochin High Court Act and section 98(3) Civil Procedure Code resolved by holding the latter to be special law); Talchar Municipality v. Talcher Regulated Market Committee, (2004) 6 SCC 178 (Section 4(4) of the Orissa Agricultural Produce Markets Act, 1956 was held to prevail over section 295 of the Orissa Municipalities Act, 1950 as the former was a special provision and also started with a non-obstante clause); and Iridium India Telecom Ltd. v. Motorola Inc, (2005) 2 SCC 145 (Letters Patent and rules made under it constitute special law for the High Court concerned and are not displaced by the general provisions of the Civil Procedure Code)”  PART D Such an interpretation would result in defeating the provisions of the IBC and must be eschewed.
+
+70 An argument has also been advanced by the appellants and the petitioners that attaching the ineligibilities under Section 29A and Section 35(1)(f) of the IBC to a scheme of compromise and arrangement under Section 230 of the Act of 2013 would be violative of Article 14 of the Constitution as the appellant would be “deemed ineligible” to submit a proposal under Section 230 of the Act of 2013. We find no merit in this contention. As explained above, the stages of submitting a resolution plan, selling assets of a company in liquidation and selling the company as a going concern during liquidation, all indicate that the promoter or those in the management of the company must not be allowed a back-door entry in the company and are hence, ineligible to participate during these stages. Proposing a scheme of compromise or arrangement under Section 230 of the Act of 2013, while the company is undergoing liquidation under the provisions of the IBC lies in a similar continuum. Thus, the prohibitions that apply in the former situations must naturally also attach to the latter to ensure that like situations are treated equally.
+
+D.3 The ‘Clean Slate’ 71 A crucial limb of the submissions which have been urged by Mr Sandeep Bajaj and Mr Shiv Shankar Banerjee, learned Counsel appearing for the appellants and the petitioner is that both Section 12-A of the IBC and Section 230 of the Act of 2013 belong to what is described as the “settlement mechanism” which is distinct from the “resolution mechanism”. The corporate debtor, it has  PART D been urged, will proceed to liquidation if no resolution is possible. Section 29A was designed to prevent a back-door entry to a class of persons considered to be ineligible to participate in the resolution process. Section 35(1)(f) extends the ineligibility where the liquidator is conducting a sale of the assets of the corporate debtor in liquidation. It has been submitted in this context that where an application for withdrawal under Section 12-A is allowed, the company reverts to the promoter. Placing a scheme under Section 230 of the Act of 2013 on the same pedestal, it has been urged that there is no reason to prevent a person who falls in the class of those ineligible under Section 29A from submitting a scheme of compromise or arrangement under Section 230 of the Act of 2013. In order to amplify the line of submissions as recorded above, the following points have been urged:
+
+(i) Though eight amendments have been brought about to the IBC between November 2017 and September 2020, the ineligibility contemplated by Section 29A and Section 35(1)(f) has not been expressly incorporated in Section 230 of the Act of 2013 even after the amendment to the IBC;
+(ii) Under Section 230, the persons competent to submit a scheme are
+(a) the company or its liquidator;
+       (b)    the creditors; or
+
+
+       (c)    a member.
+
+
+
+Section 230 does not prohibit a promoter or a person belonging to the ex-
+
+management, from proposing a scheme of compromise or arrangement.  PART D This creates a “front door opportunity” to the erstwhile management to come forth and save the company;
+
+(iii) Under Section 30(1) of the IBC, a resolution plan can be submitted by a person who is not ineligible with reference to Section 29A. Under Sub- section (4) of Section 30, for the approval of the resolution plan, a 66 per cent voting share only of the financial creditors is required. Sub-section 2(b) of Section 30 requires the resolution professional to examine whether the resolution plan provides for the payment of the debt of operational creditors which shall not be less than the amount which is payable to them in the event of liquidation. On the other hand, the provisions of Section 230 of the Act of 2013 are far more stringent in that they require a voting share of 75 per cent and, where the company is in liquidation, a settlement with all creditors including the operational creditors;
+
+(iv) Section 35(1)(f) applies to the liquidator but does not apply to the NCLT, acting as either the Adjudicating Authority or as the Tribunal;
+
+(v) A resolution plan upon being approved becomes binding on all stakeholders and is attended with all benefits unlike Section 230 of the Act of 2013;
+
+(vi) Under Regulation 32 of the Liquidation Process Regulations, two modes are contemplated for the sale of the corporate debtor as a ‘going concern’, while four modes are contemplated for the sale of the assets of the corporate debtor. The prohibition under Section 35(1)(f) will apply only to a sale which is governed by Regulation 32, and will have no application to a  PART D scheme of compromise or arrangement which is proposed under Section 230; and
+
+(vii) There is no mechanism in the IBC for effecting a compromise or arrangement, and since the only provision is contained in Section 230, there is no inconsistency with the IBC.
+
+Withdrawal of application 72 Section 12A41 of the IBC was inserted with effect from 6 June 2018 by Amending Act 26 of 2018. Under Section 12A, the Adjudicating Authority may allow the withdrawal of an application which is admitted under Sections 7, 9 and 10, on an application made by the applicant with the approval of a 90 per cent voting share of the CoC in such manner as may be specified. Rule 8 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 201642, on the other hand, contemplates that the NCLT, functioning as the Adjudicating Authority, may permit a withdrawal of an application made under Rule 4 (by the financial creditor), Rule 6 (by the operational creditor) or Rule 7 (by the corporate applicant) on the request made by the applicant before its admission. Regulation 30-A of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 contains provisions for the withdrawal of an application. Under Regulation 30-A43, as it originally stood, an “12A. Withdrawal of application admitted under section 7, 9 or 10 - The Adjudicating Authority may allow the withdrawal of application admitted under section 7 or section 9 or section 10, on an application made by the applicant with the approval of ninety per cent. voting share of the committee of creditors, in such manner as may be specified.” “Adjudicating Authority Rules” “30A. Withdrawal of Application- (1) An application for withdrawal under section 12A shall be submitted to the interim resolution professional or the resolution professional, as the case may be, in Form FA of the Schedule before issue of invitation for expression of interest under regulation 36A.  PART D application for withdrawal under Section 12-A was required to be submitted before the issuance of an invitation for the expression of interest under Regulation 36-A. In the decision of this Court in Swiss Ribbons (supra), which was rendered on 25 January 2019, it was contemplated that an application for withdrawal may be presented between the period commencing from the admission of the application and the date of the constitution of the CoC. This led to the substitution of the Regulation 30-A44 on 25 July 2019. As substituted, Regulation 30-A stipulates that an application for withdrawal under Section 12-A may be made to the adjudicating authority:
+
+(2) The application in sub-regulation (1) shall be accompanied by a bank guarantee towards estimated cost incurred for purposes of clauses (c) and (d) of regulation 31 till the date of application. (3) The committee shall consider the application made under sub-regulation (1) within seven days of its constitution or seven days of receipt of the application, whichever is later. (4) Where the application is approved by the committee with ninety percent voting share, the resolution professional shall submit the application under sub-regulation (1) to the Adjudicating Authority on behalf of the applicant, within three days of such approval. (5) The Adjudicating Authority may, by order, approve the application submitted under sub-regulation (4).” “30A. Withdrawal of Application- (1) An application for withdrawal under section 12A may be made to the Adjudicating Authority-
+(a) before the constitution of the committee, by the applicant through the interim resolution professional;
+(b) after the constitution of the committee, by the applicant through the interim resolution professional or the resolution professional, as the case may be:
+Provided that where the application is made under clause (b) after the issue of invitation for expression of interest under regulation 36A, the applicant shall state the reasons justifying withdrawal after issue of such invitation. (2) The application under sub-regulation (1) shall be made in Form FA of the Schedule accompanied by a bank guarantee-
+(a) towards estimated expenses incurred on or by the interim resolution professional for purposes of regulation 33, till the date of filing of the application under clause (a) of sub-regulation (1); or
+(b) towards estimated expenses incurred for purposes of clauses (aa), (ab), (c) and (d) of regulation 31, till the date of filing of the application under clause (b) of sub-regulation (1). (3) Where an application for withdrawal is under clause (a) of sub-regulation (1), the interim resolution professional shall submit the application to the Adjudicating Authority on behalf of the applicant, within three days of its receipt.
+(4) Where an application for withdrawal is under clause (b) of sub-regulation (1), the committee shall consider the application, within seven days of its receipt. (5) Where the application referred to in sub-regulation (4) is approved by the committee with ninety percent voting share, the resolution professional shall submit such application along with the approval of the committee, to the Adjudicating Authority on behalf of the applicant, within three days of such approval. (6) The Adjudicating Authority may, by order, approve the application submitted under sub-regulation (3) or (5). (7) Where the application is approved under sub-regulation (6), the applicant shall deposit an amount, towards the actual expenses incurred for the purposes referred to in clause (a) or clause (b) of sub-regulation (2) till the date of approval by the Adjudicating Authority, as determined by the interim resolution professional or resolution professional, as the case may be, within three days of such approval, in the bank account of the corporate debtor, failing which the bank guarantee received under sub-regulation (2) shall be invoked, without prejudice to any other action permissible against the applicant under the Code.”  PART D
+(a) before the constitution of the CoC, by the applicant through the IRP;
+
+and
+
+(b) after the constitution of the CoC, by the applicant through the IRP or the RP as the case may be.
+
+However, where the application under clause (b) is made after the issuance of the invitation for expression of interest, the applicant has to state the reasons justifying withdrawal after the issuance of the invitation. In the decision of this Court in Brilliant Alloys (supra), it has been held that a withdrawal may be contemplated even after the issuance of invitation of expression of interest. In Swiss Ribbons (supra), the provisions of Section 12-A were upheld against the challenge that they violated Article 14 of the Constitution. Justice Rohinton F Nariman, while adverting to the decision in Brilliant Alloys (supra), noted that Regulation 30-A(1) has been held not to be mandatory but directory because in a given case an application for withdrawal may be allowed for exceptional reasons even after issuance of an invitation for expression of interest under Section 36-A. Dealing with the provisions of Section 12-A, this Court observed:
+
+“82. It is clear that once the Code gets triggered by admission of a creditor's petition under Sections 7 to 9, the proceeding that is before the adjudicating authority, being a collective proceeding, is a proceeding in rem. Being a proceeding in rem, it is necessary that the body which is to oversee the resolution process must be consulted before any individual corporate debtor is allowed to settle its claim.· A question arises as to what is to happen before a Committee of Creditors is constituted (as per the timelines that are specified, a Committee of Creditors can be appointed at any  PART D time within 30 days from the date of appointment of the interim resolution professional). We make it clear that at any stage where the Committee of Creditors is not yet constituted, a party can approach NCLT directly, which Tribunal may, in exercise of its inherent powers under Rule 11 of NCLT Rules, 2016, allow or disallow an application for withdrawal or settlement. This will be decided after hearing all the parties concerned and considering all relevant factors on the facts of each case.
+83. The main thrust against the provision of Section 12-A is the fact that ninety per cent of the Committee of Creditors has to allow withdrawal. This high threshold has been explained in the ILC Report as all financial creditors have to put their heads together to allow such withdrawal as, ordinarily, an omnibus settlement involving all creditors ought, ideally, to be entered into . This explains why ninety per cent, which is substantially all the financial creditors, have to grant their approval to an individual withdrawal or settlement. In any case, the figure of ninety per cent, in the absence of anything further to show that it is arbitrary, must pertain to the domain of legislative policy, which has been explained by the Report (supra). Also, it is clear, that under Section 60 of the Code, the Committee of Creditors do not have the last word on the subject. If the Committee of Creditors arbitrarily rejects a just settlement and/or withdrawal claim, NCLT, and thereafter, NCLAT can always set aside such decision under Section 60 of the Code. For all these reasons, we are of the view that Section 12-A also passes constitutional muster.” Distinction between a withdrawal simpliciter and scheme of arrangement
+
+73 The submission is that on the withdrawal of the application under Sections 7, 9 and 10, as the case may be, the company goes back to the same promoter in spite of such a promoter being ineligible under Section 29A for submitting a resolution plan. As such, it was urged that there is no reason or justification then to preclude a promoter from presenting a scheme of compromise or arrangement under Section 230.
+
+ PART D 74 There is a fundamental fallacy in the submission. An application for withdrawal under Section 12-A is not intended to be a culmination of the resolution process. This, as the statutory scheme would indicate, is at the inception of the process. Rule 8 of the Adjudicating Authority Rules, as we have seen earlier, contemplates a withdrawal before admission. Section 12-A subjects a withdrawal of an application, which has been admitted under Sections 7, 9 and 10, to the requirement of an approval of ninety per cent voting shares of the CoC. The decision of this Court in Swiss Ribbons (para 82 extracted above) stipulates that where the CoC has not yet been constituted, the NCLT, functioning as the Adjudicating Authority, may be moved directly for withdrawal which, in the exercise of its inherent powers under Rule 11 of the Adjudicating Authority Rules, may allow or disallow the application for withdrawal or settlement after hearing the parties and considering the relevant factors on the facts of each case. A withdrawal in other words is by the applicant. The withdrawal leads to a status quo ante in respect of the liabilities of the corporate debtor. A withdrawal under Section 12-A is in the nature of settlement, which has to be distinguished both from a resolution plan which is approved under Section 31 and a scheme which is sanctioned under Section 230 of the Act of 2013. A resolution plan upon approval under Section 31(1) of the IBC is binding on the corporate debtor, its employees, members, creditors (including the central and state governments), local authorities, guarantors and other stakeholders. The approval of a resolution plan under Section 31 results in a “clean slate,” as held in the judgment of this Court in Committee of Creditors of Essar Steel India Limited v. Satish Kumar  PART D Gupta45. Justice Rohinton F Nariman, speaking for the three judge Bench of this Court, observed:
+
+“105. Section 31(1) of the Code makes it clear that once a resolution plan is approved by the Committee of Creditors it shall be binding on all stakeholders, including guarantors. This is for the reason that this provision ensures that the successful resolution applicant starts running the business of the corporate debtor on a fresh slate as it were. In SBI v. V. Ramakrishnan [SBI v. V. Ramakrishnan, (2018) 17 SCC 394 :
+(2019) 2 SCC (Civ) 458] , this Court relying upon Section 31 of the Code has held: (SCC p. 411, para 25) “25. Section 31 of the Act was also strongly relied upon by the respondents. This section only states that once a resolution plan, as approved by the Committee of Creditors, takes effect, it shall be binding on the corporate debtor as well as the guarantor. This is for the reason that otherwise, under Section 133 of the Contract Act, 1872, any change made to the debt owed by the corporate debtor, without the surety's consent, would relieve the guarantor from payment. Section 31(1), in fact, makes it clear that the guarantor cannot escape payment as the resolution plan, which has been approved, may well include provisions as to payments to be made by such guarantor. This is perhaps the reason that Annexure VI(e) to Form 6 contained in the Rules and Regulation 36(2) referred to above, require information as to personal guarantees that have been given in relation to the debts of the corporate debtor. Far from supporting the stand of the respondents, it is clear that in point of fact, Section 31 is one more factor in favour of a personal guarantor having to pay for debts due without any moratorium applying to save him.”” In the same vein, the Court observed:
+“107. For the same reason, the impugned NCLAT judgment [Standard Chartered Bank v. Satish Kumar Gupta, 2019 SCC OnLine NCLAT 388] in holding that claims that may exist apart from those decided on merits by the resolution professional and by the Adjudicating Authority/Appellate Tribunal can now be decided by an appropriate forum in (2020) 8 SCC 531  PART D terms of Section 60(6) of the Code, also militates against the rationale of Section 31 of the Code. A successful resolution applicant cannot suddenly be faced with “undecided” claims after the resolution plan submitted by him has been accepted as this would amount to a hydra head popping up which would throw into uncertainty amounts payable by a prospective resolution applicant who would successfully take over the business of the corporate debtor. All claims must be submitted to and decided by the resolution professional so that a prospective resolution applicant knows exactly what has to be paid in order that it may then take over and run the business of the corporate debtor. This the successful resolution applicant does on a fresh slate, as has been pointed out by us hereinabove. For these reasons, NCLAT judgment must also be set aside on this count.”
+
+75 The benefit under Section 31, following upon the approval of the resolution plan, is that the successful resolution applicant starts running the business of the corporate debtor on “a fresh slate”. The scheme of compromise or arrangement under Section 230 of the Act of 2013 cannot certainly be equated with a withdrawal simpliciter of an application, as is contemplated under Section 12-A of the IBC. A scheme of compromise or arrangement, upon receiving sanction under Sub-section (6) of Section 230, binds the company, its creditors and members or a class of persons or creditors as the case may be as well as the liquidator (appointed under the Act of 2013 or the IBC). Both, the resolution plan upon being approved under Section 31 of the IBC and a scheme of compromise or arrangement upon being sanctioned under Sub-section (6) of Section 230, represent the culmination of the process. This must be distinguished from a mere withdrawal of an application under Section 12-A. There is a clear distinction between these processes, in terms of statutory context and its consequences and the latter cannot be equated with the former.
+
+ PART D 76 Additionally, there is no merit in the submission that Section 35(1)(f) applies only to a liquidator who conducts a sale of the property of the corporate debtor in liquidation but not to the NLCT, acting as the Tribunal, when it exercises its powers under Section 230 of the Act of 2013. The liquidator appointed under the provisions of Chapter III of the IBC is entrusted with several powers and duties. Sections 37 to 42 of the IBC are illustrative of the powers of the liquidator in the course of the liquidation. The liquidator exercises several functions which are of a quasi-judicial in nature and character. Section 35(1) itself enunciates that the powers and duties which are entrusted to the liquidator are “subject to the directions of the adjudicating authority”. The liquidator, in other words, exercises functions which have been made amenable to the jurisdiction of the NCLT, acting as the Adjudicating Authority. To hold therefore that the ineligibility prescribed under the provisions of Section 35(1)(f) can be disregarded by the Tribunal for the purpose of considering an application for a scheme of compromise or arrangement under Section 230 of the Act of 2013, in respect of a company which is under liquidation under the IBC, would not be a correct construction of the provisions of law.
+
+D.4 Constitutional validity of Regulation 2B - Liquidation Process Regulations 77 Regulation 2B(1) introduced on 25 July 2019 provides that where a compromise or arrangement is proposed under Section 230 of the Act of 2013, it shall be completed within ninety days of the order of liquidation under sub- Sections (1) and (4) of Section 33. The proviso to Regulation 2B has been  PART D inserted with effect from 6 January 2020 to stipulate that a person who is not eligible under the IBC to submit a resolution plan for insolvency resolution of the corporate debtor shall not be a party in any manner to such compromise or arrangement.
+
+IBBI discussion papers 78 IBBI initially brought out a discussion paper on 27 April 2019. Para 3.1 of the discussion paper noted thus:
+
+“3.1 Compromise or arrangement under Section 230 of the Companies Act 2013. If there is a proposal for a compromise or arrangement, a member, a creditor or the Liquidator may make an application to the NCLT under the Compromise Act 2013 (Act) (not the Adjudicating Authority under the Code) and then proceed in the manner directed by the NCTL in accordance with the Act. While compromise or arrangement under Section 230 of the Act is proposed, it must be utilize first and only on its closure/ failure, liquidation under the Code may commence. The Code read with regulations may provide that where a credible proposal is made to the Liquidator under Section 230 of the Act for compromise or arrangement of the CD within seven days of the order under Section 33 of the Code for liquidation, the Liquidator shall file an application under the said section within ten days of the order of liquidation under Section 33 of the Code. A member or a creditor may file an application under Section 230 of the Act within 10 days of the order of liquidation. If approved by the NCLT, the Liquidator shall complete the process under Section 230 within 90 days of the order of liquidation. The Regulations may provide that liquidation process under the Coe shall commence at the earlier of the four events:
+(a) there is no proposal for compromise or arrangement within ten days;
+(b) the NCLT does not approve the application under Section 230 of the Act,
+(c) the process under Section 230 is not completed within 90 days or such extended period as may be allowed by the NCLT, or  PART D
+(d) the process under Section 230 is not sanctioned under Section 230(6) of the Act.
+
+A tight time schedule is necessary for conclusion of the process for compromise or arrangement to ensure that the liquidation process is concluded without undue delay.” 79 IBBI noted in its discussion paper that the introduction of ineligibilities stipulated under Section 29-A of the IBC to Section 230 of the Act of 2013 would pose practical difficulties in its implementation. IBBI observed:
+
+“3.3.3 Ineligibility: Proviso to section 35(1)(f) of the Code mandates that the Liquidator shall not sell the immovable and movable property or actionable claims of the CD in liquidation to any person who is not eligible to be a resolution applicant. This prohibits GCS to persons ineligible under section 29A. However, the law does not prohibit such ineligible persons to participate in compromise or arrangement under section 230 of the Act. It may be necessary to harmonise the provisions in the Code and the Act to provide level playing field. Some stakeholders feel that the ineligibility norms under section 29A of the Code may also apply to compromise or arrangement under section 230 of the Act. Other stakeholders feel that unlike liquidation under the Code, which is mostly Liquidator driven, the compromise or arrangement under the Act is mostly driven by the Tribunal. Further, section 29A of the Code has several exceptions, while section 230 of the Act deals with all kinds of companies in all situations. There will be practical difficulties in implementation of ineligibility for the purposes of section 230 of the Act. Therefore, it is proposed that the ineligibility norms under section 29A of the Code may not apply to compromise or arrangement under section 230 of the Act.” Be that as it may, the IBBI solicited public comments on its proposals. The IBBI evolved its view on the issue of whether Section 29-A should be made applicable to Section 230 of the Act of 2013 in its subsequent discussion paper.
+ PART D
+
+80 The discussion paper brought out on 3 November 2019 by IBBI discussed the applicability of Section 29A of the IBC to a compromise and arrangement under Section 230 of the Act of 2013. The discussion paper notes that there were many instances where the NCLAT had allowed the application under Section 230 of the Act of 2013. In that context, the discussion paper notes thus:
+
+“21. Section 29 A of the Code prohibits certain persons from becoming a resolution applicant/ submitting a resolution plan in a CIRP. Proviso to section 35(1)(f) of the Code mandates that a Liquidator shall not sell the immoveable and moveable property or actionable claims of the CD in liquidation to any person who is not eligible to be a resolution applicant. These provisions were inserted in the Code with effect from 23rd November, 2017, while section 230 of the Act was amended along with the enactment of the Code. There is no explicit prohibition on persons ineligible to submit resolution plans under section 29A from proposing compromise or arrangement made under Section 230 of the Act, which may result in person ineligible under section 29A acquiring control of the CD. Thus, while section 29A of the Code is applicable to a CD when it is under CIRP and when it is under Liquidation Process, it is not applicable to the same CD when it is undergoing compromise or arrangement, in between CIR process and liquidation process. This has created an anomaly that section 29A is applicable during the stage before and the stage after compromise and arrangement and not during compromise and arrangement.
+22. Section 29A of the Code keeps out a person, who is a wilfull defaulter, who has an account with non-performing assets for a long period, etc. and therefore, is likely to be a risk to a successful resolution of insolvency of a company.
+
+This rationale equally applies to the stage of compromise or arrangement. Non-applicability of section 29A at the stage of compromise or arrangement may undermine the process and may reward unscrupulous persons at the expense of creditors. Thus, it may be necessary to harmonise the provisions in the Code and the Act to provide level playing field.” 81 The discussion paper also notes that it was necessary to have a discussion on the following amongst other issues:
+
+ PART D “f. Should the persons ineligible under section 29A of the Code to be a resolution applicant be barred from becoming a party in compromise or arrangements under section 230 of the Companies Act, 2013?
+g. Or, should applicability of section 230 of the companies act, 2013 during liquidation process under the Coe be reviewed?”
+
+82 Thereafter, public comments were invited. The discussion paper is what it professes to be – a matter for discussion in the public realm. This cannot be held to constitute an admission of IBBI that an applicant who is ineligible under Section 29A may submit a scheme of compromise or arrangement under Section 230 of the Act of 2013. The validity of the provisions of Regulation 2B, more specifically the proviso, has to be considered on their own footing. Section 196 of the IBC 83 The powers and functions entrusted to IBBI are specified in Section 196 of the IBC. Section 196(1)(t) provides IBBI with the power to frame regulations, as follows:
+
+“(t) make regulations and guidelines on matters relating to insolvency and bankruptcy as may be required under this Code, including mechanism for time bound disposal of the assets of the corporate debtor or debtor; and” Clause (t) empowers IBBI to make regulations and guidelines on matters relating to insolvency and bankruptcy, as may be required under the IBC.
+ PART D Section 240 Section 240(1) empowers IBBI with the power to make regulations in the following terms:
+“(1) The Board may, by notification, make regulations consistent with this Code and the rules made thereunder, to carry out the provisions of this Code.” Under Sub-Section (1) of Section 240, the power to frame regulations is conditioned by two requirements: first, the regulations have to be consistent with the provisions of the IBC and the rules framed by the Central Government; and second, the regulations must be to carry out the provisions of the IBC. Regulation 2B meets both the requirements, of being consistent with the provisions of IBC and of being made in order to carry out the provisions of the IBC, for the reasons discussed earlier in this judgment.
+A clarificatory exercise
+
+84 The principal ground of challenge to Regulation 2B is that the regulation transgressed the authority of IBBI by introducing a disqualification or ineligibility in regard to the presentation of an application for a scheme of compromise or arrangement under Section 230 of the Act of 2013. It has been urged that IBBI, as an entity constituted by the IBC, had no statutory jurisdiction to amend the provisions of Section 230 of the Act of 2013 or to impose a restriction which operates under the purview of Section 230. The position in our view can be considered from two perspectives, independent of the provisions of Regulation 2B. We have indicated in the discussion earlier that even in the absence of the  PART E Regulation 2B, a person ineligible under Section 29A read with Section 35(1)(f) is not permitted to propose a scheme for revival under Section 230, in the case of a company which is undergoing a liquidation under the IBC. We have come to the conclusion, as noted for the reasons indicated earlier, that in the case of a company which is undergoing liquidation pursuant to the provisions of Chapter III of the IBC, a scheme of compromise or arrangement proposed under Section 230 is a facet of the liquidation process. The object of the scheme of compromise or arrangement is to revive the company. The principle was enunciated in the decision in Meghal Homes (supra) while construing the provisions of erstwhile Section 391. The same rationale which permeates the resolution process under Chapter II (by virtue of the provisions of Section 29A) permeates the liquidation process under Chapter III (by virtue of the provisions of Section 35(1)(f)). That being the position, there can be no manner of doubt that the proviso to Regulation 2B is clarificatory in nature. Even absent the proviso, a person who is ineligible under Section 29A would not be permitted to propose a compromise or arrangement under Section 230 of the Act of 2013. We therefore do not find any merit in the challenge to the validity of Regulation 2B.
+
+E     Epilogue
+
+85    In paragraph 24 of our judgment, we noted the two issues which had been
+
+
+
+framed by the NCLAT in the impugned judgment in the first of the appeals. The first issue was “Whether in a liquidation proceeding under [IBC] the Scheme for Compromise and Arrangement can be made in terms of Sections 230 to 232 of the [Act of 2013]”. While we noted in paragraph 25, that no challenge has been made by the appellant in regard to the finding of the NCLAT on this issue, it is  PART E imperative for us to make some remarks in relation to this issue and the larger issue of judicial intervention by the NCLT and NCLAT while adjudicating disputes under the IBC.
+
+86 To begin with, we would like to take note of the observations made by the Insolvency Law Committee in its Report of February 202046. The Committee began by acknowledging that the floating of schemes of compromise or arrangement under Sections 230 to 232 of the Act, even for companies undergoing liquidation, was not part of the framework under the IBC. This, the Committee noted, had led to a multiplicity of issues including, but not limited to, the duality of the role of the NCLT (as a supervisory Adjudicatory Authority under the IBC versus the driving Tribunal under the Act of 2013) and indeed the very question before us in this case, whether the disqualification under Section 29A and proviso to Section 35(1)(f) of the IBC also attaches to Section 230 of the Act of 2013. However, the Committee notes that judicial intervention by the NCLAT along with the IBBI’s introduction of new regulations have led to some alignment in the two frameworks.
+
+87 The Committee thereafter notes that the introduction of such schemes into the framework of the IBC may be worrisome since it will alter the incentives during the CIRP and lead to destructive delays, which often plagued the process under the Sick Industrial Companies (Special Provisions) Act, 1985.47 However, it Available at <https://ibbi.gov.in/uploads/resources/c6cb71c9f69f66858830630da08e45b4.pdf> accessed on 10 March 2021 Ibid, at para 4.5.
+
+ PART E nonetheless also acknowledges the benefits such schemes may have to offer48. Even so, the Committee concludes by noting that such schemes, if at all they are to be brought in, should not be under the Act of 2013 but the IBC itself. The Report notes thus:
+
+“4.6…However, the Committee was of the view that such a process for compromise or settlement need not be effected only through the schemes mechanism under the Companies Act, 2013, and felt that the liquidator could be given the power to effect a compromise or settlement with specific creditors with respect to their claims against the corporate debtor under the Code.
+4.7 Given the incompatibility of schemes of arrangement and the liquidation process, the Committee recommended that recourse to Section 230 of the Companies Act, 2013 for effecting schemes of arrangement or compromise should not be available during liquidation of the corporate debtor under the Code. However, the Committee felt that an appropriate process to allow the liquidator to effect a compromise or settlement with specific creditors should be devised under the Code.” (emphasis in original)
+
+88 Due to the ambiguity in the application of the two frameworks, it became imperative that a clarification be issued in this regard. The introduction of the proviso to Regulation 2B was a step in this direction which sought to clarify the position with respect to the applicability of the disqualifications set out in Section 29A of the IBC to Section 230 of the Act of 2013 in tandem with the legislative intendment.
+
+Ibid, para 4.6; In the Indian context, see Umakanth Varottil, ‘The Scheme of Arrangement as a Debt Restructuring Tool in India: Problems and Prospects’ (March 2017) NUS Working Paper 2017/005 available at <http://law.nus.edu.sg/wp>  PART E 89 At this juncture, it is important to remember that the explicit recognition of the schemes under Section 230 into the liquidation process under the IBC was through the judicial intervention of the NCLAT in Y Shivram Prasad (supra). Since the efficacy of this arrangement is not challenged before us in this case, we cannot comment on its merits. However, we do take this opportunity to offer a note of caution for the NCLT and NCLAT, functioning as the Adjudicatory Authority and Appellate Authority under the IBC respectively, from judicially interfering in the framework envisaged under the IBC. As we have noted earlier in the judgment, the IBC was introduced in order to overhaul the insolvency and bankruptcy regime in India. As such, it is a carefully considered and well thought out piece of legislation which sought to shed away the practices of the past. The legislature has also been working hard to ensure that the efficacy of this legislation remains robust by constantly amending it based on its experience. Consequently, the need for judicial intervention or innovation from the NCLT and NCLAT should be kept at its bare minimum and should not disturb the foundational principles of the IBC. This conscious shift in their role has been noted in the report of the Bankruptcy Law Reforms Committee (2015) in the following terms:
+
+“An adjudicating authority ensures adherence to the process At all points, the adherence to the process and compliance with all applicable laws is controlled by the adjudicating authority. The adjudicating authority gives powers to the insolvency professional to take appropriate action against the directors and management of the entity, with recommendations from the creditors committee. All material actions and events during the process are recorded at the  PART F adjudicating authority. The adjudicating authority can assess and penalise frivolous applications. The adjudicator hears allegations of violations and fraud while the process is on. The adjudicating authority will adjudicate on fraud, particularly during the process resolving bankruptcy. Appeals/actions against the behaviour of the insolvency professional are directed to the Regulator/Adjudicator.”
+
+90 Once again, we must clarify that our observations here are not on the merits of the issue, which has not been challenged before us, but only limited to serve as guiding principles to the benches of NCLT and NCLAT adjudicating disputes under the IBC, going forward.
+
+F     Conclusion
+
+91    Based on the above analysis, we find that the prohibition placed by the
+
+
+
+Parliament in Section 29A and Section 35(1)(f) of the IBC must also attach itself to a scheme of compromise or arrangement under Section 230 of the Act of 2013, when the company is undergoing liquidation under the auspices of the IBC. As such, Regulation 2B of the Liquidation Process Regulations, specifically the proviso to Regulation 2B(1), is also constitutionally valid. For the above reasons, we have come to the conclusion that there is no merit in the appeals and the writ petition. The civil appeals and writ petition are accordingly dismissed. 92 Pending application(s), if any, stand disposed of.
+
+……….….....................................................J. [Dr Dhananjaya Y Chandrachud] …..….….....................................................J. [M R Shah] New Delhi;
+
+March 15, 2021

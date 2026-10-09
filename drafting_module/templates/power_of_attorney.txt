@@ -1,0 +1,22 @@
+POWER OF ATTORNEY
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{principal_name}}, aged {{age}} years, residing at {{address}} (hereinafter referred to as the 'Principal')
+2. {{attorney_name}}, aged {{age}} years, residing at {{address}} (hereinafter referred to as the 'Attorney')
+WHEREAS:
+The Principal desires to appoint the Attorney to act on their behalf for the purposes described herein.
+NOW, THEREFORE, the parties agree as follows:
+1. GRANT OF POWER
+The Principal hereby appoints the Attorney as their true and lawful attorney to act on their behalf for the following purposes: {{list_specific_powers}}.
+2. SCOPE OF AUTHORITY
+The Attorney shall have the authority to: (a) {{specific_power_1}}; (b) {{specific_power_2}}; (c) {{specific_power_3}}. Any action beyond this scope of power shall be void and unenforceable.
+3. LIMITATIONS
+The Attorney SHALL NOT have the authority to: {{list_specific_limitations}}. The Principal reserves all rights not expressly granted herein, including but not limited to any right or privilege that may arise from a personal relationship with them (the 'Principal'). Any action beyond this scope of power shall be void and unenforceable.
+4. DURATION
+This Power of Attorney SHALL remain in effect from {{start_date}} until {{end_date}}/REVOCATION, unless revoked earlier by the Principal through a written notice to the Attorney or as provided hereinabove under 'Revocation'. The termination date shall be clearly stated and agreed upon at execution of this Power of Attorney.
+5. REVOCATION
+The Principal reserves the right to revoke this Power of Attorney AT ANY TIME by executing a deed of revocation, notifying in writing the Attorney thereof within 14 days from receipt or service (as applicable) and filing such notice with appropriate authorities. The Revocation shall become effective upon execution as provided hereinabove under 'Revocation'.
+6. GOVERNING LAW
+This Power of Attorney is executed under the Powers of Attorney Act, 1882 or any successor legislation in force at {{date}} and applicable to {{city}}, {{state}}. The Parties agree that this document shall be governed by such law without regard for conflict of laws principles. This agreement may not be enforced against a third party who did not sign it unless the Third Party has actual knowledge or notice thereof, except as provided hereinabove under 'GOVERNING LAW'.
+IN WITNESS WHEREOF, the parties have executed this Power of Attorney on {{date}}.
+Signature: {{principal_name}} Signature: {{attorney_name}} Date: {{date}}

@@ -1,0 +1,65 @@
+
+/* --- PREMIUM UI OVERRIDES FOR JUDGEMENT PREDICTION --- */
+
+.jp-hero,
+.jp-input-panel,
+.jp-status-panel,
+.jp-note,
+.jp-outcome,
+.jp-metric,
+.jp-case-card,
+.jp-stats-strip div,
+.jp-module-card {
+  background: rgba(30, 41, 59, 0.45) !important;
+  backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.jp-case-card:hover,
+.jp-note:hover {
+  transform: translateY(-4px) !important;
+  border-color: rgba(14, 165, 233, 0.3) !important;
+  background: rgba(30, 41, 59, 0.65) !important;
+}
+
+.jp-kicker,
+.jp-section-label,
+.jp-module-score {
+  color: #38bdf8 !important;
+}
+
+.jp-hero h1 {
+  font-family: var(--font-display) !important;
+  font-weight: 850 !important;
+  background: linear-gradient(135deg, #fff 30%, #94a3b8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.jp-actions button {
+  background: linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  box-shadow: 0 0 20px rgba(14, 165, 233, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+
+.jp-actions button:hover:not(:disabled) {
+  transform: scale(1.02) !important;
+  filter: brightness(1.1) !important;
+  box-shadow: 0 0 30px rgba(14, 165, 233, 0.4) !important;
+}
+
+.jp-input-panel textarea {
+  background: rgba(15, 23, 42, 0.4) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  color: #fff !important;
+}
+
+.jp-loader-ring {
+  border-top-color: #38bdf8 !important;
+  border-right-color: #0ea5e9 !important;
+  filter: drop-shadow(0 0 10px #38bdf8) !important;
+}

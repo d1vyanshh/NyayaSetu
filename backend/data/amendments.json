@@ -1,0 +1,1549 @@
+{
+  "amendments": [
+    {
+      "amendment_number": 1,
+      "year": 1951,
+      "articles_affected": [
+        "15",
+        "19",
+        "31"
+      ],
+      "summary": "Added protections for social reform laws and reasonable restrictions on speech and property rights.",
+      "key_changes": [
+        "Inserted Articles 31A and 31B",
+        "Added the Ninth Schedule",
+        "Changed Article 19 restrictions"
+      ],
+      "source_act": "Constitution (First Amendment) Act, 1951"
+    },
+    {
+      "amendment_number": 2,
+      "year": 1952,
+      "articles_affected": [
+        "81"
+      ],
+      "summary": "Adjusted representation in the House of the People.",
+      "key_changes": [
+        "Modified population-based representation rules"
+      ],
+      "source_act": "Constitution (Second Amendment) Act, 1952"
+    },
+    {
+      "amendment_number": 3,
+      "year": 1954,
+      "articles_affected": [
+        "7th Schedule"
+      ],
+      "summary": "Changed legislative entries for trade and commerce in certain essential commodities.",
+      "key_changes": [
+        "Expanded Union control over specified commodities"
+      ],
+      "source_act": "Constitution (Third Amendment) Act, 1954"
+    },
+    {
+      "amendment_number": 4,
+      "year": 1955,
+      "articles_affected": [
+        "31",
+        "31A",
+        "305",
+        "9th Schedule"
+      ],
+      "summary": "Revised property compensation rules and protected more land reform laws.",
+      "key_changes": [
+        "Amended Article 31",
+        "Expanded Ninth Schedule protection"
+      ],
+      "source_act": "Constitution (Fourth Amendment) Act, 1955"
+    },
+    {
+      "amendment_number": 5,
+      "year": 1955,
+      "articles_affected": [
+        "3"
+      ],
+      "summary": "Changed the procedure for state boundary and area alteration proposals.",
+      "key_changes": [
+        "Set time limits for state views on reorganisation bills"
+      ],
+      "source_act": "Constitution (Fifth Amendment) Act, 1955"
+    },
+    {
+      "amendment_number": 6,
+      "year": 1956,
+      "articles_affected": [
+        "269",
+        "286",
+        "7th Schedule"
+      ],
+      "summary": "Revised taxation of inter-state sales and purchases.",
+      "key_changes": [
+        "Changed sales tax distribution and entries"
+      ],
+      "source_act": "Constitution (Sixth Amendment) Act, 1956"
+    },
+    {
+      "amendment_number": 7,
+      "year": 1956,
+      "articles_affected": [
+        "1",
+        "3",
+        "153",
+        "170",
+        "171",
+        "214",
+        "230",
+        "231"
+      ],
+      "summary": "Implemented states reorganisation and removed the old Part A, B, C and D state categories.",
+      "key_changes": [
+        "Reorganised states and territories",
+        "Changed High Court provisions"
+      ],
+      "source_act": "Constitution (Seventh Amendment) Act, 1956"
+    },
+    {
+      "amendment_number": 8,
+      "year": 1960,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended reservation of seats for Scheduled Castes, Scheduled Tribes and Anglo-Indians.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Eighth Amendment) Act, 1960"
+    },
+    {
+      "amendment_number": 9,
+      "year": 1960,
+      "articles_affected": [
+        "1st Schedule"
+      ],
+      "summary": "Gave effect to India-Pakistan boundary adjustments following the Berubari agreement.",
+      "key_changes": [
+        "Altered territorial descriptions"
+      ],
+      "source_act": "Constitution (Ninth Amendment) Act, 1960"
+    },
+    {
+      "amendment_number": 10,
+      "year": 1961,
+      "articles_affected": [
+        "240",
+        "1st Schedule"
+      ],
+      "summary": "Incorporated Dadra and Nagar Haveli as a Union territory.",
+      "key_changes": [
+        "Added Dadra and Nagar Haveli"
+      ],
+      "source_act": "Constitution (Tenth Amendment) Act, 1961"
+    },
+    {
+      "amendment_number": 11,
+      "year": 1961,
+      "articles_affected": [
+        "66",
+        "71"
+      ],
+      "summary": "Changed electoral college rules for Vice-President election disputes and vacancies.",
+      "key_changes": [
+        "Provided that vacancies do not invalidate election"
+      ],
+      "source_act": "Constitution (Eleventh Amendment) Act, 1961"
+    },
+    {
+      "amendment_number": 12,
+      "year": 1962,
+      "articles_affected": [
+        "240",
+        "1st Schedule"
+      ],
+      "summary": "Incorporated Goa, Daman and Diu as a Union territory.",
+      "key_changes": [
+        "Added Goa, Daman and Diu"
+      ],
+      "source_act": "Constitution (Twelfth Amendment) Act, 1962"
+    },
+    {
+      "amendment_number": 13,
+      "year": 1962,
+      "articles_affected": [
+        "371A",
+        "1st Schedule"
+      ],
+      "summary": "Created special constitutional provisions for Nagaland.",
+      "key_changes": [
+        "Inserted Article 371A"
+      ],
+      "source_act": "Constitution (Thirteenth Amendment) Act, 1962"
+    },
+    {
+      "amendment_number": 14,
+      "year": 1962,
+      "articles_affected": [
+        "239A",
+        "240",
+        "1st Schedule"
+      ],
+      "summary": "Incorporated Puducherry and allowed legislatures/councils for certain Union territories.",
+      "key_changes": [
+        "Inserted Article 239A"
+      ],
+      "source_act": "Constitution (Fourteenth Amendment) Act, 1962"
+    },
+    {
+      "amendment_number": 15,
+      "year": 1963,
+      "articles_affected": [
+        "124",
+        "128",
+        "217",
+        "222",
+        "224",
+        "226",
+        "297",
+        "311"
+      ],
+      "summary": "Revised High Court judge retirement age and some judicial powers.",
+      "key_changes": [
+        "Raised High Court judge retirement age",
+        "Changed writ jurisdiction wording"
+      ],
+      "source_act": "Constitution (Fifteenth Amendment) Act, 1963"
+    },
+    {
+      "amendment_number": 16,
+      "year": 1963,
+      "articles_affected": [
+        "19",
+        "84",
+        "173"
+      ],
+      "summary": "Added sovereignty and integrity grounds to certain restrictions and oaths.",
+      "key_changes": [
+        "Changed Article 19 restrictions",
+        "Updated oath requirements"
+      ],
+      "source_act": "Constitution (Sixteenth Amendment) Act, 1963"
+    },
+    {
+      "amendment_number": 17,
+      "year": 1964,
+      "articles_affected": [
+        "31A",
+        "9th Schedule"
+      ],
+      "summary": "Expanded protection for agrarian reform laws.",
+      "key_changes": [
+        "Added laws to Ninth Schedule",
+        "Amended Article 31A"
+      ],
+      "source_act": "Constitution (Seventeenth Amendment) Act, 1964"
+    },
+    {
+      "amendment_number": 18,
+      "year": 1966,
+      "articles_affected": [
+        "3"
+      ],
+      "summary": "Clarified Parliament's power to form new states and Union territories.",
+      "key_changes": [
+        "Clarified scope of Article 3"
+      ],
+      "source_act": "Constitution (Eighteenth Amendment) Act, 1966"
+    },
+    {
+      "amendment_number": 19,
+      "year": 1966,
+      "articles_affected": [
+        "324"
+      ],
+      "summary": "Abolished Election Tribunals and enabled election petitions to be heard by High Courts.",
+      "key_changes": [
+        "Changed election dispute mechanism"
+      ],
+      "source_act": "Constitution (Nineteenth Amendment) Act, 1966"
+    },
+    {
+      "amendment_number": 20,
+      "year": 1966,
+      "articles_affected": [
+        "233A"
+      ],
+      "summary": "Validated certain district judge appointments and judgments.",
+      "key_changes": [
+        "Inserted Article 233A"
+      ],
+      "source_act": "Constitution (Twentieth Amendment) Act, 1966"
+    },
+    {
+      "amendment_number": 21,
+      "year": 1967,
+      "articles_affected": [
+        "8th Schedule"
+      ],
+      "summary": "Included Sindhi in the Eighth Schedule.",
+      "key_changes": [
+        "Added Sindhi language"
+      ],
+      "source_act": "Constitution (Twenty-first Amendment) Act, 1967"
+    },
+    {
+      "amendment_number": 22,
+      "year": 1969,
+      "articles_affected": [
+        "244A",
+        "275",
+        "371B"
+      ],
+      "summary": "Provided for autonomous state arrangements in Assam.",
+      "key_changes": [
+        "Inserted Article 244A",
+        "Inserted Article 371B"
+      ],
+      "source_act": "Constitution (Twenty-second Amendment) Act, 1969"
+    },
+    {
+      "amendment_number": 23,
+      "year": 1969,
+      "articles_affected": [
+        "330",
+        "332",
+        "333",
+        "334"
+      ],
+      "summary": "Extended reservations and adjusted representation for certain communities.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Twenty-third Amendment) Act, 1969"
+    },
+    {
+      "amendment_number": 24,
+      "year": 1971,
+      "articles_affected": [
+        "13",
+        "368"
+      ],
+      "summary": "Affirmed Parliament's power to amend the Constitution including fundamental rights.",
+      "key_changes": [
+        "Amended Article 13",
+        "Amended Article 368"
+      ],
+      "source_act": "Constitution (Twenty-fourth Amendment) Act, 1971"
+    },
+    {
+      "amendment_number": 25,
+      "year": 1971,
+      "articles_affected": [
+        "31",
+        "31C"
+      ],
+      "summary": "Limited property compensation challenges and inserted Article 31C for directive principle laws.",
+      "key_changes": [
+        "Inserted Article 31C"
+      ],
+      "source_act": "Constitution (Twenty-fifth Amendment) Act, 1971"
+    },
+    {
+      "amendment_number": 26,
+      "year": 1971,
+      "articles_affected": [
+        "291",
+        "362",
+        "363A"
+      ],
+      "summary": "Abolished privy purses and privileges of former rulers.",
+      "key_changes": [
+        "Omitted Articles 291 and 362",
+        "Inserted Article 363A"
+      ],
+      "source_act": "Constitution (Twenty-sixth Amendment) Act, 1971"
+    },
+    {
+      "amendment_number": 27,
+      "year": 1971,
+      "articles_affected": [
+        "239A",
+        "239B",
+        "240",
+        "371C"
+      ],
+      "summary": "Reorganised North-Eastern areas and provided special provisions for Manipur.",
+      "key_changes": [
+        "Inserted Article 239B",
+        "Inserted Article 371C"
+      ],
+      "source_act": "Constitution (Twenty-seventh Amendment) Act, 1971"
+    },
+    {
+      "amendment_number": 28,
+      "year": 1972,
+      "articles_affected": [
+        "312A",
+        "314"
+      ],
+      "summary": "Changed protections for certain civil service conditions.",
+      "key_changes": [
+        "Inserted Article 312A",
+        "Omitted Article 314"
+      ],
+      "source_act": "Constitution (Twenty-eighth Amendment) Act, 1972"
+    },
+    {
+      "amendment_number": 29,
+      "year": 1972,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added Kerala land reform laws to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Twenty-ninth Amendment) Act, 1972"
+    },
+    {
+      "amendment_number": 30,
+      "year": 1972,
+      "articles_affected": [
+        "133"
+      ],
+      "summary": "Changed civil appeal jurisdiction to the Supreme Court.",
+      "key_changes": [
+        "Revised Article 133"
+      ],
+      "source_act": "Constitution (Thirtieth Amendment) Act, 1972"
+    },
+    {
+      "amendment_number": 31,
+      "year": 1973,
+      "articles_affected": [
+        "81",
+        "330"
+      ],
+      "summary": "Increased Lok Sabha representation and adjusted seats.",
+      "key_changes": [
+        "Raised maximum Lok Sabha seats"
+      ],
+      "source_act": "Constitution (Thirty-first Amendment) Act, 1973"
+    },
+    {
+      "amendment_number": 32,
+      "year": 1973,
+      "articles_affected": [
+        "371D",
+        "371E"
+      ],
+      "summary": "Added special provisions for Andhra Pradesh.",
+      "key_changes": [
+        "Inserted Articles 371D and 371E"
+      ],
+      "source_act": "Constitution (Thirty-second Amendment) Act, 1973"
+    },
+    {
+      "amendment_number": 33,
+      "year": 1974,
+      "articles_affected": [
+        "101",
+        "190"
+      ],
+      "summary": "Required voluntary and genuine resignation from legislators.",
+      "key_changes": [
+        "Changed resignation scrutiny"
+      ],
+      "source_act": "Constitution (Thirty-third Amendment) Act, 1974"
+    },
+    {
+      "amendment_number": 34,
+      "year": 1974,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added more land reform laws to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Thirty-fourth Amendment) Act, 1974"
+    },
+    {
+      "amendment_number": 35,
+      "year": 1974,
+      "articles_affected": [
+        "2A",
+        "10th Schedule"
+      ],
+      "summary": "Associated Sikkim with India through special provisions.",
+      "key_changes": [
+        "Inserted Article 2A",
+        "Inserted Tenth Schedule then later removed"
+      ],
+      "source_act": "Constitution (Thirty-fifth Amendment) Act, 1974"
+    },
+    {
+      "amendment_number": 36,
+      "year": 1975,
+      "articles_affected": [
+        "1",
+        "80",
+        "81",
+        "371F",
+        "1st Schedule",
+        "4th Schedule"
+      ],
+      "summary": "Made Sikkim a state of India.",
+      "key_changes": [
+        "Inserted Article 371F",
+        "Updated schedules"
+      ],
+      "source_act": "Constitution (Thirty-sixth Amendment) Act, 1975"
+    },
+    {
+      "amendment_number": 37,
+      "year": 1975,
+      "articles_affected": [
+        "239A"
+      ],
+      "summary": "Provided legislative assembly and council of ministers for Arunachal Pradesh.",
+      "key_changes": [
+        "Extended Article 239A arrangements"
+      ],
+      "source_act": "Constitution (Thirty-seventh Amendment) Act, 1975"
+    },
+    {
+      "amendment_number": 38,
+      "year": 1975,
+      "articles_affected": [
+        "123",
+        "213",
+        "239B",
+        "352",
+        "356",
+        "359",
+        "360"
+      ],
+      "summary": "Made certain emergency and ordinance satisfaction clauses final.",
+      "key_changes": [
+        "Changed emergency review provisions"
+      ],
+      "source_act": "Constitution (Thirty-eighth Amendment) Act, 1975"
+    },
+    {
+      "amendment_number": 39,
+      "year": 1975,
+      "articles_affected": [
+        "71",
+        "329A",
+        "9th Schedule"
+      ],
+      "summary": "Changed treatment of certain election disputes and added enactments to Ninth Schedule.",
+      "key_changes": [
+        "Inserted Article 329A"
+      ],
+      "source_act": "Constitution (Thirty-ninth Amendment) Act, 1975"
+    },
+    {
+      "amendment_number": 40,
+      "year": 1976,
+      "articles_affected": [
+        "297",
+        "9th Schedule"
+      ],
+      "summary": "Changed Union control over territorial waters and added laws to Ninth Schedule.",
+      "key_changes": [
+        "Amended Article 297"
+      ],
+      "source_act": "Constitution (Fortieth Amendment) Act, 1976"
+    },
+    {
+      "amendment_number": 41,
+      "year": 1976,
+      "articles_affected": [
+        "316"
+      ],
+      "summary": "Raised retirement age of State Public Service Commission members.",
+      "key_changes": [
+        "Changed Article 316 retirement age"
+      ],
+      "source_act": "Constitution (Forty-first Amendment) Act, 1976"
+    },
+    {
+      "amendment_number": 42,
+      "year": 1976,
+      "articles_affected": [
+        "31C",
+        "39A",
+        "43A",
+        "48A",
+        "51A",
+        "74",
+        "77",
+        "83",
+        "100",
+        "102",
+        "103",
+        "105",
+        "118",
+        "145",
+        "150",
+        "166",
+        "172",
+        "189",
+        "191",
+        "192",
+        "194",
+        "208",
+        "226",
+        "227",
+        "228",
+        "257A",
+        "311",
+        "312",
+        "330",
+        "352",
+        "353",
+        "356",
+        "357",
+        "358",
+        "359",
+        "368"
+      ],
+      "summary": "Wide-ranging amendment during the Emergency changing the Preamble, Parliament, courts, Directive Principles and Fundamental Duties.",
+      "key_changes": [
+        "Added Fundamental Duties",
+        "Inserted socialist, secular and integrity in the Preamble",
+        "Expanded Directive Principles",
+        "Curtailed some judicial review"
+      ],
+      "source_act": "Constitution (Forty-second Amendment) Act, 1976"
+    },
+    {
+      "amendment_number": 43,
+      "year": 1977,
+      "articles_affected": [
+        "31D",
+        "32A",
+        "131A",
+        "144A",
+        "226A",
+        "228A"
+      ],
+      "summary": "Restored several judicial review powers reduced by the Forty-second Amendment.",
+      "key_changes": [
+        "Omitted several Emergency-era judicial restriction provisions"
+      ],
+      "source_act": "Constitution (Forty-third Amendment) Act, 1977"
+    },
+    {
+      "amendment_number": 44,
+      "year": 1978,
+      "articles_affected": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "31",
+        "38",
+        "74",
+        "77",
+        "83",
+        "103",
+        "105",
+        "123",
+        "132",
+        "133",
+        "134",
+        "139A",
+        "150",
+        "166",
+        "172",
+        "192",
+        "194",
+        "213",
+        "217",
+        "225",
+        "226",
+        "227",
+        "239B",
+        "352",
+        "356",
+        "358",
+        "359",
+        "360",
+        "361",
+        "368",
+        "300A"
+      ],
+      "summary": "Restored key rights protections after the Emergency and moved property out of fundamental rights.",
+      "key_changes": [
+        "Omitted Article 31",
+        "Inserted Article 300A",
+        "Protected Articles 20 and 21 during emergency",
+        "Changed emergency proclamation rules"
+      ],
+      "source_act": "Constitution (Forty-fourth Amendment) Act, 1978"
+    },
+    {
+      "amendment_number": 45,
+      "year": 1980,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended reservations and Anglo-Indian representation provisions.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Forty-fifth Amendment) Act, 1980"
+    },
+    {
+      "amendment_number": 46,
+      "year": 1982,
+      "articles_affected": [
+        "269",
+        "286",
+        "366",
+        "7th Schedule"
+      ],
+      "summary": "Expanded the meaning and taxation of sales of goods.",
+      "key_changes": [
+        "Inserted deemed sale clauses in Article 366"
+      ],
+      "source_act": "Constitution (Forty-sixth Amendment) Act, 1982"
+    },
+    {
+      "amendment_number": 47,
+      "year": 1984,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added land reform laws to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Forty-seventh Amendment) Act, 1984"
+    },
+    {
+      "amendment_number": 48,
+      "year": 1984,
+      "articles_affected": [
+        "356"
+      ],
+      "summary": "Enabled extension of President's Rule in Punjab beyond the ordinary period.",
+      "key_changes": [
+        "Special Article 356 proviso"
+      ],
+      "source_act": "Constitution (Forty-eighth Amendment) Act, 1984"
+    },
+    {
+      "amendment_number": 49,
+      "year": 1984,
+      "articles_affected": [
+        "244",
+        "5th Schedule",
+        "6th Schedule"
+      ],
+      "summary": "Brought Tripura tribal areas under Sixth Schedule arrangements.",
+      "key_changes": [
+        "Changed autonomous district provisions"
+      ],
+      "source_act": "Constitution (Forty-ninth Amendment) Act, 1984"
+    },
+    {
+      "amendment_number": 50,
+      "year": 1984,
+      "articles_affected": [
+        "33"
+      ],
+      "summary": "Extended Parliament's power to restrict rights for armed forces and related services.",
+      "key_changes": [
+        "Amended Article 33"
+      ],
+      "source_act": "Constitution (Fiftieth Amendment) Act, 1984"
+    },
+    {
+      "amendment_number": 51,
+      "year": 1984,
+      "articles_affected": [
+        "330",
+        "332"
+      ],
+      "summary": "Provided reservation for Scheduled Tribes in certain North-Eastern states.",
+      "key_changes": [
+        "Changed Articles 330 and 332"
+      ],
+      "source_act": "Constitution (Fifty-first Amendment) Act, 1984"
+    },
+    {
+      "amendment_number": 52,
+      "year": 1985,
+      "articles_affected": [
+        "101",
+        "102",
+        "190",
+        "191",
+        "10th Schedule"
+      ],
+      "summary": "Introduced anti-defection law.",
+      "key_changes": [
+        "Inserted Tenth Schedule"
+      ],
+      "source_act": "Constitution (Fifty-second Amendment) Act, 1985"
+    },
+    {
+      "amendment_number": 53,
+      "year": 1986,
+      "articles_affected": [
+        "371G"
+      ],
+      "summary": "Added special provisions for Mizoram.",
+      "key_changes": [
+        "Inserted Article 371G"
+      ],
+      "source_act": "Constitution (Fifty-third Amendment) Act, 1986"
+    },
+    {
+      "amendment_number": 54,
+      "year": 1986,
+      "articles_affected": [
+        "125",
+        "221",
+        "2nd Schedule"
+      ],
+      "summary": "Increased salaries of Supreme Court and High Court judges.",
+      "key_changes": [
+        "Changed judicial salary provisions"
+      ],
+      "source_act": "Constitution (Fifty-fourth Amendment) Act, 1986"
+    },
+    {
+      "amendment_number": 55,
+      "year": 1986,
+      "articles_affected": [
+        "371H"
+      ],
+      "summary": "Added special provisions for Arunachal Pradesh.",
+      "key_changes": [
+        "Inserted Article 371H"
+      ],
+      "source_act": "Constitution (Fifty-fifth Amendment) Act, 1986"
+    },
+    {
+      "amendment_number": 56,
+      "year": 1987,
+      "articles_affected": [
+        "371I"
+      ],
+      "summary": "Added special provision for Goa.",
+      "key_changes": [
+        "Inserted Article 371I"
+      ],
+      "source_act": "Constitution (Fifty-sixth Amendment) Act, 1987"
+    },
+    {
+      "amendment_number": 57,
+      "year": 1987,
+      "articles_affected": [
+        "332"
+      ],
+      "summary": "Reserved seats for Scheduled Tribes in Nagaland, Meghalaya, Mizoram and Arunachal Pradesh.",
+      "key_changes": [
+        "Changed Article 332"
+      ],
+      "source_act": "Constitution (Fifty-seventh Amendment) Act, 1987"
+    },
+    {
+      "amendment_number": 58,
+      "year": 1987,
+      "articles_affected": [
+        "394A"
+      ],
+      "summary": "Provided for authoritative Hindi text of the Constitution.",
+      "key_changes": [
+        "Inserted Article 394A"
+      ],
+      "source_act": "Constitution (Fifty-eighth Amendment) Act, 1987"
+    },
+    {
+      "amendment_number": 59,
+      "year": 1988,
+      "articles_affected": [
+        "352",
+        "356",
+        "358",
+        "359"
+      ],
+      "summary": "Made special emergency provisions connected with Punjab.",
+      "key_changes": [
+        "Changed emergency operation for Punjab"
+      ],
+      "source_act": "Constitution (Fifty-ninth Amendment) Act, 1988"
+    },
+    {
+      "amendment_number": 60,
+      "year": 1988,
+      "articles_affected": [
+        "276"
+      ],
+      "summary": "Increased ceiling on taxes on professions, trades and employments.",
+      "key_changes": [
+        "Amended Article 276"
+      ],
+      "source_act": "Constitution (Sixtieth Amendment) Act, 1988"
+    },
+    {
+      "amendment_number": 61,
+      "year": 1989,
+      "articles_affected": [
+        "326"
+      ],
+      "summary": "Reduced voting age from 21 to 18 years.",
+      "key_changes": [
+        "Amended Article 326"
+      ],
+      "source_act": "Constitution (Sixty-first Amendment) Act, 1989"
+    },
+    {
+      "amendment_number": 62,
+      "year": 1989,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended reservations and Anglo-Indian representation provisions.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Sixty-second Amendment) Act, 1989"
+    },
+    {
+      "amendment_number": 63,
+      "year": 1989,
+      "articles_affected": [
+        "352",
+        "356",
+        "358",
+        "359"
+      ],
+      "summary": "Repealed special emergency provisions inserted for Punjab.",
+      "key_changes": [
+        "Reversed Fifty-ninth Amendment changes"
+      ],
+      "source_act": "Constitution (Sixty-third Amendment) Act, 1989"
+    },
+    {
+      "amendment_number": 64,
+      "year": 1990,
+      "articles_affected": [
+        "356"
+      ],
+      "summary": "Allowed extension of President's Rule in Punjab.",
+      "key_changes": [
+        "Special Article 356 extension"
+      ],
+      "source_act": "Constitution (Sixty-fourth Amendment) Act, 1990"
+    },
+    {
+      "amendment_number": 65,
+      "year": 1990,
+      "articles_affected": [
+        "338"
+      ],
+      "summary": "Established the National Commission for Scheduled Castes and Scheduled Tribes.",
+      "key_changes": [
+        "Amended Article 338"
+      ],
+      "source_act": "Constitution (Sixty-fifth Amendment) Act, 1990"
+    },
+    {
+      "amendment_number": 66,
+      "year": 1990,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added more land reform laws to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Sixty-sixth Amendment) Act, 1990"
+    },
+    {
+      "amendment_number": 67,
+      "year": 1990,
+      "articles_affected": [
+        "356"
+      ],
+      "summary": "Further enabled President's Rule extension in Punjab.",
+      "key_changes": [
+        "Special Article 356 extension"
+      ],
+      "source_act": "Constitution (Sixty-seventh Amendment) Act, 1990"
+    },
+    {
+      "amendment_number": 68,
+      "year": 1991,
+      "articles_affected": [
+        "356"
+      ],
+      "summary": "Again extended special President's Rule arrangements for Punjab.",
+      "key_changes": [
+        "Special Article 356 extension"
+      ],
+      "source_act": "Constitution (Sixty-eighth Amendment) Act, 1991"
+    },
+    {
+      "amendment_number": 69,
+      "year": 1991,
+      "articles_affected": [
+        "239AA",
+        "239AB"
+      ],
+      "summary": "Created special constitutional status for the National Capital Territory of Delhi.",
+      "key_changes": [
+        "Inserted Articles 239AA and 239AB"
+      ],
+      "source_act": "Constitution (Sixty-ninth Amendment) Act, 1991"
+    },
+    {
+      "amendment_number": 70,
+      "year": 1992,
+      "articles_affected": [
+        "54",
+        "239AA"
+      ],
+      "summary": "Included Delhi and Puducherry assemblies in Presidential election calculations.",
+      "key_changes": [
+        "Amended Article 54"
+      ],
+      "source_act": "Constitution (Seventieth Amendment) Act, 1992"
+    },
+    {
+      "amendment_number": 71,
+      "year": 1992,
+      "articles_affected": [
+        "8th Schedule"
+      ],
+      "summary": "Added Konkani, Manipuri and Nepali to the Eighth Schedule.",
+      "key_changes": [
+        "Added three languages"
+      ],
+      "source_act": "Constitution (Seventy-first Amendment) Act, 1992"
+    },
+    {
+      "amendment_number": 72,
+      "year": 1992,
+      "articles_affected": [
+        "332"
+      ],
+      "summary": "Provided reservation for Scheduled Tribes in Tripura Legislative Assembly.",
+      "key_changes": [
+        "Changed Article 332"
+      ],
+      "source_act": "Constitution (Seventy-second Amendment) Act, 1992"
+    },
+    {
+      "amendment_number": 73,
+      "year": 1992,
+      "articles_affected": [
+        "243",
+        "243A",
+        "243B",
+        "243C",
+        "243D",
+        "243E",
+        "243F",
+        "243G",
+        "243H",
+        "243I",
+        "243J",
+        "243K",
+        "243L",
+        "243M",
+        "243N",
+        "243O",
+        "11th Schedule"
+      ],
+      "summary": "Gave constitutional status to Panchayati Raj institutions.",
+      "key_changes": [
+        "Inserted Part IX",
+        "Inserted Eleventh Schedule"
+      ],
+      "source_act": "Constitution (Seventy-third Amendment) Act, 1992"
+    },
+    {
+      "amendment_number": 74,
+      "year": 1992,
+      "articles_affected": [
+        "243P",
+        "243Q",
+        "243R",
+        "243S",
+        "243T",
+        "243U",
+        "243V",
+        "243W",
+        "243X",
+        "243Y",
+        "243Z",
+        "243ZA",
+        "243ZB",
+        "243ZC",
+        "243ZD",
+        "243ZE",
+        "12th Schedule"
+      ],
+      "summary": "Gave constitutional status to municipalities.",
+      "key_changes": [
+        "Inserted Part IXA",
+        "Inserted Twelfth Schedule"
+      ],
+      "source_act": "Constitution (Seventy-fourth Amendment) Act, 1992"
+    },
+    {
+      "amendment_number": 75,
+      "year": 1994,
+      "articles_affected": [
+        "323B"
+      ],
+      "summary": "Enabled rent-control tribunals.",
+      "key_changes": [
+        "Amended Article 323B"
+      ],
+      "source_act": "Constitution (Seventy-fifth Amendment) Act, 1994"
+    },
+    {
+      "amendment_number": 76,
+      "year": 1994,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added Tamil Nadu reservation law to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Seventy-sixth Amendment) Act, 1994"
+    },
+    {
+      "amendment_number": 77,
+      "year": 1995,
+      "articles_affected": [
+        "16"
+      ],
+      "summary": "Enabled reservation in promotion for Scheduled Castes and Scheduled Tribes.",
+      "key_changes": [
+        "Inserted Article 16(4A)"
+      ],
+      "source_act": "Constitution (Seventy-seventh Amendment) Act, 1995"
+    },
+    {
+      "amendment_number": 78,
+      "year": 1995,
+      "articles_affected": [
+        "9th Schedule"
+      ],
+      "summary": "Added land reform laws to the Ninth Schedule.",
+      "key_changes": [
+        "Expanded Ninth Schedule"
+      ],
+      "source_act": "Constitution (Seventy-eighth Amendment) Act, 1995"
+    },
+    {
+      "amendment_number": 79,
+      "year": 1999,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended reservations and Anglo-Indian representation provisions.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Seventy-ninth Amendment) Act, 1999"
+    },
+    {
+      "amendment_number": 80,
+      "year": 2000,
+      "articles_affected": [
+        "269",
+        "270",
+        "272"
+      ],
+      "summary": "Changed tax sharing between Union and states.",
+      "key_changes": [
+        "Introduced alternative scheme of tax devolution"
+      ],
+      "source_act": "Constitution (Eightieth Amendment) Act, 2000"
+    },
+    {
+      "amendment_number": 81,
+      "year": 2000,
+      "articles_affected": [
+        "16"
+      ],
+      "summary": "Permitted carrying forward reserved vacancies in services.",
+      "key_changes": [
+        "Inserted Article 16(4B)"
+      ],
+      "source_act": "Constitution (Eighty-first Amendment) Act, 2000"
+    },
+    {
+      "amendment_number": 82,
+      "year": 2000,
+      "articles_affected": [
+        "335"
+      ],
+      "summary": "Allowed relaxation in qualifying marks for SC/ST promotion matters.",
+      "key_changes": [
+        "Added proviso to Article 335"
+      ],
+      "source_act": "Constitution (Eighty-second Amendment) Act, 2000"
+    },
+    {
+      "amendment_number": 83,
+      "year": 2000,
+      "articles_affected": [
+        "243M"
+      ],
+      "summary": "Exempted Arunachal Pradesh from Panchayat reservation for Scheduled Castes.",
+      "key_changes": [
+        "Amended Article 243M"
+      ],
+      "source_act": "Constitution (Eighty-third Amendment) Act, 2000"
+    },
+    {
+      "amendment_number": 84,
+      "year": 2001,
+      "articles_affected": [
+        "55",
+        "81",
+        "82",
+        "170",
+        "330",
+        "332"
+      ],
+      "summary": "Continued freeze on delimitation based on population until after 2026 while allowing readjustment.",
+      "key_changes": [
+        "Updated delimitation provisions"
+      ],
+      "source_act": "Constitution (Eighty-fourth Amendment) Act, 2001"
+    },
+    {
+      "amendment_number": 85,
+      "year": 2001,
+      "articles_affected": [
+        "16"
+      ],
+      "summary": "Provided consequential seniority in reservation in promotion for SC/ST employees.",
+      "key_changes": [
+        "Amended Article 16(4A)"
+      ],
+      "source_act": "Constitution (Eighty-fifth Amendment) Act, 2001"
+    },
+    {
+      "amendment_number": 86,
+      "year": 2002,
+      "articles_affected": [
+        "21A",
+        "45",
+        "51A"
+      ],
+      "summary": "Made education a fundamental right for children aged 6 to 14.",
+      "key_changes": [
+        "Inserted Article 21A",
+        "Changed Article 45",
+        "Added parent/guardian duty in Article 51A"
+      ],
+      "source_act": "Constitution (Eighty-sixth Amendment) Act, 2002"
+    },
+    {
+      "amendment_number": 87,
+      "year": 2003,
+      "articles_affected": [
+        "81",
+        "82",
+        "170",
+        "330",
+        "332"
+      ],
+      "summary": "Used 2001 census for delimitation readjustment while maintaining seat freeze.",
+      "key_changes": [
+        "Changed census reference"
+      ],
+      "source_act": "Constitution (Eighty-seventh Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 88,
+      "year": 2003,
+      "articles_affected": [
+        "268A",
+        "270",
+        "7th Schedule"
+      ],
+      "summary": "Provided for service tax levy and distribution.",
+      "key_changes": [
+        "Inserted Article 268A"
+      ],
+      "source_act": "Constitution (Eighty-eighth Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 89,
+      "year": 2003,
+      "articles_affected": [
+        "338",
+        "338A"
+      ],
+      "summary": "Separated commissions for Scheduled Castes and Scheduled Tribes.",
+      "key_changes": [
+        "Inserted Article 338A"
+      ],
+      "source_act": "Constitution (Eighty-ninth Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 90,
+      "year": 2003,
+      "articles_affected": [
+        "332"
+      ],
+      "summary": "Provided special representation arrangements for tribal and non-tribal areas in Assam.",
+      "key_changes": [
+        "Changed Article 332"
+      ],
+      "source_act": "Constitution (Ninetieth Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 91,
+      "year": 2003,
+      "articles_affected": [
+        "75",
+        "164",
+        "361B",
+        "10th Schedule"
+      ],
+      "summary": "Limited council of ministers size and tightened anti-defection consequences.",
+      "key_changes": [
+        "Inserted Article 361B",
+        "Changed Tenth Schedule"
+      ],
+      "source_act": "Constitution (Ninety-first Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 92,
+      "year": 2003,
+      "articles_affected": [
+        "8th Schedule"
+      ],
+      "summary": "Added Bodo, Dogri, Maithili and Santhali to the Eighth Schedule.",
+      "key_changes": [
+        "Added four languages"
+      ],
+      "source_act": "Constitution (Ninety-second Amendment) Act, 2003"
+    },
+    {
+      "amendment_number": 93,
+      "year": 2005,
+      "articles_affected": [
+        "15"
+      ],
+      "summary": "Enabled special provisions for socially and educationally backward classes, SCs and STs in educational institutions.",
+      "key_changes": [
+        "Inserted Article 15(5)"
+      ],
+      "source_act": "Constitution (Ninety-third Amendment) Act, 2005"
+    },
+    {
+      "amendment_number": 94,
+      "year": 2006,
+      "articles_affected": [
+        "164"
+      ],
+      "summary": "Changed requirement for a tribal welfare minister in specified states.",
+      "key_changes": [
+        "Updated Article 164"
+      ],
+      "source_act": "Constitution (Ninety-fourth Amendment) Act, 2006"
+    },
+    {
+      "amendment_number": 95,
+      "year": 2009,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended reservations for SC/ST seats and Anglo-Indian representation.",
+      "key_changes": [
+        "Extended Article 334 period"
+      ],
+      "source_act": "Constitution (Ninety-fifth Amendment) Act, 2009"
+    },
+    {
+      "amendment_number": 96,
+      "year": 2011,
+      "articles_affected": [
+        "8th Schedule"
+      ],
+      "summary": "Changed the language name Oriya to Odia.",
+      "key_changes": [
+        "Updated Eighth Schedule language name"
+      ],
+      "source_act": "Constitution (Ninety-sixth Amendment) Act, 2011"
+    },
+    {
+      "amendment_number": 97,
+      "year": 2011,
+      "articles_affected": [
+        "19",
+        "43B",
+        "243ZH",
+        "243ZI",
+        "243ZJ",
+        "243ZK",
+        "243ZL",
+        "243ZM",
+        "243ZN",
+        "243ZO",
+        "243ZP",
+        "243ZQ",
+        "243ZR",
+        "243ZS",
+        "243ZT"
+      ],
+      "summary": "Added provisions relating to cooperative societies.",
+      "key_changes": [
+        "Inserted Part IXB",
+        "Added Article 43B",
+        "Changed Article 19"
+      ],
+      "source_act": "Constitution (Ninety-seventh Amendment) Act, 2011"
+    },
+    {
+      "amendment_number": 98,
+      "year": 2012,
+      "articles_affected": [
+        "371J"
+      ],
+      "summary": "Added special provisions for Hyderabad-Karnataka region.",
+      "key_changes": [
+        "Inserted Article 371J"
+      ],
+      "source_act": "Constitution (Ninety-eighth Amendment) Act, 2012"
+    },
+    {
+      "amendment_number": 99,
+      "year": 2014,
+      "articles_affected": [
+        "124",
+        "127",
+        "128",
+        "217",
+        "222",
+        "224",
+        "224A",
+        "231",
+        "312A"
+      ],
+      "summary": "Created the National Judicial Appointments Commission framework; later struck down by the Supreme Court.",
+      "key_changes": [
+        "Inserted NJAC provisions"
+      ],
+      "source_act": "Constitution (Ninety-ninth Amendment) Act, 2014"
+    },
+    {
+      "amendment_number": 100,
+      "year": 2015,
+      "articles_affected": [
+        "1st Schedule"
+      ],
+      "summary": "Gave effect to the India-Bangladesh land boundary agreement.",
+      "key_changes": [
+        "Altered territorial descriptions"
+      ],
+      "source_act": "Constitution (One Hundredth Amendment) Act, 2015"
+    },
+    {
+      "amendment_number": 101,
+      "year": 2016,
+      "articles_affected": [
+        "246A",
+        "269A",
+        "279A",
+        "286",
+        "366",
+        "368",
+        "7th Schedule"
+      ],
+      "summary": "Introduced the Goods and Services Tax constitutional framework.",
+      "key_changes": [
+        "Inserted Articles 246A, 269A and 279A",
+        "Changed taxing powers"
+      ],
+      "source_act": "Constitution (One Hundred and First Amendment) Act, 2016"
+    },
+    {
+      "amendment_number": 102,
+      "year": 2018,
+      "articles_affected": [
+        "338B",
+        "342A",
+        "366"
+      ],
+      "summary": "Gave constitutional status to the National Commission for Backward Classes.",
+      "key_changes": [
+        "Inserted Articles 338B and 342A"
+      ],
+      "source_act": "Constitution (One Hundred and Second Amendment) Act, 2018"
+    },
+    {
+      "amendment_number": 103,
+      "year": 2019,
+      "articles_affected": [
+        "15",
+        "16"
+      ],
+      "summary": "Enabled reservation for economically weaker sections.",
+      "key_changes": [
+        "Inserted Articles 15(6) and 16(6)"
+      ],
+      "source_act": "Constitution (One Hundred and Third Amendment) Act, 2019"
+    },
+    {
+      "amendment_number": 104,
+      "year": 2019,
+      "articles_affected": [
+        "334"
+      ],
+      "summary": "Extended SC/ST reservations in legislatures and ended Anglo-Indian nomination provisions.",
+      "key_changes": [
+        "Amended Article 334"
+      ],
+      "source_act": "Constitution (One Hundred and Fourth Amendment) Act, 2019"
+    },
+    {
+      "amendment_number": 105,
+      "year": 2021,
+      "articles_affected": [
+        "338B",
+        "342A",
+        "366"
+      ],
+      "summary": "Restored states' power to identify socially and educationally backward classes.",
+      "key_changes": [
+        "Clarified state lists after the 102nd Amendment"
+      ],
+      "source_act": "Constitution (One Hundred and Fifth Amendment) Act, 2021"
+    },
+    {
+      "amendment_number": 106,
+      "year": 2023,
+      "articles_affected": [
+        "239AA",
+        "330A",
+        "332A",
+        "334A"
+      ],
+      "summary": "Reserved one-third of seats for women in the Lok Sabha, State Legislative Assemblies and the Legislative Assembly of the National Capital Territory of Delhi, to take effect after delimitation following the relevant census.",
+      "key_changes": [
+        "Inserted Article 330A for reservation of seats for women in the House of the People",
+        "Inserted Article 332A for reservation of seats for women in State Legislative Assemblies",
+        "Inserted Article 334A on commencement and duration of women's reservation",
+        "Amended Article 239AA for women's reservation in the Delhi Legislative Assembly"
+      ],
+      "source_act": "Constitution (One Hundred and Sixth Amendment) Act, 2023"
+    }
+  ]
+}

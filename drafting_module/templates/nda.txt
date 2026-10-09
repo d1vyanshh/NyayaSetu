@@ -1,0 +1,28 @@
+NON-DISCLOSURE AGREEMENT
+Date: {{date}} Place: {{city_state}}
+BETWEEN:
+1. {{landlord_name}}, having its registered office at
+{{address}}, (hereinafter referred to as the 'Disclosing Party')
+2. {{tenant_name}}, having its registered office at
+{{address}}, (hereinafter referred to as the 'Receiving Party')
+WHEREAS:
+The Disclosing Party possesses certain confidential and proprietary information relating to {{describe_business/project}}.
+The Receiving Party desires to receive certain Confidential Information for the purpose of {{state_purpose}}, and
+the Disclosing Party is willing to disclose such information subject to the terms herein.
+NOW, THEREFORE, the parties agree as follows:
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means all information disclosed by the Disclosing Party, whether orally, in writing, or electronically, including but not limited to business plans, financial data, technical data, trade secrets, customer information, and any other proprietary information.
+2. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party shall: (a) maintain the confidentiality of all Confidential Information; (b) not disclose any Confidential Information to third parties without prior written consent; (c) use the Confidential Information solely for the Purpose stated above.
+3. EXCLUSIONS
+Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the Receiving Party; (b) was already in the Receiving Party's possession prior to disclosure; (c) is independently developed by the Receiving Party; (d) is required to be disclosed by law or court order.
+4. TERM
+This Agreement shall remain in effect for a period of {{duration}} years from the date of execution. The confidentiality obligations shall survive termination for a further period of {{survival_period}} years.
+5. RETURN OF INFORMATION
+Upon termination or request by the Disclosing Party, the Receiving Party shall promptly return or destroy all Confidential Information and any copies thereof.
+6. REMEDIES
+The Receiving Party acknowledges that breach may cause irreparable harm. The Disclosing Party shall be entitled to seek injunctive relief in addition to any other remedies available under Sections 73 and 74 of the Indian Contract Act, 1872.
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of India, and disputes shall be subject to the exclusive jurisdiction of courts at {{city}}.
+IN WITNESS WHEREOF, the parties have executed this agreement on the date first written above.
+Name: ________________ Signature: ________________ Date: ____________. Name: ________________ Signature: ________________ Date: ____________. Witnesses: 1. Name: ________________ Signature: ________________ 2. Name: ________________ Signature: ________________

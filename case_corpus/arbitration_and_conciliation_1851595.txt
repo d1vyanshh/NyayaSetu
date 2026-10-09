@@ -1,0 +1,667 @@
+[Cites 88, Cited by 246]
+Supreme Court of India
+Fuerst Day Lawson Ltd vs Jindal Exports Ltd on 8 July, 2011
+Equivalent citations: AIR 2011 SUPREME COURT 2649, 2011 (8) SCC 333, 2011 AIR SCW 4047, 2011 (5) AIR BOM R 237, (2011) 105 ALLINDCAS 224 (SC), (2012) 1 CIVLJ 620, (2011) 6 MAH LJ 803, (2011) 3 ARBILR 82, (2011) 7 SCALE 513, (2012) 1 JCR 143 (SC), (2011) 7 MAD LJ 557, (2011) 4 MPLJ 554, (2011) 4 RECCIVR 775, AIR 2011 SC (CIV) 1750, 2011 (3) KLT SN 55 (SC), 2011 (88) ALR SOC 2 (SC)
+Author: Aftab Alam
+Bench: Aftab Alam, R.M. Lodha
+                                                                          REPORTABLE
+
+
+              IN THE SUPREME COURT OF INDIA
+
+
+               CIVIL APPELLATE JURISDICTION
+
+
+      SPECIAL LEAVE PETITION (CIVIL) NO.11945 OF 2010
+
+
+FUERST DAY LAWSON LTD.                      ... PETITIONER
+
+
+                          VERSUS
+
+
+JINDAL EXPORTS LTD.                         ... RESPONDENT
+
+
+                           WITH
+
+
+
+
+     SPECIAL LEAVE PETITION (CIVIL) NO.13625 OF 2010
+
+
+FUERST DAY LAWSON LTD.                      ... PETITIONER
+
+
+                          VERSUS
+
+
+JINDAL EXPORTS LTD.                         ... RESPONDENT
+
+
+
+
+                           WITH
+
+
+SPECIAL LEAVE PETITION (CIVIL) NOS.13626-13629 OF 2010
+
+
+JINDAL EXPORTS LIMITED                      ... PETITIONER
+
+
+                          VERSUS
+
+
+FUERST DAY LAWSON                           ... RESPONDENT
+
+
+                                  2
+
+
+
+
+
+                                WITH
+
+
+SPECIAL LEAVE PETITION (CIVIL) NOS.22318-22321 OF 2010
+
+
+ITE INDIA P. LTD.                           ... PETITIONER
+
+
+                               VERSUS
+
+
+MUKESH SHARMA & ORS.                        ... RESPONDENTS
+
+
+
+
+                                WITH
+
+
+                     CIVIL APPEAL NO.5156 OF 2011
+
+        [ARISING OUT OF SLP (CIVIL) NO.31068 OF 2009]
+
+
+SHIVNATH RAI HARNARAIN 
+
+INDIA COMPANY                               ... APPELLANT
+
+
+                               VERSUS
+
+
+GLENCORE GRAIN ROTTERDAM                    ... RESPONDENT
+
+
+                                WITH
+
+
+                     CIVIL APPEAL NO.5157 OF 2011
+
+         [ARISING OUT OF SLP (CIVIL) NO.4648 OF 2010]
+
+
+TINNA FINEX LTD.                            ... APPELLANT
+
+                               VERSUS
+
+
+NATIONAL ABILITY S.A. & ANR.                ... RESPONDENTS
+
+
+                                            3
+
+
+
+
+
+                                          AND
+
+
+                          CIVIL APPEAL NO.36 OF 2010
+
+
+SEA STREAM NAVIGATION LTD.                                   ... APPELLANT
+
+
+                                        VERSUS
+
+
+LMJ INTERNATIONAL LTD.                                       ... RESPONDENT
+
+
+
+
+
+                                   J U D G M E N T
+
+
+AFTAB ALAM, J.
+
+1. Leave granted in SLP (C) No.31068 of 2009 and SLP (C) No.4648 of 2010.
+
+2. The common question that arises for consideration by the Court in this batch of cases is whether an order, though not appealable under section 50 of the Arbitration and Conciliation Act, 1996 (hereinafter "1996 Act"), would nevertheless be subject to appeal under the relevant provision of the Letters Patent of the High Court. In other words even though the Arbitration Act does not envisage or permit an appeal from the order, the party aggrieved by it can still have his way, by-passing the Act and taking recourse to another jurisdiction.
+
+3. Mr. C.A. Sundaram, senior advocate, however, who led the arguments on behalf of the appellants, would like to frame the question differently. He would ask whether there is any provision in the 1996 Act that can be said to exclude the jurisdiction of the High Court under its Letters Patent either expressly or even impliedly. He would say that the jurisdiction of the High Court under the Letters Patent is an independent jurisdiction and as long as the order qualifies for an appeal under the Letters Patent an appeal from that order would be, undoubtedly, maintainable before the High Court.
+
+4. A correct answer to both the questions would depend upon how the 1996 Act is to be viewed. Do the provisions of the 1996 Act constitute a complete code for matters arising out of an arbitration proceeding, the making of the award and the enforcement of the award? If the answer to the question is in the affirmative then, obviously, all other jurisdictions, including the letters patent jurisdiction of the High Court would stand excluded but in case the answer is in the negative then, of course, the contention of Mr. Sundaram must be accepted.
+
+5. The batch presently before the Court originally consisted of nine cases, out of which SLP (C) No.16908 of 2010 ended in compromise between the parties. Of the remaining eight cases, SLP (C) No.13625 of 2010 and SLP (C) No.11945 of 2010 are unrelated and have been wrongly  put in this batch. These two SLPs are filed against a common judgment passed by a single judge of the Delhi High Court insofar as though allowing the petitioners' application for enforcement of two foreign awards, the High Court declined to pass any order for payment of interest on the awarded amounts payable to the petitioners. These two cases are, therefore, directed to be de-tagged and listed separately. This leaves behind six cases. At the conclusion of hearing, one of the cases, being SLP (C) No.31067 of 2009 was directed, on the prayer made by the counsel for the petitioner, to be de- linked from the batch and to be listed separately. It, however, appears that the direction was wrongly obtained since that case and another case in the batch, SLP (C) No.31068 of 2009 arise from a common order and SLP (C) No.31067 of 2009 would also be fully governed by this judgment. Be that as it may, the direction for de-linking is already made and, hence, that case will be separately listed and dealt with in due course. Of the remaining five cases four come from the Delhi High Court and one from the Calcutta High Court. In SLP (C) No.4648 of 2010 and SLP (C) No.31068 of 2010, the applications filed by the respective respondents in these cases, for enforcement of the foreign award in their favour were allowed by orders passed by a single judge of the High Court. Against the orders of the single judge, the petitioners in these SLPs filed appeals before the division bench  of the High Court. All the appeals were taken together and dismissed by a common order as not maintainable. The petitioners have come before this Court against the order passed by the division bench only, on the question of maintainability of their appeals. Civil Appeal No.36 of 2010 coming from the Calcutta High Court is opposite of the aforementioned two SLPs coming from the Delhi High Court. In this case, against an order passed by a single judge of the High Court, by which he granted relief for enforcement of a foreign award, an appeal was preferred before the division bench of the High Court. The appeal was admitted but a preliminary objection was raised in regard to its maintainability in view of section 50 of the 1996 Act. The division bench by order dated May 8, 2007 rejected the preliminary objection holding that the appeal was maintainable.
+
+6. In SLP (C) Nos.22318-22321 of 2010 a single judge of the Delhi High Court dismissed the suit filed by the petitioner and allowed the application filed by defendant nos.3-5 referring the parties to arbitration in terms of section 45 of the 1996 Act. The petitioner's appeal before the division bench was dismissed as not maintainable. The SLP (C) Nos. 22318-22321 of 2010 are filed under Article 136 of the Constitution challenging orders passed by both the division bench and the single judge of the High Court. 
+
+7. The petitioner in SLP (C) Nos.13626-13629 of 2010 is the respondent in SLP (C) No.13625 of 2010 and SLP (C) No.11945 of 2010 which have been held to be unrelated to the batch. Against the order passed by a single judge of the High Court for enforcement of two foreign awards against it, the petitioner in SLP (C) Nos.13626-13629 of 2010, first preferred an appeal before the division bench of the High Court, but the appeal was dismissed by the division bench as not maintainable. The present SLPs are filed challenging both the orders passed by the single judge and the division bench.
+
+8. At the outset Mr. C.A. Sundaram, submitted that the proper course would be to refer the matter to a larger bench of three judges. He pointed out that in Orma Impex Pvt. Ltd. v. Nissai ASB PTE Ltd., (1999) 2 SCC 541, the same question was earlier referred to a bench of three judges of this Court. The Court, however, did not have the occasion to decide the case because it was withdrawn following a settlement between the parties. Mr. Sundaram submitted that though the case does not survive, the issue arising in it (which is the same as in this batch of cases) continues to be alive and hence, following the referral in Orma Impex Pvt. Ltd. (which was in the form of `Record of Proceedings' and not an order of the Court!), all these cases should be referred for hearing before a bench of three judges of this Court.  Mr. Dushyant Dave, learned senior advocate appearing for the respondents, in some of the cases in the batch, strongly opposed Mr. Sundaram's submission and contended that there was no need to refer the cases to any larger bench.
+
+9. In Orma Impex Pvt. Ltd., the Delhi High Court had taken the view that against the order passed by a single judge of the High Court under section 45, refusing to refer parties to arbitration, no further appeal would lie under section 50 of the 1996 Act. In the special leave petition filed against the order of the High Court, a bench of two judges of this Court observed that the High Court had failed to notice section 10 of the Delhi High Court Act, 1996 and clause 10 of the Letters Patent which applies to the Delhi High Court. It further observed that though the view taken by the High Court was supported by a two judge bench decision of this Court in State of West Bengal v. M/s Gourangalal Chatterjee, (1993) 3 SCC 1, which in turn had relied upon an earlier decision of the Court in Union of India v. Mohindra Supply Co., 1962 (3) SCR 497, a contra view was taken by the Court in Vinita M. Khanolkar v. Pragna M. Pai & Ors., (1998) 1 SCC 500. There, thus, appeared a conflict of decisions on the question. In support of the contra view, the division bench also referred to an earlier decision by a three  judge bench of this Court in National Sewing Thread Co. Ltd. v. James Chadwick and Bros. Ltd., AIR 1953 SC 357.
+
+10. Mr. Dave pointed out that neither the decision in Vinita M. Khanolkar nor the decision in National Sewing Thread Co. Ltd. was rendered under the provisions of the Arbitration Act; the former was in the context of section 6(3) of the Specific Relief Act, 1963 and the latter under the Trade Marks Act, 1940. He further submitted that after the decisions in Vinita M. Khanolkar and the referral of Orma Impex Pvt. Ltd., a three judge bench of this Court in Union of India & Ors. v. Aradhana Trading Co., (2002) 4 SCC 447, had the occasion to consider the same question, as arising in this batch of cases, though not under the 1996 Act but under the provisions of the Arbitration Act, 1940 (hereinafter "1940 Act"). In Aradhana Trading Co. the Court referred to both the decisions in Vinita M. Khanolkar and in National Sewing Thread Co. Ltd.; the first it did not follow and the second it distinguished as having been rendered on a different set of provisions. Mr. Dave submitted that, thus, the very foundation on which the referral of Orma Impex Pvt. Ltd. was based, no longer held good.
+
+11. On hearing the two sides, we are of the view that in the afore-noted facts and circumstances the referral of Orma Impex Pvt. Ltd. cannot be said to constitute a binding precedent, especially as the case that was referred no  longer survives. In any event we have heard the two sides at great length and we see no good reason why this matter should be referred to a larger bench and not decided by this Court. We, accordingly, proceed to do so.
+
+12. The question regarding the availability of an appeal under the relevant clause of the Letters Patent has engaged the attention of this Court from time to time under different circumstances and in cases arising under different Acts. We take note of some of the cases here that were brought to our notice by the two sides.
+
+13. In National Sewing Thread Co. Ltd., this Court held that the judgment of a learned single judge of the Bombay High Court, on an appeal preferred under section 76 of the Trade Marks Act was subject to appeal under clause 15 of the Letters Patent of that High Court. The Court noted the material part of clause 15 of the Letters Patent of the High Court and section 76 (1) of the Trade Marks Act and observed:
+
+"The Trade Marks Act does not provide or lay down any procedure for the future conduct or career of that appeal in the High Court, indeed S.77 of the Act provides that the High Court can if it likes make rules in the matter. Obviously after the appeal had reached the High Court it has to be determined according to the rules of practice and procedure of that Court and in accordance with the provisions of the charter under which that Court is constituted and which confers on it power in respect to the method and manner of exercising that jurisdiction. The rule is well settled that when a statute directs that an appeal shall lie to a Court already  established, then that appeal must be regulated by the practice and procedure of that Court."
+
+(emphasis supplied)
+
+14. Taking support for its view from the decisions in (i) National Telephone Co. Ltd. v. Postmaster-General, (1913) AC 546, (ii) Adaikappa Chettiar v. Chandresekhara Thevar, AIR 1948 PC 12 and (iii) Secy. of State for India v. Chellikani Rama Rao, AIR 1916 PC 21, the decision in National Sewing Thread Co. Ltd. further observed:
+
+"Section 76, Trade Marks Act confers a right of appeal to the High Court and says nothing more about it. That being so, the High Court being seized as much of the appellate jurisdiction conferred by S.76 it has to exercise that jurisdiction in the same manner as it exercises its other appellate jurisdiction and when such jurisdiction is exercised by a single Judge, his judgment becomes subject to appeal under Cl.15 of the Letters Patent there being nothing to the contrary in the Trade Marks Act."
+
+15. The Court held that there was nothing in the provisions of section 77 of the Trade Marks Act that would debar the High Court from hearing appeals under section 76, according to the Rules under which all other appeals are heard or from framing Rules for the exercise of that jurisdiction under section 108, Government of India Act, 1915, for hearing those appeals by single judges or by division benches. It also negated the submission that the judgment of the learned single judge would not be  subject to an appeal under clause 15 of the Letters Patent because it was not delivered pursuant to section 108, Government of India Act.
+
+16. In Vinita M. Khanolkar, a bench of two judges of this Court held that notwithstanding the bar of sub-section (3), an order passed by a learned single judge of the High Court under section 6 of the Specific Relief Act would nevertheless be subject to appeal under clause 15 of the Letters Patent of the Bombay High Court. In Vinita M. Khanolkar, this Court put the power of the High Court under the Letters Patent at the level of constitutional power of the High Court and went on to observe as follows:
+
+"3. Now it is well settled that any statutory provision barring an appeal or revision cannot cut across the constitutional power of a High Court. Even the power flowing from the paramount charter under which the High Court functions would not get excluded unless the statutory enactment concerned expressly excludes appeals under letters patent. No such bar is discernible from Section 6(3) of the Act. It could not be seriously contended by learned counsel for the respondents that if clause 15 of the Letters Patent is invoked then the order would be appealable. Consequently, in our view, on the clear language of clause 15 of the Letters Patent which is applicable to Bombay High Court, the said appeal was maintainable as the order under appeal was passed by learned Single Judge of the High Court exercising original jurisdiction of the court. Only on that short ground the appeal is required to be allowed."
+
+17. As noted above, Vinita M. Khanolkar, was considered in a later three judge bench decision in Aradhana Trading Co. One may not go so far as to say that Aradhana Trading Co. disapproved Vinita M. Khanolkar wholly but  it surely took the opposite view on the question in the context of section 39 of the Arbitration Act, 1940.
+
+18. In Sharda Devi v. State of Bihar, (2002) 3 SCC 705, a bench of three judges of this Court examined the question whether a Letters Patent Appeal is maintainable against the judgment and decree of a single judge of the High Court passed in an appeal preferred under section 54 of the Land Acquisition Act, 1894. A bench of two judges before which the case was earlier put up noticed a conflict of decision on the question. In Baljit Singh v. State of Haryana, bench of two judges of the Court had held that no Letters Patent Appeal is maintainable against the judgment of a single judge of the High Court on an appeal under section 54 of the Land Acquisition Act, whereas in Basant Kumar v. Union of India, (1996) 11 SCC 542, a bench of three judges, without adverting to the decision in Baljit Singh, held that such an appeal is maintainable. The two judge bench, accordingly, referred the case for hearing before a bench of three judges. The three judge bench affirmed the decision in Basant Kumar. It noted that the decision in Baljit Singh was based on concession made in light of an earlier decision of this Court in South Asia Industries (P) Ltd. v. S.B. Sarup Singh, (1965) 2 SCR 756. The decision in South Asia Industries was in a case under the Delhi Rent Control Act, 1958. In Sharda Devi, the Court pointed out that in  South Asia Industries, the Court had examined sections 39 and 43 of the Delhi Rent Control Act and held that a combined reading of the two sections showed that an order passed by the High Court in an appeal under section 39 was to be final. It was held that the provision of finality was intended to exclude any further appeal. This decision was, thus, based on interpretation of sections 39 and 43 of the Delhi Rent Control Act. Section 54 of the Land Acquisition Act, has no similarity with sections 39 and 43 of the Delhi Rent Control Act. Hence, the decision in South Asia Industries had no relevance to decide the question whether a letters patent appeal is maintainable against the judgment passed by a single judge under section 54 of the Land Acquisition Act. In regard to the Letters Patent jurisdiction of the High Court, this Court in Sharda Devi made the following observation in paragraph 9:
+
+"9. A Letters Patent is the charter under which the High Court is established. The powers given to a High Court under the Letters Patent are akin to the constitutional powers of a High Court. Thus when a Letters Patent grants to the High Court a power of appeal, against a judgment of a Single Judge, the right to entertain the appeal would not get excluded unless the statutory enactment concerned excludes an appeal under the Letters Patent."
+
+19. Referring to section 54 of the Land Acquisition Act, the Court concluded as follows:
+
+"14. ... Section 26 of the said Act provides that every award shall be a decree and the statement of grounds of every award shall be a judgment. By virtue of the Letters Patent "an appeal"
+
+against the judgment of a Single Judge of the High Court would lie to a Division Bench. Section 54 of the said Act does not exclude an appeal under the Letters Patent. The word "only" occurring immediately after the non obstante clause in Section 54 refers to the forum of appeal. In other words, it provides that the appeal will be to the High Court and not to any other court e.g. the District Court. The term "an appeal"
+
+does not restrict it to only one appeal in the High Court. The term "an appeal" would take within its sweep even a letters patent appeal. The decision of the Division Bench rendered in a letters patent appeal will then be subject to appeal to the Supreme Court. Read in any other manner there would be a conflict between Section 54 and the provision of a Letters Patent. It is settled law that if there is a conflict, attempt should be made to harmoniously construe the provisions."
+
+20. In Subal Paul v. Malina Paul & Anr., (2003) 10 SCC 361, a bench of three judges of this Court examined the question whether a letters patent appeal would lie against the judgment of a single judge of a High Court on an appeal filed under section 299 of the Indian Succession Act, 1925. Arguing against the maintainability of a letters patent appeal against the judgment of the single judge it was contended that the rejection of the application for probate by the district judge did not give rise to any decree. Hence, an appeal against such an order would be one under section 104 of the Civil Procedure Code and a further appeal would, therefore, be barred under sub-section (2) of section 104. This Court did not accept the  submission. It held that the appeal against an order of the district judge would be under section 299 of the Indian Succession Act. Section 104 of the Code simply recognizes appeals provided under special statutes; it does not create a right of appeal as such. Consequently, it does not bar any further appeal also. As regards the nature of an appeal under the Letters Patent, the decision in Subal Paul in paragraphs 21 and 22, observed as follows:
+
+"21. If a right of appeal is provided for under the Act, the limitation thereof must also be provided therein. A right of appeal which is provided under the Letters Patent cannot be said to be restricted. Limitation of a right of appeal, in the absence of any provision in a statute cannot be readily inferred. It is now well-settled that the appellate jurisdiction of a superior court is not taken as excluded simply because the subordinate court exercises its special jurisdiction. In G.P. Singh's Principles of Statutory Interpretation, it is stated:
+
+"The appellate and revisional jurisdiction of superior courts is not taken as excluded simply because the subordinate court exercises a special jurisdiction. The reason is that when a special Act on matters governed by that Act confers a jurisdiction to an established court, as distinguished from a persona designata, without any words of limitation, then, the ordinary incident of procedure of that court including any general right of appeal or revision against its decision is attracted."
+
+22. But an exception to the aforementioned rule is on matters where the special Act sets out a self-contained code, the applicability of the general law procedure would be impliedly excluded. [See Upadhyaya Hargovind Devshanker v. Dhirendrasinh Virbhadrasinhji Solanki (1988) 2 SCC 1]"
+
+(emphasis supplied) 
+21. In paragraph 32 of the judgment, this Court further observed as follows:
+"32. While determining the question as regards clause 15 of the Letters Patent, the court is required to see as to whether the order sought to be appealed against is a judgment within the meaning thereof or not. Once it is held that irrespective of the nature of the order, meaning thereby whether interlocutory or final, a judgment has been rendered, clause 15 of the Letters Patent would be attracted."
+
+22. In P.S. Sathappan v. Andhra Bank Ltd. & Ors., (2004) 11 SCC 672, a constitution bench of this Court once again extensively considered the nature of the Letters Patent jurisdiction of the High Court, and the circumstances in which it would be available and those under which it would be ousted. The question that was referred to the Constitution Bench was: what would be "the effect of the provisions of section 104(2) of the Code of Civil Procedure, 1908 (hereinafter "CPC") vis-`-vis clause 15 of the Letters Patent (of the Madras High Court)"? An application for setting aside the court auction-sale was dismissed by the execution court. An appeal against the order came to the High Court and it was dismissed by a single judge. Against the order of the single judge, a letters patent appeal was filed. The question of maintainability of the appeal was examined by a full bench of the High Court and the intra-court appeal to the division bench was held to be not maintainable in view of the provisions of section 104(2) of CPC. A  Constitution Bench of this Court, however, reversed the decision of the full bench of the High Court and by a majority of 3:2 held that the letters patent appeal was perfectly maintainable.
+
+23. P.S. Sathappan is actually an authority on the interplay of section 104 of the Code of Civil Procedure and the Letters Patent jurisdiction of the High Court. The majority judgment went into the history of the matter and pointed out that under the Civil Procedure Codes of 1877 and 1882 there was a divergence of opinion among the different High Courts on the point whether the finality attached to orders passed under section 588 (corresponding to section 104 of the present Code) precluded any further appeals, including a letters patent appeal. The question, then, came up before the Privy Council in the case of Hurrish Chunder Chowdry v. Kali Sundari Debia, ILR (1882) 9 Cal. 482 ( PC). But the decision of the Privy Council, rather than settling the issue gave rise to further conflicting decisions by different High Courts in the country. The Bombay, Calcutta and Madras High Courts held that section 588 did not take away the right of appeal given under the Letters Patent. On the other hand, the Allahabad High Court took a different view and held that a letters patent appeal was barred under section 588 of the Code. In view of this conflict of views, the legislature stepped in and amended the law. It introduced section 4 and section 104 in the Code.  Having, thus, put the controversy in the historical perspective, the Court referred to sections 4 and 104 of the Code and made the following observation in paragraph 6 of the judgment:
+
+"To be immediately noted that now the legislature provides that the provision of this Code will not affect or limit special law unless specifically excluded. The legislature also simultaneously saves, in section 104(1), appeals under "any law for the time being in force". These would include letters patent appeals."
+
+(emphasis supplied )
+
+24. The above is really the kernel of the decision in P.S. Sathappan and the rest of the judgment is only an elucidation of this point.
+
+25. In P. S. Sathappan the constitution bench considered in some detail the 1962 decision by a bench of four judges of the Court in Mohindra Supply Co. (supra) in which the legislative history of section 104 of the Code was traced out in detail and it was shown that by virtue of the saving clause in section 4 and the express language of section 104 that saved an appeal as provided by any other law for the time being in force, a letters patent appeal was not hit by the bar of sub-section (2) of section 104 of the Code. [Mohindra Supply Co., however, was a case under section 39 of the 1940 Act, which did not contain any provision similar to section 4 of the Code and hence, in that case the Court held that the finality attached by sub-  section (2) to an order passed under sub-section (1) of section 39 barred any further appeal, including a letters patent appeal.]
+
+26. In P.S. Sathappan, on a consideration of a number of earlier decisions, the Constitution Bench concluded that till 1996, the unanimous view of all courts was that section 104(1) CPC specifically saved letters patent appeals and the bar under section 104(2) did not apply to letters patent appeals. Thereafter, there were two decisions in deviation from the accepted judicial view, one by a bench of two judges of this Court in Resham Singh Pyara Singh v. Abdul Sattar, (1996) 1 SCC 49 and the other by a bench of three judges of this Court in New Kenilworth Hotel (P) Ltd. v. Orissa State Finance Corpn., (1997) 3 SCC 462. P.S. Sathappan, overruled both these decisions and declared that Resham Singh Pyara Singh and New Kenilworth Hotel (P) Ltd. laid down wrong law. It further pointed out that even after the aforementioned two decisions this Court had continued to hold that a Letters Patent Appeal is not affected by the bar of section 104(2) CPC. In this connection, it referred to Vinita M. Khanolkar (supra), under section 6 of the Specific Relief Act, Chandra Kanta Sinha v. Oriental Insurance Co. Ltd. & Ors., (2001) 6 SCC 158, under section 140 of the Motor Vehicles Act, 1988, Sharda Devi (supra), under section 54 of the Land Acquisition Act and Subal Paul (supra), under section 299 of the Indian Succession Act,  1925 and came to the conclusion that the consensus of judicial opinion has been that section 104(1) CPC expressly saves the letters patent appeal and the bar under section 104(2) CPC does not apply to letters patent appeals. In paragraph 22 of the judgment, the Court observed as follows:
+
+"22.... The view has been that a letters patent appeal cannot be ousted by implication but the right of an appeal under the Letters Patent can be taken away by an express provision in an appropriate legislation. The express provision need not refer to or use the word "letters patent" but if on a reading of the provision it is clear that all further appeals are barred then even a letters patent appeal would be barred."
+
+27. Further, analysing the two sub-sections of section 104(2) along with section 4 CPC, this Court in paragraph 30 of the judgment observed as follows:
+
+"30.... Section 104 must be read as a whole and harmoniously. If the intention was to exclude what is specifically saved in sub- section (1), then there had to be a specific exclusion. A general exclusion of this nature would not be sufficient. We are not saying that a general exclusion would never oust a letters patent appeal. However, when section 104(1) specifically saves a letters patent appeal then the only way such an appeal could be excluded is by express mention in section 104(2) that a letters patent appeal is also prohibited. . ...."
+
+28. Mr. Sundaram heavily relied upon this decision.
+
+29. The decisions noticed so far lay down certain broad principles that may be stated as follows:
+
+1. Normally, once an appeal reaches the High Court it has to be determined according to the rules of practice and procedure of the High Court and in accordance with the provisions of the charter under which the High Court is constituted and which confers on it power in respect to the method and manner of exercising that power.
+2. When a statute merely directs that an appeal shall lie to a court already established then that appeal must be regulated by the practice and procedure of that court.
+3. The High Court derives its intra-court appeal jurisdiction under the charter by which it was established and its powers under the Letters Patent were recognized and saved by section 108 of the Government of India Act, 1915, section 223 of the Government of India Act, 1935 and finally, by Article 225 of the Constitution of India. The High Court, therefore, cannot be divested of its Letters Patent jurisdiction unless provided for expressly or by necessary intendment by some special statute.
+4. If the pronouncement of the single judge qualifies as a "judgment", in the absence of any bar created by a statute  either expressly or by necessary implication, it would be subject to appeal under the relevant clause of the Letters Patent of the High Court.
+5. Since section 104(1) CPC specifically saves the letters patent appeal it could only be excluded by an express mention in section 104(2). In the absence of any express mention in section 104(2), the maintainability of a letters patent appeal is saved by virtue of section 104(1).
+6. Limitation of a right of appeal in absence of any provision in a statute cannot be readily inferred. The appellate jurisdiction of a superior court cannot be taken as excluded simply because a subordinate court exercises its special jurisdiction.
+7. The exception to the aforementioned rule is where the special Act sets out a self-contained code and in that event the applicability of the general law procedure would be impliedly excluded. The express provision need not refer to or use the word "letters patent" but if on a reading of the provision it is clear that all further appeals are barred then even a letters patent appeal would be barred.
+
+30. These general principles are culled out from the decisions of this Court rendered under section 104 of the CPC and various other Acts, as noted above. But there is another set of decisions of this Court on the question under consideration rendered in the context of section 39 of the 1940 Act. Section 39 of the erstwhile Act contained the provision of appeal and provided as follows:
+
+"39. Appealable orders.--(1) An appeal shall lie from the following orders passed under this Act (and from no others) to the Court authorised by law to hear appeals from original decrees of the Court passing the order:
+An order -
+(i) superseding an arbitration;
+(ii) on an award stated in the form of a special case;
+(iii) modifying or correcting an award;
+(iv) filing or refusing to file an arbitration agreement;
+(v) staying or refusing to stay legal proceedings where there is an arbitration agreement;
+(vi) setting aside or refusing to set aside an award:
+PROVIDED THAT the provisions of this section shall not apply to any order passed by a Small Cause Court. (2) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court." 
+
+[Insofar as relevant for the present, section 37 of the 1996 Act, is very similar to section 39 of the previous Act as quoted above.]
+
+31. In Mohindra Supply Co., a bench of four judges of this Court held that a letters patent appeal against an order passed by a single judge of the High Court on an appeal under section 39(1) of the 1940 Act was barred in terms of sub-section (2) of section 39. This decision is based on the bar against further appeals as contained in sub-section (2) of section 39 of the 1940 Act and, therefore, it may not have a direct bearing on the question presently under consideration.
+
+32. More to the point are two later decisions. In M/s Gourangalal Chatterjee, a bench of two judges of this Court held that an order, against which no appeal would lie under section 39(1) of the 1940 Act, could not be taken in appeal before the division bench of the High Court under its Letters Patent. The same view was reaffirmed by a bench of three judges of this Court in Aradhana Trading Co.
+
+33. In regard to these two decisions, Mr. Sundaram took the position that both M/s Gourangalal Chatterjee and Aradhana Trading Co. were rendered on section 39 of the 1940 Act, the equivalent of which is section 37 of the 1996 Act. In view of the two decisions, he conceded that in the event an order was not appealable under section 37(1) of the 1996 Act, it would not  be subject to appeal under the Letters Patent of the High Court. He, however, referred to section 50 of the 1996 Act, which is as follows:
+
+"50. Appealable orders.--(1) An appeal shall lie from the order refusing to--
+(a) refer the parties to arbitration under section 45;
+(b) enforce a foreign award under section 48, to the court authorised by law to hear appeals from such order. (2) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court."
+
+34. Mr. Sundaram submitted that section 50, unlike section 39 of the previous Act and section 37 of the current Act does not have the words "(and from no others)" and that, according to him, made all the difference. He contended that the omission of the words in parenthesis was significant and it clearly pointed out that unlike section 37, even though an order was not appealable under section 50, it would be subject to appeal under the Letters Patent of the High Court. At any event the decisions rendered under section 39 of the 1940 would have no application in a case relating to section 50 of the 1996 Act.
+
+35. Mr. Dave, in reply submitted that the words "(and from no other)"
+
+occurring in section 39 of the 1940 Act and section 37 of the 1996 Act were actually superfluous and seen, thus, there would be no material difference between the provisions of section 39 of the 1940 Act or section 37 of the  1996 Act and section 50 of the 1996 Act and all the decisions rendered on section 39 of the 1940 Act will apply with full force to cases arising under section 50 of the 1996 Act.
+
+36. The use of round brackets for putting words in parenthesis is not very common in legislation and this reminds us of the painful lament by Meredith, J. of the Patna High Court, who in 1948 dealing with a case said that "the 1940 Act contains examples of bad drafting which it would be hard to beat".
+
+37. According to the New Oxford Dictionary of English, 1998 edition, brackets are used to enclose words or figures so as to separate them from the context. The Oxford Advanced Learner's Dictionary, Seventh edition defines "bracket" to mean "either of a pair of marks, ( ) placed around extra information in a piece of writing or part of a problem in mathematics". The New Oxford Dictionary of English, 1998 edition gives the meaning and use of parenthesis as:
+
+"Parenthesis--noun (pl. parentheses) a word, clause, or sentence inserted as an explanation or afterthought into a passage which is grammatically complete without it, in writing usually marked off by brackets, dashes, or commas.
+- (usu. Parentheses) a pair of round brackets ( ) used to include such a word, clause, or sentence."
+
+38. The Oxford Advanced Learner's Dictionary, Seventh edition, defines the meaning of parenthesis as:
+
+"a word, sentence, etc. that is added to a speech or piece of writing, especially in order to give extra information. In writing, it is separated from rest of the text using brackets, commas or DASHES."
+
+39. The Complete Plain Words by Sir Ernest Gowers, 1986 revised edition by Sidney Greenbaum and Janet Whitcut, gives the purpose of parenthesis as follows:
+
+"Parenthesis The purpose of a parenthesis is ordinarily to insert an illustration, explanation, definition, or additional piece of information of any sort into a sentence that is logically and grammatically complete without it. A parenthesis may be marked off by commas, dashes or brackets. The degree of interruption of the main sentence may vary from the almost imperceptible one of explanatory words in apposition, to the violent one of a separate sentence complete in itself."
+
+40. The Merriam Webster Online Dictionary defines parenthesis as follows:
+
+"1 a : an amplifying or explanatory word, phrase, or sentence inserted in a passage from which it is usually set off by punctuation b : a remark or passage that departs from the theme of a discourse : digression 2: interlude, interval 3: one or both of the curved marks ( ) used in writing and printing to enclose a parenthetical expression or to group a symbolic unit in a logical or mathematical expression" 
+
+41. The Law Lexicon, The Encyclopaedic Law Dictionary by P. Ramanatha Aiyar, 2000 edition, defines parenthesis as under:
+
+"Parenthesis. a parenthesis is defined to be an explanatory or qualifying clause, sentence, or paragraph, inserted in another sentence, or in course of a longer passage, without being grammatically connected with it. (Cent. Dist.) PARENTHESIS is used to limit, qualify or restrict the meaning of the sentence with which it is connected, and it may be designated by the use of commas, or by a dash, or by curved lines or brackets [53 Fed.81 (83); 3C, CA 440]."
+
+42. Having regard to the grammatical use of brackets or parentheses, if the words, "(and from no others)" occurring in section 39 of the 1940 Act or section 37 of the 1996 Act are viewed as `an explanation or afterthought' or extra information separate from the main context, then, there may be some substance in Mr. Dave's submission that the words in parentheses are surplusage and in essence the provisions of section 39 of the 1940 Act or section 37 of the 1996 Act are the same as section 50 of the 1996 Act. Section 39 of the 1940 Act says no more and no less than what is stipulated in section 50 of the 1996 Act.
+
+43. But there may be a different reason to contend that section 39 of the 1940 Act or its equivalent section 37 of the 1996 Act are fundamentally different from section 50 of the 1996 Act and hence, the decisions rendered  under section 39 of the 1940 Act may not have any application to the facts arising under section 50 of the 1996 Act.
+
+44. But for that we need to take a look at the basic scheme of the 1996 Act and its relevant provisions. Before the coming into force of the Arbitration and Conciliation Act, 1996 with effect from August 16, 1996, the law relating to domestic arbitration was contained in the Arbitration Act, 1940, which in turn was brought in place of the Arbitration Act, 1899. Apart from the Arbitration Act 1940, there were two other enactments of the same genre. One called the Arbitration (Protocol and Convention) Act, 1937 (for execution of the Geneva Convention Awards) and the other called the Foreign Awards (Recognition and Enforcement) Act, 1961 (for enforcement of the New York Convention awards).
+
+45. The aforesaid three Acts were replaced by the Arbitration and Conciliation Act, 1996, which is based on the United Nations Commission on International Trade Law (UNCITRAL) Model and is broadly compatible with the "Rules of Arbitration of the International Chamber of Commerce". The Arbitration and Conciliation Act, 1996 that has repealed the Arbitration Act, 1940 and also the Acts of 1937 and 1961, consolidates and amends the law relating to domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards and defines the law relating to  conciliation and provides for matters connected therewith and incidental thereto taking into account the UNCITRAL MODEL law and Rules.
+
+46. The Statement of Objects and Reasons of the Arbitration and Conciliation Act, 1996 reads as under:
+
+"Statement of Objects and Reasons The law of arbitration in India is at present substantially contained in three enactments, namely, The Arbitration Act, 1940, The Arbitration (Protocol and Convention) Act, 1937 and The Foreign Awards (Recognition and Enforcement) Act, 1961. It is widely felt that the 1940 Act, which contains the general law of arbitration, has become outdated. The Law Commission of India, several representative bodies of trade and industry and experts in the field of arbitration have proposed amendments to this Act to make it more responsive to contemporary requirements. It is also recognised that our economic reforms may not become fully effective if the law dealing with settlement of both domestic and international commercial disputes remains out of tune with such reforms. Like arbitration, conciliation is also getting increasing worldwide recognition as an instrument for settlement of disputes. There is, however, no general law on the subject in India.
+2. The United Nations Commission on International Trade Law (UNCITRAL) adopted in 1985 the Model Law on International Commercial Arbitration. The General Assembly of the United Nations has recommended that all countries give due consideration to the said Model Law, in view of the desirability of uniformity of the law of arbitral procedures and the specific needs of international commercial arbitration practice. The UNCITRAL also adopted in 1980 a set of Conciliation Rules. The General Assembly of the United Nations has recommended the use of these Rules in cases where the disputes arise in the context of international commercial relations and the parties seek amicable settlement of their disputes by recourse to conciliation. An important feature of the said UNCITRAL  Model Law and Rules is that they have harmonised concepts on arbitration and conciliation of different legal systems of the world and thus contain provisions which are designed for universal application.
+3. Though the UNCITRAL Model Law and Rules are intended to deal with international commercial arbitration and conciliation, they could, with appropriate modifications, serve as a model for legislation on domestic arbitration and conciliation. The present Bill seeks to consolidate and amend the law relating to domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards and to define the law relating to conciliation, taking into account the said UNCITRAL Model Law and Rules.
+4. The main objectives of the Bill are as under:-
+(i) to comprehensively cover international and commercial arbitration and conciliation as also domestic arbitration and conciliation;
+(ii) to make provision for an arbitral procedure which is fair, efficient and capable of meeting the needs of the specific arbitration;
+(iii) to provide that the arbitral tribunal gives reasons for its arbitral award;
+(iv) to ensure that the arbitral tribunal remains within the limits of its jurisdiction;
+(v) to minimise the supervisory role of courts in the arbitral process;
+(vi) to permit an arbitral tribunal to use mediation, conciliation or other procedures during the arbitral proceedings to encourage settlement of disputes;
+(vii) to provide that every final arbitral award is enforced in the same manner as if it were a decree of the court;
+(viii) to provide that a settlement agreement reached by the parties as a result of conciliation proceedings will have the same status and effect as an arbitral award on agreed terms on the substance of the dispute rendered by an arbitral tribunal; and
+(ix) to provide that, for purposes of enforcement of foreign awards, every arbitral award made in a country to which  one of the two international Conventions relating to foreign arbitral awards to which India is a party applies, will be treated as a foreign award.
+
+5. The Bill seeks to achieve the above objects."
+
+(emphasis supplied)
+
+47. The Preamble of the Arbitration and Conciliation Act, 1996 is as follows:
+
+"PREAMBLE WHEREAS the United Nations Commission on International Trade Law (UNCITRAL) has adopted the UNCITRAL Model Law on International Commercial Arbitration in 1985;
+AND WHEREAS the General Assembly of the United Nations has recommended that all countries give due consideration to the said Model Law, in view of the desirability of uniformity of the law of arbitral procedures and the specific needs of international commercial arbitration practice;
+AND WHEREAS the UNCITRAL has adopted the UNCITRAL Conciliation Rules in 1980;
+AND WHEREAS the General Assembly of the United Nations has recommended the use of the said Rules in cases where a dispute arises in the context of international commercial relations and the parties seek an amicable settlement of that dispute by recourse to conciliation;
+AND WHEREAS the said Model Law and Rules make significant contribution to the establishment of a unified legal framework for the fair and efficient settlement of disputes arising in international commercial relations; 
+AND WHEREAS it is expedient to make law respecting arbitration and conciliation, taking into account the aforesaid Model Law and Rules;"
+
+48. The new Act is a loosely integrated version of the Arbitration Act, 1940, Arbitration (Protocol and Convention) Act, 1937 and Foreign Awards (Recognition and Enforcement) Act, 1961. It actually consolidates amends and puts together three different enactments. But having regard to the difference in the object and purpose and the nature of these three enactments, the provisions relating thereto are kept separately. A mere glance at the 1996 Act is sufficient to show that under its scheme the provisions relating to the three enactments are kept separately from each other. The 1996 Act is divided into four parts and it has three schedules at its end. Part I has ten chapters that contain provisions governing domestic arbitration and international commercial arbitration. Part II has two chapters; Chapter I contains provisions relating to the New York Convention Awards and Chapter II contains provisions relating to the Geneva Convention Awards. Part III of the Act has provisions concerning conciliation. Part IV has the supplementary provisions such as the power of the High Court to make rules (section 82), provision for removal of difficulties (section 83), and the power to make rules (section 84). At the end there are two repeal and saving sections. Section 85 repeals the three enactments referred to above,  subject to the appropriate saving clause and section 86 repeals Ordinance 27 of 1996, the precursor of the Act, subject to the appropriate saving clause. Of the three schedules, the first is related to Part II, Chapter I, i.e., the New York Convention Awards and the second and the third to Chapter II, i.e., the Geneva Convention Awards.
+
+49. There is a certain similarity between the provisions of Chapters I and II of Part II but Part I of the Act is vastly different from Chapters I and II of Part II of the Act. This is quite understandable too since Part II deals only with enforcement of foreign awards (Chapter I, of New York Convention Awards and Chapter II, of Geneva Convention Awards) while Part I of the Act deals with the whole gamut of law concerning domestic arbitration and international commercial arbitration. It has, therefore, a very different and much larger framework than the two chapters in Part II of the Act.
+
+50. Part I has ten chapters. Chapter I begins with definition clauses in section 2 that defines, amongst other terms and expressions, "arbitration", "arbitration agreement", "arbitral award", etc. Chapter I also contains some "General Provisions" (sections 3-6). Chapter II contains provisions relating to "Arbitration Agreement" (sections 7-9). Chapter III contains provisions relating to "Composition of Arbitral Tribunal" (sections 10-15). Chapter IV deals with the "Jurisdiction of Arbitral Tribunals" (sections 16-17). Chapter  V lays down provisions concerning "Conduct of Arbitral Proceedings"
+
+(sections 18-27). Chapter VI deals with "Making of Arbitral Award and Termination of Proceedings" (sections 28-33). Chapter VII has only one section, i.e., section 34 that provides "Recourse against Arbitral Award".
+
+Chapter VIII deals with "Finality and Enforcement of Arbitral Awards"
+
+(sections 35-36). Chapter IX provides for "Appeals" (section 37 which is akin to section 39 of the 1940 Act). Chapter X contains the "Miscellaneous"
+
+provisions (sections 38-43).
+
+51. It is also evident that Part I and Part II of the Act are quite separate and contain provisions that act independently in their respective fields. The opening words of section 2, i.e. the definition clause in Part I, make it clear that meanings assigned to the terms and expressions defined in that section are for the purpose of that part alone. Section 4 which deals with waiver of right to object is also specific to Part I of the Act. Section 5 dealing with extent of judicial intervention is also specific to Part I of the Act. Section 7 that defines "arbitration agreement" in considerable detail also confines the meaning of the term to Part I of the Act alone. Section 8 deals with the power of a judicial authority to refer parties to arbitration where there is an arbitration agreement and this provision too is relatable to Part I alone (corresponding provisions are independently made in sections 45 and 54 of  Chapter I and II, respectively of Part II). The other provisions in Part I by their very nature shall have no application insofar as the two chapters of Part II are concerned.
+
+52. Once it is seen that Part I and Part II of the Act are quite different in their object and purpose and the respective schemes, it naturally follows that section 37 in Part I (analogous to section 39 of the 1940 Act) is not comparable to section 50 in Part II of the Act. This is not because, as Mr. Sundaram contends section 37 has the words in parentheses "and from no others" which are not to be found in section 50 of the Act. Section 37 and section 50 are not comparable because they belong to two different statutory schemes. Section 37 containing the provision of appeal is part of a much larger framework that, as seen above, has provisions for the complete range of law concerning domestic arbitration and international commercial arbitration. Section 50 on the other hand contains the provision of appeal in a much limited framework, concerned only with the enforcement of New York Convention awards. In one sense, the two sections, though each containing the appellate provision belong to different statutes.
+
+53. Having come to this conclusion, it would appear that the decisions rendered by the Court on the interplay between section 39 of the 1940 Act and the Letters Patent jurisdiction of the High Court shall have no  application for deciding the question in hand. But that would be only a superficial view and the decisions rendered under section 39 of the 1940 Act may still give the answer to the question under consideration for a very basic and fundamental reason.
+
+54. However, before going into that it will be useful to take another look at the provisions of Chapter I of Part II of the Act. We have so far seen the provisions of Chapter I of Part II of the Act in comparison with those of Part I of the 1996 Act. It would also be relevant to examine it in comparison with the provisions of its precursor, the Foreign Awards, Recognition and Enforcement Act, 1961 and to see how far the earlier Act is consolidated, amended and harmonised and designed for universal application.
+
+55. The provisions of Chapter I of Part II of the 1996 Act along with the provisions of the Foreign Awards, Recognition and Enforcement Act, 1961, insofar as relevant for the present are placed below in a tabular form:
+
+PART II ENFORCEMENT OF CERTAIN THE FOREIGN AWARDS FOREIGN AWARDS (RECOGNITION AND ENFORCEMENT) ACT, 1961 CHAPTER I NEW YORK CONVENTION AWARDS
+2. Definition.--In this Act, unless the 44. Definition.--In this Chapter, unless context otherwise requires, "foreign the context otherwise requires, "foreign  award" means an award on differences award" means an arbitral award on between persons arising out of legal differences between persons arising out relationships, whether contractual or not, of legal relationships, whether considered as commercial under the law contractual or not, considered as in force in India, made on or after the commercial under the law in force in 11th day of October, 1960 - India, made on or after the 11th day of
+(a) in pursuance of an agreement in October, 1960 -
+
+writing for arbitration to which the Convention set forth in the (a) in pursuance of an agreement in Schedule applies, and writing for arbitration to which the
+
+(b) in one of such territories as the Convention set forth in the First Central Government being Schedule applies, and satisfied that reciprocal (b) in one of such territories as the provisions have been made, may, Central Government, being by notification in the Official satisfied that reciprocal provisions Gazette, declare to be territories have been made may, by to which the said Convention notification in the Official Gazette, applies. declare to be territories to which the said Convention applies.
+
+3. Stay of proceedings in respect of matters to be referred to arbitration.--
+
+Notwithstanding anything contained in the Arbitration Act, 1940 (10 of 1940), or in the Code of Civil Procedure, 1908 (5 of 1908), if any party to an agreement to which Article II of the Convention set 45. Power of judicial authority to refer forth in the Schedule applies, or any parties to arbitration.-- person claiming through or under him Notwithstanding anything contained in commences any legal proceedings in any Part I or in the Code of Civil Procedure, court against any other party to the 1908 (5 of 1908), a judicial authority, agreement or any person claiming when seized of an action in a matter in through or under him in respect of any respect of which the parties have made matter agreed to be referred to arbitration an agreement referred to in section 44, in such agreement, any party to such shall, at the request of one of the parties legal proceedings may, at any time after or any person claiming through or under appearance and before filing a written him, refer the parties to arbitration, statement or taking any other step in the unless it finds that the said agreement is proceedings, apply to the court to stay null and void, inoperative or incapable of the proceedings and the court, unless bring performed. satisfied that the agreement is null and  void, inoperative or incapable of being 46. When foreign award binding.--Any performed or that there is not, in fact, foreign award which would be any dispute between the parties with enforceable under this Chapter shall be regard to the matter agreed to be treated as binding for all purposes on the referred, shall make an order staying the persons as between whom it was made, proceedings. and may accordingly be relied on by any of those persons by way of defence, set
+
+4. Effect of foreign awards.--(1) A off or otherwise in any legal proceedings foreign award shall, subject to the in India and any references in this provisions of this Act, be enforceable in Chapter to enforcing a foreign award India as if it were an award made on a shall be construed as including matter referred to arbitration in India. references to relying on an award. (2) Any foreign award which would be enforceable under this Act shall be 47. Evidence.--(1) The party applying treated as binding for all purposes on the for the enforcement of a foreign award persons as between whom it was made, shall, at the time of the application, and may accordingly be relied on by any produce before the court - of those persons by way of defence, set off or otherwise in any legal proceedings (a) the original award or a copy in India and any references in this Act to thereof, duly authenticated in the enforcing a foreign award shall be manner required by the law of the construed as including references to country in which it was made; relying on an award. (b) the original agreement for arbitration or a duly certified copy
+
+5. Filing of foreign award in court.--(1) thereof; and Any person interested in a foreign award (c) such evidence as may be necessary may apply to any court having to prove that the award is a foreign jurisdiction over the subject-matter of the award.
+
+award that the award be filed in court.
+
+(2) The application shall be in writing (2) If the award or agreement to be and shall be numbered and registered as produced under sub-section (1) is in a a suit between the applicant as plaintiff foreign language, the party seeking to and the other parties as defendants. enforce the award shall produce a (3) The court shall direct notice to be translation into English certified as given to the parties to the arbitration, correct by a diplomatic or consular agent other than the applicant, requiring them of the country to which that party to show cause, within a time specified belongs or certified as correct in such why the award should not be filed. other manner as may be sufficient according to the law in force in India.
+
+6. Enforcement of foreign award.--(1) Explanation.--In this section and all  Where the court is satisfied that the the following sections of this Chapter, foreign award is enforceable under this "Court" means the principal Civil Court Act, the court shall order the award to be of original jurisdiction in a district, and filed and shall proceed to pronounce includes the High Court in exercise of its judgment according to the award. ordinary original civil jurisdiction, (2) Upon the judgment so pronounced a having jurisdiction over the subject- decree shall follow, and no appeal shall matter of the award if the same had been lie from such decree except in so far as the subject-matter of a suit, but does not the decree is in excess of or not in include any civil court of a grade inferior accordance with the award. to such principal Civil Court, or any Court of Small Causes.
+
+7. Conditions for enforcement of foreign awards.-- (1) A foreign award may not 48. Conditions for enforcement of be enforced under this Act- foreign awards.--(1) Enforcement of a
+
+(a) if the party against whom it is foreign award may be refused, at the sought to enforce the award request of the party against whom it is proves to the court dealing with invoked, only if that party furnishes to the case that- the court proof that -
+
+     (i)      the   parties   to   the   agreement   
+
+              were under the law applicable                                 (a) the   parties   to   the   agreement 
+
+              to   them,   under   some                                         referred   to   in   section   44   were, 
+
+              incapacity,   or   the   said                                     under   the   law   applicable   to   them, 
+
+              agreement   is   not   valid   under                              under   some   incapacity   or   the   said 
+
+              the   law   to   which   the   parties                            agreement   is   not   valid   under   the 
+
+              have   subjected   it,   or   failing                             law   to   which   the   parties   have 
+
+              any indication  thereon,  under                                   subjected   it   or,   failing   any 
+
+              the law of the country where                                      indication   thereon,   under   the   law 
+
+              the award was made; or                                            of   the   country   where   the   award 
+
+     (ii)     the   party   was   not   given                                   was made; or 
+
+              proper           notice                 of         the        (b) the party against whom the award 
+
+              appointment   of   the   arbitrator                               is   invoked   was   not   given   proper 
+
+              or         of         the              arbitration                notice   of   the   appointment   of   the 
+
+              proceedings or was otherwise                                      arbitrator   or   of   the   arbitral 
+
+              unable to present his case; or                                    proceedings   or   was   otherwise 
+
+     (iii)    the   award   deals   with                                        unable to present his case; or 
+
+              questions   not   referred   or                               (c) the   award   deals   with   a   difference 
+
+              contains decisions on matters                                     not contemplated by or not falling 
+
+              beyond   the   scope   of   the                                   within the terms of the submission 
+
+              agreement:   Provided   that   if                                 to   arbitration,   or   it   contains 
+
+              the   decisions   on   matters                                    decisions   on   matters   beyond   the 
+
+
+
+
+
+
+
+             submitted   to   arbitration   can                                scope   of   the   submission   to 
+
+             be   separated   from   those   not                               arbitration: 
+
+             submitted,   that   part   of   the                                      Provided   that,   if   the   decisions 
+
+             award           which                     contains                on   matter   submitted   to   arbitration 
+
+             decisions                 on              matters                 can be separated from those not so 
+
+             submitted   to   arbitration   may                                submitted,   that   part   of   the   award 
+
+             be enforced; or                                                   which   contains   decisions   on 
+
+     (iv)    the   composition   of   the                                      matters   submitted   to   arbitration 
+
+             arbitral   authority   or   the                                   may be enforced; or 
+
+             arbitral   procedure   was   not   in                         (d) the   composition   of   the   arbitral 
+
+             accordance                 with                  the              authority   or   the   arbitral   procedure 
+
+             agreement   of   the   parties   or                               was   not   in   accordance   with   the 
+
+             failing   such   agreement,   was                                 agreement of the parties, or, failing 
+
+             not   in   accordance   with   the                                such   agreement,   was   not   in 
+
+             law of the country where the                                      accordance   with   the   law   of   the 
+
+             arbitration took place; or                                        country where the arbitration took 
+
+     (v)     the award has not yet become                                      place; or 
+
+             binding   on   the   parties   or   has                       (e) the   award   has   not   yet   become 
+
+             been   set   aside   or   suspended                               binding on the parties, or has been 
+
+             by   a   competent   authority   of                               set   aside   or   suspended   by   a 
+
+             the   country   in   which,   or                                  competent authority of the country 
+
+             under   the   law   of   which,   that                            in   which,   or   under   the   law   of 
+
+             award was made; or                                                which, that award was made. 
+
+                                                                       
+
+   (b) if  the court   dealing with  the case      (2)   Enforcement   of   an   arbitral   award 
+
+       is satisfied that-                                             may   also   be   refused   if   the   Court   finds 
+
+     (i)     the   subject-matter   of   the  that - 
+
+             difference   is   not   capable   of                          (a) the          subject-matter         of         the 
+
+             settlement   by   arbitration                                     difference   is   not   capable   of 
+
+             under the law of India; or                                        settlement by arbitration under the 
+
+     (ii)    the enforcement of the award                                      law of India; or 
+
+             will   be   contrary   to   public                            (b) the   enforcement   of   the   award 
+
+             policy.                                                           would   be   contrary   to   the   public 
+
+                                                                               policy of India.
+
+ (2) If the court before which a foreign   
+
+award   is   sought   to   be   relied   upon   is             Explanation.--Without prejudice to 
+
+
+
+satisfied that an application for the the generality of clause (b) of this setting aside or suspension of the award section, it is hereby declared, for the has been made to a competent authority avoidance of any doubt, that an award is referred to in sub-clause (v) of clause (a) in conflict with the public policy of India  of sub-section (1), the court may, if it if the making of the award was induced deems proper, adjourn the decision on or affected by fraud or corruption. the enforcement of the award and may also, on the application of the party (3) If an application for the setting aside claiming enforcement of the award, or suspension of the award has been order the other party to furnish suitable made to a competent authority referred to security. in clause (e) of sub-section (1) the Court may, if it considers it proper, adjourn the
+
+8. Evidence.--(1) The party applying for decision on the enforcement of the award the enforcement of a foreign award shall, and may also, on the application of the at the time of the application, produce- party claiming enforcement of the award,
+
+(a) the original award or a copy order the other party to give suitable thereof, duly authenticated in the security.
+
+manner required by the law of the country in which it was made; 49. Enforcement of foreign awards.--
+
+(b) the original agreement for Where the Court is satisfied that the arbitration or a duly certified copy foreign award is enforceable under this thereof; and Chapter, the award shall be deemed to be
+
+(c) such evidence as may be a decree of that Court.
+
+necessary to prove that the award is a foreign award. 50. Appealable orders.--(1) An appeal (2) If the award or agreement requiring shall lie from the order refusing to -
+
+
+to   be   produced   under   sub-section   (1)   is   
+
+in a foreign  language, the party  seeking                (a) refer the parties to arbitration under 
+
+to   enforce   the   award   shall   produce   a             section 45; 
+
+translation   into   English   certified   as             (b) enforce   a   foreign   award   under 
+
+correct by a diplomatic or consular agent                    section 48,
+
+of   the   country   to   which   that   party    to   the   court   authorised   by   law   to   hear 
+
+
+
+belongs or certified as correct in such appeals from such order. other manner as may be sufficient according to the law in force in India. (2) No second appeal shall lie from an order passed in appeal under this section,
+
+9. Saving.--Nothing in this Act shall- but nothing in this section shall affect or
+
+(a) prejudice any rights which any take away any right to appeal to the person would have had of Supreme Court.
+
+enforcing in India of any award or of availing himself in India of any 51. Saving.--Nothing in this Chapter award if this Act had not been shall prejudice any rights which any passed; or person would have had of enforcing in
+
+(b) apply to any award made on an India of any award or of availing himself  arbitration agreement governed in India of any award if this Chapter had by the law of India. not been enacted.
+
+10. Repeal.--The Arbitration (Protocol 52. Chapter II not to apply.--Chapter II and Convention) Act, 1937 (6 of 1937), of this Part shall not apply in relation to shall cease to have effect in relation to foreign awards to which this Chapter foreign awards to which this Act applies. applies.
+
+11. Rule making power of the High Court.--The High Court may make rules consistent with this Act as to-
+
+
+   (a) the   filing   of   foreign   awards   and 
+
+        all         proceedings         consequent 
+
+        thereon or incidental thereto; 
+
+   (b) the   evidence   which   must   be 
+
+        furnished   by   a   party   seeking   to 
+
+        enforce a foreign award under this 
+
+        Act; and 
+
+   (c) generally, all proceedings in court 
+
+        under this Act.
+
+
+
+
+
+
+
+56. A comparison of the two sets of provisions would show that section 44, the definition clause in the 1996 Act is a verbatim reproduction of section 2 of the previous Act (but for the words "chapter" in place of "Act", "first schedule" in place of "schedule" and the addition of the word "arbitral" before the word "award" in section 44). Section 45 corresponds to section 3 of the previous Act. Section 46 is a verbatim reproduction of section 4(2) except for the substitution of the word "chapter" for "Act". Section 47 is almost a reproduction of section 8 except for the addition of the words "before the court" "in sub-section (1)" and an explanation as to  what is meant by "court" in that section. Section 48 corresponds to section 7; section 49 to section 6(1) and section 50 to section 6(2). Apart from the fact that the provisions are arranged in a far more orderly manner, it is to be noticed that the provisions of the 1996 Act are clearly aimed at facilitating and expediting the enforcement of the New York Convention Awards. Section 3 of the 1961 Act dealing with a stay of proceedings in respect of matters to be referred to arbitration was confined in its application to "legal proceedings in any court" and the court had a wider discretion not to stay the proceedings before it. The corresponding provision in section 45 of the present Act has a wider application and it covers an action before any judicial authority. Further, under section 45 the judicial authority has a narrower discretion to refuse to refer the parties to arbitration. Under section 4(1) of the 1961 Act, a foreign award for its enforcement was first deemed to be an award made on a matter referred to arbitration in India. Section 46 of the present Act dispenses with the provision of sub-section (1) of section 4 and resultantly a foreign award is enforceable in its own right. Section 47 is almost a reproduction of section 8 except for the addition of the words "before the court" in sub-section (1) and an explanation as to what is meant by "court" at the end of the section. Section 49 corresponds to section 6(1) and section 50 to section 6(2). It is however, a comparison of section 6 of the  1961 Act with section 49 of the present Act that would be of interest to us and that provides a direct answer to the question under consideration. As the comparison of the two sections is of some importance, the two sections are once again reproduced here:
+
+The Foreign Awards (Recognition and Enforcement) Act, 1961 "6. Enforcement of foreign award.--(1) Where the court is satisfied that the foreign award is enforceable under this Act, the court shall order the award to be filed and shall proceed to pronounce judgment according to the award.
+
+(2) Upon the judgment so pronounced a decree shall follow, and no appeal shall lie from such decree except in so far as the decree is in excess of or not in accordance with the award."
+
+The Arbitration and Conciliation Act, 1996 "49. Enforcement of foreign awards.--Where the Court is satisfied that the foreign award is enforceable under this Chapter, the award shall be deemed to be a decree of that Court."
+
+57. Under section 6 of the 1961 Act, the Court on being satisfied that the foreign award was enforceable under the Act, would first order the award to be filed and then proceed to pronounce judgment according to the award. The judgment would lead to a decree against which no appeal would lie except insofar as the decree was in excess of or not in accordance with the award.
+
+58. Section 49 of the present Act makes a radical change in that where the court is satisfied that the foreign award is enforceable, the award itself would be deemed to be a decree of the Court. It, thus, not only omits the procedural formality for the court to pronounce judgment and a decree to follow on that basis but also completely removes the possibility of the decree being in excess of, or not in accordance with the award. Thus, even the limited basis on which an appeal would lie under sub-section (2) of section 6 of the 1961 Act, is taken away. There is, thus, no scope left for an appeal against an order of the court for the enforcement of a foreign award. It is for this reason that section 50(1)(b) provides for an appeal only against an order refusing to enforce a foreign award under section 48.
+
+59. There can be no doubt that under section 6, except on the very limited ground, no appeal including a Letters Patent Appeal was maintainable against the judgment and decree passed by the Court under section 6(1). It would be futile, therefore, to contend that though the present Act even removes the limited basis on which the appeal was earlier maintainable, yet a Letters Patent Appeal would lie notwithstanding the limitations imposed by section 50 of the Act. The scheme of sections 49 and 50 of the 1996 Act is devised specially to exclude even the limited ground on which an appeal was earlier provided for under section 6 of the 1961 Act. The exclusion of  appeal by section 50 is, thus, to be understood in light of the amendment introduced in the previous law by section 49 of the Act.
+
+60. There is another way to look at the matter. It will be illuminating to see how the courts viewed the Arbitration Act, 1940 shortly after it was enacted and even while the previous law, the Arbitration Act, 1899 coupled with the Schedule 2 of the Code of Civil Procedure was still fresh in the courts' mind. In Gauri Singh v. Ramlochan Singh, AIR (35) 1948 Patna 430, the plaintiff had filed a suit for an order for filing an arbitration award and preparing a decree of the court on that basis. The award was in writing and it was also registered on the admission of the arbitrators but the award was made not on the basis of any arbitration agreement in writing but on an oral reference. Before the division bench of the Patna High Court, the question arose regarding the maintainability of the suit. Agarwala, C.J. in a brief order held that Chapter II of the Act would only apply when the agreement was in writing. In other words, the existence of an "arbitration agreement"
+
+i.e. an agreement in writing, was the foundation of the court's jurisdiction to direct the arbitrators, under section 14(2), to cause the award to be filed in court. But Meredith, J. examined the matter in greater detail. He considered the question, whether the Act of 1940 was exhaustive or whether it related only to awards following arbitration agreements within the meaning of the  Act. The case of the plaintiff was that there was an oral reference to arbitration. Such an oral reference was perfectly valid and so was the award upon it. But it did not come within the scope of the Act. The award could, therefore, be enforced by an ordinary suit under the Code of Civil Procedure. Rejecting the submission, in paragraphs 20, 21 and 22 of the judgment, Meredith, J. observed as follows:
+"20. ..... It may be regarded as settled that, so far as Sch.2, Civil P.C., and the Arbitration Act of 1899 were concerned, an award based upon an oral submission or reference to arbitration was not touched, but was perfectly legal and valid, and the award could be enforced by suit, though not by the special procedure under the provisions of the Civil P.C., or the 1899 Act. That Act was regarded as not exhaustive even in the limited areas where it was applicable. .....
+21. This view was also taken by the Madras High Court in Ponnamma v. Marappudi Kotamma [19 A.I.R. 1932 Mad. 745], and also in our own High Court in Ramautar Sah v. Langat Singh, A.I.R. 1931 Pat. 92. The view there taken was that there is nothing in law which requires a submission of the dispute between the parties to arbitration to be in writing. A parole submission is a legal submission to arbitration.
+22. Has the position been altered by the Act of 1940? In my opinion it has. The Act of 1899 was described as "An Act to amend the law relating to arbitration", but the Act of 1940 is headed as "An Act to consolidate and amend the law relating to arbitration", and the preamble says "whereas it is expedient to consolidate and amend the law relating to arbitration in British India". It is an Act to consolidate the arbitration law. This suggests that it is intended to be comprehensive and exhaustive. ......"
+
+61. Making reference to sections 47, 26 and 30 of the 1940 Act, in paragraph 26 of the judgment, His Lordship concluded as follows:
+
+"26. I think I am justified in holding, in view of these provisions, that the Act was intended to be exhaustive of the law and procedure relating to arbitration. I cannot imagine that the words "arbitrations" and "awards" could have been used in such specific provisions without more, specially having regard to the definition of award, if it was intended to leave it open to the parties to an award based upon an oral submission to proceed to enforce it or set it aside by proceedings by way of suit altogether outside the Act. Let us take it then that the Act intended that there should be no such proceedings."
+
+62. In paragraph 33, he further said:
+
+"If then, as I have held, the Act is intended to be exhaustive, and contains no provisions for the enforcement of an award based upon an oral submission, the only possible conclusion is that the Legislature intended that such an award should not be enforceable at all, and that no such suit should lie."
+
+63. In Belli Gowder v. Joghi Gowder, AIR (38) 1951 Madras 683, Viswanatha Sastri, J. took the same view on a case very similar in facts to the case in the Patna decision. In paragraph 2 of the judgment, Sastri, J. observed as follows:
+
+"2. The first point argued by the applt's learned advocate is that the suit is one to enforce an award given on oral reference or submission to arbitration and is not maintainable by reason of the provisions of the Arbitration Act, 1940. It is common ground that there was no written submission to the panchayatdars. Prior to the enactment of the Arbitration Act of 1940 it had been held by this and other H. Cts that there was nothing in the Arbitration Act of 1899 or in Sec. 89 and schedule 2 of the C. P. C. of 1908 rendering an oral agreement to refer to arbitration invalid. A  parole submission was held to be a legal submission to arbitration and an award passed on an oral reference was held to be valid and enforceable by a suit though not by the special procedure prescribed by Sch 2, C. P. C. or the Arbitration Act of 1899.... .... The question whether it was intended merely to make awards on oral submissions unenforceable under the procedure of the Arbitration Act or to make them invalid and unenforceable altogether, would depend to a large extent on whether the Act is exhaustive of the law of arbitration. I am inclined to think that it is. I therefore hold that an award passed on oral submission can neither be filed and made a rule of Ct under the Act, nor enforced apart from the Act. The same opinion has been expressed in 'Gauri Singh v. Ramlochan Singh', AIR (35) 1948 Pat 430: (29 PLT 105)."
+
+64. In Narbadabai and Ors. v. Natverlal Chunilal Bhalakia & Anr., AIR 1953 Bombay 386, a division bench of the Bombay High Court went a step further and held that an arbitration award could only be enforced in terms of section 17 of the Arbitration Act and a suit filed for enforcement of an award was not maintainable. Chagla, C.J. speaking for the court, in paragraph 5 of the judgment, held and observed as follows:
+
+"5. Whatever the law on the subject may have been prior to the Indian Arbitration Act 10 of 1940, it is clear that when this Act was passed, it provided a self-contained law with regard to arbitration. The Act was both a consolidating and amending law. The main object of the Act was to expedite and simplify arbitration proceedings and to obtain finality; and in our opinion when we look at the various provisions of the Arbitration Act, it is clear that no suit can be maintained to enforce an award made by arbitrators and an award can be enforced only by the manner and according to the procedure laid down in the Arbitration Act itself. Section 14 deals with signing and filing of the award. Section 15 deals with the power of the Court to modify the award  in cases set out in that section and Section 16 deals with the power of the Court to remit the award. Then we come to S.17 and that provides that "Where the Court sees no cause to remit the award or any of the matters referred to arbitration for reconsideration or to set aside the award the Court shall, after the time for making an application to set aside the award has expired, or such application having been made, after refusing it, proceed to pronounce judgment according to the award, and upon the judgment so pronounced a decree shall follow, and no appeal shall lie from such decree except on the ground that it is in excess of, or not otherwise in accordance with the award."
+
+Therefore, Section 17 lays down the procedure by which a decree can be obtained on an award. The Act gives the right to the parties to challenge the award by applying for setting aside the award after the award is filed under Section 14, but if that right is not availed of or if the application is dismissed and the Court has not remitted the award, then the Court has to pronounce judgment according to the award, and upon the judgment so pronounced a decree has to follow. Mr. Desai does not dispute, as indeed he cannot, that when the award was published by the arbitrators, he could have followed the procedure laid down in the Arbitration Act and could have applied for judgment under Section 17. But Mr. Desai contends that Section 17 does not preclude a party from filing a suit to enforce the award. Mr. Desai says that Section 17 gives a party a summary remedy to obtain judgment upon the award but that summary remedy does not bar a suit. ..."
+
+65. He, then, considered sections 31 and 32 of the Act and came to hold as follows:
+
+"6.... Mr. Desai is undoubtedly right that before the Act of 1940 the view was taken that an award did not lose its efficacy merely because it was not filed and no action was taken on it by proceedings under the arbitration law. But the question is whether that view is possible after the Arbitration Act came  into force and the Legislature enacted S.32. Therefore, with respect, we agree with the view taken by the Madras High Court in -'Moolchand v. Rashid Jamshed Sons & Co.', [('46) AIR 1946 Mad. 346] and the view taken by the Patna High Court in-- 'Ramchander Singh v. Munshi Mian [('42) AIR 1942 Bom 101]., & the view taken by the Punjab High Court in
+- 'Radha Kishen v. Ganga Ram [('51) AIR 1951 Punj 121].
+7. The result, therefore, is that the plaintiff cannot maintain this action to enforce the award. ..... Therefore, if we are right in the view we take as to the interpretation of Section 32, then it is clear that Shah J. with respect, had no jurisdiction to try a suit which in substance and in effect was a suit to enforce an award. The result, therefore, is that the suit must fail on the preliminary ground that the suit is not maintainable, the suit being one to enforce an award duly given by arbitrators appointed by the parties and also because the award deals with the very disputes which are the subject-matter of the suit. ...."
+
+66. In S.N. Srikantia & Co. v. Union of India and Anr., AIR 1967 Bombay 347, the question that arose for consideration was whether a court has the power to grant interest on the principal sum adjudged by an award from the date of the award till payment. The plaintiff in the case claimed that the court should award interest in the principal sum adjudged by the award at a certain rate from the date of the award till the date of the decree, and further interest on the said principal sum at another rate from the date of the decree till payment. The plaintiff's claim was resisted on the plea that under section 29 of the 1940 Act, interest on the principal sum adjudged by an award could not be granted from the date of the award till the passing of the  decree. It was contended on behalf of the plaintiff that section 29 was merely an enabling provision but that cannot stand in the way of the court in awarding interest for the prior period, namely, from the date of the award onwards till the passing of the decree. Tulzapurkar, J., (as his Lordship then was) referred to the earlier decisions of the Bombay High Court in Narbadabai and relying upon the decisions of Patna High Court in Gauri Singh and Madras High Court in Belli Gowder held an observed as follows:
+
+"I may mention that a contention was raised in that case that though Section 17 of the Act laid down the procedure by which a decree could be obtained on an award that Section gave a summary remedy to a party to an award for a judgment upon an award, but that such summary remedy did not bar a suit to enforce an award. This contention was negatived by this Court and it was held that for enforcing an award the procedure laid down in the Act itself could alone be availed of by a party to the award. It is no doubt true that Section 32 of the Act was referred to, which expressly barred suits "for a decision upon the existence, effect or validity of an award" and it was held that the expression "effect of the award" was wide enough, to cover a suit to enforce an award. At the same time this Court did take the view that since the Act was a self-contained Code with regard to arbitration and was exhaustive, an award could be enforced only by the manner and according to the procedure laid down in section 17 of the Act. In my view, these decisions and particularly, the decisions of the Patna High Court and the Madras High Court clearly indicate the corollary which follows upon an Act being regarded as exhaustive viz.. that it carries with it a negative import that only such acts as are mentioned in the Act are permissible to be done and acts or things not mentioned therein are not permissible to be done. In my view, Section 29 of the Act also is exhaustive of the whole law upon the subject of "interest on awards" and since the said section enables the court to award interest on the principal sum  adjudged by an award from the date of the decree onwards, it must be held that it carries with it the negative import that it shall not be permissible to the Court to award interest on the principal sum adjudged by an award for any period prior to the date of the passing of the decree."
+
+67. We have so far seen the decisions of the High Courts holding that a suit for enforcement of an arbitration award made on an oral reference was not maintainable, an arbitral award could only be enforced in terms section 17 of the Arbitration Act and a suit for the enforcement of an arbitral award was not maintainable, and third, that no interest could be awarded on the amount adjudged in the award beyond the provisions of section 29 of the Arbitration Act.
+
+68. We now come back to the decision of this Court in Mohindra Supply Co. in which the issue was about the maintainability of an appeal, particularly, a letters patent appeal. It is seen above that, in Mohindra Supply Co. the court held that a letters patent appeal was not maintainable in view of section (2) of section 39 of the 1940 Act. To that extent, the decision may not have any bearing on the present controversy. But, in that decision observations of great significance were made in regard to the nature of the 1940 Act. It was observed (SCR page 500):
+
+"The proceedings relating to arbitration are, since the enactment of the Indian Arbitration Act X of 1940, governed by the provisions of that Act. The Act is a consolidating and  amending statute. It repealed the Arbitration Act of 1899, Schedule 2 of the Code of Civil Procedure and also cls. (a) to
+(f) of s. 104(1) of the Code of Civil Procedure which provided for appeals from orders in arbitration proceedings. The Act set up machinery for all contractual arbitrations and its provisions, subject to certain exceptions, apply also to every arbitration under any other enactment for the time being in force, as if the arbitration were pursuant to an arbitration agreement and as if that, other enactment were an arbitration agreement, except in so far as the Arbitration Act is inconsistent with that other enactment or with any rules made thereunder. .... ..."
+
+69. It was further observed and held (SCR page 506):
+
+"But it was urged that the interpretation of s.39 should not be divorced from the setting of legislative history, and if regard be had to the legislative history and the dictum of the Privy Council in Hurrish Chunder Chowdry v. Kali Sundari Debia [(1882) L.R.10 I.A. 4, 17] which has been universally followed, in considering the extent of the right of appeal under the Letters Patent, the Court would not be justified in restricting the right of appeal which was exercisable till 1940 by litigants against decisions of single Judges of High Courts in arbitration matters from orders passed in appeals. In considering the argument whether the right of appeal which was previously exercisable by litigants against decisions of single Judges of the High Courts in appeals from orders passed in arbitration proceedings was intended to be taken away by s. 39(2) of the Indian Arbitration Act, the Court must proceed to interpret the words of the statute without any predisposition towards the state of the law before the Arbitration Act was enacted. The Arbitration Act of 1940 is a consolidating and amending statute and is for all purposes a code relating to arbitration....."
+
+70. And (SCR pages 512-513):
+
+"Prior to 1940 the law relating to contractual arbitration (except in so far as it was dealt with by the Arbitration Act of 1899) was contained in the Code of Civil Procedure and certain orders passed by courts in the course of arbitration proceedings were  made appealable under the Code of 1877 by s. 588 and in the Code of 1908 by s.104. In 1940, the legislature enacted Act X of 1940, repealing schedule 2 and s. 104(1) clauses (a) to (f) of the Code of Civil Procedure 1908 and the Arbitration Act of 1899. By s. 39 of the Act, a right of appeal was conferred upon litigants in arbitration proceedings only from certain orders and from no others and the right to file appeals from appellate orders was expressly taken away by sub-s.2 and the clause in s.104 of the Code of 1908 which preserved the special jurisdiction under any other law was incorporated in s. 39. The section was enacted in a form which was absolute and not subject to any exceptions. It is true that under the Code of 1908, an appeal did lie under the Letters Patent from an order passed by a single Judge of a Chartered High Court in arbitration proceedings even if the order was passed in exercise of appellate jurisdiction, but that was so, because, the power of the Court to hear appeals under a special law for the time being in operation was expressly preserved."
+"There is in the Arbitration Act no provision similar to s. 4 of the Code of Civil Procedure which preserves powers reserved to courts under special statutes. There is also nothing in the expression "authorised by law to hear appeals from original decrees of the Court" contained in s. 39(1) of the Arbitration Act which by implication reserves the jurisdiction under the Letters Patent to entertain an appeal against the order passed in arbitration proceedings. Therefore, in so far as Letters Patent deal with appeals against orders passed in arbitration proceedings, they must be read subject to the provisions of s. 39(1) and (2) of the Arbitration Act."
+"Under the Code of 1908, the right to appeal under the Letters Patent was saved both by s. 4 and the clause contained in s. 104(1), but by the Arbitration Act of 1940, the jurisdiction of the Court under any other law for the time being in force is not saved; the right of appeal can therefore be exercised against orders in arbitration proceedings only under s. 39, and no appeal (except an appeal to this Court) will lie from an appellate order."
+
+71. Mohindra Supply Co. was last referred in a constitution bench decision of this Court in P.S. Sathappan, and the way the constitution bench understood and interpreted Mohindra Supply Co. would be clear from the following paragraph 10 of the judgment:
+
+"10.....The provisions in the Letters Patent providing for appeal, in so far as they related to orders passed in Arbitration proceedings, were held to be subject to the provisions of Section 39(1) and (2) of the Arbitration Act, as the same is a self-contained code relating to arbitration."
+
+72. It is, thus, to be seen that Arbitration Act 1940, from its inception and right through 2004 (in P.S. Sathappan) was held to be a self-contained code. Now, if Arbitration Act, 1940 was held to be a self-contained code, on matters pertaining to arbitration the Arbitration and Conciliation Act, 1996, which consolidates, amends and designs the law relating to arbitration to bring it, as much as possible, in harmony with the UNCITRAL Model must be held only to be more so. Once it is held that the Arbitration Act is a self- contained code and exhaustive, then it must also be held, using the lucid expression of Tulzapurkar, J., that it carries with it "a negative import that only such acts as are mentioned in the Act are permissible to be done and acts or things not mentioned therein are not permissible to be done". In other words, a Letters Patent Appeal would be excluded by application of one of the general principles that where the special Act sets out a self-contained  code the applicability of the general law procedure would be impliedly excluded.
+
+73. We, thus, arrive at the conclusion regarding the exclusion of a letters patent appeal in two different ways; one, so to say, on a micro basis by examining the scheme devised by sections 49 and 50 of the 1996 Act and the radical change that it brings about in the earlier provision of appeal under section 6 of the 1961 Act and the other on a macro basis by taking into account the nature and character of the 1996 Act as a self-contained and exhaustive code in itself.
+
+74. In light of the discussions made above, it must be held that no letters patent appeal will lie against an order which is not appealable under section 50 of the Arbitration and Conciliation Act, 1996.
+
+75. In the result, Civil Appeal No.36 of 2010 is allowed and the division bench order dated May 8, 2007, holding that the letters patent appeal is maintainable, is set aside. Appeals arising from SLP (C) No.31068 of 2009 and SLP (C) No.4648 of 2010 are dismissed.
+
+76. SLP (C) Nos.13626-13629 of 2010 and SLP (C) Nos.22318-22321 of 2010 are dismissed insofar as they seek to challenge the orders of the division bench holding that the letters patent appeals were not maintainable.  These two SLPs may now be listed only in regard to the challenge to the orders passed by the single judge.
+
+77. There will be no order as to costs.
+
+........................
+
+......J. (AFTAB ALAM) ........................
+
+......J. (R.M. LODHA) New Delhi;
+
+July 8, 2011.

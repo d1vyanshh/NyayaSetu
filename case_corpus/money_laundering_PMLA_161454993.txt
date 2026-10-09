@@ -1,0 +1,121 @@
+[Cites 22, Cited by 112]
+Supreme Court of India
+Opto Circuit India Ltd. vs Axis Bank on 3 February, 2021
+Equivalent citations: AIR 2021 SUPREME COURT 753, AIRONLINE 2021 SC 34, 2021 (2) AKR 39
+Author: A.S. Bopanna
+Bench: V. Ramasubramanian, A.S. Bopanna, S.A. Bobde
+                                                              REPORTABLE
+
+
+
+
+                                   IN THE SUPREME COURT OF INDIA
+
+
+                                  CRIMINAL APPELLATE JURISDICTION
+
+
+                                    CRIMINAL APPEAL NO.102 OF 2021
+                              (Arising out of SLP (Criminal) No.4171 of 2020)
+
+
+
+
+                         OPTO Circuit India Ltd.                 .…Appellant(s)
+
+
+                                                   Versus
+
+                         Axis Bank & Ors.                                       ….
+                         Respondent(s)
+
+
+
+
+                                            JUDGMENT
+
+
+A.S. Bopanna, J.
+
+Leave granted.
+
+2. The appellant is before this Court assailing the order dated 13.08.2020 passed by the High Court of Karnataka in WP No.8031 of 2020. Through the said  common order the High Court has disposed of two writ petitions but the consideration herein relates to the issue raised in Writ Petition No.8031 of 2020 which was filed before the High Court, by the appellant herein raising the issue relating to the freezing of their bank account.
+
+3. When the Special Leave Petition was listed for admission, the learned senior counsel for the appellant while assailing the order passed by the High Court, inter alia contended that the freezing of the bank accounts maintained by the appellant company has prejudiced the appellant, inasmuch as, the amount in the account which belongs to the appellant is made unavailable to them due to which statutory payments to be made to the Competent Authorities under various enactments is withheld and the payment of salary which is due to the employees is also prevented. In that background, this Court though had not found any reason to interfere with the initiation of the proceedings under the Prevention of Money­Laundering Act, 2002 (‘PMLA’ for short) had, however, limited the scope of consideration in this appeal  on the issue of defreezing the bank account so as to enable the appellant to make the statutory payments. In that view, notice had been issued to the respondent through the order dated 11.09.2020 in the following manner ­ “issue notice restricted to the purpose of enabling necessary payment returnable within two weeks”. The respondent on being served, having appeared has filed the counter affidavit on behalf of respondent No.4.
+
+4. In that background we have heard Mr. Mukul Rohatgi, learned Senior Advocate for the appellant and Mr. S.V. Raju, learned Additional Solicitor General for the respondent No.4 and perused the petition papers.
+
+5. The instant appeal arises out of the proceedings initiated by respondent No.4 against the appellant under the PMLA. The analogous matter, which was considered by the High Court along with the writ petition which is the subject matter herein related to the action initiated by the Central Bureau of Investigation (‘CBI’ for short) for the alleged predicate offence and the instant proceedings  is a fall out of the same. It is in that background the Enforcement Directorate in order to track the money trail relating to the predicate offence and prevent layering of the same has initiated the proceedings under the PMLA. In the said process the Deputy Director, Directorate of Enforcement through the communication dated 15.05.2020 addressed to the Anti Money­Laundering Officer (‘AML’ for short) of Respondents No.1 to 3 Banks instructed them that the accounts maintained by the appellant company be ‘debit freezed/stop operations’ until further orders, with immediate effect. It is in that light the appellant claiming to be aggrieved filed WP No. 8031 of 2020 before the High Court seeking for issue of an appropriate writ to quash the communication dated 15.05.2020 issued for debit freezing the account No.914020014786978 maintained with the respondent No.1, account No.200006044354 maintained with the respondent No.2 and the account No. 39305709999 maintained with the respondent No.3. The appellant in  that regard also prayed that the respondents be directed to defreeze the accounts to which reference is made.
+
+6. The High Court considered the matter in detail and has taken into consideration the object with which the PMLA was enacted and the validity of the Act being considered by the High Court in the decisions referred to in the course of the order. The permissibility and scope of parallel proceedings under Section 3 and 4 of PMLA was adverted to in detail and upheld the action. Insofar as the reasoning adopted and the conclusion reached by the High Court with regard to the power and competence to initiate the proceedings under the PMLA in view of the action taken for predicate offence, the High Court was very much justified. However, the High Court having held that the impugned communication was with competence or justification ought to have examined whether the ‘due process’ as contemplated under the PMLA was complied so as to make it valid and sustainable in law, though the power under the Act was available. As already noticed, the consideration to be made in this appeal is therefore  limited to the aspect of freezing/defreezing the account, more particularly keeping in view the requirement of the appellant to make the statutory payments even if the freezing of the account is found justified.
+
+7. While adverting to this aspect of the matter, what cannot be lost sight is also the fact as to whether the power available to the competent authority has been exercised in the manner as is contemplated under PMLA. The Directorate of Enforcement (Respondent No.4) in their counter affidavit has taken contradictory stand inasmuch as, while explaining the need to freeze the account has stated that the ‘stop operation’ was requested to stop the further layering/diversion of proceeds of crime and to safeguard the proceeds of crime, which we notice is a power available under PMLA. But in the counter affidavit it is strangely stated that the same has not been done under Section 17(1) of the PMLA. However, in contrast it has been further averred with regard to the power available under PMLA and that PMLA being a stand­alone enactment and independent process  whereunder Section 71 of PMLA has an overriding affect over other laws. Irrespective of the stand taken, the power exercised by the Competent Authority should be shown to be in the manner as has been provided in law, in this case under PMLA.
+
+8. To appreciate this aspect, it would be appropriate to refer to Section 17 of PMLA whereunder the freezing of such property or record is also provided. Section 17 of PMLA reads as hereunder: ­
+
+17. Search and seizure­ (1) Where the Director or any other officer not below the rank of Deputy Director authorized by him for the purposes of this section, on the basis of information in his possession, has reason to believe (the reason for such belief to be recorded in writing) that any person­
+
+(i) has committed any act which constitutes money­laundering, or
+
+(ii) is in possession of any proceeds of crime involved in money­ laundering, or
+
+(iii) is in possession of any records relating to money­laundering, or
+
+(iv) is in possession of any property related to crime  then, subject to the rules made in this behalf, he may authorise any officer subordinate to him to­
+
+(a) Enter and search any building, place, vessel, vehicle or aircraft where he has reason to suspect that such records or proceeds of crime are kept;
+
+(b) Break open the lock of any door, box, locker, safe, almirah or other receptacle for exercising the powers conferred by clause (a) where the keys thereof are not available;
+
+(c) seize any record or property found as a result of such search;
+
+(d) place marks of identification on such record of property, if required or make or cause to be made extracts or copies therefrom;
+
+(e) make a note or an inventory of such record or property;
+
+(f) examine on oath any person, who is found to be in possession or control of any record or property, in respect of all matters relevant for the purposes of any investigation under this Act:
+
+(1A) Where it is not practicable to seize such record or property, the officer authorised under sub­section (1), may make an order to freeze such property whereupon the property shall not be transferred or otherwise dealt with, except with the prior permission of the officer making such order, and a copy of such order shall be served on the person concerned:
+
+ Provided that if, at any time before its confiscation under sub­section (5) or sub­ section (7) of section 8 or section 58B or sub­ section (2A) of section 60, it becomes practical to seize a frozen property, the officer authorised under sub­section (1) may seize such property.
+(2) The authority, who has been authorised under sub­section (1) shall, immediately after search and seizure or upon issuance of a freezing order forward a copy of the reasons so recorded along with material in his possession, referred to in that sub­section, to the Adjudicating Authority in a sealed envelope, in the manner, as may be prescribed and such Adjudicating Authority shall keep such reasons and material for such period, as may be prescribed.
+(3) Where an authority, upon information obtained during survey under section 16, is satisfied that any evidence shall be or is likely to be concealed or tampered with, he may, for reasons to be recorded in writing, enter and search the building or place where such evidence is located and seize that evidence:
+Provided that no authorisation referred to in sub­section (1) shall be required for search under this sub­section.
+(4) the authority seizing any record or property under sub­section (1) or freezing any record or property under sub­section (1A) shall, within a period of thirty days from such seizure or freezing, as the case may be, file an application, requesting for retention of such record or property seized under sub­ section (1) or for continuation of the order of  freezing served under sub­section (1A), before the Adjudicating Authority.
+
+(emphasis supplied)
+
+9. A perusal of the above provision would indicate that the pre­requisite is that the Director or such other Authorised Officer in order to exercise the power under Section 17 of PMLA, should on the basis of information in his possession, have reason to believe that such person has committed acts relating to money laundering and there is need to seize any record or property found in the search. Such belief of the officer should be recorded in writing. Sub­section (1A) to Section 17 of PMLA provides that the Officer Authorised under sub­section (1) may make an order to freeze such record or property where it is not practicable to seize such record or property. Sub­ section (2) provides that after search and seizure or upon issuance of a freezing order the Authorised Officer shall forward a copy of the reasons recorded along with material in his possession to the Adjudicating Authority in a sealed envelope. Sub­section (4) provides that the  Authority seizing or freezing any record or property under sub­section (1) or (1A) shall within a period of thirty days from such seizure or freezing, as the case may be, file an application before the Adjudicating Authority requesting for retention of such record or properties seized.
+
+10. For the purpose of clarity, it is emphasised that the freezing of the account will also require the same procedure since a bank account having alleged ‘proceeds of crime’ would fall both under the ambit “property” and “records”. In that regard it would be appropriate to take note of Section 2(v) and (w) of PMLA which defines “property” and “records”. The same read as follows:
+
+“Sec. 2(v) ­ “property” ­ means any property or assets of every description, whether corporeal or incorporeal, movable or immovable, tangible or intangible and includes deeds and instruments evidencing title to, or interest in, such property or assets, wherever located.” “Sec. 2(w) – “records” – include the records maintained in the form of books or stored in a computer or such other form as may be prescribed.”
+
+ 11. The scheme of the PMLA is well intended. While it seeks to achieve the object of preventing money laundering and bring to book the offenders, it also safeguards the rights of the persons who would be proceeded against under the Act by ensuring fairness in procedure. Hence a procedure, including timeline is provided so as to ensure that power is exercised for the purpose to which the officer is vested with such power and the Adjudicating Authority is also kept in the loop. In the instant case, the procedure contemplated under Section 17 of PMLA to which reference is made above has not been followed by the Officer Authorised. Except issuing the impugned communication dated 15.05.2020 to AML Officer to seek freezing, no other procedure contemplated in law is followed. In fact, the impugned communication does not even refer to the belief of the Authorised Officer even if the same was recorded separately. It only states that the Officer is investigating the case and seeks for relevant documents, but in the tabular column abruptly states that the accounts have to  be ‘debit freezed/stop operations’. It certainly is not the requirement that the communication addressed to the Bank itself should contain all the details. But what is necessary is an order in the file recording the belief as provided under Section 17(1) of PMLA before the communication is issued and thereafter the requirement of Section 17(2) of PMLA after the freezing is made is complied. There is no other material placed before the Court to indicate compliance of Section 17 of PMLA, more particularly recording the belief of commission of the act of money laundering and placing it before the Adjudicating Authority or for filing application after securing the freezing of the account to be made. In that view, the freezing or the continuation thereof is without due compliance of the legal requirement and, therefore, not sustainable.
+
+12. Mr. S.V. Raju, learned Additional Solicitor General made a subtle attempt to contend that the power of seizure is available under Section 102 of the Code of Criminal Procedure, which has been exercised and as  such the freezing of the account would remain valid. We are unable to appreciate and accept such contention for more than one reason. Firstly, as noted, it has been the contention of Respondent No.4 that PMLA is a stand­ alone enactment. If that be so and when such enactment contains a provision for seizure which includes freezing, the power available therein is to be exercised and the procedure contemplated therein is to be complied. Secondly, when the power is available under the special enactment, the question of resorting to the power under the general law does not arise. Thirdly, the power under Section 102 CrPC is to the Police Officer during the course of investigation and the scheme of the provision is different from the scheme under PMLA. Further, even sub­section (3) to Section 102 CrPC requires that the Police Officer shall forthwith report the seizure to the Magistrate having jurisdiction, the compliance of which is also not shown if the said provision was in fact invoked. That apart, the impugned communication dated  15.05.2020 does not refer to the power being exercised under the Code of Criminal Procedure.
+
+13. The action sought to be sustained should be with reference to the contents of the impugned order/communication and the same cannot be justified by improving the same through the contention raised in the objection statement or affidavit filed before the Court. This has been succinctly laid down by this Court in the case of Mohinder Singh Gill & Another vs. The Chief Election Commissioner, New Delhi & Ors. (1978) 1 SCC 405) as follows;
+
+“8. The second equally relevant matter is that when a statutory functionary makes an order based on certain grounds, its validity must be judged by the reasons so mentioned and cannot be supplemented by fresh reasons in the shape of affidavit or otherwise. Otherwise, an order bad in the beginning may, by the time it comes to court on account of a challenge, get validated by additional grounds later brought out. We may here draw attention to the observations of Bose J. in Gordhandas Bhanji:
+
+(1) "Public orders, publicly made, in exercise of a statutory authority cannot be construed in the light of explanations subsequently given by the officer making the order of what he meant, or of what was in his mind, or what he intended to do. Public orders made by public authorities are meant to have public effect and are intended to effect the actings and conduct of those to whom they are addressed and must be  construed objectively with reference to the language used in the order itself."
+
+Orders are not like old wine becoming better as they grow older:” In fact, in the instant case such contention of having exercised power under Section 102 CrPC has not been put forth even in the counter affidavit, either in this appeal or before the High Court and has only been the attempted ingenuity of the learned Additional Solicitor General. Such contention, therefore, cannot be accepted. In fact, in the objection statement filed before the High Court much emphasis has been laid on the power available under PMLA and the same being exercised though without specifically referring to the power available under Section 17 of PMLA.
+
+14. The respondent No.4 in the counter affidavit has stated that the action initiated against the appellant is based on the complaint dated 02.11.2019 made by the State Bank of India alleging that the appellant, its Chairman and the Promoter Directors have conspired  and cheated them to tune of Rs. 354.32 crores by diversion of funds abroad. In that regard the CBI has registered the case in FIR No. RC 18(A)/2019 dated 04.11.2019 under Section 120(B) read with Section 420, 468 and 471 IPC and under Section 13(2) read with section 13(1)(d) of Prevention of Corruption Act, 1988. Since the said offences are also schedule offences under Section 2(1)(x) and (y) of PMLA, the case in ECIR­ BGZO/01/2020 was recorded by the Directorate on 02.01.2020 and action is taken to safeguard the alleged proceeds of crime. On that aspect we have already indicated that the High Court was justified in upholding the action initiated under the PMLA but the consideration herein was only with regard to freezing of the bank account and as to whether while doing so the due process had been complied by adhering to the procedure prescribed under Section 17 of PMLA.
+
+15. This Court has time and again emphasised that if a statute provides for a thing to be done in a particular manner, then it has to be done in that manner alone and  in no other manner. Among others, in a matter relating to the presentation of an Election Petition, as per the procedure prescribed under the Patna High Court Rules, this Court had an occasion to consider the Rules to find out as to what would be a valid presentation of an Election Petition in the case of Chandra Kishor Jha vs. Mahavir Prasad and Ors. (1999) 8 SCC 266 and in the course of consideration observed as hereunder:
+
+“It is a well settled salutary principle that if a statute provides for a thing to be done in a particular manner, then it has to be done in that manner and in no other manner”.
+Therefore, if the salutary principle is kept in perspective, in the instant case, though the Authorised Officer is vested with sufficient power; such power is circumscribed by a procedure laid down under the statute. As such the power is to be exercised in that manner alone, failing which it would fall foul of the requirement of complying due process under law. We have found fault with the Authorised Officer and declared the action bad only in so far as not following the legal requirement before and after  freezing the account. This shall not be construed as an opinion expressed on the merit of the allegation or any other aspect relating to the matter and the action initiated against the appellant and its Directors which is a matter to be taken note in appropriate proceedings if at all any issue is raised by the aggrieved party.
+
+16. Apart from the above consideration, what has also engaged the attention of this Court is with regard to the plea put forth on behalf of the appellant regarding the need to defreeze the account to enable the appellant to pay the statutory dues. The appellant in that regard has relied on the certificate issued by the Chartered Accountant, (Annexure­P/38 at page 231) which indicates the amount payable towards ITDS, PF, ESI, Professional Tax, Gratuity and LIC employees’ deductions, in all amounting to Rs.79,93,124/­. Since we have indicated that the freezing has been done without due compliance of law, it is necessary to direct the respondents No.1 to 3 to defreeze the respective accounts and clear the cheques issued by the appellant, drawn in  favour of the Competent Authority towards the ITDS, PF, ESI, Professional Tax, Gratuity and LIC employees’ deductions, subject to availability of the funds in the account concerned. Needless to mention that if any further amount is available in the account after payment of the statutory dues and with regard to the same any action is to be taken by the respondent No.4 within a reasonable time, it would open to them to do so subject to compliance of the required procedure afresh, as contemplated in law.
+
+17. In terms of the above, the communication dated 15.05.2020 is quashed. We direct that the respondents shall defreeze the accounts bearing Nos. 914020014786978, 200006044354 and 39305709999 and honour payments advised by the appellant towards statutory dues stated supra. Liberty is reserved to Respondent No.4 thereafter to initiate action afresh in accordance with law, if they so desire.
+
+ 18. The appeal is allowed to the above extent with no order as to costs.
+
+…..………….…………CJI.
+
+(S.A. Bobde) ....……………………….J. (A.S. Bopanna) …..………….…………….J. (V. Ramasubramanian) New Delhi, February 03, 2021
